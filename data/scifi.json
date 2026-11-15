@@ -1,0 +1,2162 @@
+[
+ {
+  "w": "telescreen",
+  "fr": "télécran",
+  "def": "A two-way screen that broadcasts propaganda and watches you",
+  "syn": "monitor, surveillance screen",
+  "lvl": "C2",
+  "pos": "noun",
+  "ex": "The telescreen in his flat could never be switched off.",
+  "src": "1984"
+ },
+ {
+  "w": "doublethink",
+  "fr": "doublepensée",
+  "def": "Holding two contradictory beliefs at the same time and accepting both",
+  "syn": "self-deception, cognitive dissonance",
+  "lvl": "C2",
+  "pos": "noun",
+  "ex": "Doublethink lets people believe two opposite things at once.",
+  "src": "1984"
+ },
+ {
+  "w": "thoughtcrime",
+  "fr": "crime par la pensée",
+  "def": "The crime of thinking something forbidden by the Party",
+  "syn": "heresy, dissent",
+  "lvl": "C2",
+  "pos": "noun",
+  "ex": "In Oceania, even a doubtful glance could count as thoughtcrime.",
+  "src": "1984"
+ },
+ {
+  "w": "newspeak",
+  "fr": "novlangue",
+  "def": "An official language designed to limit freedom of thought",
+  "syn": "jargon, doublespeak",
+  "lvl": "C2",
+  "pos": "noun",
+  "ex": "Newspeak was designed to make rebellious ideas impossible to express.",
+  "src": "1984"
+ },
+ {
+  "w": "unperson",
+  "fr": "non-personne",
+  "def": "Someone erased from all records as if they never existed",
+  "syn": "nonentity, erased person",
+  "lvl": "C2",
+  "pos": "noun",
+  "ex": "After his arrest, he became an unperson overnight.",
+  "src": "1984"
+ },
+ {
+  "w": "furtive",
+  "fr": "furtif",
+  "def": "Done secretly, trying not to be noticed",
+  "syn": "stealthy, sly, sneaky",
+  "lvl": "C1",
+  "pos": "adj",
+  "ex": "He cast a furtive glance at the camera before speaking.",
+  "src": "1984"
+ },
+ {
+  "w": "gaunt",
+  "fr": "décharné",
+  "def": "Very thin and bony, often from hunger or illness",
+  "syn": "haggard, emaciated, skeletal",
+  "lvl": "C1",
+  "pos": "adj",
+  "ex": "After weeks in prison, his face looked pale and gaunt.",
+  "src": "1984"
+ },
+ {
+  "w": "squalid",
+  "fr": "sordide",
+  "def": "Extremely dirty and unpleasant",
+  "syn": "filthy, sordid, wretched",
+  "lvl": "C1",
+  "pos": "adj",
+  "ex": "They lived in a squalid flat with broken windows.",
+  "src": "1984"
+ },
+ {
+  "w": "grimy",
+  "fr": "crasseux",
+  "def": "Covered with a layer of dirt",
+  "syn": "dirty, sooty, grubby",
+  "lvl": "C1",
+  "pos": "adj",
+  "ex": "The grimy windows let in almost no light.",
+  "src": "1984"
+ },
+ {
+  "w": "dreary",
+  "fr": "morne",
+  "def": "Dull, bleak and depressing",
+  "syn": "gloomy, dismal, drab",
+  "lvl": "C1",
+  "pos": "adj",
+  "ex": "It was another dreary, grey afternoon in the city.",
+  "src": "1984"
+ },
+ {
+  "w": "shabby",
+  "fr": "miteux",
+  "def": "Worn out and in poor condition",
+  "syn": "threadbare, run-down, tatty",
+  "lvl": "B2",
+  "pos": "adj",
+  "ex": "He wore a shabby old coat with holes in the sleeves.",
+  "src": "1984"
+ },
+ {
+  "w": "heresy",
+  "fr": "hérésie",
+  "def": "A belief that goes against the official doctrine",
+  "syn": "dissent, heterodoxy",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "Questioning the leader was considered heresy.",
+  "src": "1984"
+ },
+ {
+  "w": "orthodoxy",
+  "fr": "orthodoxie",
+  "def": "Strict acceptance of the official beliefs",
+  "syn": "conformity, doctrine",
+  "lvl": "C2",
+  "pos": "noun",
+  "ex": "Party orthodoxy meant never thinking for yourself.",
+  "src": "1984"
+ },
+ {
+  "w": "treachery",
+  "fr": "traîtrise",
+  "def": "Betrayal of trust",
+  "syn": "betrayal, treason, perfidy",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "He was shocked by the treachery of his closest friend.",
+  "src": "1984"
+ },
+ {
+  "w": "vaporize",
+  "fr": "volatiliser",
+  "def": "To make someone disappear completely",
+  "syn": "erase, eliminate, obliterate",
+  "lvl": "C1",
+  "pos": "verb",
+  "ex": "The Party could vaporize anyone who disagreed with it.",
+  "src": "1984"
+ },
+ {
+  "w": "conspiracy",
+  "fr": "complot",
+  "def": "A secret plan by a group to do something harmful or illegal",
+  "syn": "plot, scheme, intrigue",
+  "lvl": "B2",
+  "pos": "noun",
+  "ex": "They were accused of a conspiracy against the government.",
+  "src": "1984"
+ },
+ {
+  "w": "obedience",
+  "fr": "obéissance",
+  "def": "Doing what you are told",
+  "syn": "compliance, submission",
+  "lvl": "B2",
+  "pos": "noun",
+  "ex": "The regime demanded total obedience from its citizens.",
+  "src": "1984"
+ },
+ {
+  "w": "oligarchy",
+  "fr": "oligarchie",
+  "def": "Rule by a small group of powerful people",
+  "syn": "elite rule, junta",
+  "lvl": "C2",
+  "pos": "noun",
+  "ex": "The country was ruled by a small, wealthy oligarchy.",
+  "src": "1984"
+ },
+ {
+  "w": "rubble",
+  "fr": "décombres",
+  "def": "Broken stones and bricks from destroyed buildings",
+  "syn": "debris, wreckage, ruins",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "Rescuers searched the rubble for survivors.",
+  "src": "1984"
+ },
+ {
+  "w": "dwindle",
+  "fr": "diminuer",
+  "def": "To become gradually smaller or fewer",
+  "syn": "shrink, decrease, wane",
+  "lvl": "C1",
+  "pos": "verb",
+  "ex": "Their food supplies began to dwindle after the storm.",
+  "src": "1984"
+ },
+ {
+  "w": "grovel",
+  "fr": "s'aplatir, ramper",
+  "def": "To act humbly in front of someone to win favour",
+  "syn": "crawl, kowtow, bow and scrape",
+  "lvl": "C2",
+  "pos": "verb",
+  "ex": "He refused to grovel to his boss for a raise.",
+  "src": "1984"
+ },
+ {
+  "w": "sneer",
+  "fr": "ricanement, rictus méprisant",
+  "def": "A scornful, mocking smile or remark",
+  "syn": "scoff, jeer, smirk",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "She looked at him with a sneer of contempt.",
+  "src": "1984"
+ },
+ {
+  "w": "wince",
+  "fr": "grimacer",
+  "def": "To make a quick face from pain or embarrassment",
+  "syn": "flinch, grimace, cringe",
+  "lvl": "C1",
+  "pos": "verb",
+  "ex": "He winced as the doctor touched his injured arm.",
+  "src": "1984"
+ },
+ {
+  "w": "yearn",
+  "fr": "languir de",
+  "def": "To want something very strongly",
+  "syn": "long, crave, ache for",
+  "lvl": "C1",
+  "pos": "verb",
+  "ex": "She yearned for a life far away from the city.",
+  "src": "1984"
+ },
+ {
+  "w": "stifle",
+  "fr": "étouffer",
+  "def": "To stop something from happening or being expressed",
+  "syn": "suppress, smother, choke",
+  "lvl": "C1",
+  "pos": "verb",
+  "ex": "The government tried to stifle any criticism.",
+  "src": "1984"
+ },
+ {
+  "w": "loathe",
+  "fr": "détester",
+  "def": "To hate intensely",
+  "syn": "detest, abhor, despise",
+  "lvl": "C1",
+  "pos": "verb",
+  "ex": "I loathe getting up early on Mondays.",
+  "src": "1984"
+ },
+ {
+  "w": "forge",
+  "fr": "falsifier",
+  "def": "To make an illegal copy in order to deceive",
+  "syn": "falsify, fake, counterfeit",
+  "lvl": "C1",
+  "pos": "verb",
+  "ex": "He was arrested for forging his employer's signature.",
+  "src": "1984"
+ },
+ {
+  "w": "comrade",
+  "fr": "camarade",
+  "def": "A fellow member of a group or party",
+  "syn": "companion, ally, peer",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "He greeted his old comrade with a warm handshake.",
+  "src": "1984"
+ },
+ {
+  "w": "rebellion",
+  "fr": "rébellion",
+  "def": "Open resistance against authority",
+  "syn": "revolt, uprising, insurrection",
+  "lvl": "B2",
+  "pos": "noun",
+  "ex": "The rebellion was crushed within a few days.",
+  "src": "1984"
+ },
+ {
+  "w": "mutable",
+  "fr": "changeant",
+  "def": "Liable to change",
+  "syn": "changeable, variable, fluid",
+  "lvl": "C2",
+  "pos": "adj",
+  "ex": "In the novel, the past is mutable and constantly rewritten.",
+  "src": "1984"
+ },
+ {
+  "w": "sordid",
+  "fr": "sordide",
+  "def": "Morally low and dishonest; dirty",
+  "syn": "base, squalid, seedy",
+  "lvl": "C2",
+  "pos": "adj",
+  "ex": "The newspapers revealed every sordid detail of the affair.",
+  "src": "1984"
+ },
+ {
+  "w": "drab",
+  "fr": "terne",
+  "def": "Dull and without colour",
+  "syn": "dull, colourless, dingy",
+  "lvl": "C1",
+  "pos": "adj",
+  "ex": "Everyone wore the same drab grey uniforms.",
+  "src": "1984"
+ },
+ {
+  "w": "slogan",
+  "fr": "slogan",
+  "def": "A short, memorable phrase used in propaganda",
+  "syn": "motto, catchphrase",
+  "lvl": "B2",
+  "pos": "noun",
+  "ex": "The slogan was painted on every wall in the city.",
+  "src": "1984"
+ },
+ {
+  "w": "informer",
+  "fr": "délateur",
+  "def": "Someone who secretly gives information to the authorities",
+  "syn": "snitch, spy, rat",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "The police paid an informer to spy on the group.",
+  "src": "1984"
+ },
+ {
+  "w": "torment",
+  "fr": "supplice",
+  "def": "Severe physical or mental suffering",
+  "syn": "agony, anguish, torture",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "He lived in constant torment after the accident.",
+  "src": "1984"
+ },
+ {
+  "w": "subservient",
+  "fr": "servile",
+  "def": "Too willing to obey others",
+  "syn": "servile, submissive, obsequious",
+  "lvl": "C2",
+  "pos": "adj",
+  "ex": "She refused to play a subservient role in the company.",
+  "src": "1984"
+ },
+ {
+  "w": "cyberspace",
+  "fr": "cyberespace",
+  "def": "A virtual world created by connected computers",
+  "syn": "the matrix, the net",
+  "lvl": "B2",
+  "pos": "noun",
+  "ex": "Millions of people meet and trade in cyberspace every day.",
+  "src": "Neuromancer"
+ },
+ {
+  "w": "matrix",
+  "fr": "matrice",
+  "def": "The shared virtual space of computer data",
+  "syn": "cyberspace, grid, network",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "He jacked in and drifted through the glowing matrix.",
+  "src": "Neuromancer"
+ },
+ {
+  "w": "deck",
+  "fr": "console (cyberdeck)",
+  "def": "A portable computer used to enter cyberspace",
+  "syn": "console, rig, terminal",
+  "lvl": "C2",
+  "pos": "noun",
+  "ex": "He plugged his deck into the network and started typing.",
+  "src": "Neuromancer"
+ },
+ {
+  "w": "jack in",
+  "fr": "se brancher",
+  "def": "To connect your mind directly to a computer network",
+  "syn": "plug in, log on, connect",
+  "lvl": "C2",
+  "pos": "phrasal verb",
+  "ex": "Case couldn't wait to jack in to the network again.",
+  "src": "Neuromancer"
+ },
+ {
+  "w": "flatline",
+  "fr": "mourir (encéphalogramme plat)",
+  "def": "To die; for the brain or heart monitor to show a flat line",
+  "syn": "die, expire, crash",
+  "lvl": "C2",
+  "pos": "verb",
+  "ex": "The patient flatlined twice during the operation.",
+  "src": "Neuromancer"
+ },
+ {
+  "w": "sprawl",
+  "fr": "étalement urbain, conurbation",
+  "def": "A huge, uncontrolled urban area",
+  "syn": "megalopolis, conurbation",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "The city's sprawl stretched for miles along the coast.",
+  "src": "Neuromancer"
+ },
+ {
+  "w": "construct",
+  "fr": "construct (esprit enregistré)",
+  "def": "A recorded copy of a person's mind stored as software",
+  "syn": "simulation, recording",
+  "lvl": "C2",
+  "pos": "noun",
+  "ex": "The construct spoke with the voice of a dead hacker.",
+  "src": "Neuromancer"
+ },
+ {
+  "w": "simstim",
+  "fr": "simstim (sensations simulées)",
+  "def": "Technology that lets you feel another person's sensations",
+  "syn": "virtual experience, telepresence",
+  "lvl": "C2",
+  "pos": "noun",
+  "ex": "Through simstim, he could feel everything she felt.",
+  "src": "Neuromancer"
+ },
+ {
+  "w": "implant",
+  "fr": "implant",
+  "def": "A device placed inside the body by surgery",
+  "syn": "prosthesis, insert, graft",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "She had a tiny implant behind her ear.",
+  "src": "Neuromancer"
+ },
+ {
+  "w": "mercenary",
+  "fr": "mercenaire",
+  "def": "A soldier or agent who works only for money",
+  "syn": "hired gun, soldier of fortune",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "The company hired a mercenary to steal the files.",
+  "src": "Neuromancer"
+ },
+ {
+  "w": "hustler",
+  "fr": "arnaqueur",
+  "def": "Someone who makes money by dishonest tricks",
+  "syn": "con artist, swindler, grifter",
+  "lvl": "C2",
+  "pos": "noun",
+  "ex": "He was a small-time hustler on the streets of Chiba.",
+  "src": "Neuromancer"
+ },
+ {
+  "w": "syndicate",
+  "fr": "syndicat (du crime)",
+  "def": "An organised group of criminals or businesses",
+  "syn": "cartel, ring, consortium",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "A crime syndicate controlled the whole port.",
+  "src": "Neuromancer"
+ },
+ {
+  "w": "hologram",
+  "fr": "hologramme",
+  "def": "A 3D image made with light",
+  "syn": "projection, 3D image",
+  "lvl": "B2",
+  "pos": "noun",
+  "ex": "A hologram of the president appeared above the stage.",
+  "src": "Neuromancer"
+ },
+ {
+  "w": "withdrawal",
+  "fr": "sevrage",
+  "def": "The unpleasant effects of stopping a drug",
+  "syn": "detox, cold turkey",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "He suffered terrible withdrawal after stopping the drug.",
+  "src": "Neuromancer"
+ },
+ {
+  "w": "toxin",
+  "fr": "toxine",
+  "def": "A poisonous substance made by a living thing",
+  "syn": "poison, venom",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "The snake's bite injects a powerful toxin.",
+  "src": "Neuromancer"
+ },
+ {
+  "w": "intrusion",
+  "fr": "intrusion",
+  "def": "Entering a place or system without permission",
+  "syn": "breach, incursion, break-in",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "The security system detected an intrusion at midnight.",
+  "src": "Neuromancer"
+ },
+ {
+  "w": "sullen",
+  "fr": "maussade",
+  "def": "Bad-tempered and silent",
+  "syn": "sulky, morose, surly",
+  "lvl": "C1",
+  "pos": "adj",
+  "ex": "The sullen teenager refused to answer any questions.",
+  "src": "Neuromancer"
+ },
+ {
+  "w": "wry",
+  "fr": "ironique",
+  "def": "Using dry, mocking humour",
+  "syn": "ironic, sardonic, dry",
+  "lvl": "C2",
+  "pos": "adj",
+  "ex": "She gave a wry smile when she heard the news.",
+  "src": "Neuromancer"
+ },
+ {
+  "w": "flicker",
+  "fr": "vaciller",
+  "def": "To shine unsteadily, on and off",
+  "syn": "waver, flutter, glimmer",
+  "lvl": "C1",
+  "pos": "verb",
+  "ex": "The lights flickered and then went out.",
+  "src": "Neuromancer"
+ },
+ {
+  "w": "hum",
+  "fr": "bourdonnement",
+  "def": "A low, continuous sound",
+  "syn": "buzz, drone, whir",
+  "lvl": "B2",
+  "pos": "noun",
+  "ex": "The only sound was the hum of the computers.",
+  "src": "Neuromancer"
+ },
+ {
+  "w": "seedy",
+  "fr": "louche",
+  "def": "Dirty and disreputable",
+  "syn": "sleazy, shady, sordid",
+  "lvl": "C1",
+  "pos": "adj",
+  "ex": "They met in a seedy bar near the docks.",
+  "src": "Neuromancer"
+ },
+ {
+  "w": "jittery",
+  "fr": "nerveux",
+  "def": "Nervous and unable to relax",
+  "syn": "jumpy, edgy, twitchy",
+  "lvl": "C1",
+  "pos": "adj",
+  "ex": "Too much coffee always makes me jittery.",
+  "src": "Neuromancer"
+ },
+ {
+  "w": "sleek",
+  "fr": "élégant, profilé",
+  "def": "Smooth, shiny and elegant",
+  "syn": "streamlined, glossy, slick",
+  "lvl": "C1",
+  "pos": "adj",
+  "ex": "A sleek black car pulled up outside the hotel.",
+  "src": "Neuromancer"
+ },
+ {
+  "w": "chrome",
+  "fr": "chrome",
+  "def": "Shiny metal coating; in cyberpunk, metal body parts",
+  "syn": "metal, plating",
+  "lvl": "B2",
+  "pos": "noun",
+  "ex": "The bike's chrome gleamed in the sunlight.",
+  "src": "Neuromancer"
+ },
+ {
+  "w": "static",
+  "fr": "parasites (TV)",
+  "def": "Crackling noise or snow on a screen",
+  "syn": "interference, white noise",
+  "lvl": "B2",
+  "pos": "noun",
+  "ex": "The radio produced nothing but static.",
+  "src": "Neuromancer"
+ },
+ {
+  "w": "surgeon",
+  "fr": "chirurgien",
+  "def": "A doctor who performs operations",
+  "syn": "medic, cutter",
+  "lvl": "B1",
+  "pos": "noun",
+  "ex": "The surgeon removed the bullet from his shoulder.",
+  "src": "Neuromancer"
+ },
+ {
+  "w": "scalpel",
+  "fr": "scalpel",
+  "def": "A small, very sharp surgical knife",
+  "syn": "blade, lancet",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "The doctor picked up a scalpel and made a small cut.",
+  "src": "Neuromancer"
+ },
+ {
+  "w": "haggle",
+  "fr": "marchander",
+  "def": "To argue about the price of something",
+  "syn": "bargain, negotiate",
+  "lvl": "C1",
+  "pos": "verb",
+  "ex": "Tourists often haggle over prices at the market.",
+  "src": "Neuromancer"
+ },
+ {
+  "w": "mainframe",
+  "fr": "ordinateur central",
+  "def": "A large, powerful central computer",
+  "syn": "server, supercomputer",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "The bank's data is stored on a huge mainframe.",
+  "src": "Neuromancer"
+ },
+ {
+  "w": "neural",
+  "fr": "neuronal",
+  "def": "Relating to nerves or the brain",
+  "syn": "nervous, cerebral",
+  "lvl": "C1",
+  "pos": "adj",
+  "ex": "Scientists are studying neural activity during sleep.",
+  "src": "Neuromancer"
+ },
+ {
+  "w": "artificial intelligence",
+  "fr": "intelligence artificielle",
+  "def": "A computer system that can think like a human",
+  "syn": "AI, machine intelligence",
+  "lvl": "B2",
+  "pos": "noun",
+  "ex": "Artificial intelligence is changing the way we work.",
+  "src": "Neuromancer"
+ },
+ {
+  "w": "burnout",
+  "fr": "épuisement",
+  "def": "Exhaustion; a person who is used up",
+  "syn": "exhaustion, has-been",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "Long hours and stress led to burnout.",
+  "src": "Neuromancer"
+ },
+ {
+  "w": "arcology",
+  "fr": "arcologie",
+  "def": "A gigantic building that contains a whole city",
+  "syn": "megastructure, hive city",
+  "lvl": "C2",
+  "pos": "noun",
+  "ex": "Thousands of people lived inside the giant arcology.",
+  "src": "Neuromancer"
+ },
+ {
+  "w": "nerve",
+  "fr": "nerf / culot",
+  "def": "A fibre carrying signals in the body; also courage",
+  "syn": "courage, guts, daring",
+  "lvl": "B2",
+  "pos": "noun",
+  "ex": "It took a lot of nerve to stand up to him.",
+  "src": "Neuromancer"
+ },
+ {
+  "w": "glitch",
+  "fr": "bug, pépin",
+  "def": "A small, sudden malfunction",
+  "syn": "bug, fault, hiccup",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "A technical glitch delayed the launch.",
+  "src": "Neuromancer"
+ },
+ {
+  "w": "dealer",
+  "fr": "dealer, trafiquant",
+  "def": "Someone who sells drugs or goods",
+  "syn": "trafficker, pusher, trader",
+  "lvl": "B2",
+  "pos": "noun",
+  "ex": "The police arrested a drug dealer outside the club.",
+  "src": "Neuromancer"
+ },
+ {
+  "w": "heist",
+  "fr": "casse",
+  "def": "A daring robbery",
+  "syn": "robbery, raid, job",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "The gang planned the heist for months.",
+  "src": "Neuromancer"
+ },
+ {
+  "w": "countermeasure",
+  "fr": "contre-mesure",
+  "def": "An action taken to counteract a threat",
+  "syn": "defence, safeguard",
+  "lvl": "C2",
+  "pos": "noun",
+  "ex": "The ship launched countermeasures to confuse the missiles.",
+  "src": "Neuromancer"
+ },
+ {
+  "w": "spice",
+  "fr": "épice",
+  "def": "A precious substance; in Dune, the drug melange",
+  "syn": "melange, seasoning",
+  "lvl": "B1",
+  "pos": "noun",
+  "ex": "The spice must flow, or the empire will collapse.",
+  "src": "Dune"
+ },
+ {
+  "w": "stillsuit",
+  "fr": "distille",
+  "def": "A body suit that recycles the wearer's water",
+  "syn": "survival suit",
+  "lvl": "C2",
+  "pos": "noun",
+  "ex": "Without a stillsuit, you would die of thirst in the desert.",
+  "src": "Dune"
+ },
+ {
+  "w": "sandworm",
+  "fr": "ver des sables",
+  "def": "A giant worm that lives under the desert sand",
+  "syn": "maker, worm",
+  "lvl": "C2",
+  "pos": "noun",
+  "ex": "A sandworm rose from the dunes and swallowed the machine.",
+  "src": "Dune"
+ },
+ {
+  "w": "prescience",
+  "fr": "prescience",
+  "def": "Knowledge of events before they happen",
+  "syn": "foresight, precognition",
+  "lvl": "C2",
+  "pos": "noun",
+  "ex": "His prescience allowed him to glimpse possible futures.",
+  "src": "Dune"
+ },
+ {
+  "w": "arid",
+  "fr": "aride",
+  "def": "Having very little rain; very dry",
+  "syn": "dry, parched, barren",
+  "lvl": "C1",
+  "pos": "adj",
+  "ex": "Few plants can survive in such an arid climate.",
+  "src": "Dune"
+ },
+ {
+  "w": "prophecy",
+  "fr": "prophétie",
+  "def": "A prediction of what will happen",
+  "syn": "prediction, forecast, oracle",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "The prophecy said a stranger would save the people.",
+  "src": "Dune"
+ },
+ {
+  "w": "heir",
+  "fr": "héritier",
+  "def": "A person who will inherit a title or fortune",
+  "syn": "successor, inheritor",
+  "lvl": "B2",
+  "pos": "noun",
+  "ex": "He was the only heir to the family fortune.",
+  "src": "Dune"
+ },
+ {
+  "w": "duke",
+  "fr": "duc",
+  "def": "A nobleman of very high rank",
+  "syn": "lord, noble",
+  "lvl": "B2",
+  "pos": "noun",
+  "ex": "The duke moved his family to a new planet.",
+  "src": "Dune"
+ },
+ {
+  "w": "litany",
+  "fr": "litanie",
+  "def": "A long, repeated list or prayer",
+  "syn": "chant, recitation",
+  "lvl": "C2",
+  "pos": "noun",
+  "ex": "She recited the litany against fear under her breath.",
+  "src": "Dune"
+ },
+ {
+  "w": "dread",
+  "fr": "effroi",
+  "def": "Great fear about something to come",
+  "syn": "fear, terror, apprehension",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "She felt a growing sense of dread as night fell.",
+  "src": "Dune"
+ },
+ {
+  "w": "ruthless",
+  "fr": "impitoyable",
+  "def": "Having no pity",
+  "syn": "merciless, cruel, pitiless",
+  "lvl": "C1",
+  "pos": "adj",
+  "ex": "The ruthless baron would stop at nothing to win.",
+  "src": "Dune"
+ },
+ {
+  "w": "cunning",
+  "fr": "rusé",
+  "def": "Clever at deceiving people",
+  "syn": "crafty, sly, shrewd",
+  "lvl": "C1",
+  "pos": "adj",
+  "ex": "The cunning fox escaped from the trap.",
+  "src": "Dune"
+ },
+ {
+  "w": "sovereign",
+  "fr": "souverain",
+  "def": "A supreme ruler; having supreme power",
+  "syn": "monarch, ruler, supreme",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "The emperor was the sovereign of a thousand worlds.",
+  "src": "Dune"
+ },
+ {
+  "w": "vengeance",
+  "fr": "vengeance",
+  "def": "Punishment inflicted in return for a wrong",
+  "syn": "revenge, retribution",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "He swore vengeance on the men who killed his father.",
+  "src": "Dune"
+ },
+ {
+  "w": "feud",
+  "fr": "querelle (ancestrale)",
+  "def": "A long, bitter conflict between families",
+  "syn": "vendetta, rivalry, quarrel",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "The two families have been locked in a feud for decades.",
+  "src": "Dune"
+ },
+ {
+  "w": "tribe",
+  "fr": "tribu",
+  "def": "A group of families sharing culture and leaders",
+  "syn": "clan, people",
+  "lvl": "B1",
+  "pos": "noun",
+  "ex": "The tribe lived deep in the desert.",
+  "src": "Dune"
+ },
+ {
+  "w": "harvester",
+  "fr": "moissonneuse",
+  "def": "A machine that gathers a crop or resource",
+  "syn": "reaper, gatherer",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "The harvester crawled slowly across the sand.",
+  "src": "Dune"
+ },
+ {
+  "w": "dune",
+  "fr": "dune",
+  "def": "A hill of sand formed by the wind",
+  "syn": "sand hill, drift",
+  "lvl": "B2",
+  "pos": "noun",
+  "ex": "They climbed to the top of the highest dune.",
+  "src": "Dune"
+ },
+ {
+  "w": "mirage",
+  "fr": "mirage",
+  "def": "An optical illusion caused by heat",
+  "syn": "illusion, hallucination",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "The lake on the horizon was only a mirage.",
+  "src": "Dune"
+ },
+ {
+  "w": "betrayal",
+  "fr": "trahison",
+  "def": "Breaking someone's trust",
+  "syn": "treachery, treason, double-cross",
+  "lvl": "B2",
+  "pos": "noun",
+  "ex": "She never forgave his betrayal.",
+  "src": "Dune"
+ },
+ {
+  "w": "fealty",
+  "fr": "allégeance",
+  "def": "Loyalty sworn to a lord",
+  "syn": "allegiance, loyalty",
+  "lvl": "C2",
+  "pos": "noun",
+  "ex": "The knights swore fealty to their new lord.",
+  "src": "Dune"
+ },
+ {
+  "w": "scheme",
+  "fr": "machination",
+  "def": "A secret, often dishonest plan",
+  "syn": "plot, ploy, intrigue",
+  "lvl": "B2",
+  "pos": "noun",
+  "ex": "The baron devised a scheme to destroy his rivals.",
+  "src": "Dune"
+ },
+ {
+  "w": "withstand",
+  "fr": "résister à",
+  "def": "To endure without being harmed",
+  "syn": "endure, resist, survive",
+  "lvl": "C1",
+  "pos": "verb",
+  "ex": "The building can withstand strong earthquakes.",
+  "src": "Dune"
+ },
+ {
+  "w": "barren",
+  "fr": "stérile, désolé",
+  "def": "Too poor to produce plants",
+  "syn": "desolate, infertile, bleak",
+  "lvl": "C1",
+  "pos": "adj",
+  "ex": "Nothing grew on the barren, rocky plain.",
+  "src": "Dune"
+ },
+ {
+  "w": "messiah",
+  "fr": "messie",
+  "def": "A saviour or liberator",
+  "syn": "saviour, redeemer",
+  "lvl": "C2",
+  "pos": "noun",
+  "ex": "The desert people believed he was their messiah.",
+  "src": "Dune"
+ },
+ {
+  "w": "crysknife",
+  "fr": "krys",
+  "def": "A sacred knife made from a sandworm's tooth",
+  "syn": "blade, dagger",
+  "lvl": "C2",
+  "pos": "noun",
+  "ex": "He drew his crysknife and faced the challenger.",
+  "src": "Dune"
+ },
+ {
+  "w": "fervour",
+  "fr": "ferveur",
+  "def": "Intense, passionate feeling",
+  "syn": "zeal, passion, ardour",
+  "lvl": "C2",
+  "pos": "noun",
+  "ex": "They prayed with religious fervour.",
+  "src": "Dune"
+ },
+ {
+  "w": "foresee",
+  "fr": "prévoir",
+  "def": "To know something will happen before it does",
+  "syn": "predict, anticipate",
+  "lvl": "C1",
+  "pos": "verb",
+  "ex": "Nobody could foresee the consequences of the war.",
+  "src": "Dune"
+ },
+ {
+  "w": "hatchery",
+  "fr": "couvoir",
+  "def": "A place where eggs (or embryos) are hatched",
+  "syn": "incubator, nursery",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "Thousands of embryos were grown in the hatchery.",
+  "src": "Brave New World"
+ },
+ {
+  "w": "conditioning",
+  "fr": "conditionnement",
+  "def": "Training that makes behaviour automatic",
+  "syn": "programming, brainwashing",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "Years of conditioning made them fear books and flowers.",
+  "src": "Brave New World"
+ },
+ {
+  "w": "soma",
+  "fr": "soma",
+  "def": "In the novel, a drug that makes people happy and docile",
+  "syn": "sedative, opiate",
+  "lvl": "C2",
+  "pos": "noun",
+  "ex": "Whenever she felt sad, she took a gram of soma.",
+  "src": "Brave New World"
+ },
+ {
+  "w": "caste",
+  "fr": "caste",
+  "def": "A rigid social class",
+  "syn": "class, rank, order",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "Each caste had its own role in society.",
+  "src": "Brave New World"
+ },
+ {
+  "w": "decant",
+  "fr": "décanter, transvaser",
+  "def": "To pour liquid from one container to another",
+  "syn": "pour off, transfer",
+  "lvl": "C2",
+  "pos": "verb",
+  "ex": "He decanted the wine into a crystal jug.",
+  "src": "Brave New World"
+ },
+ {
+  "w": "savage",
+  "fr": "sauvage",
+  "def": "Wild and uncivilised; fierce",
+  "syn": "barbaric, feral, brutal",
+  "lvl": "C1",
+  "pos": "adj",
+  "ex": "The dog made a savage attack on the intruder.",
+  "src": "Brave New World"
+ },
+ {
+  "w": "bliss",
+  "fr": "béatitude",
+  "def": "Perfect happiness",
+  "syn": "ecstasy, joy, rapture",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "Lying on the beach was pure bliss.",
+  "src": "Brave New World"
+ },
+ {
+  "w": "embryo",
+  "fr": "embryon",
+  "def": "An unborn creature in the early stage of development",
+  "syn": "fetus, germ",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "The embryo develops rapidly in the first weeks.",
+  "src": "Brave New World"
+ },
+ {
+  "w": "hypnopaedia",
+  "fr": "hypnopédie",
+  "def": "Learning or conditioning during sleep",
+  "syn": "sleep-teaching",
+  "lvl": "C2",
+  "pos": "noun",
+  "ex": "Children learned moral rules through hypnopaedia.",
+  "src": "Brave New World"
+ },
+ {
+  "w": "stability",
+  "fr": "stabilité",
+  "def": "The state of being steady and unchanging",
+  "syn": "steadiness, balance",
+  "lvl": "B2",
+  "pos": "noun",
+  "ex": "The government promised peace and stability.",
+  "src": "Brave New World"
+ },
+ {
+  "w": "docile",
+  "fr": "docile",
+  "def": "Quiet and easy to control",
+  "syn": "obedient, meek, tame",
+  "lvl": "C2",
+  "pos": "adj",
+  "ex": "The drug kept the population calm and docile.",
+  "src": "Brave New World"
+ },
+ {
+  "w": "sterile",
+  "fr": "stérile",
+  "def": "Unable to reproduce; free from germs",
+  "syn": "infertile, aseptic",
+  "lvl": "C1",
+  "pos": "adj",
+  "ex": "All instruments must be kept sterile.",
+  "src": "Brave New World"
+ },
+ {
+  "w": "consumption",
+  "fr": "consommation",
+  "def": "The act of using up goods",
+  "syn": "use, spending",
+  "lvl": "B2",
+  "pos": "noun",
+  "ex": "The country's energy consumption keeps rising.",
+  "src": "Brave New World"
+ },
+ {
+  "w": "pneumatic",
+  "fr": "pneumatique",
+  "def": "Filled with air; operated by air pressure",
+  "syn": "inflated, air-powered",
+  "lvl": "C2",
+  "pos": "adj",
+  "ex": "The workers used a pneumatic drill to break the road.",
+  "src": "Brave New World"
+ },
+ {
+  "w": "solitude",
+  "fr": "solitude",
+  "def": "The state of being alone",
+  "syn": "isolation, loneliness",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "He enjoyed the solitude of the mountains.",
+  "src": "Brave New World"
+ },
+ {
+  "w": "orgy",
+  "fr": "orgie",
+  "def": "A wild party with excessive pleasure",
+  "syn": "revel, debauch",
+  "lvl": "C2",
+  "pos": "noun",
+  "ex": "The party turned into an orgy of eating and drinking.",
+  "src": "Brave New World"
+ },
+ {
+  "w": "fireman",
+  "fr": "pompier (qui brûle les livres)",
+  "def": "In the novel, someone who burns books",
+  "syn": "burner, arsonist",
+  "lvl": "A2",
+  "pos": "noun",
+  "ex": "In the novel, the fireman's job is to burn books.",
+  "src": "Fahrenheit 451"
+ },
+ {
+  "w": "kerosene",
+  "fr": "kérosène",
+  "def": "A flammable oil used as fuel",
+  "syn": "paraffin, fuel",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "He poured kerosene over the pile of books.",
+  "src": "Fahrenheit 451"
+ },
+ {
+  "w": "hearth",
+  "fr": "âtre, foyer",
+  "def": "The floor of a fireplace; home",
+  "syn": "fireside, home",
+  "lvl": "C2",
+  "pos": "noun",
+  "ex": "The family sat around the hearth on winter evenings.",
+  "src": "Fahrenheit 451"
+ },
+ {
+  "w": "ember",
+  "fr": "braise",
+  "def": "A glowing piece of coal or wood in a dying fire",
+  "syn": "cinder, coal",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "A few embers were still glowing in the fireplace.",
+  "src": "Fahrenheit 451"
+ },
+ {
+  "w": "smoulder",
+  "fr": "couver",
+  "def": "To burn slowly with smoke but no flame",
+  "syn": "smoke, simmer",
+  "lvl": "C1",
+  "pos": "verb",
+  "ex": "The ruins continued to smoulder for days.",
+  "src": "Fahrenheit 451"
+ },
+ {
+  "w": "blaze",
+  "fr": "brasier",
+  "def": "A large, fierce fire",
+  "syn": "inferno, conflagration",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "Firefighters struggled to control the blaze.",
+  "src": "Fahrenheit 451"
+ },
+ {
+  "w": "scorch",
+  "fr": "roussir, brûler",
+  "def": "To burn the surface of something",
+  "syn": "singe, char, sear",
+  "lvl": "C1",
+  "pos": "verb",
+  "ex": "The hot iron scorched his shirt.",
+  "src": "Fahrenheit 451"
+ },
+ {
+  "w": "ash",
+  "fr": "cendre",
+  "def": "The powder left after something burns",
+  "syn": "cinders, dust",
+  "lvl": "B2",
+  "pos": "noun",
+  "ex": "Only ash remained after the fire.",
+  "src": "Fahrenheit 451"
+ },
+ {
+  "w": "censorship",
+  "fr": "censure",
+  "def": "Banning books, films or ideas",
+  "syn": "suppression, banning",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "Censorship of the press is common in dictatorships.",
+  "src": "Fahrenheit 451"
+ },
+ {
+  "w": "parlour",
+  "fr": "salon",
+  "def": "A sitting room (with TV walls in the novel)",
+  "syn": "living room, lounge",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "She spent her days in the parlour watching the walls.",
+  "src": "Fahrenheit 451"
+ },
+ {
+  "w": "hound",
+  "fr": "limier",
+  "def": "A hunting dog; the Mechanical Hound in the novel",
+  "syn": "dog, tracker",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "The hound followed the fugitive's scent across the city.",
+  "src": "Fahrenheit 451"
+ },
+ {
+  "w": "kindle",
+  "fr": "allumer, attiser",
+  "def": "To light a fire; to arouse a feeling",
+  "syn": "ignite, spark, rouse",
+  "lvl": "C1",
+  "pos": "verb",
+  "ex": "The book kindled her interest in history.",
+  "src": "Fahrenheit 451"
+ },
+ {
+  "w": "fugitive",
+  "fr": "fugitif",
+  "def": "A person who is running away",
+  "syn": "runaway, escapee, outlaw",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "The police are still searching for the fugitive.",
+  "src": "Fahrenheit 451"
+ },
+ {
+  "w": "conformity",
+  "fr": "conformisme",
+  "def": "Behaving the same way as everyone else",
+  "syn": "compliance, uniformity",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "The school valued conformity over creativity.",
+  "src": "Fahrenheit 451"
+ },
+ {
+  "w": "illiterate",
+  "fr": "illettré",
+  "def": "Unable to read or write",
+  "syn": "unlettered, uneducated",
+  "lvl": "C1",
+  "pos": "adj",
+  "ex": "Much of the population was still illiterate.",
+  "src": "Fahrenheit 451"
+ },
+ {
+  "w": "android",
+  "fr": "androïde",
+  "def": "A robot made to look like a human",
+  "syn": "humanoid, synthetic, andy",
+  "lvl": "B2",
+  "pos": "noun",
+  "ex": "The android looked completely human.",
+  "src": "Do Androids Dream"
+ },
+ {
+  "w": "bounty hunter",
+  "fr": "chasseur de primes",
+  "def": "Someone who hunts fugitives for a reward",
+  "syn": "tracker, manhunter",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "A bounty hunter was sent to track down the escaped androids.",
+  "src": "Do Androids Dream"
+ },
+ {
+  "w": "empathy",
+  "fr": "empathie",
+  "def": "The ability to share others' feelings",
+  "syn": "compassion, understanding",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "She showed real empathy for the victims.",
+  "src": "Do Androids Dream"
+ },
+ {
+  "w": "kipple",
+  "fr": "bric-à-brac (déchets)",
+  "def": "Useless objects that pile up by themselves",
+  "syn": "junk, clutter, rubbish",
+  "lvl": "C2",
+  "pos": "noun",
+  "ex": "His empty flat slowly filled with kipple.",
+  "src": "Do Androids Dream"
+ },
+ {
+  "w": "fallout",
+  "fr": "retombées radioactives",
+  "def": "Radioactive dust after a nuclear explosion; consequences",
+  "syn": "radiation, aftermath",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "Radioactive fallout drove most people off the planet.",
+  "src": "Do Androids Dream"
+ },
+ {
+  "w": "retire",
+  "fr": "retirer (= éliminer)",
+  "def": "To stop working; in the novel, to kill an android",
+  "syn": "eliminate, decommission",
+  "lvl": "B1",
+  "pos": "verb",
+  "ex": "Deckard was paid to retire rogue androids.",
+  "src": "Do Androids Dream"
+ },
+ {
+  "w": "counterfeit",
+  "fr": "contrefait",
+  "def": "Made to look exactly like something real in order to deceive",
+  "syn": "fake, forged, bogus",
+  "lvl": "C1",
+  "pos": "adj",
+  "ex": "Police seized thousands of counterfeit banknotes.",
+  "src": "Do Androids Dream"
+ },
+ {
+  "w": "dust",
+  "fr": "poussière",
+  "def": "Fine dry powder",
+  "syn": "grime, powder",
+  "lvl": "A2",
+  "pos": "noun",
+  "ex": "The furniture was covered in dust.",
+  "src": "Do Androids Dream"
+ },
+ {
+  "w": "eerie",
+  "fr": "étrange, inquiétant",
+  "def": "Strange and frightening",
+  "syn": "creepy, uncanny, spooky",
+  "lvl": "C1",
+  "pos": "adj",
+  "ex": "An eerie silence filled the empty building.",
+  "src": "Do Androids Dream"
+ },
+ {
+  "w": "uncanny",
+  "fr": "troublant",
+  "def": "Strange in a disturbing way",
+  "syn": "eerie, weird, unnatural",
+  "lvl": "C1",
+  "pos": "adj",
+  "ex": "She bears an uncanny resemblance to her grandmother.",
+  "src": "Do Androids Dream"
+ },
+ {
+  "w": "desolate",
+  "fr": "désolé, dévasté",
+  "def": "Empty, bleak and lonely",
+  "syn": "abandoned, forlorn, bleak",
+  "lvl": "C1",
+  "pos": "adj",
+  "ex": "The town looked desolate after everyone had left.",
+  "src": "Do Androids Dream"
+ },
+ {
+  "w": "psychohistory",
+  "fr": "psychohistoire",
+  "def": "A science that predicts the future of large populations",
+  "syn": "mass prediction",
+  "lvl": "C2",
+  "pos": "noun",
+  "ex": "Psychohistory predicted the fall of the Empire.",
+  "src": "Foundation"
+ },
+ {
+  "w": "galaxy",
+  "fr": "galaxie",
+  "def": "A huge system of stars",
+  "syn": "star system, cosmos",
+  "lvl": "B2",
+  "pos": "noun",
+  "ex": "Our galaxy contains billions of stars.",
+  "src": "Foundation"
+ },
+ {
+  "w": "decline",
+  "fr": "déclin",
+  "def": "A gradual loss of strength or quality",
+  "syn": "decay, downfall, waning",
+  "lvl": "B2",
+  "pos": "noun",
+  "ex": "The empire was in decline for centuries.",
+  "src": "Foundation"
+ },
+ {
+  "w": "encyclopedia",
+  "fr": "encyclopédie",
+  "def": "A book of knowledge on many subjects",
+  "syn": "compendium, reference",
+  "lvl": "B1",
+  "pos": "noun",
+  "ex": "They worked to save all human knowledge in an encyclopedia.",
+  "src": "Foundation"
+ },
+ {
+  "w": "barbarism",
+  "fr": "barbarie",
+  "def": "A state of having no culture or civilisation",
+  "syn": "savagery, brutality",
+  "lvl": "C2",
+  "pos": "noun",
+  "ex": "Without knowledge, the galaxy would fall into barbarism.",
+  "src": "Foundation"
+ },
+ {
+  "w": "trader",
+  "fr": "marchand",
+  "def": "Someone who buys and sells goods",
+  "syn": "merchant, dealer",
+  "lvl": "B2",
+  "pos": "noun",
+  "ex": "The trader sold his goods on distant planets.",
+  "src": "Foundation"
+ },
+ {
+  "w": "positronic",
+  "fr": "positronique",
+  "def": "In Asimov, the type of brain used by robots",
+  "syn": "robotic, artificial",
+  "lvl": "C2",
+  "pos": "adj",
+  "ex": "The robot's positronic brain obeyed the Three Laws.",
+  "src": "I, Robot"
+ },
+ {
+  "w": "robot",
+  "fr": "robot",
+  "def": "A machine that can perform tasks automatically",
+  "syn": "automaton, droid",
+  "lvl": "A2",
+  "pos": "noun",
+  "ex": "The robot cleans the floor every morning.",
+  "src": "I, Robot"
+ },
+ {
+  "w": "galactic",
+  "fr": "galactique",
+  "def": "Relating to a galaxy; enormous",
+  "syn": "cosmic, vast",
+  "lvl": "C1",
+  "pos": "adj",
+  "ex": "The galactic empire spanned millions of worlds.",
+  "src": "Foundation"
+ },
+ {
+  "w": "interregnum",
+  "fr": "interrègne",
+  "def": "A period between two reigns or regimes",
+  "syn": "interval, hiatus",
+  "lvl": "C2",
+  "pos": "noun",
+  "ex": "Chaos ruled during the long interregnum.",
+  "src": "Foundation"
+ },
+ {
+  "w": "envoy",
+  "fr": "émissaire",
+  "def": "A messenger sent on an official mission",
+  "syn": "ambassador, emissary",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "The king sent an envoy to negotiate peace.",
+  "src": "Foundation"
+ },
+ {
+  "w": "metaverse",
+  "fr": "métavers",
+  "def": "A shared virtual-reality world",
+  "syn": "virtual world, cyberspace",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "Many companies are investing heavily in the metaverse.",
+  "src": "Snow Crash"
+ },
+ {
+  "w": "avatar",
+  "fr": "avatar",
+  "def": "A figure that represents you in a virtual world",
+  "syn": "persona, alter ego",
+  "lvl": "B2",
+  "pos": "noun",
+  "ex": "She chose a dragon as her avatar in the game.",
+  "src": "Snow Crash"
+ },
+ {
+  "w": "hacker",
+  "fr": "pirate informatique",
+  "def": "Someone who breaks into computer systems",
+  "syn": "cracker, intruder",
+  "lvl": "B1",
+  "pos": "noun",
+  "ex": "A hacker stole thousands of passwords.",
+  "src": "Snow Crash"
+ },
+ {
+  "w": "courier",
+  "fr": "coursier",
+  "def": "A messenger who delivers packages",
+  "syn": "messenger, runner",
+  "lvl": "B2",
+  "pos": "noun",
+  "ex": "A courier delivered the package this morning.",
+  "src": "Snow Crash"
+ },
+ {
+  "w": "virus",
+  "fr": "virus",
+  "def": "A harmful program or microbe that spreads",
+  "syn": "malware, infection",
+  "lvl": "B1",
+  "pos": "noun",
+  "ex": "The virus deleted all the files on my computer.",
+  "src": "Snow Crash"
+ },
+ {
+  "w": "franchise",
+  "fr": "franchise",
+  "def": "A business licensed to use a brand",
+  "syn": "chain, licence",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "He owns a pizza franchise in the city centre.",
+  "src": "Snow Crash"
+ },
+ {
+  "w": "gargoyle",
+  "fr": "gargouille",
+  "def": "A grotesque carved figure; a person wearing lots of gadgets",
+  "syn": "grotesque, monster",
+  "lvl": "C2",
+  "pos": "noun",
+  "ex": "Stone gargoyles stared down from the cathedral roof.",
+  "src": "Snow Crash"
+ },
+ {
+  "w": "spacecraft",
+  "fr": "vaisseau spatial",
+  "def": "A vehicle that travels in space",
+  "syn": "spaceship, vessel",
+  "lvl": "B2",
+  "pos": "noun",
+  "ex": "The spacecraft landed safely on Mars.",
+  "src": "SF classique"
+ },
+ {
+  "w": "airlock",
+  "fr": "sas",
+  "def": "A sealed room between two areas of different pressure",
+  "syn": "hatch, chamber",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "She waited in the airlock before stepping outside.",
+  "src": "SF classique"
+ },
+ {
+  "w": "thruster",
+  "fr": "propulseur",
+  "def": "A small engine used to move or steer a spacecraft",
+  "syn": "engine, booster",
+  "lvl": "C2",
+  "pos": "noun",
+  "ex": "The pilot fired the thrusters to change course.",
+  "src": "SF classique"
+ },
+ {
+  "w": "hull",
+  "fr": "coque",
+  "def": "The main body of a ship",
+  "syn": "shell, frame, body",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "A meteor tore a hole in the ship's hull.",
+  "src": "SF classique"
+ },
+ {
+  "w": "payload",
+  "fr": "charge utile",
+  "def": "The cargo or weapon carried by a vehicle",
+  "syn": "cargo, load, warhead",
+  "lvl": "C2",
+  "pos": "noun",
+  "ex": "The rocket carried a payload of three satellites.",
+  "src": "SF classique"
+ },
+ {
+  "w": "orbit",
+  "fr": "orbite",
+  "def": "The curved path of an object around a planet or star",
+  "syn": "circuit, revolution",
+  "lvl": "B2",
+  "pos": "noun",
+  "ex": "The satellite is now in orbit around the Earth.",
+  "src": "SF classique"
+ },
+ {
+  "w": "weightless",
+  "fr": "en apesanteur",
+  "def": "Having no apparent weight",
+  "syn": "floating, zero-g",
+  "lvl": "C1",
+  "pos": "adj",
+  "ex": "Astronauts are weightless on the space station.",
+  "src": "SF classique"
+ },
+ {
+  "w": "hyperspace",
+  "fr": "hyperespace",
+  "def": "A dimension that allows faster-than-light travel",
+  "syn": "subspace, warp",
+  "lvl": "C2",
+  "pos": "noun",
+  "ex": "The ship jumped into hyperspace and vanished.",
+  "src": "SF classique"
+ },
+ {
+  "w": "outpost",
+  "fr": "avant-poste",
+  "def": "A small settlement far from the main one",
+  "syn": "station, base, colony",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "They set up an outpost on the edge of the system.",
+  "src": "SF classique"
+ },
+ {
+  "w": "terraform",
+  "fr": "terraformer",
+  "def": "To transform a planet so humans can live on it",
+  "syn": "colonise, transform",
+  "lvl": "C2",
+  "pos": "verb",
+  "ex": "Scientists hope to terraform Mars one day.",
+  "src": "SF classique"
+ },
+ {
+  "w": "cyborg",
+  "fr": "cyborg",
+  "def": "A being that is part human, part machine",
+  "syn": "bionic human, android",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "After the accident, he was rebuilt as a cyborg.",
+  "src": "SF classique"
+ },
+ {
+  "w": "sentient",
+  "fr": "doué de conscience",
+  "def": "Able to feel and perceive",
+  "syn": "conscious, aware, self-aware",
+  "lvl": "C2",
+  "pos": "adj",
+  "ex": "The machine had become sentient and feared being shut down.",
+  "src": "SF classique"
+ },
+ {
+  "w": "uprising",
+  "fr": "soulèvement",
+  "def": "A rebellion against authority",
+  "syn": "revolt, insurrection, mutiny",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "The uprising spread quickly to other cities.",
+  "src": "SF classique"
+ },
+ {
+  "w": "wasteland",
+  "fr": "terre désolée",
+  "def": "An empty, ruined land",
+  "syn": "desert, wilderness, badlands",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "After the war, the country was a toxic wasteland.",
+  "src": "SF classique"
+ },
+ {
+  "w": "aftermath",
+  "fr": "suites, lendemain",
+  "def": "The period after a disaster",
+  "syn": "consequences, wake",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "Many people left the city in the aftermath of the flood.",
+  "src": "SF classique"
+ },
+ {
+  "w": "bleak",
+  "fr": "morne, sombre",
+  "def": "Cold, empty and without hope",
+  "syn": "grim, dismal, desolate",
+  "lvl": "C1",
+  "pos": "adj",
+  "ex": "The future looked bleak for the survivors.",
+  "src": "SF classique"
+ },
+ {
+  "w": "looming",
+  "fr": "menaçant",
+  "def": "Appearing large and threatening",
+  "syn": "impending, threatening",
+  "lvl": "C1",
+  "pos": "adj",
+  "ex": "Workers are worried about the looming job cuts.",
+  "src": "SF classique"
+ },
+ {
+  "w": "derelict",
+  "fr": "épave, abandonné",
+  "def": "Abandoned and falling apart",
+  "syn": "abandoned, ruined, wreck",
+  "lvl": "C2",
+  "pos": "adj",
+  "ex": "They explored a derelict ship drifting in space.",
+  "src": "SF classique"
+ },
+ {
+  "w": "hatch",
+  "fr": "écoutille, trappe",
+  "def": "A small door in a floor, ceiling or ship",
+  "syn": "trapdoor, porthole",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "He opened the hatch and climbed down the ladder.",
+  "src": "SF classique"
+ },
+ {
+  "w": "beacon",
+  "fr": "balise",
+  "def": "A light or signal used as a guide or warning",
+  "syn": "signal, marker, flare",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "The emergency beacon sent out a signal for help.",
+  "src": "SF classique"
+ },
+ {
+  "w": "probe",
+  "fr": "sonde",
+  "def": "An unmanned spacecraft sent to explore",
+  "syn": "drone, explorer",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "The probe sent back pictures of Jupiter's moons.",
+  "src": "SF classique"
+ },
+ {
+  "w": "swarm",
+  "fr": "essaim",
+  "def": "A large, moving group of insects or machines",
+  "syn": "horde, cloud, throng",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "A swarm of drones filled the sky.",
+  "src": "SF classique"
+ },
+ {
+  "w": "hive",
+  "fr": "ruche",
+  "def": "A home for bees; a busy, crowded place",
+  "syn": "colony, nest",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "The bees returned to their hive at sunset.",
+  "src": "SF classique"
+ },
+ {
+  "w": "overlord",
+  "fr": "suzerain, maître",
+  "def": "A ruler with supreme power",
+  "syn": "master, tyrant",
+  "lvl": "C2",
+  "pos": "noun",
+  "ex": "The alien overlords ruled the Earth for a century.",
+  "src": "SF classique"
+ },
+ {
+  "w": "dissent",
+  "fr": "dissidence",
+  "def": "Disagreement with official views",
+  "syn": "opposition, protest",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "The regime did not tolerate any dissent.",
+  "src": "SF classique"
+ },
+ {
+  "w": "compliance",
+  "fr": "conformité, soumission",
+  "def": "Obeying a rule or order",
+  "syn": "obedience, submission",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "The company must ensure compliance with the new rules.",
+  "src": "SF classique"
+ },
+ {
+  "w": "propaganda",
+  "fr": "propagande",
+  "def": "Biased information used to influence people",
+  "syn": "indoctrination, spin",
+  "lvl": "B2",
+  "pos": "noun",
+  "ex": "The posters were pure government propaganda.",
+  "src": "SF classique"
+ },
+ {
+  "w": "surveillance",
+  "fr": "surveillance",
+  "def": "Close observation of people, often by the state",
+  "syn": "monitoring, spying",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "The suspect was kept under surveillance for weeks.",
+  "src": "SF classique"
+ },
+ {
+  "w": "dystopia",
+  "fr": "dystopie",
+  "def": "An imagined society where life is terrible",
+  "syn": "anti-utopia, nightmare world",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "The novel describes a dystopia ruled by machines.",
+  "src": "SF classique"
+ },
+ {
+  "w": "utopia",
+  "fr": "utopie",
+  "def": "An imagined perfect society",
+  "syn": "paradise, Eden",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "They dreamed of building a utopia on a new planet.",
+  "src": "SF classique"
+ },
+ {
+  "w": "mutant",
+  "fr": "mutant",
+  "def": "A creature with genetic changes",
+  "syn": "freak, variant",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "Radiation had turned the animals into mutants.",
+  "src": "SF classique"
+ },
+ {
+  "w": "alien",
+  "fr": "extraterrestre",
+  "def": "A being from another world; foreign",
+  "syn": "extraterrestrial, outsider",
+  "lvl": "B1",
+  "pos": "noun",
+  "ex": "In the film, aliens land in the middle of New York.",
+  "src": "SF classique"
+ },
+ {
+  "w": "breach",
+  "fr": "brèche",
+  "def": "A gap or a break in a wall or rule",
+  "syn": "rupture, violation, gap",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "There was a breach in the hull, and air escaped.",
+  "src": "SF classique"
+ },
+ {
+  "w": "salvage",
+  "fr": "récupérer (une épave)",
+  "def": "To save something from a wreck",
+  "syn": "rescue, recover, scavenge",
+  "lvl": "C1",
+  "pos": "verb",
+  "ex": "They managed to salvage some fuel from the wreck.",
+  "src": "SF classique"
+ },
+ {
+  "w": "scavenge",
+  "fr": "fouiller (les déchets)",
+  "def": "To search through waste for useful things",
+  "syn": "forage, rummage",
+  "lvl": "C2",
+  "pos": "verb",
+  "ex": "Survivors scavenged the ruins for food and tools.",
+  "src": "SF classique"
+ },
+ {
+  "w": "husk",
+  "fr": "coquille vide",
+  "def": "The dry outer shell of something; an empty shell",
+  "syn": "shell, hull, casing",
+  "lvl": "C2",
+  "pos": "noun",
+  "ex": "Only the burnt husk of the station remained.",
+  "src": "SF classique"
+ },
+ {
+  "w": "grim",
+  "fr": "sinistre",
+  "def": "Very serious and gloomy",
+  "syn": "stern, dour, bleak",
+  "lvl": "C1",
+  "pos": "adj",
+  "ex": "The news from the front was grim.",
+  "src": "SF classique"
+ },
+ {
+  "w": "hollow",
+  "fr": "creux",
+  "def": "Empty inside; insincere",
+  "syn": "empty, vacant, void",
+  "lvl": "B2",
+  "pos": "adj",
+  "ex": "The tree trunk was hollow inside.",
+  "src": "SF classique"
+ },
+ {
+  "w": "decay",
+  "fr": "décomposition",
+  "def": "The gradual process of rotting or falling apart",
+  "syn": "rot, decline, decomposition",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "The old buildings had fallen into decay.",
+  "src": "SF classique"
+ },
+ {
+  "w": "harness",
+  "fr": "exploiter, maîtriser",
+  "def": "To control and use a natural force",
+  "syn": "exploit, channel, tap",
+  "lvl": "C1",
+  "pos": "verb",
+  "ex": "We need to harness the power of the sun.",
+  "src": "SF classique"
+ },
+ {
+  "w": "cryogenic",
+  "fr": "cryogénique",
+  "def": "Relating to very low temperatures (cryosleep)",
+  "syn": "frozen, cryo",
+  "lvl": "C2",
+  "pos": "adj",
+  "ex": "The crew slept in cryogenic pods during the journey.",
+  "src": "SF classique"
+ },
+ {
+  "w": "quarantine",
+  "fr": "quarantaine",
+  "def": "Isolation to prevent the spread of disease",
+  "syn": "isolation, confinement",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "The whole crew was placed in quarantine.",
+  "src": "SF classique"
+ },
+ {
+  "w": "omen",
+  "fr": "présage",
+  "def": "A sign of something to come",
+  "syn": "portent, sign, harbinger",
+  "lvl": "C2",
+  "pos": "noun",
+  "ex": "The black cat was seen as a bad omen.",
+  "src": "SF classique"
+ },
+ {
+  "w": "brink",
+  "fr": "bord, seuil",
+  "def": "The edge of a disaster or a cliff",
+  "syn": "verge, edge, threshold",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "The two nations were on the brink of war.",
+  "src": "SF classique"
+ },
+ {
+  "w": "unleash",
+  "fr": "déchaîner",
+  "def": "To release a powerful force",
+  "syn": "release, let loose",
+  "lvl": "C1",
+  "pos": "verb",
+  "ex": "The experiment could unleash a deadly virus.",
+  "src": "SF classique"
+ },
+ {
+  "w": "vast",
+  "fr": "immense",
+  "def": "Extremely large",
+  "syn": "huge, immense, boundless",
+  "lvl": "B2",
+  "pos": "adj",
+  "ex": "The ship drifted through the vast emptiness of space.",
+  "src": "SF classique"
+ },
+ {
+  "w": "void",
+  "fr": "le vide",
+  "def": "A completely empty space",
+  "syn": "emptiness, vacuum, abyss",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "The ship disappeared into the void.",
+  "src": "SF classique"
+ },
+ {
+  "w": "abyss",
+  "fr": "abîme",
+  "def": "A deep, seemingly bottomless pit",
+  "syn": "chasm, gulf, void",
+  "lvl": "C2",
+  "pos": "noun",
+  "ex": "He stared down into the dark abyss.",
+  "src": "SF classique"
+ },
+ {
+  "w": "relentless",
+  "fr": "implacable",
+  "def": "Never stopping or slowing down",
+  "syn": "unrelenting, ceaseless",
+  "lvl": "C1",
+  "pos": "adj",
+  "ex": "The machines continued their relentless advance.",
+  "src": "SF classique"
+ },
+ {
+  "w": "ominous",
+  "fr": "menaçant, de mauvais augure",
+  "def": "Suggesting that something bad will happen",
+  "syn": "menacing, sinister",
+  "lvl": "C1",
+  "pos": "adj",
+  "ex": "Ominous black clouds gathered over the city.",
+  "src": "SF classique"
+ },
+ {
+  "w": "obsolete",
+  "fr": "obsolète",
+  "def": "No longer used; out of date",
+  "syn": "outdated, outmoded",
+  "lvl": "C1",
+  "pos": "adj",
+  "ex": "These old robots are now completely obsolete.",
+  "src": "SF classique"
+ },
+ {
+  "w": "override",
+  "fr": "passer outre, forcer",
+  "def": "To take control over an automatic system",
+  "syn": "overrule, bypass",
+  "lvl": "C1",
+  "pos": "verb",
+  "ex": "The captain overrode the autopilot and took control.",
+  "src": "SF classique"
+ },
+ {
+  "w": "upload",
+  "fr": "téléverser, mettre en ligne",
+  "def": "To transfer data to a system",
+  "syn": "transfer, send",
+  "lvl": "B1",
+  "pos": "verb",
+  "ex": "She uploaded her photos to the cloud.",
+  "src": "SF classique"
+ },
+ {
+  "w": "mainstream",
+  "fr": "courant dominant",
+  "def": "The ideas accepted by most people",
+  "syn": "conventional, standard",
+  "lvl": "C1",
+  "pos": "noun",
+  "ex": "His ideas are now part of the mainstream.",
+  "src": "SF classique"
+ }
+]

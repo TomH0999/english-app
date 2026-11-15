@@ -125,3 +125,37 @@ main { flex: 1; position: relative; min-height: 0; }
 @keyframes pop { from { transform: scale(.9); opacity: 0; } }
 
 .reset { color: var(--muted); font-size: 12px; text-decoration: underline; margin-top: 18px; }
+
+/* Niveaux : filtres */
+.chips { display: flex; gap: 6px; justify-content: center; flex-wrap: wrap; padding: 0 0 10px; max-width: 440px; margin: 0 auto; }
+.chip { font-size: 13px; font-weight: 700; padding: 6px 11px; border-radius: 99px; border: 1.5px solid var(--line); color: var(--muted); background: var(--bg2); }
+.chip.on { color: #061018; background: var(--lc, var(--accent)); border-color: var(--lc, var(--accent)); }
+.chip.sf.on { --lc: var(--pink); color: #fff; }
+.lv-A1 { --lc: #7ee787; } .lv-A2 { --lc: #3ef2a0; } .lv-B1 { --lc: #4dd4ff; }
+.lv-B2 { --lc: #00e5ff; } .lv-C1 { --lc: #b48cff; } .lv-C2 { --lc: #ff3d8b; }
+
+.card .tags { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
+.card .lvl { font-size: 12px; font-weight: 800; padding: 3px 9px; border-radius: 99px; background: var(--lc); color: #061018; }
+.card .pos { font-size: 12px; color: var(--muted); font-style: italic; }
+.card .word { margin-top: 14px; }
+.card hr { margin: 14px 0; }
+.card .def { font-size: 16px; margin-bottom: 10px; }
+.card .ex { font-size: 15px; font-style: italic; color: #c3cbef; border-left: 3px solid var(--lc, var(--accent)); padding-left: 10px; margin-bottom: 14px; line-height: 1.4; }
+
+/* Vue Niveaux */
+#levels-box { max-width: 440px; width: 100%; margin: 0 auto; flex: 1; overflow-y: auto; padding-bottom: 16px; }
+.est { text-align: center; margin: 4px 0 14px; color: var(--muted); }
+.est b { font-size: 30px; display: block; color: var(--text); }
+.lvcard { background: var(--card); border: 1px solid var(--line); border-radius: 18px; padding: 14px 16px; margin-bottom: 10px; }
+.lvcard .row { display: flex; align-items: center; justify-content: space-between; gap: 8px; }
+.lvcard .name { font-weight: 800; font-size: 18px; display: flex; align-items: center; gap: 8px; }
+.lvcard .name i { font-style: normal; font-size: 12px; color: var(--muted); font-weight: 500; }
+.lvcard .pill { font-size: 12px; font-weight: 800; padding: 3px 9px; border-radius: 99px; background: var(--lc); color: #061018; }
+.lvcard .ok { color: var(--ok); font-weight: 700; font-size: 13px; }
+.lvcard .bar { height: 7px; background: var(--bg2); border-radius: 99px; overflow: hidden; margin: 10px 0 6px; display: flex; }
+.lvcard .bar .k { background: var(--ok); } .lvcard .bar .l { background: var(--warn); }
+.lvcard .meta { font-size: 12px; color: var(--muted); }
+.lvcard .btns { display: flex; gap: 8px; margin-top: 10px; }
+.lvcard .btns button { flex: 1; padding: 10px; border-radius: 12px; font-size: 14px; font-weight: 700; border: 1.5px solid var(--line); background: var(--bg2); }
+.lvcard .btns button.main { background: var(--lc); color: #061018; border-color: var(--lc); }
+.lvnote { font-size: 12px; color: var(--muted); text-align: center; line-height: 1.5; padding: 4px 10px; }
