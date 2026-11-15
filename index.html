@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+  <title>SciFi Vocab</title>
+  <meta name="description" content="Apprends le vocabulaire anglais des classiques de la science-fiction.">
+  <meta name="theme-color" content="#0b0d17">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <div class="brand">SciFi<span>Vocab</span></div>
+    <div class="stats">
+      <span class="stat" title="Mots restants à découvrir"><b id="st-new">0</b> à voir</span>
+      <span class="stat warn" title="Mots vus, à valider"><b id="st-test">0</b> à tester</span>
+      <span class="stat ok" title="Mots validés"><b id="st-known">0</b> acquis</span>
+    </div>
+  </header>
+
+  <main>
+    <!-- ── Mode apprentissage ── -->
+    <section id="view-learn" class="view active">
+      <div class="deck" id="deck"></div>
+      <div class="actions">
+        <button class="act again" id="btn-again" aria-label="À revoir">↺<small>Encore</small></button>
+        <button class="act speak" id="btn-speak" aria-label="Prononcer">🔊</button>
+        <button class="act seen" id="btn-seen" aria-label="Vu">✓<small>Vu</small></button>
+      </div>
+      <p class="hint">Swipe → <b>vu</b> (part en test) · ← <b>encore</b> (revient plus tard)</p>
+    </section>
+
+    <!-- ── Mode test ── -->
+    <section id="view-test" class="view">
+      <div id="test-box"></div>
+    </section>
+  </main>
+
+  <nav class="tabs">
+    <button class="tab active" data-view="learn">🃏<span>Apprendre</span></button>
+    <button class="tab" data-view="test">🎯<span>Test</span><i class="badge" id="badge">0</i></button>
+  </nav>
+
+  <!-- Rappel tous les 10 swipes -->
+  <div class="modal" id="modal" hidden>
+    <div class="modal-card">
+      <div class="modal-ico">🎯</div>
+      <h2>Petit test ?</h2>
+      <p id="modal-text">Tu as vu 10 nouveaux mots. Valide-les pour les ancrer !</p>
+      <button class="primary" id="modal-go">Lancer le test</button>
+      <button class="ghost" id="modal-later">Plus tard</button>
+    </div>
+  </div>
+
+  <script src="words.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
