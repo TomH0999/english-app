@@ -18,8 +18,10 @@
   const KEY = "scifi-vocab-v1";
   const TEST_EVERY = 10;      // rappel de test tous les N swipes
   const TEST_SIZE = 10;       // questions max par test de révision
-  const LEVEL_TEST_SIZE = 20; // questions par test de niveau
-  const LEVEL_PASS = 0.8;     // 80 % pour valider un niveau
+  const LEVEL_TEST_SIZE = 20; // questions par test de niveau (réponses à taper)
+  const LEVEL_PASS = 17;      // bonnes réponses minimum pour réussir un test (85 %)
+  // Nombre de tests réussis (avec des mots différents) pour valider chaque niveau
+  const TESTS_REQUIRED = { A1: 10, A2: 10, B1: 12, B2: 15, C1: 18, C2: 20 };
   const AGAIN_GAP = 5;        // un mot "encore" revient N cartes plus loin
 
   const shuffle = a => {
@@ -34,14 +36,16 @@
   // state.deck = file des mots inconnus (à swiper), dans l'ordre
   // state.retry[word] = true si raté au test
   // state.levels = niveaux affichés dans la pile ; state.sf = seulement le vocabulaire SF
-  // state.validated[lvl] = date de validation du niveau
+  // state.lt[lvl] = { passed: nb de tests réussis, used: mots déjà tirés, best, date (validation) }
   function load() {
     let s;
     try { s = JSON.parse(localStorage.getItem(KEY)); } catch (e) { s = null; }
     if (!s || typeof s !== "object") s = {};
     s.status = s.status || {};
     s.retry = s.retry || {};
-    s.validated = s.validated || {};
+    delete s.validated; // anciennes validations par QCM : plus valables
+    s.lt = s.lt || {};
+    LEVELS.forEach(l => { s.lt[l] = Object.assign({ passed: 0, used: [], date: null }, s.lt[l]); });
     s.deck = Array.isArray(s.deck) ? s.deck : [];
     s.sinceTest = s.sinceTest || 0;
     s.levels = Array.isArray(s.levels) ? s.levels.filter(l => LEVELS.includes(l)) : [];
@@ -278,14 +282,131 @@
     renderQuestion();
   }
 
+  // ── Test de niveau : réponses tapées ─────────────────────
+  const norm = s => String(s).toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "")
+    .replace(/[’`]/g, "'").replace(/[-_/]/g, " ").replace(/[^a-z0-9' ]/g, "").replace(/\s+/g, " ").trim();
+  const stripFr = s => s.replace(/^(le |la |les |l'|un |une |des |du |de la |d'|se |s')/, "").trim();
+  const stripEn = s => s.replace(/^(to |a |an |the )/, "").trim();
+  const FILLERS = /\b(sb|sth|someone|something|somebody|one's|qqn|qqch|quelqu'un|quelque chose)\b/g;
+
+  // Toutes les formes acceptées pour une réponse attendue
+  function accepted(target, lang) {
+    const out = new Set();
+    const strip = lang === "fr" ? stripFr : stripEn;
+    const parts = [];
+    String(target).split(/[,;/]|\bou\b/).forEach(p => {
+      const inner = p.match(/\(([^)]*)\)/);
+      parts.push(p.replace(/\([^)]*\)/g, ""));
+      if (inner) parts.push(inner[1], p.replace(/[()]/g, ""));
+    });
+    for (const p of parts) {
+      const n = norm(p);
+      if (!n) continue;
+      [n, strip(n), norm(n.replace(FILLERS, "")), strip(norm(n.replace(FILLERS, "")))]
+        .forEach(v => v && out.add(v));
+    }
+    return [...out];
+  }
+
+  function lev(a, b) {
+    if (Math.abs(a.length - b.length) > 2) return 3;
+    const d = Array.from({ length: a.length + 1 }, (_, i) => [i]);
+    for (let j = 1; j <= b.length; j++) d[0][j] = j;
+    for (let i = 1; i <= a.length; i++)
+      for (let j = 1; j <= b.length; j++)
+        d[i][j] = Math.min(d[i - 1][j] + 1, d[i][j - 1] + 1, d[i - 1][j - 1] + (a[i - 1] === b[j - 1] ? 0 : 1));
+    return d[a.length][b.length];
+  }
+
+  function isCorrect(input, target, lang) {
+    const strip = lang === "fr" ? stripFr : stripEn;
+    const a = strip(norm(input));
+    if (!a) return false;
+    return accepted(target, lang).some(t => {
+      if (a === t) return true;
+      const tol = t.length >= 11 ? 2 : t.length >= 5 ? 1 : 0; // petite faute de frappe tolérée
+      return lev(a, t) <= tol;
+    });
+  }
+
+  // Indice pour le sens français → anglais : première lettre + nombre de lettres
+  const pattern = w => w.split(" ").map(x => x[0] + " _".repeat(Math.max(0, x.length - 1))).join("   ");
+
   function startLevelTest(lvl) {
     updateStats();
-    // On privilégie les mots pas encore acquis, complétés par des mots acquis si besoin
-    const notKnown = shuffle(byLevel[lvl].filter(e => state.status[e.w] !== "known").map(e => e.w));
-    const known = shuffle(byLevel[lvl].filter(e => state.status[e.w] === "known").map(e => e.w));
-    const pool = notKnown.concat(known).slice(0, LEVEL_TEST_SIZE);
-    quiz = { pool, i: 0, results: [], mode: "level", lvl };
-    renderQuestion();
+    const lt = state.lt[lvl];
+    // Chaque test tire des mots jamais encore utilisés dans un test de ce niveau
+    let fresh = byLevel[lvl].filter(e => !lt.used.includes(e.w)).map(e => e.w);
+    if (fresh.length < LEVEL_TEST_SIZE) { lt.used = []; fresh = byLevel[lvl].map(e => e.w); }
+    const pool = shuffle(fresh).slice(0, LEVEL_TEST_SIZE);
+    lt.used.push(...pool);
+    save();
+    // Moitié français → anglais, moitié anglais → français, dans le désordre
+    const dirs = shuffle(pool.map((_, i) => i % 2 ? "fr2en" : "en2fr"));
+    quiz = { pool, dirs, i: 0, results: [], mode: "level", lvl };
+    renderTyped();
+  }
+
+  function renderTyped() {
+    const e = DB.get(quiz.pool[quiz.i]);
+    const fr2en = quiz.dirs[quiz.i] === "fr2en";
+    box.innerHTML = `
+      <div class="q-meta"><span>Test de niveau ${quiz.lvl} · ${quiz.i + 1}/${quiz.pool.length}</span>
+        <span>${quiz.results.filter(r => r.ok).length} ✓ · ${quiz.results.filter(r => !r.ok).length} ✗</span></div>
+      <div class="progress"><i style="width:${(quiz.i / quiz.pool.length) * 100}%"></i></div>
+      <div class="q-dir">${fr2en ? "🇫🇷 → 🇬🇧" : "🇬🇧 → 🇫🇷"}</div>
+      <div class="q-word">${esc(fr2en ? e.fr : e.w)}</div>
+      <div class="q-ask">${fr2en ? `Écris le mot anglais${e.pos ? ` (${esc(e.pos)})` : ""}` : "Écris la traduction en français"}</div>
+      ${fr2en ? `<div class="q-hint">${esc(pattern(e.w))}</div>` : ""}
+      <form id="typed" autocomplete="off">
+        <input id="answer" class="answer" type="text" autocapitalize="off" autocorrect="off" spellcheck="false"
+          enterkeyhint="done" placeholder="${fr2en ? "English word…" : "Traduction…"}">
+        <button class="primary" type="submit">Valider</button>
+        <button class="ghost" type="button" id="skip">Je ne sais pas</button>
+      </form>
+      <div id="fb"></div>`;
+    if (!fr2en) speak(e.w);
+    const input = $("answer");
+    setTimeout(() => input.focus(), 50);
+    $("typed").onsubmit = ev => { ev.preventDefault(); if (input.value.trim()) answerTyped(input.value, e, fr2en); };
+    $("skip").onclick = () => answerTyped("", e, fr2en);
+  }
+
+  function markWord(e, ok) {
+    if (ok) {
+      state.status[e.w] = "known";
+      delete state.retry[e.w];
+      state.deck = state.deck.filter(x => x !== e.w);
+    } else {
+      // Raté → retour en tête de la pile de swipe
+      delete state.status[e.w];
+      state.retry[e.w] = true;
+      state.deck = [e.w, ...state.deck.filter(x => x !== e.w)];
+    }
+  }
+
+  function answerTyped(value, e, fr2en) {
+    const ok = isCorrect(value, fr2en ? e.w : e.fr, fr2en ? "en" : "fr");
+    markWord(e, ok);
+    save(); updateStats();
+    const res = { e, ok, given: value.trim(), fr2en };
+    quiz.results.push(res);
+
+    $("typed").querySelectorAll("input,button").forEach(x => x.disabled = true);
+    $("answer").classList.add(ok ? "right" : "wrong");
+    const expected = fr2en ? e.w : e.fr;
+    $("fb").innerHTML = `<div class="feedback">
+        ${ok ? `<b class="ok">✓ Correct !</b> ${norm(value) !== norm(expected) ? `Réponse attendue : <b>${esc(expected)}</b>` : ""}`
+             : `<b class="ko">✗ ${value.trim() ? "Faux" : "Pas de réponse"}.</b> ${esc(fr2en ? e.fr : e.w)} = <b>${esc(expected)}</b>. Retour dans ta pile de swipe.`}
+        <div class="def">${esc(e.w)} — ${esc(e.def)}${e.ex ? `<br><i>${esc(e.ex)}</i>` : ""}</div>
+      </div>
+      <button class="primary" id="next">${quiz.i + 1 < quiz.pool.length ? "Suivant →" : "Voir le résultat"}</button>
+      ${!ok && value.trim() && !fr2en ? `<button class="ghost" id="override">Ma traduction était correcte</button>` : ""}`;
+    const next = $("next");
+    next.onclick = nextQ;
+    setTimeout(() => next.focus(), 50);
+    const ov = $("override");
+    if (ov) ov.onclick = () => { res.ok = true; markWord(e, true); save(); updateStats(); nextQ(); };
   }
 
   function renderQuestion() {
@@ -330,16 +451,7 @@
     });
     if (!ok) btn.classList.add("wrong");
 
-    if (ok) {
-      state.status[e.w] = "known";
-      delete state.retry[e.w];
-      state.deck = state.deck.filter(x => x !== e.w);
-    } else {
-      // Raté → retour en tête de la pile de swipe
-      delete state.status[e.w];
-      state.retry[e.w] = true;
-      state.deck = [e.w, ...state.deck.filter(x => x !== e.w)];
-    }
+    markWord(e, ok);
     save();
     updateStats();
     quiz.results.push({ e, ok });
@@ -357,7 +469,7 @@
     clearTimeout(quiz.timer);
     if (currentView !== "test") return;
     quiz.i++;
-    if (quiz.i < quiz.pool.length) renderQuestion();
+    if (quiz.i < quiz.pool.length) quiz.mode === "level" ? renderTyped() : renderQuestion();
     else renderResults();
   }
 
@@ -367,15 +479,23 @@
     const left = learningWords().length;
     let head, buttons;
     if (quiz.mode === "level") {
-      const passed = good / total >= LEVEL_PASS;
-      if (passed) state.validated[quiz.lvl] = new Date().toISOString().slice(0, 10);
+      const lt = state.lt[quiz.lvl], req = TESTS_REQUIRED[quiz.lvl];
+      const passed = good >= LEVEL_PASS;
+      let justValidated = false;
+      if (passed && !quiz.counted) {
+        quiz.counted = true;
+        lt.passed++;
+        if (lt.passed >= req && !lt.date) { lt.date = new Date().toISOString().slice(0, 10); justValidated = true; }
+      }
       save();
-      head = `<div class="big">${passed ? "🏅" : "📚"}</div>
-        <h3>${passed ? `Niveau ${quiz.lvl} validé !` : `${quiz.lvl} pas encore validé`}</h3>
-        <p>${good}/${total} bonnes réponses (il en faut ${Math.ceil(total * LEVEL_PASS)}).
-        ${passed ? "" : "Les mots ratés sont dans ta pile de swipe : révise-les puis retente."}</p>`;
-      buttons = `<button class="primary" id="b1">${passed ? "Voir mes niveaux" : "Retenter le test"}</button>
-        <button class="ghost" id="b2">Swiper le niveau ${quiz.lvl}</button>`;
+      const left = Math.max(0, req - lt.passed);
+      head = `<div class="big">${justValidated ? "🏅" : passed ? "✅" : "📚"}</div>
+        <h3>${justValidated ? `Niveau ${quiz.lvl} validé !` : passed ? "Test réussi !" : "Test raté"}</h3>
+        <p>${good}/${total} bonnes réponses (il en faut ${LEVEL_PASS}).<br>
+        Tests réussis en ${quiz.lvl} : <b>${lt.passed}/${req}</b>${left ? ` — encore ${left} pour valider le niveau.` : "."}
+        ${passed ? "" : "<br>Les mots ratés sont dans ta pile de swipe : révise-les puis retente."}</p>`;
+      buttons = `<button class="primary" id="b1">${left ? "Test suivant" : "Voir mes niveaux"}</button>
+        <button class="ghost" id="b2">Réviser en swipant le ${quiz.lvl}</button>`;
     } else {
       head = `<div class="big">${good === total ? "🏆" : good >= total / 2 ? "👍" : "💪"}</div>
         <h3>${good}/${total} validés</h3>
@@ -387,10 +507,13 @@
       <ul class="result-list">${quiz.results.map(r =>
         `<li class="${r.ok ? "ok" : "ko"}"><span>${r.ok ? "✓" : "✗"} ${esc(r.e.w)}</span><span>${esc(r.e.fr)}</span></li>`).join("")}</ul>
       ${buttons}</div>`;
-    const lvl = quiz.lvl, passed = !!state.validated[lvl];
+    const lvl = quiz.lvl;
     const b1 = $("b1"), b2 = $("b2");
     if (quiz.mode === "level") {
-      b1.onclick = () => passed && good / total >= LEVEL_PASS ? show("levels") : show("test", { level: lvl });
+      box.querySelector(".result-list").innerHTML = quiz.results.map(r =>
+        `<li class="${r.ok ? "ok" : "ko"}"><span>${r.ok ? "✓" : "✗"} ${esc(r.fr2en ? r.e.fr : r.e.w)}</span>
+         <span>${r.ok ? "" : `<s>${esc(r.given || "—")}</s> `}${esc(r.fr2en ? r.e.w : r.e.fr)}</span></li>`).join("");
+      b1.onclick = () => state.lt[lvl].passed >= TESTS_REQUIRED[lvl] ? show("levels") : show("test", { level: lvl });
       b2.onclick = () => { state.levels = [lvl]; state.sf = false; save(); show("learn"); };
     } else {
       if (b1) b1.onclick = startReview;
@@ -402,25 +525,28 @@
   function renderLevels() {
     updateStats();
     // Niveau estimé = plus haut niveau validé sans trou depuis A1
+    const isVal = l => state.lt[l].passed >= TESTS_REQUIRED[l];
     let est = null;
-    for (const l of LEVELS) { if (state.validated[l]) est = l; else break; }
-    const best = LEVELS.filter(l => state.validated[l]).pop();
+    for (const l of LEVELS) { if (isVal(l)) est = l; else break; }
+    const best = LEVELS.filter(isVal).pop();
 
     const rows = LEVELS.map(l => {
       const list = byLevel[l];
       const total = list.length || 1;
       let k = 0, lr = 0;
       for (const e of list) { const s = state.status[e.w]; if (s === "known") k++; else if (s === "learning") lr++; }
-      const v = state.validated[l];
+      const lt = state.lt[l], req = TESTS_REQUIRED[l], v = isVal(l);
+      const date = lt.date ? lt.date.split("-").reverse().join("/") : "";
       return `<div class="lvcard lv-${l}">
         <div class="row">
           <div class="name"><span class="pill">${l}</span> <i>${list.length} mots</i></div>
-          ${v ? `<span class="ok">✓ Validé le ${v.split("-").reverse().join("/")}</span>` : ""}
+          ${v ? `<span class="ok">✓ Validé${date ? " le " + date : ""}</span>` : ""}
         </div>
+        <div class="tests">${Array.from({ length: req }, (_, i) => `<i class="${i < lt.passed ? "done" : ""}"></i>`).join("")}</div>
+        <div class="meta"><b>${Math.min(lt.passed, req)}/${req} tests réussis</b> · ${k} mots acquis (${Math.round(k / total * 100)} %)${lr ? ` · ${lr} à tester` : ""}</div>
         <div class="bar"><span class="k" style="width:${k / total * 100}%"></span><span class="l" style="width:${lr / total * 100}%"></span></div>
-        <div class="meta">${k} acquis · ${lr} à tester · ${Math.round(k / total * 100)} % maîtrisé</div>
         <div class="btns">
-          <button class="main" data-test="${l}">${v ? "Repasser le test" : "Test de niveau"}</button>
+          <button class="main" data-test="${l}">${v ? "Test d'entretien" : `Test n°${lt.passed + 1}`}</button>
           <button data-swipe="${l}">Swiper ${l}</button>
         </div></div>`;
     }).join("");
@@ -428,7 +554,9 @@
     $("levels-box").innerHTML = `
       <div class="est">Ton niveau validé<b>${est || "—"}</b>${best && best !== est ? `(${best} validé aussi : valide les niveaux en dessous pour le confirmer)` : est ? "" : "Commence par valider A1, A2… avec les tests de niveau."}</div>
       ${rows}
-      <p class="lvnote">Test de niveau : ${LEVEL_TEST_SIZE} questions tirées du niveau, ${Math.round(LEVEL_PASS * 100)} % de bonnes réponses pour le valider.
+      <p class="lvnote">Chaque test : ${LEVEL_TEST_SIZE} mots jamais encore tirés dans ce niveau, à <b>écrire</b> toi-même
+      (français → anglais et anglais → français). Il faut ${LEVEL_PASS}/${LEVEL_TEST_SIZE} pour réussir un test, et
+      ${LEVELS.map(l => `${TESTS_REQUIRED[l]} en ${l}`).join(", ")} pour valider le niveau.
       Les mots trouvés passent en « acquis », les ratés retournent dans ta pile de swipe.</p>`;
     $("levels-box").querySelectorAll("[data-test]").forEach(b => b.onclick = () => show("test", { level: b.dataset.test }));
     $("levels-box").querySelectorAll("[data-swipe]").forEach(b => b.onclick = () => {

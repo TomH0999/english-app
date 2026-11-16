@@ -14,8 +14,12 @@ classiques de la SF (*1984*, *Neuromancer*, *Dune*, *Brave New World*, *Fahrenhe
   - Bonne réponse : le mot est **acquis**.
   - Mauvaise réponse : le mot retourne **en tête de la pile de swipe** avec le tag « À revoir ».
 - **Filtre de niveau** au-dessus des cartes (A1 → C2, B2 par défaut) + bouton 🚀 SF pour ne voir que le vocabulaire des romans.
-- **Niveaux** (3e onglet) : progression par niveau et **test de niveau** de 20 questions — 80 % de bonnes réponses valident le niveau.
-  Les mots trouvés passent en « acquis », les ratés retournent dans la pile de swipe.
+- **Niveaux** (3e onglet) : progression par niveau et **tests de niveau** à réponses écrites (pas de QCM),
+  en mélangeant français → anglais (avec la 1re lettre et le nombre de lettres en indice) et anglais → français.
+  - Un test = 20 mots jamais encore tirés dans ce niveau ; il faut **17/20** pour le réussir.
+  - Pour valider un niveau, il faut réussir **10 tests (A1, A2), 12 (B1), 15 (B2), 18 (C1), 20 (C2)**.
+  - Accents, majuscules, articles (le, la, to, the…) et petites fautes de frappe sont tolérés.
+  - Les mots trouvés passent en « acquis », les ratés retournent en tête de la pile de swipe.
 - Tous les **10 swipes**, une fenêtre te propose de lancer un test.
 
 La progression est enregistrée dans le navigateur (localStorage) et l'app marche hors ligne grâce au service worker.
