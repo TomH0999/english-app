@@ -1,0 +1,3269 @@
+[
+{
+"w": "a piece of cake",
+"fr": "du gâteau, très facile",
+"def": "Something very easy to do",
+"syn": "a breeze, child's play",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "The exam was a piece of cake."
+},
+{
+"w": "break the ice",
+"fr": "briser la glace",
+"def": "To make people feel relaxed when they first meet",
+"syn": "ease tension, warm up",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "He told a joke to break the ice."
+},
+{
+"w": "hit the nail on the head",
+"fr": "mettre le doigt dessus",
+"def": "To describe exactly what is causing a situation or problem",
+"syn": "be spot on, be exactly right",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "You've hit the nail on the head with that comment."
+},
+{
+"w": "under the weather",
+"fr": "patraque, pas en forme",
+"def": "Feeling slightly ill",
+"syn": "unwell, poorly, off colour",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "I'm feeling a bit under the weather today."
+},
+{
+"w": "once in a blue moon",
+"fr": "tous les trente-six du mois",
+"def": "Very rarely",
+"syn": "rarely, hardly ever",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "We only go to the cinema once in a blue moon."
+},
+{
+"w": "cost an arm and a leg",
+"fr": "coûter les yeux de la tête",
+"def": "To be extremely expensive",
+"syn": "cost a fortune, be pricey",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "That new phone cost an arm and a leg."
+},
+{
+"w": "let the cat out of the bag",
+"fr": "vendre la mèche",
+"def": "To reveal a secret by mistake",
+"syn": "spill the beans, give away",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "Who let the cat out of the bag about the party?"
+},
+{
+"w": "the ball is in your court",
+"fr": "la balle est dans ton camp",
+"def": "It is now your turn to act or decide",
+"syn": "it's your move, it's up to you",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "I've made my offer, so the ball is in your court."
+},
+{
+"w": "bite off more than you can chew",
+"fr": "avoir les yeux plus gros que le ventre",
+"def": "To try to do more than you are able to",
+"syn": "overcommit, overreach",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "With three jobs, she bit off more than she could chew."
+},
+{
+"w": "burn the midnight oil",
+"fr": "travailler tard le soir",
+"def": "To work or study late into the night",
+"syn": "stay up late, work late",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Students burn the midnight oil before exams."
+},
+{
+"w": "call it a day",
+"fr": "s'arrêter là",
+"def": "To stop working on something for the rest of the day",
+"syn": "stop, finish, knock off",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "It's six o'clock, let's call it a day."
+},
+{
+"w": "cut corners",
+"fr": "bâcler, rogner sur",
+"def": "To do something badly or cheaply to save time or money",
+"syn": "skimp, scrimp",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "The builders cut corners and the roof leaked."
+},
+{
+"w": "get out of hand",
+"fr": "devenir incontrôlable",
+"def": "To become impossible to control",
+"syn": "spiral, escalate",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "The party got out of hand after midnight."
+},
+{
+"w": "get the hang of",
+"fr": "prendre le coup de main",
+"def": "To learn how to do something, especially with practice",
+"syn": "master, pick up",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "You'll soon get the hang of driving."
+},
+{
+"w": "hang in there",
+"fr": "tiens bon",
+"def": "Used to encourage someone to keep going in a difficult situation",
+"syn": "hold on, keep going",
+"lvl": "B2",
+"pos": "expression",
+"ex": "Hang in there, the exams are almost over."
+},
+{
+"w": "in the same boat",
+"fr": "dans le même bateau",
+"def": "In the same difficult situation as others",
+"syn": "in the same situation",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "Don't worry, we're all in the same boat."
+},
+{
+"w": "keep an eye on",
+"fr": "surveiller, garder un œil sur",
+"def": "To watch or look after someone or something carefully",
+"syn": "watch, monitor, mind",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "Can you keep an eye on my bag?"
+},
+{
+"w": "miss the boat",
+"fr": "rater le coche",
+"def": "To lose an opportunity by acting too slowly",
+"syn": "miss out, lose a chance",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Tickets sold out quickly, so we missed the boat."
+},
+{
+"w": "sit on the fence",
+"fr": "ne pas prendre position",
+"def": "To avoid choosing a side in an argument or decision",
+"syn": "stay neutral, hedge, waver",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "You can't sit on the fence forever; choose."
+},
+{
+"w": "pull someone's leg",
+"fr": "faire marcher qqn",
+"def": "To tease someone by telling them something untrue as a joke",
+"syn": "tease, kid, joke",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "Relax, I'm only pulling your leg."
+},
+{
+"w": "see eye to eye",
+"fr": "être d'accord",
+"def": "To agree with someone completely",
+"syn": "agree, concur",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "My father and I rarely see eye to eye."
+},
+{
+"w": "speak of the devil",
+"fr": "quand on parle du loup",
+"def": "Said when the person you are talking about suddenly appears",
+"syn": "talk of the devil",
+"lvl": "B2",
+"pos": "expression",
+"ex": "Speak of the devil, here comes Tom now."
+},
+{
+"w": "the last straw",
+"fr": "la goutte d'eau de trop",
+"def": "The final problem that makes a situation unbearable",
+"syn": "the final straw, the limit",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "Being late again was the last straw."
+},
+{
+"w": "the tip of the iceberg",
+"fr": "la partie émergée de l'iceberg",
+"def": "A small visible part of a much larger problem",
+"syn": "just the beginning",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "These complaints are only the tip of the iceberg."
+},
+{
+"w": "time flies",
+"fr": "le temps passe vite",
+"def": "Time seems to pass very quickly",
+"syn": "time races by",
+"lvl": "B2",
+"pos": "expression",
+"ex": "Time flies when you're having fun."
+},
+{
+"w": "to make matters worse",
+"fr": "pour ne rien arranger",
+"def": "Used to add something that makes a bad situation worse",
+"syn": "what's more, on top of that",
+"lvl": "B2",
+"pos": "expression",
+"ex": "To make matters worse, it started to rain."
+},
+{
+"w": "when pigs fly",
+"fr": "quand les poules auront des dents",
+"def": "Never; something will certainly not happen",
+"syn": "never, not in a million years",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "He'll apologise when pigs fly."
+},
+{
+"w": "a blessing in disguise",
+"fr": "un mal pour un bien",
+"def": "Something that seems bad at first but turns out well",
+"syn": "hidden benefit, silver lining",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Losing that job was a blessing in disguise."
+},
+{
+"w": "a dime a dozen",
+"fr": "à la pelle",
+"def": "Very common and therefore of little value",
+"syn": "ten a penny, common",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Cheap souvenir shops are a dime a dozen here."
+},
+{
+"w": "beat around the bush",
+"fr": "tourner autour du pot",
+"def": "To avoid talking directly about something",
+"syn": "evade, hedge, prevaricate",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "Stop beating around the bush and tell me."
+},
+{
+"w": "better late than never",
+"fr": "mieux vaut tard que jamais",
+"def": "It is better to do something late than not at all",
+"syn": "late is better than not at all",
+"lvl": "B2",
+"pos": "expression",
+"ex": "You finally called! Better late than never."
+},
+{
+"w": "bite the bullet",
+"fr": "prendre son courage à deux mains",
+"def": "To force yourself to do something unpleasant but necessary",
+"syn": "face it, grit your teeth",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "I bit the bullet and went to the dentist."
+},
+{
+"w": "break a leg",
+"fr": "merde, bonne chance",
+"def": "Used to wish a performer good luck",
+"syn": "good luck, all the best",
+"lvl": "B2",
+"pos": "expression",
+"ex": "Break a leg on stage tonight!"
+},
+{
+"w": "by the skin of your teeth",
+"fr": "de justesse",
+"def": "Only just; by a very small margin",
+"syn": "narrowly, barely, just",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "He passed the test by the skin of his teeth."
+},
+{
+"w": "get cold feet",
+"fr": "se dégonfler",
+"def": "To suddenly feel too nervous to do something planned",
+"syn": "lose your nerve, back out",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "She got cold feet the night before the wedding."
+},
+{
+"w": "give someone the benefit of the doubt",
+"fr": "accorder le bénéfice du doute",
+"def": "To believe someone even though you are not sure they are honest",
+"syn": "trust, believe",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "I'll give him the benefit of the doubt this time."
+},
+{
+"w": "go back to the drawing board",
+"fr": "repartir de zéro",
+"def": "To start planning again after an idea has failed",
+"syn": "start over, rethink",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "The plan failed, so we went back to the drawing board."
+},
+{
+"w": "hit the sack",
+"fr": "aller se pieuter",
+"def": "To go to bed",
+"syn": "turn in, hit the hay",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "I'm exhausted, I'm going to hit the sack."
+},
+{
+"w": "in hot water",
+"fr": "dans le pétrin",
+"def": "In trouble, especially for doing something wrong",
+"syn": "in trouble, in a fix",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "He's in hot water for missing the meeting."
+},
+{
+"w": "jump on the bandwagon",
+"fr": "suivre le mouvement",
+"def": "To join an activity because it has become popular",
+"syn": "follow the trend, follow the crowd",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Many brands jumped on the bandwagon of eco-friendly products."
+},
+{
+"w": "kill two birds with one stone",
+"fr": "faire d'une pierre deux coups",
+"def": "To achieve two aims with a single action",
+"syn": "double up",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "I'll visit Mum and shop there, killing two birds with one stone."
+},
+{
+"w": "let sleeping dogs lie",
+"fr": "ne pas réveiller le chat qui dort",
+"def": "To avoid raising an old problem that could cause trouble",
+"syn": "leave well alone",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Don't mention the argument; let sleeping dogs lie."
+},
+{
+"w": "make ends meet",
+"fr": "joindre les deux bouts",
+"def": "To have just enough money to pay for basic needs",
+"syn": "get by, scrape by, manage",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "They work two jobs to make ends meet."
+},
+{
+"w": "no pain, no gain",
+"fr": "on n'a rien sans rien",
+"def": "You must suffer or work hard to achieve something",
+"syn": "effort pays off",
+"lvl": "B2",
+"pos": "expression",
+"ex": "Training is hard, but no pain, no gain."
+},
+{
+"w": "off the top of my head",
+"fr": "de mémoire, comme ça",
+"def": "Without checking or thinking carefully",
+"syn": "offhand, from memory",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "Off the top of my head, I'd say about fifty."
+},
+{
+"w": "on thin ice",
+"fr": "sur la corde raide",
+"def": "In a risky situation where trouble could easily come",
+"syn": "at risk, in danger",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "You're on thin ice after being late twice."
+},
+{
+"w": "out of the blue",
+"fr": "à l'improviste, sans prévenir",
+"def": "Suddenly and unexpectedly",
+"syn": "unexpectedly, suddenly",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "An old friend called me out of the blue."
+},
+{
+"w": "play it by ear",
+"fr": "improviser, voir venir",
+"def": "To decide what to do as a situation develops",
+"syn": "improvise, wing it",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "We have no plan; let's play it by ear."
+},
+{
+"w": "pull yourself together",
+"fr": "se ressaisir",
+"def": "To regain control of your emotions",
+"syn": "calm down, compose yourself",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "Pull yourself together and stop crying."
+},
+{
+"w": "rule of thumb",
+"fr": "règle empirique",
+"def": "A practical general principle based on experience",
+"syn": "guideline, general rule",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "As a rule of thumb, save ten percent of your income."
+},
+{
+"w": "spill the beans",
+"fr": "vendre la mèche",
+"def": "To reveal secret information",
+"syn": "reveal, blab, let slip",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "Come on, spill the beans! Who is she?"
+},
+{
+"w": "take it with a pinch of salt",
+"fr": "prendre avec des pincettes",
+"def": "To not completely believe something you are told",
+"syn": "be sceptical, doubt",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Take his stories with a pinch of salt."
+},
+{
+"w": "the elephant in the room",
+"fr": "le sujet tabou",
+"def": "An obvious problem that everyone avoids talking about",
+"syn": "taboo subject, unspoken issue",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Nobody mentioned the debt, the elephant in the room."
+},
+{
+"w": "throw in the towel",
+"fr": "jeter l'éponge",
+"def": "To give up; to admit defeat",
+"syn": "give up, quit, surrender",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "After five failed attempts, he threw in the towel."
+},
+{
+"w": "a storm in a teacup",
+"fr": "une tempête dans un verre d'eau",
+"def": "A lot of fuss about something unimportant",
+"syn": "fuss about nothing",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Their argument was just a storm in a teacup."
+},
+{
+"w": "actions speak louder than words",
+"fr": "les actes valent mieux que les mots",
+"def": "What you do matters more than what you say",
+"syn": "deeds not words",
+"lvl": "B2",
+"pos": "expression",
+"ex": "Stop promising; actions speak louder than words."
+},
+{
+"w": "add insult to injury",
+"fr": "pour couronner le tout",
+"def": "To make a bad situation even worse",
+"syn": "make matters worse",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "To add insult to injury, they charged me a fee."
+},
+{
+"w": "at the drop of a hat",
+"fr": "sans hésiter, au quart de tour",
+"def": "Immediately, without needing to be asked twice",
+"syn": "instantly, readily",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "She'd travel abroad at the drop of a hat."
+},
+{
+"w": "back to square one",
+"fr": "retour à la case départ",
+"def": "Back to the beginning after a failed attempt",
+"syn": "start again, from scratch",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "The deal fell through, so we're back to square one."
+},
+{
+"w": "bark up the wrong tree",
+"fr": "se tromper de cible",
+"def": "To have a wrong idea about who or what is responsible",
+"syn": "be mistaken, be wrong",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "If you think I took it, you're barking up the wrong tree."
+},
+{
+"w": "on cloud nine",
+"fr": "aux anges",
+"def": "Extremely happy",
+"syn": "ecstatic, overjoyed, elated",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "She's been on cloud nine since the wedding."
+},
+{
+"w": "a drop in the ocean",
+"fr": "une goutte d'eau dans la mer",
+"def": "A very small amount compared with what is needed",
+"syn": "a tiny amount, a pittance",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "The donation is just a drop in the ocean."
+},
+{
+"w": "face the music",
+"fr": "assumer les conséquences",
+"def": "To accept criticism or punishment for something you did",
+"syn": "take responsibility, answer for",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "He broke the window and now must face the music."
+},
+{
+"w": "a fish out of water",
+"fr": "comme un poisson hors de l'eau",
+"def": "Someone who feels uncomfortable in an unfamiliar situation",
+"syn": "out of place, misfit",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "I felt like a fish out of water at the gala."
+},
+{
+"w": "get something off your chest",
+"fr": "vider son sac",
+"def": "To talk about something that has been worrying you",
+"syn": "confess, unburden yourself",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "I need to get this off my chest."
+},
+{
+"w": "give someone the cold shoulder",
+"fr": "battre froid à qqn",
+"def": "To ignore someone deliberately or treat them unfriendly",
+"syn": "snub, ignore, cold-shoulder",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "After our argument, she gave me the cold shoulder."
+},
+{
+"w": "go the extra mile",
+"fr": "faire un effort supplémentaire",
+"def": "To make more effort than is expected",
+"syn": "go above and beyond",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "Our staff always go the extra mile for customers."
+},
+{
+"w": "have a chip on your shoulder",
+"fr": "être aigri, avoir une rancœur",
+"def": "To feel resentful because you think you were treated unfairly",
+"syn": "be resentful, bear a grudge",
+"lvl": "C2",
+"pos": "idiom",
+"ex": "He has a chip on his shoulder about his education."
+},
+{
+"w": "head over heels",
+"fr": "follement amoureux",
+"def": "Completely in love with someone",
+"syn": "madly, deeply in love",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "He fell head over heels for her."
+},
+{
+"w": "keep your chin up",
+"fr": "garde le moral",
+"def": "Used to encourage someone to stay cheerful in difficulty",
+"syn": "cheer up, stay positive",
+"lvl": "B2",
+"pos": "expression",
+"ex": "Keep your chin up; things will get better."
+},
+{
+"w": "to cut a long story short",
+"fr": "bref, pour faire court",
+"def": "Used to say you will tell only the main point",
+"syn": "in short, briefly",
+"lvl": "B2",
+"pos": "expression",
+"ex": "To cut a long story short, we missed the flight."
+},
+{
+"w": "not my cup of tea",
+"fr": "pas mon truc",
+"def": "Not something I like or am interested in",
+"syn": "not my thing, not to my taste",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "Opera is just not my cup of tea."
+},
+{
+"w": "on the ball",
+"fr": "vif, réactif",
+"def": "Quick to understand and react; alert",
+"syn": "alert, sharp, quick",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Our new assistant is really on the ball."
+},
+{
+"w": "over the moon",
+"fr": "aux anges, ravi",
+"def": "Extremely pleased and happy",
+"syn": "delighted, thrilled",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "She was over the moon with her results."
+},
+{
+"w": "put all your eggs in one basket",
+"fr": "mettre tous ses œufs dans le même panier",
+"def": "To risk everything on a single plan or investment",
+"syn": "risk everything",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Diversify; don't put all your eggs in one basket."
+},
+{
+"w": "rain cats and dogs",
+"fr": "pleuvoir des cordes",
+"def": "To rain very heavily",
+"syn": "pour, bucket down",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "It's raining cats and dogs outside."
+},
+{
+"w": "ring a bell",
+"fr": "dire quelque chose",
+"def": "To sound familiar",
+"syn": "sound familiar, remind",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "His name rings a bell, but I can't place him."
+},
+{
+"w": "save for a rainy day",
+"fr": "garder une poire pour la soif",
+"def": "To keep money for a time when you might need it",
+"syn": "put aside, save up",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "Grandma always saved for a rainy day."
+},
+{
+"w": "steal the show",
+"fr": "voler la vedette",
+"def": "To attract the most attention and praise at an event",
+"syn": "upstage, outshine",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "The young actress stole the show."
+},
+{
+"w": "take the bull by the horns",
+"fr": "prendre le taureau par les cornes",
+"def": "To deal with a difficult situation directly and confidently",
+"syn": "confront, tackle head-on",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "She took the bull by the horns and asked for a raise."
+},
+{
+"w": "the best of both worlds",
+"fr": "le meilleur des deux mondes",
+"def": "A situation with the advantages of two different things",
+"syn": "ideal combination",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "Working from home gives me the best of both worlds."
+},
+{
+"w": "through thick and thin",
+"fr": "contre vents et marées",
+"def": "In good times and bad times",
+"syn": "no matter what, loyally",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "They stayed friends through thick and thin."
+},
+{
+"w": "turn a blind eye",
+"fr": "fermer les yeux sur",
+"def": "To pretend not to notice something wrong",
+"syn": "ignore, overlook, disregard",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "The manager turned a blind eye to their lateness."
+},
+{
+"w": "under the radar",
+"fr": "discrètement, sans attirer l'attention",
+"def": "Without being noticed by others",
+"syn": "unnoticed, low-key",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "The project stayed under the radar for months."
+},
+{
+"w": "up in the air",
+"fr": "en suspens, incertain",
+"def": "Not yet decided; uncertain",
+"syn": "undecided, unresolved",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "Our holiday plans are still up in the air."
+},
+{
+"w": "water under the bridge",
+"fr": "de l'histoire ancienne",
+"def": "Past problems that are no longer important",
+"syn": "in the past, forgotten",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "We argued years ago, but that's water under the bridge."
+},
+{
+"w": "with flying colours",
+"fr": "haut la main",
+"def": "With great success, easily",
+"syn": "brilliantly, easily",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "She passed her driving test with flying colours."
+},
+{
+"w": "your guess is as good as mine",
+"fr": "je n'en sais pas plus que toi",
+"def": "I do not know any more than you do",
+"syn": "no idea, who knows",
+"lvl": "B2",
+"pos": "expression",
+"ex": "Where is he? Your guess is as good as mine."
+},
+{
+"w": "the bottom line",
+"fr": "l'essentiel, le fond du problème",
+"def": "The most important fact or result in a situation",
+"syn": "crux, main point",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "The bottom line is we can't afford it."
+},
+{
+"w": "a long shot",
+"fr": "un pari risqué",
+"def": "Something with only a small chance of success",
+"syn": "slim chance, gamble",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "It's a long shot, but I'll apply anyway."
+},
+{
+"w": "a close call",
+"fr": "il s'en est fallu de peu",
+"def": "A situation where an accident or failure was narrowly avoided",
+"syn": "near miss, narrow escape",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "That car nearly hit us — what a close call!"
+},
+{
+"w": "a bird in the hand is worth two in the bush",
+"fr": "un tiens vaut mieux que deux tu l'auras",
+"def": "Something certain is better than something better but uncertain",
+"syn": "better safe than sorry",
+"lvl": "C1",
+"pos": "expression",
+"ex": "Accept the offer; a bird in the hand is worth two in the bush."
+},
+{
+"w": "a penny for your thoughts",
+"fr": "à quoi tu penses ?",
+"def": "Used to ask someone what they are thinking about",
+"syn": "what are you thinking?",
+"lvl": "C1",
+"pos": "expression",
+"ex": "You look miles away. A penny for your thoughts?"
+},
+{
+"w": "all ears",
+"fr": "tout ouïe",
+"def": "Listening eagerly and with full attention",
+"syn": "attentive, listening closely",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "Go on, tell me everything, I'm all ears."
+},
+{
+"w": "at the end of the day",
+"fr": "en fin de compte",
+"def": "When everything has been considered",
+"syn": "ultimately, in the end",
+"lvl": "B2",
+"pos": "expression",
+"ex": "At the end of the day, it's your decision."
+},
+{
+"w": "bend over backwards",
+"fr": "se mettre en quatre",
+"def": "To try very hard to help or please someone",
+"syn": "go out of your way, make every effort",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "The hotel staff bent over backwards to help us."
+},
+{
+"w": "bury the hatchet",
+"fr": "enterrer la hache de guerre",
+"def": "To stop arguing and become friends again",
+"syn": "make peace, reconcile",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "The two brothers finally buried the hatchet."
+},
+{
+"w": "don't judge a book by its cover",
+"fr": "l'habit ne fait pas le moine",
+"def": "You should not judge something only by its appearance",
+"syn": "appearances can be deceptive",
+"lvl": "B2",
+"pos": "expression",
+"ex": "He looks rough but he's kind; don't judge a book by its cover."
+},
+{
+"w": "come rain or shine",
+"fr": "qu'il pleuve ou qu'il vente",
+"def": "Whatever happens; whatever the weather",
+"syn": "no matter what, regardless",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "He runs every morning, come rain or shine."
+},
+{
+"w": "cross that bridge when you come to it",
+"fr": "chaque chose en son temps",
+"def": "To deal with a problem only when it actually happens",
+"syn": "wait and see",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "If it fails, we'll cross that bridge when we come to it."
+},
+{
+"w": "no use crying over spilt milk",
+"fr": "ce qui est fait est fait",
+"def": "It is pointless to be upset about something that cannot be changed",
+"syn": "what's done is done",
+"lvl": "C1",
+"pos": "expression",
+"ex": "The vase is broken; it's no use crying over spilt milk."
+},
+{
+"w": "cut to the chase",
+"fr": "aller droit au but",
+"def": "To talk about the most important thing directly",
+"syn": "get to the point",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Let's cut to the chase: how much does it cost?"
+},
+{
+"w": "down to earth",
+"fr": "terre à terre, les pieds sur terre",
+"def": "Practical, realistic and unpretentious",
+"syn": "practical, sensible, unpretentious",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "Despite her fame, she's very down to earth."
+},
+{
+"w": "easier said than done",
+"fr": "plus facile à dire qu'à faire",
+"def": "Simple to suggest but difficult to actually do",
+"syn": "harder than it sounds",
+"lvl": "B2",
+"pos": "expression",
+"ex": "Stop worrying? That's easier said than done."
+},
+{
+"w": "every cloud has a silver lining",
+"fr": "à quelque chose malheur est bon",
+"def": "Every bad situation has some good aspect",
+"syn": "look on the bright side",
+"lvl": "C1",
+"pos": "expression",
+"ex": "I lost my job, but every cloud has a silver lining."
+},
+{
+"w": "fit as a fiddle",
+"fr": "en pleine forme",
+"def": "In very good health",
+"syn": "healthy, in great shape",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "At ninety, my grandfather is fit as a fiddle."
+},
+{
+"w": "get the ball rolling",
+"fr": "lancer les choses",
+"def": "To start an activity or process",
+"syn": "kick off, start, initiate",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "Let's get the ball rolling with some introductions."
+},
+{
+"w": "get your act together",
+"fr": "se reprendre en main",
+"def": "To start organising yourself and behaving more effectively",
+"syn": "shape up, get organised",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "You need to get your act together before the exams."
+},
+{
+"w": "go with the flow",
+"fr": "suivre le mouvement",
+"def": "To accept things as they happen without resisting",
+"syn": "relax, adapt, go along",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "On holiday, I just go with the flow."
+},
+{
+"w": "have second thoughts",
+"fr": "avoir des doutes, hésiter",
+"def": "To start doubting a decision you have made",
+"syn": "reconsider, doubt, waver",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "I'm having second thoughts about moving abroad."
+},
+{
+"w": "hit the ground running",
+"fr": "être opérationnel immédiatement",
+"def": "To start something new with energy and immediate success",
+"syn": "start fast, get off to a flying start",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "New staff are expected to hit the ground running."
+},
+{
+"w": "in a nutshell",
+"fr": "en un mot, en résumé",
+"def": "Expressed very briefly",
+"syn": "briefly, in short, in sum",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "In a nutshell, the project was a failure."
+},
+{
+"w": "in the long run",
+"fr": "à long terme",
+"def": "Over a long period of time; eventually",
+"syn": "eventually, ultimately",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "Exercise will benefit you in the long run."
+},
+{
+"w": "it's not rocket science",
+"fr": "ce n'est pas sorcier",
+"def": "Used to say that something is not difficult",
+"syn": "it's easy, it's simple",
+"lvl": "B2",
+"pos": "expression",
+"ex": "Just follow the instructions; it's not rocket science."
+},
+{
+"w": "keep someone in the loop",
+"fr": "tenir qqn au courant",
+"def": "To keep someone informed about what is happening",
+"syn": "keep informed, update",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "Please keep me in the loop about the project."
+},
+{
+"w": "learn the ropes",
+"fr": "apprendre les ficelles",
+"def": "To learn how to do a particular job or activity",
+"syn": "get the hang of, learn the basics",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "It took me a month to learn the ropes."
+},
+{
+"w": "leave no stone unturned",
+"fr": "remuer ciel et terre",
+"def": "To search or try in every possible way",
+"syn": "try everything, search thoroughly",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Police left no stone unturned in their search."
+},
+{
+"w": "let off steam",
+"fr": "se défouler",
+"def": "To release strong emotions or energy in a harmless way",
+"syn": "unwind, vent, blow off steam",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "I go running to let off steam after work."
+},
+{
+"w": "make a mountain out of a molehill",
+"fr": "en faire tout un fromage",
+"def": "To treat a small problem as if it were very serious",
+"syn": "exaggerate, overreact",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "It's a tiny scratch; don't make a mountain out of a molehill."
+},
+{
+"w": "on the same page",
+"fr": "sur la même longueur d'onde",
+"def": "In agreement or sharing the same understanding",
+"syn": "in agreement, aligned",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "Let's make sure we're all on the same page."
+},
+{
+"w": "out of the question",
+"fr": "hors de question",
+"def": "Impossible or not allowed",
+"syn": "impossible, unthinkable",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "A pay rise this year is out of the question."
+},
+{
+"w": "pull strings",
+"fr": "faire jouer ses relations",
+"def": "To use influence with powerful people to get an advantage",
+"syn": "use connections, pull wires",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "His uncle pulled strings to get him the job."
+},
+{
+"w": "put your foot in it",
+"fr": "mettre les pieds dans le plat",
+"def": "To say something tactless that embarrasses or upsets someone",
+"syn": "blunder, make a gaffe",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "I really put my foot in it when I mentioned her ex."
+},
+{
+"w": "read between the lines",
+"fr": "lire entre les lignes",
+"def": "To understand a hidden meaning that is not stated directly",
+"syn": "infer, deduce",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "Reading between the lines, he's not happy."
+},
+{
+"w": "sleep on it",
+"fr": "la nuit porte conseil",
+"def": "To wait until the next day before making a decision",
+"syn": "think it over, mull over",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "Don't decide now; sleep on it."
+},
+{
+"w": "stab someone in the back",
+"fr": "poignarder qqn dans le dos",
+"def": "To betray someone who trusted you",
+"syn": "betray, double-cross",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "I trusted him, and he stabbed me in the back."
+},
+{
+"w": "take something for granted",
+"fr": "tenir pour acquis",
+"def": "To fail to appreciate something because it is always there",
+"syn": "assume, undervalue",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "We often take our health for granted."
+},
+{
+"w": "the writing is on the wall",
+"fr": "les carottes sont cuites",
+"def": "There are clear signs that something bad will happen",
+"syn": "it's doomed, the end is near",
+"lvl": "C2",
+"pos": "idiom",
+"ex": "With sales falling, the writing was on the wall."
+},
+{
+"w": "think outside the box",
+"fr": "sortir des sentiers battus",
+"def": "To think creatively in a new and unusual way",
+"syn": "be creative, innovate",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "We need to think outside the box here."
+},
+{
+"w": "tie the knot",
+"fr": "se marier",
+"def": "To get married",
+"syn": "marry, wed, get hitched",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "They're tying the knot next summer."
+},
+{
+"w": "touch wood",
+"fr": "je touche du bois",
+"def": "Said to avoid bad luck after mentioning good fortune",
+"syn": "knock on wood, fingers crossed",
+"lvl": "B2",
+"pos": "expression",
+"ex": "I've never been ill, touch wood."
+},
+{
+"w": "under someone's thumb",
+"fr": "sous la coupe de qqn",
+"def": "Completely controlled by someone",
+"syn": "dominated, controlled",
+"lvl": "C2",
+"pos": "idiom",
+"ex": "He's completely under his wife's thumb."
+},
+{
+"w": "up to scratch",
+"fr": "à la hauteur",
+"def": "Good enough; of an acceptable standard",
+"syn": "satisfactory, adequate, up to par",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Your work isn't up to scratch."
+},
+{
+"w": "a far cry from",
+"fr": "très loin de",
+"def": "Very different from something",
+"syn": "quite unlike, nothing like",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "This flat is a far cry from our old house."
+},
+{
+"w": "a hot potato",
+"fr": "un sujet brûlant",
+"def": "A controversial issue that is difficult to deal with",
+"syn": "controversial issue, thorny issue",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Immigration is a political hot potato."
+},
+{
+"w": "a slap on the wrist",
+"fr": "une petite tape sur les doigts",
+"def": "A very mild punishment",
+"syn": "light punishment, warning",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "The company got only a slap on the wrist."
+},
+{
+"w": "against the clock",
+"fr": "contre la montre",
+"def": "Trying to finish something before a time limit",
+"syn": "in a hurry, racing time",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "We worked against the clock to finish the report."
+},
+{
+"w": "all in all",
+"fr": "tout compte fait",
+"def": "Considering everything",
+"syn": "overall, on the whole",
+"lvl": "B2",
+"pos": "expression",
+"ex": "All in all, it was a great trip."
+},
+{
+"w": "behind closed doors",
+"fr": "à huis clos",
+"def": "In private, without the public knowing",
+"syn": "privately, in secret",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "The negotiations took place behind closed doors."
+},
+{
+"w": "below the belt",
+"fr": "un coup bas",
+"def": "Unfair and cruel, especially in a remark",
+"syn": "unfair, low, unsporting",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Mentioning his divorce was a bit below the belt."
+},
+{
+"w": "beyond the pale",
+"fr": "inacceptable, inadmissible",
+"def": "Completely unacceptable in behaviour or morals",
+"syn": "unacceptable, outrageous",
+"lvl": "C2",
+"pos": "idiom",
+"ex": "His racist comments were beyond the pale."
+},
+{
+"w": "blow your own trumpet",
+"fr": "se jeter des fleurs",
+"def": "To boast about your own achievements",
+"syn": "boast, brag, show off",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "I don't like to blow my own trumpet, but I won."
+},
+{
+"w": "by and large",
+"fr": "dans l'ensemble",
+"def": "On the whole; generally",
+"syn": "generally, mostly, overall",
+"lvl": "C1",
+"pos": "expression",
+"ex": "By and large, the audience enjoyed the show."
+},
+{
+"w": "call the shots",
+"fr": "mener la barque",
+"def": "To be the person who makes the important decisions",
+"syn": "be in charge, be the boss",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "In this house, my mother calls the shots."
+},
+{
+"w": "catch someone red-handed",
+"fr": "prendre qqn la main dans le sac",
+"def": "To discover someone while they are doing something wrong",
+"syn": "catch in the act",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "The thief was caught red-handed."
+},
+{
+"w": "change your tune",
+"fr": "changer de discours",
+"def": "To change your opinion or attitude, often for selfish reasons",
+"syn": "change your mind, backtrack",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "He soon changed his tune when he saw the money."
+},
+{
+"w": "clear the air",
+"fr": "dissiper les malentendus",
+"def": "To remove tension or misunderstanding by talking openly",
+"syn": "settle differences, smooth things over",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "We had a long talk to clear the air."
+},
+{
+"w": "come to terms with",
+"fr": "accepter, se faire à",
+"def": "To gradually accept a sad or difficult situation",
+"syn": "accept, accommodate, adjust to",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "She is still coming to terms with his death."
+},
+{
+"w": "cut someone some slack",
+"fr": "lâcher la bride à qqn",
+"def": "To be less strict or critical with someone",
+"syn": "go easy on, be lenient",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Cut him some slack; he's new here."
+},
+{
+"w": "draw the line",
+"fr": "fixer une limite",
+"def": "To set a limit on what you are willing to accept",
+"syn": "set a limit, refuse",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "I help at home, but I draw the line at ironing."
+},
+{
+"w": "drive someone up the wall",
+"fr": "rendre qqn fou",
+"def": "To make someone extremely annoyed",
+"syn": "infuriate, exasperate, annoy",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "That noise is driving me up the wall."
+},
+{
+"w": "fall on deaf ears",
+"fr": "tomber dans l'oreille d'un sourd",
+"def": "To be ignored or not listened to",
+"syn": "be ignored, go unheeded",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "My warnings fell on deaf ears."
+},
+{
+"w": "few and far between",
+"fr": "rares, peu nombreux",
+"def": "Rare; not happening or found often",
+"syn": "rare, scarce, infrequent",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Good jobs are few and far between here."
+},
+{
+"w": "foot the bill",
+"fr": "payer la note",
+"def": "To pay for something, often something expensive",
+"syn": "pay, cover the cost",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Taxpayers will foot the bill for the new stadium."
+},
+{
+"w": "from scratch",
+"fr": "à partir de zéro",
+"def": "From the very beginning, without using anything already prepared",
+"syn": "from the beginning, anew",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "She made the cake from scratch."
+},
+{
+"w": "get on someone's nerves",
+"fr": "taper sur les nerfs de qqn",
+"def": "To annoy someone",
+"syn": "annoy, irritate, bug",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "His constant whistling gets on my nerves."
+},
+{
+"w": "get the wrong end of the stick",
+"fr": "comprendre de travers",
+"def": "To misunderstand a situation or what someone says",
+"syn": "misunderstand, misinterpret",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "I think you've got the wrong end of the stick."
+},
+{
+"w": "give the green light",
+"fr": "donner le feu vert",
+"def": "To give permission for something to start",
+"syn": "approve, authorise, okay",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "The council gave the green light to the project."
+},
+{
+"w": "go down the drain",
+"fr": "partir en fumée",
+"def": "To be wasted or lost completely",
+"syn": "be wasted, be lost",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "All our hard work went down the drain."
+},
+{
+"w": "go to great lengths",
+"fr": "se donner beaucoup de mal",
+"def": "To make a great effort to achieve something",
+"syn": "make every effort, strive",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "They went to great lengths to keep it secret."
+},
+{
+"w": "hold your horses",
+"fr": "minute, pas si vite",
+"def": "Used to tell someone to wait or slow down",
+"syn": "wait, slow down, hang on",
+"lvl": "B2",
+"pos": "expression",
+"ex": "Hold your horses! We haven't decided yet."
+},
+{
+"w": "have your hands full",
+"fr": "avoir du pain sur la planche",
+"def": "To be very busy",
+"syn": "be busy, be swamped",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "With three kids, she has her hands full."
+},
+{
+"w": "in the dark",
+"fr": "dans l'ignorance",
+"def": "Not knowing about something that others know",
+"syn": "uninformed, unaware",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "Employees were kept in the dark about the merger."
+},
+{
+"w": "in the nick of time",
+"fr": "juste à temps",
+"def": "Just in time, at the last possible moment",
+"syn": "just in time, at the last minute",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "The ambulance arrived in the nick of time."
+},
+{
+"w": "jump the gun",
+"fr": "agir prématurément",
+"def": "To do something too soon, before the right time",
+"syn": "act prematurely, be hasty",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Let's not jump the gun; wait for the results."
+},
+{
+"w": "keep a low profile",
+"fr": "se faire discret",
+"def": "To avoid attracting attention",
+"syn": "lie low, stay out of sight",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "After the scandal, he kept a low profile."
+},
+{
+"w": "keep your fingers crossed",
+"fr": "croiser les doigts",
+"def": "To hope that something will happen as you want",
+"syn": "hope for the best",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "Keep your fingers crossed for my interview."
+},
+{
+"w": "lend a hand",
+"fr": "donner un coup de main",
+"def": "To help someone",
+"syn": "help, assist, pitch in",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "Could you lend me a hand with these boxes?"
+},
+{
+"w": "let your hair down",
+"fr": "se lâcher, se détendre",
+"def": "To relax and enjoy yourself without worrying",
+"syn": "relax, unwind, chill out",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "At the party, everyone let their hair down."
+},
+{
+"w": "make no bones about",
+"fr": "ne pas cacher, ne pas se gêner",
+"def": "To say something openly without hesitation or embarrassment",
+"syn": "be frank about, be open about",
+"lvl": "C2",
+"pos": "idiom",
+"ex": "She made no bones about her dislike of him."
+},
+{
+"w": "not have a leg to stand on",
+"fr": "n'avoir aucun argument valable",
+"def": "To have no good evidence or argument to support you",
+"syn": "have no case",
+"lvl": "C2",
+"pos": "idiom",
+"ex": "Without a receipt, you don't have a leg to stand on."
+},
+{
+"w": "off the record",
+"fr": "officieusement",
+"def": "Said unofficially and not to be made public",
+"syn": "unofficially, confidentially",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Off the record, the minister admitted mistakes."
+},
+{
+"w": "on the tip of my tongue",
+"fr": "sur le bout de la langue",
+"def": "Almost remembered but not quite",
+"syn": "almost remembered",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "Her name is on the tip of my tongue."
+},
+{
+"w": "out of your depth",
+"fr": "dépassé, perdu",
+"def": "In a situation that is too difficult for you",
+"syn": "overwhelmed, lost",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "In the advanced class, I felt out of my depth."
+},
+{
+"w": "over the top",
+"fr": "exagéré, excessif",
+"def": "Too extreme or exaggerated",
+"syn": "excessive, exaggerated, OTT",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "Her reaction was a bit over the top."
+},
+{
+"w": "paint the town red",
+"fr": "faire la fête, faire la bringue",
+"def": "To go out and celebrate in a lively way",
+"syn": "party, celebrate",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "After the exams, we painted the town red."
+},
+{
+"w": "pass the buck",
+"fr": "se renvoyer la balle",
+"def": "To shift responsibility or blame to someone else",
+"syn": "shift the blame, evade responsibility",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Managers kept passing the buck instead of fixing it."
+},
+{
+"w": "pay through the nose",
+"fr": "payer le prix fort",
+"def": "To pay far too much for something",
+"syn": "overpay, be ripped off",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "We paid through the nose for those tickets."
+},
+{
+"w": "play devil's advocate",
+"fr": "se faire l'avocat du diable",
+"def": "To argue the opposite view to encourage discussion",
+"syn": "argue the other side",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Let me play devil's advocate for a moment."
+},
+{
+"w": "pop the question",
+"fr": "faire sa demande en mariage",
+"def": "To ask someone to marry you",
+"syn": "propose",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "He popped the question on the beach at sunset."
+},
+{
+"w": "rock the boat",
+"fr": "faire des vagues",
+"def": "To cause problems by disturbing a stable situation",
+"syn": "make waves, cause trouble",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Don't rock the boat right before the deal is signed."
+},
+{
+"w": "it goes without saying",
+"fr": "il va sans dire",
+"def": "Used to say something is obvious",
+"syn": "obviously, needless to say",
+"lvl": "B2",
+"pos": "expression",
+"ex": "It goes without saying that you're welcome here."
+},
+{
+"w": "run out of steam",
+"fr": "s'essouffler",
+"def": "To lose energy or enthusiasm",
+"syn": "tire, flag, lose momentum",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "The campaign ran out of steam after a month."
+},
+{
+"w": "see the light",
+"fr": "ouvrir les yeux, comprendre",
+"def": "To finally understand or accept something",
+"syn": "realise, understand",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "He finally saw the light and quit smoking."
+},
+{
+"w": "set in stone",
+"fr": "gravé dans le marbre",
+"def": "Fixed and impossible to change",
+"syn": "fixed, final, unchangeable",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "These dates aren't set in stone."
+},
+{
+"w": "smell a rat",
+"fr": "flairer quelque chose de louche",
+"def": "To suspect that something is wrong or dishonest",
+"syn": "be suspicious, suspect",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "When he offered to pay, I smelled a rat."
+},
+{
+"w": "split hairs",
+"fr": "couper les cheveux en quatre",
+"def": "To argue about very small, unimportant differences",
+"syn": "quibble, nitpick",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Stop splitting hairs; the meaning is clear."
+},
+{
+"w": "spread yourself too thin",
+"fr": "se disperser",
+"def": "To try to do too many things at once",
+"syn": "overcommit, overextend",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "With four projects, you're spreading yourself too thin."
+},
+{
+"w": "take a rain check",
+"fr": "remettre à plus tard",
+"def": "To politely decline an offer but suggest another time",
+"syn": "postpone, defer",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Can I take a rain check on dinner tonight?"
+},
+{
+"w": "take the plunge",
+"fr": "se jeter à l'eau",
+"def": "To finally decide to do something risky or important",
+"syn": "go for it, commit",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "They took the plunge and bought a house."
+},
+{
+"w": "the icing on the cake",
+"fr": "la cerise sur le gâteau",
+"def": "Something extra that makes a good situation even better",
+"syn": "bonus, crowning touch",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "Winning the prize was the icing on the cake."
+},
+{
+"w": "throw caution to the wind",
+"fr": "jeter toute prudence aux orties",
+"def": "To act boldly without worrying about the risks",
+"syn": "take a risk, be reckless",
+"lvl": "C2",
+"pos": "idiom",
+"ex": "He threw caution to the wind and quit his job."
+},
+{
+"w": "to the letter",
+"fr": "à la lettre",
+"def": "Exactly, paying attention to every detail",
+"syn": "exactly, precisely, strictly",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Follow the instructions to the letter."
+},
+{
+"w": "twist someone's arm",
+"fr": "forcer la main à qqn",
+"def": "To persuade someone to do something they don't want to",
+"syn": "persuade, pressure, coax",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "OK, you've twisted my arm, I'll have dessert."
+},
+{
+"w": "under wraps",
+"fr": "gardé secret",
+"def": "Kept secret",
+"syn": "secret, confidential, hidden",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "The new model is being kept under wraps."
+},
+{
+"w": "walk on eggshells",
+"fr": "marcher sur des œufs",
+"def": "To be very careful not to upset someone",
+"syn": "tread carefully, be cautious",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Since the argument, we've been walking on eggshells."
+},
+{
+"w": "wear your heart on your sleeve",
+"fr": "montrer ses sentiments",
+"def": "To show your feelings openly",
+"syn": "be open, be emotional",
+"lvl": "C2",
+"pos": "idiom",
+"ex": "He wears his heart on his sleeve."
+},
+{
+"w": "a wild goose chase",
+"fr": "une course inutile",
+"def": "A long, pointless search for something impossible to find",
+"syn": "futile search, fool's errand",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "The false address sent us on a wild goose chase."
+},
+{
+"w": "a whole new ball game",
+"fr": "une tout autre histoire",
+"def": "A completely different situation",
+"syn": "a different matter",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Teaching adults is a whole new ball game."
+},
+{
+"w": "a can of worms",
+"fr": "un sac de nœuds",
+"def": "A complicated situation that causes many new problems",
+"syn": "hornet's nest, mess",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Changing the law would open a can of worms."
+},
+{
+"w": "a level playing field",
+"fr": "des conditions équitables",
+"def": "A situation where everyone has an equal chance",
+"syn": "fair competition, equal footing",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "New rules should create a level playing field."
+},
+{
+"w": "a red herring",
+"fr": "une fausse piste",
+"def": "Something that distracts attention from the real issue",
+"syn": "distraction, decoy",
+"lvl": "C2",
+"pos": "idiom",
+"ex": "The missing key was a red herring."
+},
+{
+"w": "an uphill battle",
+"fr": "un combat difficile",
+"def": "A struggle that is very hard to win",
+"syn": "struggle, uphill struggle",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Changing their minds will be an uphill battle."
+},
+{
+"w": "at a loose end",
+"fr": "désœuvré, sans rien à faire",
+"def": "Having nothing to do",
+"syn": "idle, unoccupied, bored",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Call me if you're at a loose end this weekend."
+},
+{
+"w": "at loggerheads",
+"fr": "en désaccord, à couteaux tirés",
+"def": "In strong disagreement",
+"syn": "in conflict, at odds",
+"lvl": "C2",
+"pos": "idiom",
+"ex": "The two ministers are at loggerheads over taxes."
+},
+{
+"w": "someone's bark is worse than their bite",
+"fr": "chien qui aboie ne mord pas",
+"def": "Someone seems more aggressive or angry than they really are",
+"syn": "all bluster",
+"lvl": "C1",
+"pos": "expression",
+"ex": "Don't fear the boss; his bark is worse than his bite."
+},
+{
+"w": "bite your tongue",
+"fr": "se mordre la langue",
+"def": "To stop yourself from saying something",
+"syn": "hold your tongue, keep quiet",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "I wanted to argue, but I bit my tongue."
+},
+{
+"w": "bring home the bacon",
+"fr": "faire bouillir la marmite",
+"def": "To earn money to support your family",
+"syn": "earn a living, provide",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "She brings home the bacon in their family."
+},
+{
+"w": "burn your bridges",
+"fr": "couper les ponts",
+"def": "To act in a way that makes going back impossible",
+"syn": "cut ties, burn your boats",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Leave politely; don't burn your bridges."
+},
+{
+"w": "business as usual",
+"fr": "la routine, comme d'habitude",
+"def": "Things continuing normally despite difficulties",
+"syn": "normal, as usual",
+"lvl": "B2",
+"pos": "expression",
+"ex": "Despite the storm, it was business as usual."
+},
+{
+"w": "by word of mouth",
+"fr": "de bouche à oreille",
+"def": "Through people telling each other informally",
+"syn": "orally, through gossip",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "The restaurant became famous by word of mouth."
+},
+{
+"w": "come full circle",
+"fr": "boucler la boucle",
+"def": "To return to the original position or situation",
+"syn": "return, go back",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Fashion has come full circle."
+},
+{
+"w": "cut both ways",
+"fr": "être à double tranchant",
+"def": "To have both advantages and disadvantages",
+"syn": "be double-edged",
+"lvl": "C2",
+"pos": "idiom",
+"ex": "Flexibility cuts both ways for workers."
+},
+{
+"w": "dead in the water",
+"fr": "au point mort",
+"def": "Having failed with no chance of success",
+"syn": "doomed, finished, stalled",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Without funding, the project is dead in the water."
+},
+{
+"w": "do the trick",
+"fr": "faire l'affaire",
+"def": "To achieve the result that is needed",
+"syn": "work, succeed, suffice",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "A cup of tea should do the trick."
+},
+{
+"w": "drop someone a line",
+"fr": "envoyer un petit mot à qqn",
+"def": "To send someone a short letter or message",
+"syn": "write to, message",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "Drop me a line when you arrive."
+},
+{
+"w": "easy come, easy go",
+"fr": "ce qui vient de la flûte s'en va par le tambour",
+"def": "Something gained easily is often lost easily too",
+"syn": "no great loss",
+"lvl": "C1",
+"pos": "expression",
+"ex": "I lost the money I won. Easy come, easy go."
+},
+{
+"w": "every now and then",
+"fr": "de temps en temps",
+"def": "Sometimes, but not regularly",
+"syn": "occasionally, from time to time",
+"lvl": "B2",
+"pos": "expression",
+"ex": "Every now and then we eat out."
+},
+{
+"w": "fly off the handle",
+"fr": "sortir de ses gonds",
+"def": "To suddenly become very angry",
+"syn": "lose your temper, explode",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "He flies off the handle at the slightest thing."
+},
+{
+"w": "get a kick out of",
+"fr": "prendre plaisir à",
+"def": "To enjoy something very much",
+"syn": "enjoy, love, relish",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "I get a kick out of driving fast cars."
+},
+{
+"w": "get down to business",
+"fr": "passer aux choses sérieuses",
+"def": "To start dealing with the important matter",
+"syn": "get started, focus",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "Enough chat, let's get down to business."
+},
+{
+"w": "give and take",
+"fr": "des concessions mutuelles",
+"def": "Willingness from both sides to compromise",
+"syn": "compromise, flexibility",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Every relationship needs some give and take."
+},
+{
+"w": "go against the grain",
+"fr": "aller à contre-courant",
+"def": "To be different from what is normal or natural for you",
+"syn": "run counter, be unnatural",
+"lvl": "C2",
+"pos": "idiom",
+"ex": "Lying goes against the grain for me."
+},
+{
+"w": "have a field day",
+"fr": "s'en donner à cœur joie",
+"def": "To enjoy yourself greatly, often by criticising others",
+"syn": "revel, enjoy, exploit",
+"lvl": "C2",
+"pos": "idiom",
+"ex": "The press will have a field day with this."
+},
+{
+"w": "have the last laugh",
+"fr": "rira bien qui rira le dernier",
+"def": "To succeed in the end after others doubted you",
+"syn": "triumph, prove them wrong",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "They mocked her idea, but she had the last laugh."
+},
+{
+"w": "hit the roof",
+"fr": "piquer une crise",
+"def": "To become extremely angry",
+"syn": "explode, go mad, hit the ceiling",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Dad hit the roof when he saw the car."
+},
+{
+"w": "in black and white",
+"fr": "noir sur blanc",
+"def": "Written down, so clearly official",
+"syn": "in writing, on paper",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "I want the agreement in black and white."
+},
+{
+"w": "in the pipeline",
+"fr": "en préparation",
+"def": "Being planned or developed",
+"syn": "in progress, under way",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Several new products are in the pipeline."
+},
+{
+"w": "it takes two to tango",
+"fr": "les torts sont partagés",
+"def": "Both people involved share responsibility for a situation",
+"syn": "both are to blame",
+"lvl": "C1",
+"pos": "expression",
+"ex": "Don't just blame him; it takes two to tango."
+},
+{
+"w": "jump to conclusions",
+"fr": "tirer des conclusions hâtives",
+"def": "To judge too quickly without knowing all the facts",
+"syn": "assume, rush to judgement",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "Don't jump to conclusions before hearing his side."
+},
+{
+"w": "keep a straight face",
+"fr": "garder son sérieux",
+"def": "To avoid laughing or smiling",
+"syn": "stay serious, keep composed",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "I couldn't keep a straight face during his speech."
+},
+{
+"w": "keep your head above water",
+"fr": "garder la tête hors de l'eau",
+"def": "To manage to survive, especially financially",
+"syn": "stay afloat, get by",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "The shop is just keeping its head above water."
+},
+{
+"w": "know something inside out",
+"fr": "connaître sur le bout des doigts",
+"def": "To know something extremely well",
+"syn": "master, know thoroughly",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "She knows this city inside out."
+},
+{
+"w": "leave someone in the lurch",
+"fr": "laisser qqn en plan",
+"def": "To abandon someone when they need help",
+"syn": "abandon, desert, let down",
+"lvl": "C2",
+"pos": "idiom",
+"ex": "He quit suddenly, leaving us in the lurch."
+},
+{
+"w": "like a bull in a china shop",
+"fr": "comme un éléphant dans un magasin de porcelaine",
+"def": "Very clumsy or tactless",
+"syn": "clumsy, tactless",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "He handled the delicate talks like a bull in a china shop."
+},
+{
+"w": "lose sleep over",
+"fr": "s'en faire pour",
+"def": "To worry a lot about something",
+"syn": "worry, fret",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "I wouldn't lose sleep over such a small mistake."
+},
+{
+"w": "make a scene",
+"fr": "faire une scène",
+"def": "To cause a public disturbance by arguing or shouting",
+"syn": "cause a fuss, kick up a fuss",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "Please don't make a scene in the restaurant."
+},
+{
+"w": "mind your own business",
+"fr": "occupe-toi de tes affaires",
+"def": "Used to tell someone not to interfere",
+"syn": "keep out of it",
+"lvl": "B2",
+"pos": "expression",
+"ex": "Mind your own business; this doesn't concern you."
+},
+{
+"w": "money talks",
+"fr": "l'argent est roi",
+"def": "People with money have power and influence",
+"syn": "money is power",
+"lvl": "C1",
+"pos": "expression",
+"ex": "He got the permit quickly; money talks."
+},
+{
+"w": "neck and neck",
+"fr": "au coude à coude",
+"def": "Level with each other in a race or competition",
+"syn": "level, even, tied",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "The two candidates are neck and neck in the polls."
+},
+{
+"w": "nip something in the bud",
+"fr": "tuer dans l'œuf",
+"def": "To stop a problem at an early stage",
+"syn": "stop early, prevent",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Bad habits should be nipped in the bud."
+},
+{
+"w": "no strings attached",
+"fr": "sans contrepartie",
+"def": "With no special conditions or obligations",
+"syn": "unconditionally, freely",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "They offered us the money with no strings attached."
+},
+{
+"w": "not see the wood for the trees",
+"fr": "l'arbre qui cache la forêt",
+"def": "To be too focused on details to see the overall situation",
+"syn": "miss the big picture",
+"lvl": "C2",
+"pos": "idiom",
+"ex": "He's so busy he can't see the wood for the trees."
+},
+{
+"w": "off the beaten track",
+"fr": "hors des sentiers battus",
+"def": "In a quiet, isolated place few people visit",
+"syn": "remote, isolated, secluded",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "We found a lovely village off the beaten track."
+},
+{
+"w": "on the dot",
+"fr": "pile, à l'heure pile",
+"def": "At exactly the stated time",
+"syn": "exactly, precisely, sharp",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "The train left at nine on the dot."
+},
+{
+"w": "on the house",
+"fr": "offert par la maison",
+"def": "Free, paid for by the bar or restaurant",
+"syn": "free, complimentary",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "The desserts are on the house tonight."
+},
+{
+"w": "once bitten, twice shy",
+"fr": "chat échaudé craint l'eau froide",
+"def": "After a bad experience you are more careful",
+"syn": "burnt child dreads the fire",
+"lvl": "C1",
+"pos": "expression",
+"ex": "I won't lend him money again; once bitten, twice shy."
+},
+{
+"w": "out of sorts",
+"fr": "mal fichu, de mauvaise humeur",
+"def": "Slightly unwell or in a bad mood",
+"syn": "unwell, grumpy, off colour",
+"lvl": "C2",
+"pos": "idiom",
+"ex": "She's been out of sorts all week."
+},
+{
+"w": "over my dead body",
+"fr": "il faudra me passer sur le corps",
+"def": "Used to say you will never allow something",
+"syn": "never, no way",
+"lvl": "B2",
+"pos": "expression",
+"ex": "You'll sell this house over my dead body!"
+},
+{
+"w": "part and parcel",
+"fr": "partie intégrante",
+"def": "An essential and unavoidable part of something",
+"syn": "integral part, essential element",
+"lvl": "C2",
+"pos": "idiom",
+"ex": "Stress is part and parcel of the job."
+},
+{
+"w": "pick someone's brains",
+"fr": "demander conseil à qqn",
+"def": "To ask an expert for information or advice",
+"syn": "consult, ask advice",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Can I pick your brains about tax rules?"
+},
+{
+"w": "practice makes perfect",
+"fr": "c'est en forgeant qu'on devient forgeron",
+"def": "Doing something repeatedly is the way to become skilled",
+"syn": "repetition breeds skill",
+"lvl": "B2",
+"pos": "expression",
+"ex": "Keep playing scales; practice makes perfect."
+},
+{
+"w": "pull your weight",
+"fr": "faire sa part",
+"def": "To do your fair share of the work",
+"syn": "do your share, contribute",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Everyone on the team must pull their weight."
+},
+{
+"w": "put two and two together",
+"fr": "faire le rapprochement",
+"def": "To work something out from the available information",
+"syn": "deduce, work out",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "I put two and two together and realised the truth."
+},
+{
+"w": "put someone on the spot",
+"fr": "mettre qqn sur la sellette",
+"def": "To force someone to answer a difficult question immediately",
+"syn": "embarrass, pressure",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "The reporter put the minister on the spot."
+},
+{
+"w": "rub someone up the wrong way",
+"fr": "prendre qqn à rebrousse-poil",
+"def": "To annoy someone, often without meaning to",
+"syn": "irritate, annoy",
+"lvl": "C2",
+"pos": "idiom",
+"ex": "Something about him rubs me up the wrong way."
+},
+{
+"w": "safe and sound",
+"fr": "sain et sauf",
+"def": "Unharmed and secure, especially after danger",
+"syn": "unharmed, unhurt",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "The children returned home safe and sound."
+},
+{
+"w": "second nature",
+"fr": "une seconde nature",
+"def": "Something you do so often that it feels automatic",
+"syn": "habit, instinct",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "After years, driving became second nature."
+},
+{
+"w": "show your true colours",
+"fr": "montrer son vrai visage",
+"def": "To reveal your real character, often a bad one",
+"syn": "reveal yourself, unmask",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "In the crisis, he showed his true colours."
+},
+{
+"w": "sink or swim",
+"fr": "marche ou crève",
+"def": "To fail or succeed entirely through your own efforts",
+"syn": "do or die, make or break",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "New interns are left to sink or swim."
+},
+{
+"w": "sit tight",
+"fr": "ne pas bouger, patienter",
+"def": "To wait patiently and take no action",
+"syn": "wait, stay put",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Sit tight; help is on its way."
+},
+{
+"w": "so far so good",
+"fr": "jusqu'ici tout va bien",
+"def": "Everything has gone well until now",
+"syn": "all good so far",
+"lvl": "B2",
+"pos": "expression",
+"ex": "How's the new job? So far so good."
+},
+{
+"w": "sour grapes",
+"fr": "dépit, jalousie",
+"def": "Pretending to dislike what you cannot have",
+"syn": "jealousy, resentment, envy",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "His criticism of her promotion is just sour grapes."
+},
+{
+"w": "stick to your guns",
+"fr": "ne pas en démordre",
+"def": "To refuse to change your opinion despite pressure",
+"syn": "stand firm, hold your ground",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "She stuck to her guns despite the criticism."
+},
+{
+"w": "take a back seat",
+"fr": "passer au second plan",
+"def": "To choose a less active or important role",
+"syn": "step back, withdraw",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "He's retiring and taking a back seat in the company."
+},
+{
+"w": "the coast is clear",
+"fr": "la voie est libre",
+"def": "There is no one around to see or stop you",
+"syn": "it's safe, all clear",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Wait until the coast is clear, then go."
+},
+{
+"w": "the devil is in the detail",
+"fr": "le diable se cache dans les détails",
+"def": "Small details can cause serious problems",
+"syn": "details matter",
+"lvl": "C1",
+"pos": "expression",
+"ex": "Read the contract carefully; the devil is in the detail."
+},
+{
+"w": "the lion's share",
+"fr": "la part du lion",
+"def": "The largest part of something",
+"syn": "the majority, the bulk",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "The CEO takes the lion's share of the profits."
+},
+{
+"w": "the proof of the pudding is in the eating",
+"fr": "c'est à l'usage qu'on juge",
+"def": "You can only judge something's quality by using or testing it",
+"syn": "seeing is believing",
+"lvl": "C2",
+"pos": "expression",
+"ex": "It looks great, but the proof of the pudding is in the eating."
+},
+{
+"w": "throw someone in at the deep end",
+"fr": "jeter qqn dans le grand bain",
+"def": "To make someone face a difficult task without preparation",
+"syn": "challenge, test",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "On my first day, they threw me in at the deep end."
+},
+{
+"w": "tighten your belt",
+"fr": "se serrer la ceinture",
+"def": "To spend less money than before",
+"syn": "economise, cut back",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "With prices rising, we must tighten our belts."
+},
+{
+"w": "too many cooks spoil the broth",
+"fr": "trop de cuisiniers gâtent la sauce",
+"def": "When too many people are involved, the result is worse",
+"syn": "too many people involved",
+"lvl": "C2",
+"pos": "expression",
+"ex": "Let one person plan it; too many cooks spoil the broth."
+},
+{
+"w": "for the time being",
+"fr": "pour le moment",
+"def": "For now, until something changes",
+"syn": "for now, temporarily",
+"lvl": "B2",
+"pos": "expression",
+"ex": "For the time being, I'm living with my parents."
+},
+{
+"w": "turn over a new leaf",
+"fr": "tourner la page",
+"def": "To start behaving in a better way",
+"syn": "make a fresh start, reform",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "After prison, he turned over a new leaf."
+},
+{
+"w": "turn the tables",
+"fr": "renverser la situation",
+"def": "To reverse a situation so you gain the advantage",
+"syn": "reverse the situation",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "In the second half, the team turned the tables."
+},
+{
+"w": "up for grabs",
+"fr": "à prendre",
+"def": "Available for anyone who wants to try to get it",
+"syn": "available, on offer",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "There are three prizes up for grabs."
+},
+{
+"w": "vicious circle",
+"fr": "cercle vicieux",
+"def": "A situation where one problem causes another that worsens the first",
+"syn": "downward spiral",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Poverty and poor health form a vicious circle."
+},
+{
+"w": "save your breath",
+"fr": "inutile d'insister",
+"def": "Used to say that talking will not change anything",
+"syn": "don't bother",
+"lvl": "C1",
+"pos": "expression",
+"ex": "Save your breath; he never listens."
+},
+{
+"w": "weather the storm",
+"fr": "surmonter la crise",
+"def": "To survive a difficult period successfully",
+"syn": "survive, ride out, endure",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "The company weathered the storm of the recession."
+},
+{
+"w": "what goes around comes around",
+"fr": "on récolte ce que l'on sème",
+"def": "How you treat others will eventually happen to you",
+"syn": "you reap what you sow",
+"lvl": "C1",
+"pos": "expression",
+"ex": "He cheated others and got cheated; what goes around comes around."
+},
+{
+"w": "when in Rome, do as the Romans do",
+"fr": "à Rome, fais comme les Romains",
+"def": "Follow local customs when you are in a foreign place",
+"syn": "adapt to local customs",
+"lvl": "C1",
+"pos": "expression",
+"ex": "I tried the snails; when in Rome, do as the Romans do."
+},
+{
+"w": "wouldn't be seen dead",
+"fr": "pour rien au monde",
+"def": "Would never do or wear something because you dislike it",
+"syn": "would never",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "I wouldn't be seen dead in that hat."
+},
+{
+"w": "you can't have your cake and eat it",
+"fr": "on ne peut pas avoir le beurre et l'argent du beurre",
+"def": "You cannot have two good things that are incompatible",
+"syn": "you can't have it both ways",
+"lvl": "C1",
+"pos": "expression",
+"ex": "You want money and free time? You can't have your cake and eat it."
+},
+{
+"w": "a stone's throw",
+"fr": "à deux pas",
+"def": "A very short distance",
+"syn": "nearby, close",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "The hotel is a stone's throw from the beach."
+},
+{
+"w": "a shot in the dark",
+"fr": "une réponse au hasard",
+"def": "A guess made with little information",
+"syn": "wild guess, stab in the dark",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "My answer was just a shot in the dark."
+},
+{
+"w": "a pain in the neck",
+"fr": "casse-pieds, une plaie",
+"def": "Someone or something very annoying",
+"syn": "nuisance, pest, bother",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "Filling in these forms is a pain in the neck."
+},
+{
+"w": "a fly in the ointment",
+"fr": "le hic, l'ombre au tableau",
+"def": "A small problem that spoils something otherwise good",
+"syn": "snag, drawback, catch",
+"lvl": "C2",
+"pos": "idiom",
+"ex": "The only fly in the ointment was the weather."
+},
+{
+"w": "have an axe to grind",
+"fr": "avoir un intérêt personnel",
+"def": "To have a private, often selfish reason for doing something",
+"syn": "have a hidden motive, have a grievance",
+"lvl": "C2",
+"pos": "idiom",
+"ex": "He has an axe to grind against the company."
+},
+{
+"w": "an open secret",
+"fr": "un secret de Polichinelle",
+"def": "Something supposed to be secret but known by many",
+"syn": "common knowledge",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Their relationship is an open secret in the office."
+},
+{
+"w": "as a matter of fact",
+"fr": "en fait, à vrai dire",
+"def": "Used to add information or correct a mistaken idea",
+"syn": "actually, in fact",
+"lvl": "B2",
+"pos": "expression",
+"ex": "As a matter of fact, I've been there twice."
+},
+{
+"w": "at all costs",
+"fr": "à tout prix",
+"def": "Whatever happens or whatever it takes",
+"syn": "no matter what, by all means",
+"lvl": "B2",
+"pos": "expression",
+"ex": "We must avoid delays at all costs."
+},
+{
+"w": "at your fingertips",
+"fr": "à portée de main",
+"def": "Easily available to use",
+"syn": "readily available, to hand",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "With the internet, information is at your fingertips."
+},
+{
+"w": "bear in mind",
+"fr": "garder à l'esprit",
+"def": "To remember and consider something",
+"syn": "remember, consider, note",
+"lvl": "B2",
+"pos": "expression",
+"ex": "Bear in mind that the shop closes early."
+},
+{
+"w": "flog a dead horse",
+"fr": "perdre son temps et sa salive",
+"def": "To waste effort on something that has no chance of success",
+"syn": "waste your time",
+"lvl": "C2",
+"pos": "idiom",
+"ex": "Asking for more funding is flogging a dead horse."
+},
+{
+"w": "bite the dust",
+"fr": "mordre la poussière",
+"def": "To fail, die, or stop working",
+"syn": "fail, die, collapse",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Another small shop has bitten the dust."
+},
+{
+"w": "blow hot and cold",
+"fr": "souffler le chaud et le froid",
+"def": "To keep changing your attitude towards someone or something",
+"syn": "vacillate, waver",
+"lvl": "C2",
+"pos": "idiom",
+"ex": "He blows hot and cold about the wedding."
+},
+{
+"w": "born with a silver spoon in your mouth",
+"fr": "né avec une cuillère d'argent dans la bouche",
+"def": "Born into a very rich family",
+"syn": "privileged, wealthy",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "She was born with a silver spoon in her mouth."
+},
+{
+"w": "bread and butter",
+"fr": "gagne-pain",
+"def": "The main source of income or basic part of a job",
+"syn": "livelihood, mainstay, staple",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Weddings are the photographer's bread and butter."
+},
+{
+"w": "break new ground",
+"fr": "innover, faire œuvre de pionnier",
+"def": "To do something completely new",
+"syn": "innovate, pioneer",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "This research breaks new ground in medicine."
+},
+{
+"w": "bury your head in the sand",
+"fr": "faire l'autruche",
+"def": "To ignore an unpleasant situation and hope it disappears",
+"syn": "ignore, avoid reality",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "You can't bury your head in the sand about debt."
+},
+{
+"w": "by the book",
+"fr": "dans les règles",
+"def": "Strictly following the rules",
+"syn": "properly, correctly, by the rules",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Our new manager does everything by the book."
+},
+{
+"w": "call a spade a spade",
+"fr": "appeler un chat un chat",
+"def": "To speak honestly and directly about something",
+"syn": "be blunt, speak plainly",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Let's call a spade a spade: this is theft."
+},
+{
+"w": "carry the can",
+"fr": "porter le chapeau",
+"def": "To take the blame for something, often unfairly",
+"syn": "take the blame, take the rap",
+"lvl": "C2",
+"pos": "idiom",
+"ex": "The manager made me carry the can for his mistake."
+},
+{
+"w": "chop and change",
+"fr": "changer sans arrêt d'avis",
+"def": "To keep changing plans or opinions",
+"syn": "vacillate, keep changing",
+"lvl": "C2",
+"pos": "idiom",
+"ex": "Stop chopping and changing and make a decision."
+},
+{
+"w": "come out of your shell",
+"fr": "sortir de sa coquille",
+"def": "To become more confident and sociable",
+"syn": "open up, loosen up",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "She's really come out of her shell at university."
+},
+{
+"w": "cool as a cucumber",
+"fr": "d'un calme olympien",
+"def": "Very calm, especially in a difficult situation",
+"syn": "calm, composed, unflappable",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "During the interview, she was cool as a cucumber."
+},
+{
+"w": "cross your mind",
+"fr": "venir à l'esprit",
+"def": "To come into your thoughts briefly",
+"syn": "occur to, strike",
+"lvl": "B2",
+"pos": "expression",
+"ex": "It never crossed my mind that he was lying."
+},
+{
+"w": "cut it fine",
+"fr": "s'y prendre juste",
+"def": "To leave yourself very little time to do something",
+"syn": "leave it late",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Ten minutes to catch the train? That's cutting it fine."
+},
+{
+"w": "donkey's years",
+"fr": "une éternité",
+"def": "A very long time",
+"syn": "ages, an eternity",
+"lvl": "C2",
+"pos": "idiom",
+"ex": "I haven't seen him for donkey's years."
+},
+{
+"w": "down the line",
+"fr": "plus tard, à terme",
+"def": "At a later point in time",
+"syn": "later, in the future",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "We may hire more staff further down the line."
+},
+{
+"w": "in dribs and drabs",
+"fr": "au compte-gouttes",
+"def": "In small amounts over a period of time",
+"syn": "bit by bit, piecemeal",
+"lvl": "C2",
+"pos": "idiom",
+"ex": "Guests arrived in dribs and drabs."
+},
+{
+"w": "eat humble pie",
+"fr": "faire amende honorable",
+"def": "To admit you were wrong and apologise",
+"syn": "apologise, back down",
+"lvl": "C2",
+"pos": "idiom",
+"ex": "After losing the bet, he had to eat humble pie."
+},
+{
+"w": "fall into place",
+"fr": "se mettre en place",
+"def": "To begin to make sense or work out well",
+"syn": "come together, make sense",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Suddenly everything fell into place."
+},
+{
+"w": "fish for compliments",
+"fr": "chercher les compliments",
+"def": "To try to make people praise you",
+"syn": "seek praise",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "She asked if she looked fat, just fishing for compliments."
+},
+{
+"w": "get a word in edgeways",
+"fr": "en placer une",
+"def": "To manage to speak when someone else is talking a lot",
+"syn": "interrupt, get a chance to speak",
+"lvl": "C2",
+"pos": "idiom",
+"ex": "She talked so much I couldn't get a word in edgeways."
+},
+{
+"w": "get wind of",
+"fr": "avoir vent de",
+"def": "To hear about something secret or private",
+"syn": "hear about, learn of",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "The press got wind of the scandal."
+},
+{
+"w": "give someone a run for their money",
+"fr": "donner du fil à retordre à qqn",
+"def": "To compete strongly against someone",
+"syn": "challenge, rival",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "The young player gave the champion a run for his money."
+},
+{
+"w": "go cold turkey",
+"fr": "arrêter d'un coup",
+"def": "To stop an addictive habit suddenly and completely",
+"syn": "quit abruptly",
+"lvl": "C2",
+"pos": "idiom",
+"ex": "He went cold turkey and stopped smoking."
+},
+{
+"w": "grasp the nettle",
+"fr": "prendre le taureau par les cornes",
+"def": "To deal with a difficult problem quickly and firmly",
+"syn": "tackle head-on, confront",
+"lvl": "C2",
+"pos": "idiom",
+"ex": "The government must grasp the nettle of pension reform."
+},
+{
+"w": "have a lot on your plate",
+"fr": "avoir beaucoup à faire",
+"def": "To have many things to deal with",
+"syn": "be busy, be overloaded",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "I can't help now; I have a lot on my plate."
+},
+{
+"w": "have bigger fish to fry",
+"fr": "avoir d'autres chats à fouetter",
+"def": "To have more important things to deal with",
+"syn": "have other priorities",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Forget the small details; we have bigger fish to fry."
+},
+{
+"w": "hit and miss",
+"fr": "aléatoire, inégal",
+"def": "Sometimes successful and sometimes not",
+"syn": "unreliable, erratic, patchy",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "The service here is a bit hit and miss."
+},
+{
+"w": "hold the fort",
+"fr": "assurer la permanence",
+"def": "To be in charge while someone is away",
+"syn": "take charge, cover",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Can you hold the fort while I'm at lunch?"
+},
+{
+"w": "in the bag",
+"fr": "dans la poche",
+"def": "Certain to be won or achieved",
+"syn": "certain, assured, sure",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "With a three-goal lead, the match is in the bag."
+},
+{
+"w": "in the limelight",
+"fr": "sous les projecteurs",
+"def": "Receiving a lot of public attention",
+"syn": "in the spotlight, famous",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "She has been in the limelight since childhood."
+},
+{
+"w": "keep your cards close to your chest",
+"fr": "cacher son jeu",
+"def": "To keep your plans or intentions secret",
+"syn": "be secretive, be discreet",
+"lvl": "C2",
+"pos": "idiom",
+"ex": "The CEO is keeping his cards close to his chest."
+},
+{
+"w": "kick the bucket",
+"fr": "casser sa pipe",
+"def": "To die (informal and humorous)",
+"syn": "die, pass away",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "He wants to travel the world before he kicks the bucket."
+},
+{
+"w": "left, right and centre",
+"fr": "à tour de bras, de tous côtés",
+"def": "Everywhere or in large numbers",
+"syn": "everywhere, all over",
+"lvl": "C2",
+"pos": "idiom",
+"ex": "Companies are cutting jobs left, right and centre."
+},
+{
+"w": "lock, stock and barrel",
+"fr": "en bloc, tout compris",
+"def": "Completely, including everything",
+"syn": "entirely, completely",
+"lvl": "C2",
+"pos": "idiom",
+"ex": "They sold the business lock, stock and barrel."
+},
+{
+"w": "make headway",
+"fr": "progresser, avancer",
+"def": "To make progress, especially slowly or with difficulty",
+"syn": "progress, advance",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "We're finally making headway with the negotiations."
+},
+{
+"w": "move the goalposts",
+"fr": "changer les règles du jeu",
+"def": "To unfairly change the rules or conditions during a process",
+"syn": "change the rules",
+"lvl": "C2",
+"pos": "idiom",
+"ex": "Every time we succeed, management moves the goalposts."
+},
+{
+"w": "hold water",
+"fr": "tenir la route",
+"def": "To be logical and believable",
+"syn": "be convincing, stand up",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "His excuse doesn't hold water."
+},
+{
+"w": "on a shoestring",
+"fr": "avec trois fois rien",
+"def": "With very little money",
+"syn": "cheaply, on a tight budget",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "They travelled around Asia on a shoestring."
+},
+{
+"w": "on the cards",
+"fr": "probable, dans l'air",
+"def": "Likely to happen",
+"syn": "likely, probable",
+"lvl": "C2",
+"pos": "idiom",
+"ex": "An election is on the cards this year."
+},
+{
+"w": "on the spur of the moment",
+"fr": "sur un coup de tête",
+"def": "Suddenly, without planning",
+"syn": "impulsively, spontaneously",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "We booked the trip on the spur of the moment."
+},
+{
+"w": "out of the woods",
+"fr": "tiré d'affaire",
+"def": "No longer in danger or difficulty",
+"syn": "safe, in the clear",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "The patient is improving but not out of the woods."
+},
+{
+"w": "par for the course",
+"fr": "normal, habituel",
+"def": "What you would expect to happen; normal",
+"syn": "typical, normal, expected",
+"lvl": "C2",
+"pos": "idiom",
+"ex": "Delays are par for the course on this railway."
+},
+{
+"w": "put the cart before the horse",
+"fr": "mettre la charrue avant les bœufs",
+"def": "To do things in the wrong order",
+"syn": "get things backwards",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Buying furniture before the house is putting the cart before the horse."
+},
+{
+"w": "rest on your laurels",
+"fr": "se reposer sur ses lauriers",
+"def": "To stop making effort because of past success",
+"syn": "become complacent, coast",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "We won, but we can't rest on our laurels."
+},
+{
+"w": "ruffle someone's feathers",
+"fr": "froisser qqn",
+"def": "To upset or annoy someone",
+"syn": "upset, annoy, irritate",
+"lvl": "C2",
+"pos": "idiom",
+"ex": "His blunt remarks ruffled a few feathers."
+},
+{
+"w": "run the gauntlet",
+"fr": "subir un feu de critiques",
+"def": "To face criticism or attack from many people",
+"syn": "face criticism, endure",
+"lvl": "C2",
+"pos": "idiom",
+"ex": "The star ran the gauntlet of photographers."
+},
+{
+"w": "sail close to the wind",
+"fr": "friser l'illégalité",
+"def": "To do something that is almost illegal or dangerous",
+"syn": "take risks, push the limits",
+"lvl": "C2",
+"pos": "idiom",
+"ex": "His tax schemes sail close to the wind."
+},
+{
+"w": "scrape the bottom of the barrel",
+"fr": "racler les fonds de tiroir",
+"def": "To use the worst options because nothing better remains",
+"syn": "use the last resort",
+"lvl": "C2",
+"pos": "idiom",
+"ex": "Hiring him means we're scraping the bottom of the barrel."
+},
+{
+"w": "set the record straight",
+"fr": "rétablir la vérité",
+"def": "To correct a false idea or story",
+"syn": "correct, clarify",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "I'd like to set the record straight about my role."
+},
+{
+"w": "steer clear of",
+"fr": "éviter, se tenir à l'écart de",
+"def": "To avoid someone or something",
+"syn": "avoid, keep away from",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Steer clear of that neighbourhood at night."
+},
+{
+"w": "swallow your pride",
+"fr": "ravaler sa fierté",
+"def": "To do something embarrassing despite feeling proud",
+"syn": "humble yourself",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "I swallowed my pride and asked for help."
+},
+{
+"w": "the jury is still out",
+"fr": "la question reste ouverte",
+"def": "People have not yet decided or reached a conclusion",
+"syn": "undecided, unresolved",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "The jury is still out on the new policy."
+},
+{
+"w": "the tail wagging the dog",
+"fr": "le monde à l'envers",
+"def": "A minor factor controlling a much more important one",
+"syn": "reversed priorities",
+"lvl": "C2",
+"pos": "idiom",
+"ex": "Letting advertisers decide content is the tail wagging the dog."
+},
+{
+"w": "there's no such thing as a free lunch",
+"fr": "rien n'est gratuit",
+"def": "You cannot get something for nothing",
+"syn": "nothing is free",
+"lvl": "C1",
+"pos": "expression",
+"ex": "Free app? There's no such thing as a free lunch."
+},
+{
+"w": "throw the baby out with the bathwater",
+"fr": "jeter le bébé avec l'eau du bain",
+"def": "To lose something valuable while getting rid of something bad",
+"syn": "overreact, discard everything",
+"lvl": "C2",
+"pos": "idiom",
+"ex": "Fix the system; don't throw the baby out with the bathwater."
+},
+{
+"w": "toe the line",
+"fr": "rentrer dans le rang",
+"def": "To obey the rules or follow official policy",
+"syn": "conform, obey, comply",
+"lvl": "C2",
+"pos": "idiom",
+"ex": "Party members are expected to toe the line."
+},
+{
+"w": "up in arms",
+"fr": "en colère, sur le pied de guerre",
+"def": "Very angry and protesting about something",
+"syn": "outraged, furious, indignant",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Residents are up in arms about the new road."
+},
+{
+"w": "wet behind the ears",
+"fr": "blanc-bec, novice",
+"def": "Young and lacking experience",
+"syn": "inexperienced, naive, green",
+"lvl": "C2",
+"pos": "idiom",
+"ex": "He's a bit wet behind the ears for this job."
+},
+{
+"w": "in hindsight",
+"fr": "avec le recul",
+"def": "Thinking about a past event with knowledge gained since",
+"syn": "looking back, in retrospect",
+"lvl": "C1",
+"pos": "expression",
+"ex": "In hindsight, I should have accepted the offer."
+},
+{
+"w": "by the same token",
+"fr": "de même, par la même occasion",
+"def": "For the same reason; in a similar way",
+"syn": "likewise, similarly",
+"lvl": "C2",
+"pos": "expression",
+"ex": "Prices rose; by the same token, wages should too."
+},
+{
+"w": "for good measure",
+"fr": "pour faire bonne mesure",
+"def": "As an extra addition, beyond what is needed",
+"syn": "as a bonus, in addition",
+"lvl": "C1",
+"pos": "expression",
+"ex": "He added a little more salt for good measure."
+},
+{
+"w": "on second thoughts",
+"fr": "réflexion faite",
+"def": "Used when changing your mind about something",
+"syn": "having reconsidered",
+"lvl": "B2",
+"pos": "expression",
+"ex": "On second thoughts, I'll have tea instead."
+},
+{
+"w": "keep a lid on",
+"fr": "maîtriser, garder secret",
+"def": "To control something or keep it from becoming known",
+"syn": "control, contain, suppress",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "The government tried to keep a lid on the scandal."
+},
+{
+"w": "the last thing on my mind",
+"fr": "le cadet de mes soucis",
+"def": "Something you are not thinking about at all",
+"syn": "furthest from my thoughts",
+"lvl": "C1",
+"pos": "expression",
+"ex": "Marriage is the last thing on my mind right now."
+},
+{
+"w": "a taste of your own medicine",
+"fr": "la monnaie de sa pièce",
+"def": "The same bad treatment you have given to others",
+"syn": "payback, retaliation",
+"lvl": "C1",
+"pos": "idiom",
+"ex": "Ignoring him gave him a taste of his own medicine."
+},
+{
+"w": "go from bad to worse",
+"fr": "aller de mal en pis",
+"def": "To become even worse than before",
+"syn": "deteriorate, worsen",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "Things went from bad to worse after he left."
+},
+{
+"w": "a breath of fresh air",
+"fr": "une bouffée d'air frais",
+"def": "Someone or something new and pleasantly different",
+"syn": "refreshing change",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "The new teacher is a breath of fresh air."
+},
+{
+"w": "keep your nose to the grindstone",
+"fr": "travailler d'arrache-pied",
+"def": "To work very hard without stopping for a long time",
+"syn": "work hard, slog away",
+"lvl": "C2",
+"pos": "idiom",
+"ex": "Keep your nose to the grindstone until the exams."
+}
+]

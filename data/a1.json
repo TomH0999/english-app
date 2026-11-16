@@ -1,0 +1,3602 @@
+[
+{
+"w": "about",
+"fr": "à propos de, sur",
+"def": "On the subject of",
+"syn": "concerning, regarding",
+"lvl": "A1",
+"pos": "prep",
+"ex": "This book is about a young doctor."
+},
+{
+"w": "actor",
+"fr": "acteur",
+"def": "A person who performs in films, plays or TV shows",
+"syn": "performer, player",
+"lvl": "A1",
+"pos": "noun",
+"ex": "My favourite actor is in this new film."
+},
+{
+"w": "address",
+"fr": "adresse",
+"def": "The number, street and town where someone lives",
+"syn": "location, residence",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Can you write your address on this form?"
+},
+{
+"w": "after",
+"fr": "après",
+"def": "Later than something in time",
+"syn": "following, later than",
+"lvl": "A1",
+"pos": "prep",
+"ex": "We play football after school."
+},
+{
+"w": "afternoon",
+"fr": "après-midi",
+"def": "The part of the day between midday and evening",
+"syn": "midday, p.m.",
+"lvl": "A1",
+"pos": "noun",
+"ex": "I usually go swimming in the afternoon."
+},
+{
+"w": "again",
+"fr": "encore, de nouveau",
+"def": "One more time",
+"syn": "once more, anew",
+"lvl": "A1",
+"pos": "adv",
+"ex": "Can you say that again, please?"
+},
+{
+"w": "age",
+"fr": "âge",
+"def": "The number of years someone has lived",
+"syn": "years",
+"lvl": "A1",
+"pos": "noun",
+"ex": "He started school at the age of five."
+},
+{
+"w": "airport",
+"fr": "aéroport",
+"def": "A place where planes take off and land",
+"syn": "airfield, terminal",
+"lvl": "A1",
+"pos": "noun",
+"ex": "We arrived at the airport two hours early."
+},
+{
+"w": "all",
+"fr": "tout, tous, toutes",
+"def": "The whole number or amount of something",
+"syn": "every, each, the whole",
+"lvl": "A1",
+"pos": "det",
+"ex": "All my friends came to the party."
+},
+{
+"w": "also",
+"fr": "aussi",
+"def": "In addition; as well",
+"syn": "too, as well",
+"lvl": "A1",
+"pos": "adv",
+"ex": "She speaks French and she also speaks Spanish."
+},
+{
+"w": "always",
+"fr": "toujours",
+"def": "At all times; every time",
+"syn": "every time, constantly",
+"lvl": "A1",
+"pos": "adv",
+"ex": "I always drink coffee in the morning."
+},
+{
+"w": "animal",
+"fr": "animal",
+"def": "A living creature that is not a plant or a human",
+"syn": "creature, beast",
+"lvl": "A1",
+"pos": "noun",
+"ex": "The elephant is my favourite animal."
+},
+{
+"w": "answer",
+"fr": "répondre",
+"def": "To say or write something back to a question",
+"syn": "reply, respond",
+"lvl": "A1",
+"pos": "verb",
+"ex": "Please answer all the questions."
+},
+{
+"w": "apartment",
+"fr": "appartement",
+"def": "A set of rooms for living in, inside a larger building",
+"syn": "flat, home",
+"lvl": "A1",
+"pos": "noun",
+"ex": "They live in a small apartment in the city centre."
+},
+{
+"w": "apple",
+"fr": "pomme",
+"def": "A round fruit with red, green or yellow skin",
+"syn": "fruit",
+"lvl": "A1",
+"pos": "noun",
+"ex": "I eat an apple every day."
+},
+{
+"w": "arm",
+"fr": "bras",
+"def": "The long part of the body between shoulder and hand",
+"syn": "limb",
+"lvl": "A1",
+"pos": "noun",
+"ex": "She broke her arm when she fell."
+},
+{
+"w": "ask",
+"fr": "demander",
+"def": "To say something to get information or help",
+"syn": "enquire, request",
+"lvl": "A1",
+"pos": "verb",
+"ex": "Can I ask you a question?"
+},
+{
+"w": "aunt",
+"fr": "tante",
+"def": "The sister of your mother or father",
+"syn": "auntie",
+"lvl": "A1",
+"pos": "noun",
+"ex": "My aunt lives in London."
+},
+{
+"w": "autumn",
+"fr": "automne",
+"def": "The season between summer and winter",
+"syn": "fall",
+"lvl": "A1",
+"pos": "noun",
+"ex": "The leaves turn brown in autumn."
+},
+{
+"w": "baby",
+"fr": "bébé",
+"def": "A very young child",
+"syn": "infant, newborn",
+"lvl": "A1",
+"pos": "noun",
+"ex": "The baby is sleeping now."
+},
+{
+"w": "bad",
+"fr": "mauvais",
+"def": "Not good or pleasant",
+"syn": "poor, awful",
+"lvl": "A1",
+"pos": "adj",
+"ex": "The weather was bad all week."
+},
+{
+"w": "bag",
+"fr": "sac",
+"def": "A container used for carrying things",
+"syn": "sack, handbag",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Put your books in your bag."
+},
+{
+"w": "banana",
+"fr": "banane",
+"def": "A long curved fruit with yellow skin",
+"syn": "fruit",
+"lvl": "A1",
+"pos": "noun",
+"ex": "He has a banana for breakfast."
+},
+{
+"w": "bank",
+"fr": "banque",
+"def": "A place where people keep or borrow money",
+"syn": "financial institution",
+"lvl": "A1",
+"pos": "noun",
+"ex": "I need to go to the bank today."
+},
+{
+"w": "bathroom",
+"fr": "salle de bain",
+"def": "A room with a bath or shower and a washbasin",
+"syn": "washroom",
+"lvl": "A1",
+"pos": "noun",
+"ex": "The bathroom is upstairs on the left."
+},
+{
+"w": "be",
+"fr": "être",
+"def": "To exist or to have a certain quality or state",
+"syn": "exist, remain",
+"lvl": "A1",
+"pos": "verb",
+"ex": "I want to be a doctor."
+},
+{
+"w": "beach",
+"fr": "plage",
+"def": "An area of sand or stones next to the sea",
+"syn": "shore, seaside",
+"lvl": "A1",
+"pos": "noun",
+"ex": "We spent the day on the beach."
+},
+{
+"w": "beautiful",
+"fr": "beau, belle",
+"def": "Very pleasant to look at",
+"syn": "lovely, pretty, attractive",
+"lvl": "A1",
+"pos": "adj",
+"ex": "What a beautiful garden!"
+},
+{
+"w": "because",
+"fr": "parce que",
+"def": "For the reason that",
+"syn": "since, as",
+"lvl": "A1",
+"pos": "conj",
+"ex": "I stayed at home because I was ill."
+},
+{
+"w": "bed",
+"fr": "lit",
+"def": "A piece of furniture you sleep on",
+"syn": "bunk",
+"lvl": "A1",
+"pos": "noun",
+"ex": "I go to bed at ten o'clock."
+},
+{
+"w": "bedroom",
+"fr": "chambre",
+"def": "A room used for sleeping in",
+"syn": "room",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Our house has three bedrooms."
+},
+{
+"w": "before",
+"fr": "avant",
+"def": "Earlier than something in time",
+"syn": "prior to, earlier than",
+"lvl": "A1",
+"pos": "prep",
+"ex": "Wash your hands before dinner."
+},
+{
+"w": "behind",
+"fr": "derrière",
+"def": "At the back of something or someone",
+"syn": "at the back of",
+"lvl": "A1",
+"pos": "prep",
+"ex": "The car park is behind the hotel."
+},
+{
+"w": "between",
+"fr": "entre",
+"def": "In the space separating two things or people",
+"syn": "in the middle of, amid",
+"lvl": "A1",
+"pos": "prep",
+"ex": "The bank is between the café and the shop."
+},
+{
+"w": "bicycle",
+"fr": "vélo, bicyclette",
+"def": "A vehicle with two wheels that you ride by pedalling",
+"syn": "bike, cycle",
+"lvl": "A1",
+"pos": "noun",
+"ex": "I ride my bicycle to work."
+},
+{
+"w": "big",
+"fr": "grand, gros",
+"def": "Large in size or amount",
+"syn": "large, huge",
+"lvl": "A1",
+"pos": "adj",
+"ex": "They live in a big house."
+},
+{
+"w": "bird",
+"fr": "oiseau",
+"def": "An animal with feathers and wings that usually flies",
+"syn": "fowl",
+"lvl": "A1",
+"pos": "noun",
+"ex": "A small bird is singing in the tree."
+},
+{
+"w": "birthday",
+"fr": "anniversaire",
+"def": "The day each year when someone was born",
+"syn": "anniversary of birth",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Happy birthday! How old are you today?"
+},
+{
+"w": "black",
+"fr": "noir",
+"def": "Of the darkest colour, like the night sky",
+"syn": "dark, jet",
+"lvl": "A1",
+"pos": "adj",
+"ex": "She is wearing a black dress."
+},
+{
+"w": "blue",
+"fr": "bleu",
+"def": "Of the colour of a clear sky",
+"syn": "azure, navy",
+"lvl": "A1",
+"pos": "adj",
+"ex": "He has blue eyes."
+},
+{
+"w": "boat",
+"fr": "bateau",
+"def": "A small vehicle that travels on water",
+"syn": "ship, vessel",
+"lvl": "A1",
+"pos": "noun",
+"ex": "We crossed the lake by boat."
+},
+{
+"w": "body",
+"fr": "corps",
+"def": "The whole physical structure of a person or animal",
+"syn": "physique, figure",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Exercise is good for your body."
+},
+{
+"w": "book",
+"fr": "livre",
+"def": "A set of printed pages fixed together to read",
+"syn": "volume, novel",
+"lvl": "A1",
+"pos": "noun",
+"ex": "I am reading a very good book."
+},
+{
+"w": "boring",
+"fr": "ennuyeux",
+"def": "Not interesting or exciting",
+"syn": "dull, tedious",
+"lvl": "A1",
+"pos": "adj",
+"ex": "The film was long and boring."
+},
+{
+"w": "bottle",
+"fr": "bouteille",
+"def": "A glass or plastic container for liquids",
+"syn": "flask, container",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Can I have a bottle of water, please?"
+},
+{
+"w": "box",
+"fr": "boîte, carton",
+"def": "A square or rectangular container with a lid",
+"syn": "case, carton",
+"lvl": "A1",
+"pos": "noun",
+"ex": "The shoes are in a box under the bed."
+},
+{
+"w": "boy",
+"fr": "garçon",
+"def": "A male child or young man",
+"syn": "lad, kid",
+"lvl": "A1",
+"pos": "noun",
+"ex": "The boy is playing with his dog."
+},
+{
+"w": "boyfriend",
+"fr": "petit ami, copain",
+"def": "A man someone is having a romantic relationship with",
+"syn": "partner, sweetheart",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Her boyfriend is from Italy."
+},
+{
+"w": "bread",
+"fr": "pain",
+"def": "A basic food made from flour, water and yeast",
+"syn": "loaf",
+"lvl": "A1",
+"pos": "noun",
+"ex": "I buy fresh bread every morning."
+},
+{
+"w": "breakfast",
+"fr": "petit-déjeuner",
+"def": "The first meal of the day",
+"syn": "morning meal",
+"lvl": "A1",
+"pos": "noun",
+"ex": "What do you have for breakfast?"
+},
+{
+"w": "brother",
+"fr": "frère",
+"def": "A boy or man with the same parents as you",
+"syn": "sibling",
+"lvl": "A1",
+"pos": "noun",
+"ex": "My brother is two years older than me."
+},
+{
+"w": "brown",
+"fr": "marron, brun",
+"def": "Of the colour of wood or chocolate",
+"syn": "chestnut, tan",
+"lvl": "A1",
+"pos": "adj",
+"ex": "She has long brown hair."
+},
+{
+"w": "building",
+"fr": "bâtiment, immeuble",
+"def": "A structure with walls and a roof, like a house",
+"syn": "structure, edifice",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Our office is in that tall building."
+},
+{
+"w": "bus",
+"fr": "bus, autobus",
+"def": "A large road vehicle that carries many passengers",
+"syn": "coach",
+"lvl": "A1",
+"pos": "noun",
+"ex": "I take the bus to school."
+},
+{
+"w": "busy",
+"fr": "occupé",
+"def": "Having a lot of things to do",
+"syn": "occupied, active",
+"lvl": "A1",
+"pos": "adj",
+"ex": "I'm very busy at work this week."
+},
+{
+"w": "but",
+"fr": "mais",
+"def": "Used to introduce something different or opposite",
+"syn": "however, yet",
+"lvl": "A1",
+"pos": "conj",
+"ex": "It's small but very comfortable."
+},
+{
+"w": "butter",
+"fr": "beurre",
+"def": "A yellow fat made from milk, spread on bread",
+"syn": "spread",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Put some butter on your toast."
+},
+{
+"w": "buy",
+"fr": "acheter",
+"def": "To get something by paying money for it",
+"syn": "purchase, get",
+"lvl": "A1",
+"pos": "verb",
+"ex": "I want to buy a new phone."
+},
+{
+"w": "cake",
+"fr": "gâteau",
+"def": "A sweet baked food made from flour, eggs and sugar",
+"syn": "pastry, gateau",
+"lvl": "A1",
+"pos": "noun",
+"ex": "She made a chocolate cake for my birthday."
+},
+{
+"w": "camera",
+"fr": "appareil photo",
+"def": "A device for taking photographs or making videos",
+"syn": "video recorder",
+"lvl": "A1",
+"pos": "noun",
+"ex": "I took my camera on holiday."
+},
+{
+"w": "car",
+"fr": "voiture",
+"def": "A road vehicle with four wheels and an engine",
+"syn": "automobile, vehicle",
+"lvl": "A1",
+"pos": "noun",
+"ex": "We went to the beach by car."
+},
+{
+"w": "cat",
+"fr": "chat",
+"def": "A small furry animal often kept as a pet",
+"syn": "kitten, puss",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Our cat sleeps on the sofa."
+},
+{
+"w": "chair",
+"fr": "chaise",
+"def": "A seat for one person, with a back and legs",
+"syn": "seat, stool",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Please sit on that chair."
+},
+{
+"w": "cheap",
+"fr": "bon marché, pas cher",
+"def": "Costing little money",
+"syn": "inexpensive, affordable",
+"lvl": "A1",
+"pos": "adj",
+"ex": "This restaurant is good and cheap."
+},
+{
+"w": "cheese",
+"fr": "fromage",
+"def": "A solid food made from milk",
+"syn": "dairy product",
+"lvl": "A1",
+"pos": "noun",
+"ex": "France is famous for its cheese."
+},
+{
+"w": "chicken",
+"fr": "poulet",
+"def": "A farm bird kept for its eggs and meat",
+"syn": "hen, poultry",
+"lvl": "A1",
+"pos": "noun",
+"ex": "We had roast chicken for dinner."
+},
+{
+"w": "child",
+"fr": "enfant",
+"def": "A young person who is not yet an adult",
+"syn": "kid, youngster",
+"lvl": "A1",
+"pos": "noun",
+"ex": "They have one child, a little girl."
+},
+{
+"w": "cinema",
+"fr": "cinéma",
+"def": "A place where people go to watch films",
+"syn": "movie theatre, pictures",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Let's go to the cinema tonight."
+},
+{
+"w": "city",
+"fr": "ville",
+"def": "A large and important town",
+"syn": "town, metropolis",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Paris is a beautiful city."
+},
+{
+"w": "class",
+"fr": "classe, cours",
+"def": "A group of students taught together, or a lesson",
+"syn": "lesson, course",
+"lvl": "A1",
+"pos": "noun",
+"ex": "There are twenty students in my class."
+},
+{
+"w": "classroom",
+"fr": "salle de classe",
+"def": "A room where students are taught",
+"syn": "schoolroom",
+"lvl": "A1",
+"pos": "noun",
+"ex": "The classroom is on the second floor."
+},
+{
+"w": "clean",
+"fr": "propre",
+"def": "Not dirty",
+"syn": "spotless, tidy",
+"lvl": "A1",
+"pos": "adj",
+"ex": "Are your hands clean?"
+},
+{
+"w": "clock",
+"fr": "horloge, pendule",
+"def": "A device on a wall or table that shows the time",
+"syn": "timepiece",
+"lvl": "A1",
+"pos": "noun",
+"ex": "The clock in the kitchen is slow."
+},
+{
+"w": "close",
+"fr": "fermer",
+"def": "To move something so it is no longer open",
+"syn": "shut",
+"lvl": "A1",
+"pos": "verb",
+"ex": "Please close the window, it's cold."
+},
+{
+"w": "clothes",
+"fr": "vêtements",
+"def": "Things you wear, like shirts and trousers",
+"syn": "clothing, garments",
+"lvl": "A1",
+"pos": "noun",
+"ex": "I need to buy some new clothes."
+},
+{
+"w": "coat",
+"fr": "manteau",
+"def": "A warm piece of clothing worn over other clothes outside",
+"syn": "jacket, overcoat",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Put your coat on, it's raining."
+},
+{
+"w": "coffee",
+"fr": "café",
+"def": "A hot dark drink made from roasted beans",
+"syn": "espresso",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Would you like a cup of coffee?"
+},
+{
+"w": "cold",
+"fr": "froid",
+"def": "Having a low temperature",
+"syn": "chilly, cool, freezing",
+"lvl": "A1",
+"pos": "adj",
+"ex": "It's very cold outside today."
+},
+{
+"w": "colour",
+"fr": "couleur",
+"def": "Red, blue, green and so on",
+"syn": "shade, hue",
+"lvl": "A1",
+"pos": "noun",
+"ex": "What colour is your car?"
+},
+{
+"w": "come",
+"fr": "venir",
+"def": "To move towards the speaker or a place",
+"syn": "arrive, approach",
+"lvl": "A1",
+"pos": "verb",
+"ex": "Can you come to my party on Saturday?"
+},
+{
+"w": "computer",
+"fr": "ordinateur",
+"def": "An electronic machine for storing and processing information",
+"syn": "PC, laptop",
+"lvl": "A1",
+"pos": "noun",
+"ex": "I do my homework on the computer."
+},
+{
+"w": "cook",
+"fr": "cuisiner, faire cuire",
+"def": "To prepare food by heating it",
+"syn": "prepare, make",
+"lvl": "A1",
+"pos": "verb",
+"ex": "My father cooks dinner every evening."
+},
+{
+"w": "country",
+"fr": "pays",
+"def": "An area of land with its own government",
+"syn": "nation, state",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Which country are you from?"
+},
+{
+"w": "cousin",
+"fr": "cousin, cousine",
+"def": "The child of your aunt or uncle",
+"syn": "relative",
+"lvl": "A1",
+"pos": "noun",
+"ex": "My cousin is coming to stay with us."
+},
+{
+"w": "cup",
+"fr": "tasse",
+"def": "A small container with a handle for hot drinks",
+"syn": "mug",
+"lvl": "A1",
+"pos": "noun",
+"ex": "She drank a cup of tea."
+},
+{
+"w": "dance",
+"fr": "danser",
+"def": "To move your body to music",
+"syn": "boogie, move",
+"lvl": "A1",
+"pos": "verb",
+"ex": "Do you want to dance with me?"
+},
+{
+"w": "daughter",
+"fr": "fille",
+"def": "Someone's female child",
+"syn": "girl, child",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Their daughter is studying in Lyon."
+},
+{
+"w": "day",
+"fr": "jour, journée",
+"def": "A period of 24 hours",
+"syn": "date, daytime",
+"lvl": "A1",
+"pos": "noun",
+"ex": "There are seven days in a week."
+},
+{
+"w": "desk",
+"fr": "bureau",
+"def": "A table you sit at to write or work",
+"syn": "table, workstation",
+"lvl": "A1",
+"pos": "noun",
+"ex": "My laptop is on the desk."
+},
+{
+"w": "dictionary",
+"fr": "dictionnaire",
+"def": "A book that lists words and explains their meanings",
+"syn": "lexicon, wordbook",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Look up the word in your dictionary."
+},
+{
+"w": "different",
+"fr": "différent",
+"def": "Not the same as another person or thing",
+"syn": "unlike, distinct",
+"lvl": "A1",
+"pos": "adj",
+"ex": "My sister and I are very different."
+},
+{
+"w": "difficult",
+"fr": "difficile",
+"def": "Not easy; needing a lot of effort",
+"syn": "hard, tough",
+"lvl": "A1",
+"pos": "adj",
+"ex": "The exam was very difficult."
+},
+{
+"w": "dinner",
+"fr": "dîner",
+"def": "The main meal of the day, usually in the evening",
+"syn": "supper, evening meal",
+"lvl": "A1",
+"pos": "noun",
+"ex": "We have dinner at seven o'clock."
+},
+{
+"w": "dirty",
+"fr": "sale",
+"def": "Not clean",
+"syn": "filthy, messy",
+"lvl": "A1",
+"pos": "adj",
+"ex": "Your shoes are dirty, take them off."
+},
+{
+"w": "do",
+"fr": "faire",
+"def": "To perform an action or activity",
+"syn": "carry out, perform",
+"lvl": "A1",
+"pos": "verb",
+"ex": "What do you do at the weekend?"
+},
+{
+"w": "doctor",
+"fr": "médecin, docteur",
+"def": "A person whose job is to treat ill people",
+"syn": "physician, GP",
+"lvl": "A1",
+"pos": "noun",
+"ex": "You should see a doctor about that cough."
+},
+{
+"w": "dog",
+"fr": "chien",
+"def": "An animal often kept as a pet or for guarding",
+"syn": "puppy, hound",
+"lvl": "A1",
+"pos": "noun",
+"ex": "I walk my dog every morning."
+},
+{
+"w": "door",
+"fr": "porte",
+"def": "A flat moving panel for entering a room or building",
+"syn": "entrance, doorway",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Somebody is knocking at the door."
+},
+{
+"w": "draw",
+"fr": "dessiner",
+"def": "To make a picture with a pen or pencil",
+"syn": "sketch, illustrate",
+"lvl": "A1",
+"pos": "verb",
+"ex": "My son loves to draw animals."
+},
+{
+"w": "dress",
+"fr": "robe",
+"def": "A piece of clothing for women covering body and legs",
+"syn": "gown, frock",
+"lvl": "A1",
+"pos": "noun",
+"ex": "She wore a red dress to the party."
+},
+{
+"w": "drink",
+"fr": "boire",
+"def": "To take liquid into your mouth and swallow it",
+"syn": "sip, swallow",
+"lvl": "A1",
+"pos": "verb",
+"ex": "You should drink more water."
+},
+{
+"w": "drive",
+"fr": "conduire",
+"def": "To control a car or other vehicle",
+"syn": "steer, motor",
+"lvl": "A1",
+"pos": "verb",
+"ex": "Can you drive a car?"
+},
+{
+"w": "ear",
+"fr": "oreille",
+"def": "One of the two body parts used for hearing",
+"syn": "lug",
+"lvl": "A1",
+"pos": "noun",
+"ex": "The dog has big ears."
+},
+{
+"w": "early",
+"fr": "tôt, de bonne heure",
+"def": "Before the usual or expected time",
+"syn": "in good time, ahead of time",
+"lvl": "A1",
+"pos": "adv",
+"ex": "I get up early on weekdays."
+},
+{
+"w": "easy",
+"fr": "facile",
+"def": "Not difficult",
+"syn": "simple, effortless",
+"lvl": "A1",
+"pos": "adj",
+"ex": "The first exercise is very easy."
+},
+{
+"w": "eat",
+"fr": "manger",
+"def": "To put food in your mouth and swallow it",
+"syn": "consume, have",
+"lvl": "A1",
+"pos": "verb",
+"ex": "We usually eat at home."
+},
+{
+"w": "egg",
+"fr": "œuf",
+"def": "An oval object laid by a bird, often eaten as food",
+"syn": "ovum",
+"lvl": "A1",
+"pos": "noun",
+"ex": "I had two eggs for breakfast."
+},
+{
+"w": "end",
+"fr": "fin",
+"def": "The final part of something",
+"syn": "finish, close",
+"lvl": "A1",
+"pos": "noun",
+"ex": "I'm going on holiday at the end of July."
+},
+{
+"w": "evening",
+"fr": "soir, soirée",
+"def": "The part of the day between afternoon and night",
+"syn": "night, dusk",
+"lvl": "A1",
+"pos": "noun",
+"ex": "What are you doing this evening?"
+},
+{
+"w": "every",
+"fr": "chaque, tous les",
+"def": "Used to refer to all members of a group",
+"syn": "each, all",
+"lvl": "A1",
+"pos": "det",
+"ex": "I go running every morning."
+},
+{
+"w": "everyone",
+"fr": "tout le monde",
+"def": "All the people in a group",
+"syn": "everybody, all",
+"lvl": "A1",
+"pos": "pron",
+"ex": "Everyone in my family likes music."
+},
+{
+"w": "exam",
+"fr": "examen",
+"def": "A formal test of what you know",
+"syn": "test, examination",
+"lvl": "A1",
+"pos": "noun",
+"ex": "I have an English exam tomorrow."
+},
+{
+"w": "excuse me",
+"fr": "excusez-moi, pardon",
+"def": "Polite words used to get attention or to apologise",
+"syn": "pardon me, sorry",
+"lvl": "A1",
+"pos": "expression",
+"ex": "Excuse me, where is the station?"
+},
+{
+"w": "expensive",
+"fr": "cher",
+"def": "Costing a lot of money",
+"syn": "costly, pricey",
+"lvl": "A1",
+"pos": "adj",
+"ex": "That watch is too expensive for me."
+},
+{
+"w": "eye",
+"fr": "œil",
+"def": "One of the two body parts used for seeing",
+"syn": "eyeball",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Close your eyes and go to sleep."
+},
+{
+"w": "face",
+"fr": "visage",
+"def": "The front of the head, with eyes, nose and mouth",
+"syn": "features, countenance",
+"lvl": "A1",
+"pos": "noun",
+"ex": "She has a lovely smile on her face."
+},
+{
+"w": "family",
+"fr": "famille",
+"def": "A group of people related to each other",
+"syn": "relatives, household",
+"lvl": "A1",
+"pos": "noun",
+"ex": "I have a big family."
+},
+{
+"w": "famous",
+"fr": "célèbre",
+"def": "Known by many people",
+"syn": "well-known, celebrated",
+"lvl": "A1",
+"pos": "adj",
+"ex": "He wants to be a famous singer."
+},
+{
+"w": "farm",
+"fr": "ferme",
+"def": "Land and buildings used for growing crops or keeping animals",
+"syn": "ranch, smallholding",
+"lvl": "A1",
+"pos": "noun",
+"ex": "My grandparents live on a farm."
+},
+{
+"w": "fast",
+"fr": "rapide",
+"def": "Moving or happening quickly",
+"syn": "quick, rapid, speedy",
+"lvl": "A1",
+"pos": "adj",
+"ex": "This is a very fast train."
+},
+{
+"w": "father",
+"fr": "père",
+"def": "A male parent",
+"syn": "dad, parent",
+"lvl": "A1",
+"pos": "noun",
+"ex": "My father works in a hospital."
+},
+{
+"w": "favourite",
+"fr": "préféré",
+"def": "Liked more than all others",
+"syn": "preferred, best-loved",
+"lvl": "A1",
+"pos": "adj",
+"ex": "Blue is my favourite colour."
+},
+{
+"w": "feel",
+"fr": "se sentir, ressentir",
+"def": "To experience an emotion or physical sensation",
+"syn": "sense, experience",
+"lvl": "A1",
+"pos": "verb",
+"ex": "I feel tired today."
+},
+{
+"w": "film",
+"fr": "film",
+"def": "A story shown with moving pictures at the cinema or on TV",
+"syn": "movie, picture",
+"lvl": "A1",
+"pos": "noun",
+"ex": "We watched a funny film last night."
+},
+{
+"w": "find",
+"fr": "trouver",
+"def": "To discover where something or someone is",
+"syn": "discover, locate",
+"lvl": "A1",
+"pos": "verb",
+"ex": "I can't find my keys."
+},
+{
+"w": "fine",
+"fr": "bien, en forme",
+"def": "In good health or feeling well",
+"syn": "well, OK",
+"lvl": "A1",
+"pos": "adj",
+"ex": "I'm fine, thanks. And you?"
+},
+{
+"w": "finish",
+"fr": "finir, terminer",
+"def": "To complete something or come to an end",
+"syn": "complete, end",
+"lvl": "A1",
+"pos": "verb",
+"ex": "I finish work at five o'clock."
+},
+{
+"w": "first",
+"fr": "premier",
+"def": "Coming before all others in order",
+"syn": "initial, earliest",
+"lvl": "A1",
+"pos": "adj",
+"ex": "This is my first visit to London."
+},
+{
+"w": "fish",
+"fr": "poisson",
+"def": "An animal that lives and swims in water",
+"syn": "seafood",
+"lvl": "A1",
+"pos": "noun",
+"ex": "We had fish and chips for lunch."
+},
+{
+"w": "floor",
+"fr": "sol, étage",
+"def": "The surface you walk on in a room; a building level",
+"syn": "ground, storey",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Our flat is on the third floor."
+},
+{
+"w": "flower",
+"fr": "fleur",
+"def": "The coloured part of a plant",
+"syn": "bloom, blossom",
+"lvl": "A1",
+"pos": "noun",
+"ex": "He gave her some flowers."
+},
+{
+"w": "food",
+"fr": "nourriture",
+"def": "Things that people and animals eat",
+"syn": "meals, nourishment",
+"lvl": "A1",
+"pos": "noun",
+"ex": "I love Italian food."
+},
+{
+"w": "foot",
+"fr": "pied",
+"def": "The part of the leg you stand on",
+"syn": "paw",
+"lvl": "A1",
+"pos": "noun",
+"ex": "My left foot hurts."
+},
+{
+"w": "football",
+"fr": "football, foot",
+"def": "A team game where players kick a ball into a goal",
+"syn": "soccer",
+"lvl": "A1",
+"pos": "noun",
+"ex": "We play football in the park on Sundays."
+},
+{
+"w": "friend",
+"fr": "ami, amie",
+"def": "A person you know well and like",
+"syn": "pal, mate",
+"lvl": "A1",
+"pos": "noun",
+"ex": "She is my best friend."
+},
+{
+"w": "fruit",
+"fr": "fruit",
+"def": "The sweet part of a plant that you can eat",
+"syn": "produce",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Try to eat more fruit and vegetables."
+},
+{
+"w": "funny",
+"fr": "drôle, marrant",
+"def": "Making you laugh",
+"syn": "amusing, comic",
+"lvl": "A1",
+"pos": "adj",
+"ex": "He told a very funny story."
+},
+{
+"w": "game",
+"fr": "jeu, match",
+"def": "An activity or sport with rules that people play",
+"syn": "match, contest",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Do you want to play a game?"
+},
+{
+"w": "garden",
+"fr": "jardin",
+"def": "An area of land next to a house with grass or plants",
+"syn": "yard, backyard",
+"lvl": "A1",
+"pos": "noun",
+"ex": "The children are playing in the garden."
+},
+{
+"w": "get",
+"fr": "obtenir, recevoir",
+"def": "To receive or obtain something",
+"syn": "receive, obtain",
+"lvl": "A1",
+"pos": "verb",
+"ex": "I got a letter from my cousin."
+},
+{
+"w": "girl",
+"fr": "fille",
+"def": "A female child or young woman",
+"syn": "lass, young woman",
+"lvl": "A1",
+"pos": "noun",
+"ex": "There are ten girls in the class."
+},
+{
+"w": "girlfriend",
+"fr": "petite amie, copine",
+"def": "A woman someone is having a romantic relationship with",
+"syn": "partner, sweetheart",
+"lvl": "A1",
+"pos": "noun",
+"ex": "He is going out with his girlfriend tonight."
+},
+{
+"w": "give",
+"fr": "donner",
+"def": "To let someone have something",
+"syn": "hand, offer",
+"lvl": "A1",
+"pos": "verb",
+"ex": "Can you give me that pen, please?"
+},
+{
+"w": "glass",
+"fr": "verre",
+"def": "A transparent container used for drinking from",
+"syn": "tumbler",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Could I have a glass of water?"
+},
+{
+"w": "go",
+"fr": "aller",
+"def": "To move or travel from one place to another",
+"syn": "travel, move, leave",
+"lvl": "A1",
+"pos": "verb",
+"ex": "I go to work by train."
+},
+{
+"w": "good",
+"fr": "bon, bien",
+"def": "Of high quality or pleasant",
+"syn": "fine, nice, great",
+"lvl": "A1",
+"pos": "adj",
+"ex": "This is a really good book."
+},
+{
+"w": "goodbye",
+"fr": "au revoir",
+"def": "What you say when you leave someone",
+"syn": "bye, farewell",
+"lvl": "A1",
+"pos": "expression",
+"ex": "She said goodbye and left."
+},
+{
+"w": "grandfather",
+"fr": "grand-père",
+"def": "The father of your mother or father",
+"syn": "grandpa, granddad",
+"lvl": "A1",
+"pos": "noun",
+"ex": "My grandfather is eighty years old."
+},
+{
+"w": "grandmother",
+"fr": "grand-mère",
+"def": "The mother of your mother or father",
+"syn": "grandma, granny",
+"lvl": "A1",
+"pos": "noun",
+"ex": "My grandmother makes wonderful cakes."
+},
+{
+"w": "great",
+"fr": "génial, super",
+"def": "Very good or enjoyable",
+"syn": "excellent, wonderful",
+"lvl": "A1",
+"pos": "adj",
+"ex": "We had a great time at the party."
+},
+{
+"w": "green",
+"fr": "vert",
+"def": "Of the colour of grass",
+"syn": "emerald, olive",
+"lvl": "A1",
+"pos": "adj",
+"ex": "She painted the door green."
+},
+{
+"w": "grey",
+"fr": "gris",
+"def": "Of the colour between black and white",
+"syn": "silver, ashen",
+"lvl": "A1",
+"pos": "adj",
+"ex": "The sky is grey today."
+},
+{
+"w": "hair",
+"fr": "cheveux",
+"def": "The thin threads that grow on your head",
+"syn": "locks",
+"lvl": "A1",
+"pos": "noun",
+"ex": "She has short black hair."
+},
+{
+"w": "half",
+"fr": "moitié, demi",
+"def": "One of two equal parts of something",
+"syn": "fifty per cent",
+"lvl": "A1",
+"pos": "noun",
+"ex": "I'll meet you in half an hour."
+},
+{
+"w": "hand",
+"fr": "main",
+"def": "The part at the end of the arm with fingers",
+"syn": "palm, fist",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Raise your hand if you know the answer."
+},
+{
+"w": "happy",
+"fr": "heureux, content",
+"def": "Feeling pleased or glad",
+"syn": "glad, cheerful, pleased",
+"lvl": "A1",
+"pos": "adj",
+"ex": "I'm very happy to see you."
+},
+{
+"w": "hat",
+"fr": "chapeau",
+"def": "Something you wear on your head",
+"syn": "cap",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Wear a hat, the sun is very hot."
+},
+{
+"w": "have",
+"fr": "avoir",
+"def": "To own or possess something",
+"syn": "own, possess",
+"lvl": "A1",
+"pos": "verb",
+"ex": "I have two brothers and a sister."
+},
+{
+"w": "head",
+"fr": "tête",
+"def": "The top part of the body with the face and brain",
+"syn": "skull",
+"lvl": "A1",
+"pos": "noun",
+"ex": "I hit my head on the door."
+},
+{
+"w": "hear",
+"fr": "entendre",
+"def": "To notice sounds with your ears",
+"syn": "catch, perceive",
+"lvl": "A1",
+"pos": "verb",
+"ex": "Can you hear the music?"
+},
+{
+"w": "hello",
+"fr": "bonjour, salut",
+"def": "A word used to greet someone",
+"syn": "hi, hey",
+"lvl": "A1",
+"pos": "expression",
+"ex": "Hello, my name is Anna."
+},
+{
+"w": "help",
+"fr": "aider",
+"def": "To make it easier for someone to do something",
+"syn": "assist, support",
+"lvl": "A1",
+"pos": "verb",
+"ex": "Can you help me with my bags?"
+},
+{
+"w": "here",
+"fr": "ici",
+"def": "In or at this place",
+"syn": "in this place",
+"lvl": "A1",
+"pos": "adv",
+"ex": "Come here and sit down."
+},
+{
+"w": "hobby",
+"fr": "passe-temps, loisir",
+"def": "An activity you do for pleasure in your free time",
+"syn": "pastime, interest",
+"lvl": "A1",
+"pos": "noun",
+"ex": "My favourite hobby is photography."
+},
+{
+"w": "holiday",
+"fr": "vacances",
+"def": "A time when you do not work or go to school",
+"syn": "vacation, break",
+"lvl": "A1",
+"pos": "noun",
+"ex": "We're going to Spain on holiday."
+},
+{
+"w": "home",
+"fr": "maison, chez soi",
+"def": "The place where you live",
+"syn": "house, residence",
+"lvl": "A1",
+"pos": "noun",
+"ex": "I stayed at home all weekend."
+},
+{
+"w": "homework",
+"fr": "devoirs",
+"def": "Schoolwork that students do outside the classroom",
+"syn": "assignment, exercises",
+"lvl": "A1",
+"pos": "noun",
+"ex": "I have a lot of homework tonight."
+},
+{
+"w": "horse",
+"fr": "cheval",
+"def": "A large animal that people ride",
+"syn": "pony, steed",
+"lvl": "A1",
+"pos": "noun",
+"ex": "She learned to ride a horse."
+},
+{
+"w": "hospital",
+"fr": "hôpital",
+"def": "A place where ill or injured people are treated",
+"syn": "clinic, infirmary",
+"lvl": "A1",
+"pos": "noun",
+"ex": "He was in hospital for a week."
+},
+{
+"w": "hot",
+"fr": "chaud",
+"def": "Having a high temperature",
+"syn": "warm, boiling",
+"lvl": "A1",
+"pos": "adj",
+"ex": "It's very hot in summer here."
+},
+{
+"w": "hotel",
+"fr": "hôtel",
+"def": "A building where you pay to sleep and eat",
+"syn": "inn, guesthouse",
+"lvl": "A1",
+"pos": "noun",
+"ex": "We stayed in a hotel near the beach."
+},
+{
+"w": "hour",
+"fr": "heure",
+"def": "A period of sixty minutes",
+"syn": "sixty minutes",
+"lvl": "A1",
+"pos": "noun",
+"ex": "The journey takes two hours."
+},
+{
+"w": "house",
+"fr": "maison",
+"def": "A building where people live",
+"syn": "home, dwelling",
+"lvl": "A1",
+"pos": "noun",
+"ex": "They bought a house with a garden."
+},
+{
+"w": "how",
+"fr": "comment",
+"def": "In what way or by what means",
+"syn": "in what way",
+"lvl": "A1",
+"pos": "adv",
+"ex": "How do you spell your name?"
+},
+{
+"w": "hundred",
+"fr": "cent",
+"def": "The number 100",
+"syn": "100",
+"lvl": "A1",
+"pos": "noun",
+"ex": "There were about a hundred people at the wedding."
+},
+{
+"w": "hungry",
+"fr": "affamé, qui a faim",
+"def": "Wanting or needing food",
+"syn": "starving, peckish",
+"lvl": "A1",
+"pos": "adj",
+"ex": "I'm hungry. Let's have lunch."
+},
+{
+"w": "husband",
+"fr": "mari",
+"def": "The man a woman is married to",
+"syn": "spouse, partner",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Her husband is a teacher."
+},
+{
+"w": "ice cream",
+"fr": "glace",
+"def": "A frozen sweet food made from milk and sugar",
+"syn": "gelato, sorbet",
+"lvl": "A1",
+"pos": "noun",
+"ex": "The children want chocolate ice cream."
+},
+{
+"w": "idea",
+"fr": "idée",
+"def": "A thought or plan about what to do",
+"syn": "thought, plan, suggestion",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Going to the beach is a great idea."
+},
+{
+"w": "important",
+"fr": "important",
+"def": "Having great value or effect",
+"syn": "significant, essential",
+"lvl": "A1",
+"pos": "adj",
+"ex": "It's important to drink a lot of water."
+},
+{
+"w": "in front of",
+"fr": "devant",
+"def": "Positioned just ahead of something or someone",
+"syn": "before, facing",
+"lvl": "A1",
+"pos": "prep",
+"ex": "I'll wait for you in front of the cinema."
+},
+{
+"w": "interesting",
+"fr": "intéressant",
+"def": "Making you want to know more",
+"syn": "fascinating, engaging",
+"lvl": "A1",
+"pos": "adj",
+"ex": "That's an interesting question."
+},
+{
+"w": "jacket",
+"fr": "veste, blouson",
+"def": "A short coat that covers the top part of the body",
+"syn": "coat, blazer",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Take a jacket, it might be cold later."
+},
+{
+"w": "job",
+"fr": "travail, emploi",
+"def": "The work a person does to earn money",
+"syn": "work, occupation",
+"lvl": "A1",
+"pos": "noun",
+"ex": "She has a new job in a bank."
+},
+{
+"w": "juice",
+"fr": "jus",
+"def": "A drink made from fruit or vegetables",
+"syn": "drink, nectar",
+"lvl": "A1",
+"pos": "noun",
+"ex": "I'd like a glass of orange juice."
+},
+{
+"w": "jump",
+"fr": "sauter",
+"def": "To push yourself up into the air with your legs",
+"syn": "leap, hop",
+"lvl": "A1",
+"pos": "verb",
+"ex": "The cat jumped onto the table."
+},
+{
+"w": "key",
+"fr": "clé, clef",
+"def": "A small metal object used to open a lock",
+"syn": "latchkey",
+"lvl": "A1",
+"pos": "noun",
+"ex": "I lost the key to my flat."
+},
+{
+"w": "kitchen",
+"fr": "cuisine",
+"def": "A room where food is prepared and cooked",
+"syn": "cookhouse",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Mum is making dinner in the kitchen."
+},
+{
+"w": "know",
+"fr": "savoir, connaître",
+"def": "To have information in your mind",
+"syn": "understand, be aware",
+"lvl": "A1",
+"pos": "verb",
+"ex": "Do you know where the station is?"
+},
+{
+"w": "language",
+"fr": "langue",
+"def": "A system of words used by people of one country",
+"syn": "tongue",
+"lvl": "A1",
+"pos": "noun",
+"ex": "How many languages do you speak?"
+},
+{
+"w": "large",
+"fr": "grand, gros",
+"def": "Big in size or amount",
+"syn": "big, huge",
+"lvl": "A1",
+"pos": "adj",
+"ex": "Can I have a large coffee, please?"
+},
+{
+"w": "last",
+"fr": "dernier",
+"def": "Coming after all the others; most recent",
+"syn": "final, previous",
+"lvl": "A1",
+"pos": "adj",
+"ex": "I saw her last week."
+},
+{
+"w": "late",
+"fr": "en retard, tard",
+"def": "After the expected or usual time",
+"syn": "overdue, delayed",
+"lvl": "A1",
+"pos": "adj",
+"ex": "Sorry I'm late, the bus didn't come."
+},
+{
+"w": "laugh",
+"fr": "rire",
+"def": "To make sounds showing you find something funny",
+"syn": "giggle, chuckle",
+"lvl": "A1",
+"pos": "verb",
+"ex": "His jokes always make me laugh."
+},
+{
+"w": "learn",
+"fr": "apprendre",
+"def": "To get knowledge or a new skill",
+"syn": "study, pick up",
+"lvl": "A1",
+"pos": "verb",
+"ex": "I'm learning to play the guitar."
+},
+{
+"w": "leg",
+"fr": "jambe",
+"def": "One of the long body parts used for walking",
+"syn": "limb",
+"lvl": "A1",
+"pos": "noun",
+"ex": "My legs are tired after the walk."
+},
+{
+"w": "lesson",
+"fr": "leçon, cours",
+"def": "A period of time when someone is taught something",
+"syn": "class, lecture",
+"lvl": "A1",
+"pos": "noun",
+"ex": "I have a piano lesson every Tuesday."
+},
+{
+"w": "letter",
+"fr": "lettre",
+"def": "A written message sent by post",
+"syn": "note, message",
+"lvl": "A1",
+"pos": "noun",
+"ex": "I wrote a letter to my grandmother."
+},
+{
+"w": "library",
+"fr": "bibliothèque",
+"def": "A place where you can borrow books",
+"syn": "reading room",
+"lvl": "A1",
+"pos": "noun",
+"ex": "I borrowed this book from the library."
+},
+{
+"w": "like",
+"fr": "aimer, apprécier",
+"def": "To enjoy or find something pleasant",
+"syn": "enjoy, be fond of",
+"lvl": "A1",
+"pos": "verb",
+"ex": "I like swimming and tennis."
+},
+{
+"w": "listen",
+"fr": "écouter",
+"def": "To pay attention to sounds or someone speaking",
+"syn": "hear, pay attention",
+"lvl": "A1",
+"pos": "verb",
+"ex": "I listen to music on the train."
+},
+{
+"w": "little",
+"fr": "petit",
+"def": "Small in size",
+"syn": "small, tiny",
+"lvl": "A1",
+"pos": "adj",
+"ex": "They live in a little village."
+},
+{
+"w": "live",
+"fr": "vivre, habiter",
+"def": "To have your home somewhere",
+"syn": "reside, stay",
+"lvl": "A1",
+"pos": "verb",
+"ex": "I live in a flat near the river."
+},
+{
+"w": "long",
+"fr": "long",
+"def": "Measuring a great distance or time",
+"syn": "lengthy, extended",
+"lvl": "A1",
+"pos": "adj",
+"ex": "It was a long day at work."
+},
+{
+"w": "look",
+"fr": "regarder",
+"def": "To turn your eyes towards something",
+"syn": "glance, watch",
+"lvl": "A1",
+"pos": "verb",
+"ex": "Look at this photo of my dog."
+},
+{
+"w": "love",
+"fr": "aimer, adorer",
+"def": "To like someone or something very much",
+"syn": "adore, cherish",
+"lvl": "A1",
+"pos": "verb",
+"ex": "I love my family very much."
+},
+{
+"w": "lunch",
+"fr": "déjeuner",
+"def": "A meal eaten in the middle of the day",
+"syn": "midday meal",
+"lvl": "A1",
+"pos": "noun",
+"ex": "What did you have for lunch?"
+},
+{
+"w": "make",
+"fr": "faire, fabriquer",
+"def": "To create or produce something",
+"syn": "create, build, produce",
+"lvl": "A1",
+"pos": "verb",
+"ex": "I'll make a cake for the party."
+},
+{
+"w": "man",
+"fr": "homme",
+"def": "An adult male person",
+"syn": "gentleman, guy",
+"lvl": "A1",
+"pos": "noun",
+"ex": "A tall man opened the door."
+},
+{
+"w": "many",
+"fr": "beaucoup de, de nombreux",
+"def": "A large number of",
+"syn": "lots of, numerous",
+"lvl": "A1",
+"pos": "det",
+"ex": "There are many tourists in summer."
+},
+{
+"w": "map",
+"fr": "carte, plan",
+"def": "A drawing of an area showing roads, towns and so on",
+"syn": "plan, chart",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Let's look at the map to find the hotel."
+},
+{
+"w": "market",
+"fr": "marché",
+"def": "A place where people buy and sell goods outdoors",
+"syn": "bazaar, marketplace",
+"lvl": "A1",
+"pos": "noun",
+"ex": "We buy vegetables at the market on Saturday."
+},
+{
+"w": "meat",
+"fr": "viande",
+"def": "The flesh of animals eaten as food",
+"syn": "flesh",
+"lvl": "A1",
+"pos": "noun",
+"ex": "I don't eat meat; I'm vegetarian."
+},
+{
+"w": "meet",
+"fr": "rencontrer, retrouver",
+"def": "To come together with someone",
+"syn": "see, get together",
+"lvl": "A1",
+"pos": "verb",
+"ex": "Let's meet outside the station at six."
+},
+{
+"w": "milk",
+"fr": "lait",
+"def": "A white drink produced by cows and other animals",
+"syn": "dairy",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Do you take milk in your tea?"
+},
+{
+"w": "million",
+"fr": "million",
+"def": "The number 1,000,000",
+"syn": "thousand thousand",
+"lvl": "A1",
+"pos": "noun",
+"ex": "The city has over two million people."
+},
+{
+"w": "minute",
+"fr": "minute",
+"def": "A period of sixty seconds",
+"syn": "moment",
+"lvl": "A1",
+"pos": "noun",
+"ex": "The bus will arrive in five minutes."
+},
+{
+"w": "money",
+"fr": "argent",
+"def": "Coins and notes used to buy things",
+"syn": "cash, currency",
+"lvl": "A1",
+"pos": "noun",
+"ex": "I don't have enough money for a car."
+},
+{
+"w": "month",
+"fr": "mois",
+"def": "One of the twelve periods of the year",
+"syn": "four weeks",
+"lvl": "A1",
+"pos": "noun",
+"ex": "I'm moving to Berlin next month."
+},
+{
+"w": "morning",
+"fr": "matin, matinée",
+"def": "The early part of the day, before midday",
+"syn": "a.m., dawn",
+"lvl": "A1",
+"pos": "noun",
+"ex": "I have a shower every morning."
+},
+{
+"w": "mother",
+"fr": "mère",
+"def": "A female parent",
+"syn": "mum, parent",
+"lvl": "A1",
+"pos": "noun",
+"ex": "My mother is a nurse."
+},
+{
+"w": "mountain",
+"fr": "montagne",
+"def": "A very high hill",
+"syn": "peak, summit",
+"lvl": "A1",
+"pos": "noun",
+"ex": "We went walking in the mountains."
+},
+{
+"w": "mouth",
+"fr": "bouche",
+"def": "The part of the face used for eating and speaking",
+"syn": "lips",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Don't talk with your mouth full."
+},
+{
+"w": "music",
+"fr": "musique",
+"def": "Pleasant sounds made by singing or playing instruments",
+"syn": "songs, tunes",
+"lvl": "A1",
+"pos": "noun",
+"ex": "What kind of music do you like?"
+},
+{
+"w": "name",
+"fr": "nom, prénom",
+"def": "The word that a person or thing is called",
+"syn": "title, first name",
+"lvl": "A1",
+"pos": "noun",
+"ex": "What's your name?"
+},
+{
+"w": "near",
+"fr": "près de",
+"def": "Not far from",
+"syn": "close to, by",
+"lvl": "A1",
+"pos": "prep",
+"ex": "Is there a bank near here?"
+},
+{
+"w": "need",
+"fr": "avoir besoin de",
+"def": "To have to have something",
+"syn": "require, want",
+"lvl": "A1",
+"pos": "verb",
+"ex": "I need a new pair of shoes."
+},
+{
+"w": "never",
+"fr": "jamais",
+"def": "Not at any time",
+"syn": "not ever, at no time",
+"lvl": "A1",
+"pos": "adv",
+"ex": "I never drink coffee after six."
+},
+{
+"w": "new",
+"fr": "nouveau, neuf",
+"def": "Recently made, bought or started",
+"syn": "fresh, recent, modern",
+"lvl": "A1",
+"pos": "adj",
+"ex": "I love your new shoes!"
+},
+{
+"w": "newspaper",
+"fr": "journal",
+"def": "A daily or weekly publication with reports on current events",
+"syn": "paper, daily",
+"lvl": "A1",
+"pos": "noun",
+"ex": "My dad reads the newspaper at breakfast."
+},
+{
+"w": "next",
+"fr": "prochain, suivant",
+"def": "Coming immediately after this one",
+"syn": "following, subsequent",
+"lvl": "A1",
+"pos": "adj",
+"ex": "See you next week!"
+},
+{
+"w": "next to",
+"fr": "à côté de",
+"def": "Very close to, at the side of",
+"syn": "beside, alongside",
+"lvl": "A1",
+"pos": "prep",
+"ex": "Come and sit next to me."
+},
+{
+"w": "nice",
+"fr": "sympa, agréable",
+"def": "Pleasant, kind or enjoyable",
+"syn": "pleasant, lovely, kind",
+"lvl": "A1",
+"pos": "adj",
+"ex": "Your neighbours are very nice."
+},
+{
+"w": "night",
+"fr": "nuit",
+"def": "The dark time between evening and morning",
+"syn": "night-time, darkness",
+"lvl": "A1",
+"pos": "noun",
+"ex": "I didn't sleep well last night."
+},
+{
+"w": "nose",
+"fr": "nez",
+"def": "The part of the face used for smelling and breathing",
+"syn": "snout",
+"lvl": "A1",
+"pos": "noun",
+"ex": "The clown had a big red nose."
+},
+{
+"w": "now",
+"fr": "maintenant",
+"def": "At the present time",
+"syn": "at present, currently",
+"lvl": "A1",
+"pos": "adv",
+"ex": "I'm busy now. Can I call you later?"
+},
+{
+"w": "number",
+"fr": "nombre, numéro",
+"def": "A word or symbol like 1, 2 or 3",
+"syn": "figure, digit",
+"lvl": "A1",
+"pos": "noun",
+"ex": "What's your phone number?"
+},
+{
+"w": "nurse",
+"fr": "infirmier, infirmière",
+"def": "A person whose job is to care for ill people",
+"syn": "carer, caregiver",
+"lvl": "A1",
+"pos": "noun",
+"ex": "The nurse gave me some medicine."
+},
+{
+"w": "o'clock",
+"fr": "heure(s)",
+"def": "Used after a number to say the exact hour",
+"syn": "on the hour",
+"lvl": "A1",
+"pos": "adv",
+"ex": "The film starts at eight o'clock."
+},
+{
+"w": "office",
+"fr": "bureau",
+"def": "A room or building where people work at desks",
+"syn": "workplace",
+"lvl": "A1",
+"pos": "noun",
+"ex": "She works in an office in the city."
+},
+{
+"w": "often",
+"fr": "souvent",
+"def": "Many times; frequently",
+"syn": "frequently, regularly",
+"lvl": "A1",
+"pos": "adv",
+"ex": "How often do you go to the gym?"
+},
+{
+"w": "old",
+"fr": "vieux, âgé",
+"def": "Having lived or existed for a long time",
+"syn": "elderly, aged, ancient",
+"lvl": "A1",
+"pos": "adj",
+"ex": "This is a very old church."
+},
+{
+"w": "only",
+"fr": "seulement, ne... que",
+"def": "No more than; just",
+"syn": "just, merely",
+"lvl": "A1",
+"pos": "adv",
+"ex": "It only costs five euros."
+},
+{
+"w": "open",
+"fr": "ouvrir",
+"def": "To move something so people or things can pass",
+"syn": "unlock, unfasten",
+"lvl": "A1",
+"pos": "verb",
+"ex": "Can you open the window, please?"
+},
+{
+"w": "orange",
+"fr": "orange",
+"def": "A round, juicy citrus fruit with a thick skin",
+"syn": "citrus fruit",
+"lvl": "A1",
+"pos": "noun",
+"ex": "She peeled an orange for her son."
+},
+{
+"w": "page",
+"fr": "page",
+"def": "One side of a sheet of paper in a book",
+"syn": "sheet, leaf",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Open your books at page ten."
+},
+{
+"w": "paper",
+"fr": "papier",
+"def": "Thin material used for writing or printing on",
+"syn": "sheet, stationery",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Write your name on a piece of paper."
+},
+{
+"w": "parent",
+"fr": "parent",
+"def": "A mother or a father",
+"syn": "mother, father",
+"lvl": "A1",
+"pos": "noun",
+"ex": "My parents live in the countryside."
+},
+{
+"w": "park",
+"fr": "parc",
+"def": "A public area of grass and trees in a town",
+"syn": "gardens, green space",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Let's go for a walk in the park."
+},
+{
+"w": "party",
+"fr": "fête, soirée",
+"def": "A social event where people eat, drink and dance",
+"syn": "celebration, gathering",
+"lvl": "A1",
+"pos": "noun",
+"ex": "We're having a party on Saturday."
+},
+{
+"w": "pen",
+"fr": "stylo",
+"def": "A tool for writing with ink",
+"syn": "biro, ballpoint",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Can I borrow your pen?"
+},
+{
+"w": "pencil",
+"fr": "crayon",
+"def": "A wooden tool for writing or drawing in grey",
+"syn": "crayon",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Write your answers in pencil."
+},
+{
+"w": "people",
+"fr": "gens, personnes",
+"def": "Men, women and children in general",
+"syn": "persons, folk",
+"lvl": "A1",
+"pos": "noun",
+"ex": "How many people live in your town?"
+},
+{
+"w": "person",
+"fr": "personne",
+"def": "A human being",
+"syn": "individual, human",
+"lvl": "A1",
+"pos": "noun",
+"ex": "She is a very kind person."
+},
+{
+"w": "phone",
+"fr": "téléphone",
+"def": "A device used to talk to someone far away",
+"syn": "telephone, mobile",
+"lvl": "A1",
+"pos": "noun",
+"ex": "My phone is ringing."
+},
+{
+"w": "photo",
+"fr": "photo",
+"def": "A picture made with a camera",
+"syn": "photograph, picture",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Can you take a photo of us?"
+},
+{
+"w": "picture",
+"fr": "image, tableau",
+"def": "A drawing, painting or photograph",
+"syn": "image, painting",
+"lvl": "A1",
+"pos": "noun",
+"ex": "There's a picture of a horse on the wall."
+},
+{
+"w": "pink",
+"fr": "rose",
+"def": "Of a pale red colour",
+"syn": "rosy, salmon",
+"lvl": "A1",
+"pos": "adj",
+"ex": "She bought a pink scarf."
+},
+{
+"w": "place",
+"fr": "endroit, lieu",
+"def": "A particular area or position",
+"syn": "location, spot",
+"lvl": "A1",
+"pos": "noun",
+"ex": "This is a nice place for a picnic."
+},
+{
+"w": "plane",
+"fr": "avion",
+"def": "A flying vehicle with wings and engines",
+"syn": "aeroplane, aircraft",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Our plane leaves at nine."
+},
+{
+"w": "play",
+"fr": "jouer",
+"def": "To take part in a game or sport for fun",
+"syn": "have fun, compete",
+"lvl": "A1",
+"pos": "verb",
+"ex": "The kids are playing in the garden."
+},
+{
+"w": "please",
+"fr": "s'il vous plaît, s'il te plaît",
+"def": "A polite word used when asking for something",
+"syn": "kindly",
+"lvl": "A1",
+"pos": "expression",
+"ex": "Can I have some water, please?"
+},
+{
+"w": "potato",
+"fr": "pomme de terre",
+"def": "A round vegetable that grows underground",
+"syn": "spud",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Would you like rice or potatoes?"
+},
+{
+"w": "pretty",
+"fr": "joli",
+"def": "Attractive and pleasant to look at",
+"syn": "lovely, attractive",
+"lvl": "A1",
+"pos": "adj",
+"ex": "What a pretty little village!"
+},
+{
+"w": "price",
+"fr": "prix",
+"def": "The amount of money you pay for something",
+"syn": "cost, charge",
+"lvl": "A1",
+"pos": "noun",
+"ex": "What's the price of this jacket?"
+},
+{
+"w": "problem",
+"fr": "problème",
+"def": "Something difficult that needs to be solved",
+"syn": "difficulty, trouble",
+"lvl": "A1",
+"pos": "noun",
+"ex": "There's a problem with my computer."
+},
+{
+"w": "put",
+"fr": "mettre, poser",
+"def": "To move something into a particular place",
+"syn": "place, set",
+"lvl": "A1",
+"pos": "verb",
+"ex": "Put your bag on the chair."
+},
+{
+"w": "quarter",
+"fr": "quart",
+"def": "One of four equal parts; fifteen minutes",
+"syn": "fourth, fifteen minutes",
+"lvl": "A1",
+"pos": "noun",
+"ex": "It's a quarter past three."
+},
+{
+"w": "question",
+"fr": "question",
+"def": "Something you ask to get information",
+"syn": "query, enquiry",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Can I ask you a question?"
+},
+{
+"w": "quiet",
+"fr": "calme, silencieux",
+"def": "Making little or no noise",
+"syn": "silent, calm, peaceful",
+"lvl": "A1",
+"pos": "adj",
+"ex": "The library is very quiet."
+},
+{
+"w": "radio",
+"fr": "radio",
+"def": "A device for listening to broadcast programmes and music",
+"syn": "wireless",
+"lvl": "A1",
+"pos": "noun",
+"ex": "I listen to the radio in the car."
+},
+{
+"w": "rain",
+"fr": "pluie",
+"def": "Water that falls from clouds in drops",
+"syn": "shower, drizzle",
+"lvl": "A1",
+"pos": "noun",
+"ex": "There was a lot of rain yesterday."
+},
+{
+"w": "read",
+"fr": "lire",
+"def": "To look at and understand written words",
+"syn": "study, peruse",
+"lvl": "A1",
+"pos": "verb",
+"ex": "I read a book before I go to sleep."
+},
+{
+"w": "red",
+"fr": "rouge",
+"def": "Of the colour of blood",
+"syn": "scarlet, crimson",
+"lvl": "A1",
+"pos": "adj",
+"ex": "He drives a red car."
+},
+{
+"w": "repeat",
+"fr": "répéter",
+"def": "To say or do something again",
+"syn": "say again, redo",
+"lvl": "A1",
+"pos": "verb",
+"ex": "Could you repeat that, please?"
+},
+{
+"w": "restaurant",
+"fr": "restaurant",
+"def": "A place where you pay to eat a meal",
+"syn": "eatery, bistro",
+"lvl": "A1",
+"pos": "noun",
+"ex": "We had dinner in a Chinese restaurant."
+},
+{
+"w": "rice",
+"fr": "riz",
+"def": "Small white or brown grains cooked and eaten as food",
+"syn": "grain",
+"lvl": "A1",
+"pos": "noun",
+"ex": "We had chicken with rice."
+},
+{
+"w": "right",
+"fr": "juste, correct",
+"def": "Correct or true",
+"syn": "correct, accurate",
+"lvl": "A1",
+"pos": "adj",
+"ex": "Is that the right answer?"
+},
+{
+"w": "river",
+"fr": "rivière, fleuve",
+"def": "A large natural stream of water flowing to the sea",
+"syn": "stream, waterway",
+"lvl": "A1",
+"pos": "noun",
+"ex": "The river runs through the city centre."
+},
+{
+"w": "room",
+"fr": "pièce, chambre",
+"def": "A part of a building with its own walls and door",
+"syn": "chamber",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Our flat has four rooms."
+},
+{
+"w": "run",
+"fr": "courir",
+"def": "To move very quickly on your feet",
+"syn": "jog, sprint, race",
+"lvl": "A1",
+"pos": "verb",
+"ex": "I run in the park every morning."
+},
+{
+"w": "sad",
+"fr": "triste",
+"def": "Unhappy",
+"syn": "unhappy, upset, down",
+"lvl": "A1",
+"pos": "adj",
+"ex": "She was sad when her cat died."
+},
+{
+"w": "salad",
+"fr": "salade",
+"def": "A cold dish of mixed raw vegetables",
+"syn": "greens",
+"lvl": "A1",
+"pos": "noun",
+"ex": "I'll have a green salad, please."
+},
+{
+"w": "salt",
+"fr": "sel",
+"def": "A white substance used to give flavour to food",
+"syn": "seasoning",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Could you pass the salt, please?"
+},
+{
+"w": "sandwich",
+"fr": "sandwich",
+"def": "Two pieces of bread with food between them",
+"syn": "roll, sub",
+"lvl": "A1",
+"pos": "noun",
+"ex": "I made a cheese sandwich for lunch."
+},
+{
+"w": "say",
+"fr": "dire",
+"def": "To speak words",
+"syn": "state, tell",
+"lvl": "A1",
+"pos": "verb",
+"ex": "What did she say to you?"
+},
+{
+"w": "school",
+"fr": "école",
+"def": "A place where children go to learn",
+"syn": "academy, college",
+"lvl": "A1",
+"pos": "noun",
+"ex": "My children walk to school."
+},
+{
+"w": "sea",
+"fr": "mer",
+"def": "The large area of salt water covering much of the earth",
+"syn": "ocean",
+"lvl": "A1",
+"pos": "noun",
+"ex": "We swam in the sea every day."
+},
+{
+"w": "see",
+"fr": "voir",
+"def": "To notice something with your eyes",
+"syn": "notice, spot",
+"lvl": "A1",
+"pos": "verb",
+"ex": "I can see the mountains from my window."
+},
+{
+"w": "sell",
+"fr": "vendre",
+"def": "To give something to someone for money",
+"syn": "trade, market",
+"lvl": "A1",
+"pos": "verb",
+"ex": "They want to sell their house."
+},
+{
+"w": "send",
+"fr": "envoyer",
+"def": "To make something go to someone, e.g. by post",
+"syn": "post, mail",
+"lvl": "A1",
+"pos": "verb",
+"ex": "I'll send you an email tomorrow."
+},
+{
+"w": "sentence",
+"fr": "phrase",
+"def": "A group of words that expresses a complete idea",
+"syn": "statement, clause",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Write a sentence using this word."
+},
+{
+"w": "shirt",
+"fr": "chemise",
+"def": "A piece of clothing with a collar and buttons",
+"syn": "blouse, top",
+"lvl": "A1",
+"pos": "noun",
+"ex": "He wore a white shirt and a tie."
+},
+{
+"w": "shoe",
+"fr": "chaussure",
+"def": "Something you wear on your foot",
+"syn": "boot, trainer",
+"lvl": "A1",
+"pos": "noun",
+"ex": "These shoes are very comfortable."
+},
+{
+"w": "shop",
+"fr": "magasin, boutique",
+"def": "A place where you can buy things",
+"syn": "store, boutique",
+"lvl": "A1",
+"pos": "noun",
+"ex": "The shop closes at seven."
+},
+{
+"w": "short",
+"fr": "court, petit",
+"def": "Small in length, height or time",
+"syn": "brief, small",
+"lvl": "A1",
+"pos": "adj",
+"ex": "She has short hair."
+},
+{
+"w": "shower",
+"fr": "douche",
+"def": "A device that sprays water to wash your body",
+"syn": "wash",
+"lvl": "A1",
+"pos": "noun",
+"ex": "I have a shower every morning."
+},
+{
+"w": "sing",
+"fr": "chanter",
+"def": "To make music with your voice",
+"syn": "chant, croon",
+"lvl": "A1",
+"pos": "verb",
+"ex": "She sings in a band."
+},
+{
+"w": "sister",
+"fr": "sœur",
+"def": "A girl or woman with the same parents as you",
+"syn": "sibling",
+"lvl": "A1",
+"pos": "noun",
+"ex": "My sister is a student."
+},
+{
+"w": "sit",
+"fr": "s'asseoir, être assis",
+"def": "To rest your body on a chair or seat",
+"syn": "be seated, take a seat",
+"lvl": "A1",
+"pos": "verb",
+"ex": "Please sit down."
+},
+{
+"w": "sleep",
+"fr": "dormir",
+"def": "To rest with your eyes closed, not conscious",
+"syn": "doze, nap",
+"lvl": "A1",
+"pos": "verb",
+"ex": "I usually sleep eight hours a night."
+},
+{
+"w": "slow",
+"fr": "lent",
+"def": "Not moving or happening quickly",
+"syn": "unhurried, sluggish",
+"lvl": "A1",
+"pos": "adj",
+"ex": "The internet is very slow today."
+},
+{
+"w": "small",
+"fr": "petit",
+"def": "Little in size or amount",
+"syn": "little, tiny",
+"lvl": "A1",
+"pos": "adj",
+"ex": "They have a small dog."
+},
+{
+"w": "smile",
+"fr": "sourire",
+"def": "To make a happy expression by turning up your mouth",
+"syn": "grin, beam",
+"lvl": "A1",
+"pos": "verb",
+"ex": "She smiled when she saw me."
+},
+{
+"w": "snow",
+"fr": "neige",
+"def": "Soft white frozen water that falls from the sky",
+"syn": "snowfall, flakes",
+"lvl": "A1",
+"pos": "noun",
+"ex": "The children played in the snow."
+},
+{
+"w": "sock",
+"fr": "chaussette",
+"def": "A soft piece of clothing worn on the foot",
+"syn": "stocking",
+"lvl": "A1",
+"pos": "noun",
+"ex": "I can't find my other sock."
+},
+{
+"w": "sofa",
+"fr": "canapé",
+"def": "A long comfortable seat for two or more people",
+"syn": "couch, settee",
+"lvl": "A1",
+"pos": "noun",
+"ex": "We watched TV on the sofa."
+},
+{
+"w": "some",
+"fr": "du, de la, quelques",
+"def": "An amount or number of something, not exact",
+"syn": "a few, a little",
+"lvl": "A1",
+"pos": "det",
+"ex": "Would you like some tea?"
+},
+{
+"w": "something",
+"fr": "quelque chose",
+"def": "A thing that is not named or known",
+"syn": "anything, an object",
+"lvl": "A1",
+"pos": "pron",
+"ex": "I want to eat something sweet."
+},
+{
+"w": "sometimes",
+"fr": "parfois, quelquefois",
+"def": "On some occasions but not always",
+"syn": "occasionally, at times",
+"lvl": "A1",
+"pos": "adv",
+"ex": "I sometimes go to work by bike."
+},
+{
+"w": "son",
+"fr": "fils",
+"def": "Someone's male child",
+"syn": "boy, child",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Their son is ten years old."
+},
+{
+"w": "song",
+"fr": "chanson",
+"def": "A short piece of music with words",
+"syn": "tune, track",
+"lvl": "A1",
+"pos": "noun",
+"ex": "This is my favourite song."
+},
+{
+"w": "sorry",
+"fr": "désolé",
+"def": "Feeling bad about something you did",
+"syn": "apologetic, regretful",
+"lvl": "A1",
+"pos": "adj",
+"ex": "I'm sorry I forgot your birthday."
+},
+{
+"w": "soup",
+"fr": "soupe",
+"def": "A hot liquid food made from vegetables or meat",
+"syn": "broth",
+"lvl": "A1",
+"pos": "noun",
+"ex": "I made tomato soup for lunch."
+},
+{
+"w": "speak",
+"fr": "parler",
+"def": "To say words using your voice",
+"syn": "talk, say",
+"lvl": "A1",
+"pos": "verb",
+"ex": "Do you speak English?"
+},
+{
+"w": "spell",
+"fr": "épeler",
+"def": "To say or write the letters of a word in order",
+"syn": "write out",
+"lvl": "A1",
+"pos": "verb",
+"ex": "How do you spell your surname?"
+},
+{
+"w": "sport",
+"fr": "sport",
+"def": "A physical game or activity, like football or tennis",
+"syn": "game, exercise",
+"lvl": "A1",
+"pos": "noun",
+"ex": "What's your favourite sport?"
+},
+{
+"w": "spring",
+"fr": "printemps",
+"def": "The season between winter and summer",
+"syn": "springtime",
+"lvl": "A1",
+"pos": "noun",
+"ex": "The trees get new leaves in spring."
+},
+{
+"w": "stand",
+"fr": "être debout, se lever",
+"def": "To be on your feet in an upright position",
+"syn": "get up, rise",
+"lvl": "A1",
+"pos": "verb",
+"ex": "Please stand up when the teacher comes in."
+},
+{
+"w": "start",
+"fr": "commencer",
+"def": "To begin doing something",
+"syn": "begin, launch",
+"lvl": "A1",
+"pos": "verb",
+"ex": "The lesson starts at nine."
+},
+{
+"w": "station",
+"fr": "gare, station",
+"def": "A place where trains or buses stop for passengers",
+"syn": "terminal, stop",
+"lvl": "A1",
+"pos": "noun",
+"ex": "The station is ten minutes from here."
+},
+{
+"w": "stop",
+"fr": "arrêter, s'arrêter",
+"def": "To end a movement or activity",
+"syn": "halt, end, finish",
+"lvl": "A1",
+"pos": "verb",
+"ex": "Please stop talking and listen."
+},
+{
+"w": "street",
+"fr": "rue",
+"def": "A road in a town with buildings along it",
+"syn": "road, avenue",
+"lvl": "A1",
+"pos": "noun",
+"ex": "I live on a quiet street."
+},
+{
+"w": "student",
+"fr": "étudiant, élève",
+"def": "A person who is studying at a school or university",
+"syn": "pupil, learner",
+"lvl": "A1",
+"pos": "noun",
+"ex": "She is a medical student."
+},
+{
+"w": "study",
+"fr": "étudier",
+"def": "To learn about a subject, especially at school",
+"syn": "learn, revise",
+"lvl": "A1",
+"pos": "verb",
+"ex": "He studies history at university."
+},
+{
+"w": "sugar",
+"fr": "sucre",
+"def": "A sweet substance used in food and drinks",
+"syn": "sweetener",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Do you take sugar in your coffee?"
+},
+{
+"w": "summer",
+"fr": "été",
+"def": "The warmest season of the year",
+"syn": "summertime",
+"lvl": "A1",
+"pos": "noun",
+"ex": "We go to the beach every summer."
+},
+{
+"w": "sun",
+"fr": "soleil",
+"def": "The star that gives the earth light and heat",
+"syn": "sunshine, sunlight",
+"lvl": "A1",
+"pos": "noun",
+"ex": "The sun is shining today."
+},
+{
+"w": "supermarket",
+"fr": "supermarché",
+"def": "A large shop selling food and household goods",
+"syn": "grocery store, hypermarket",
+"lvl": "A1",
+"pos": "noun",
+"ex": "I buy my food at the supermarket."
+},
+{
+"w": "swim",
+"fr": "nager",
+"def": "To move through water using your arms and legs",
+"syn": "bathe, paddle",
+"lvl": "A1",
+"pos": "verb",
+"ex": "Can you swim?"
+},
+{
+"w": "table",
+"fr": "table",
+"def": "A piece of furniture with a flat top and legs",
+"syn": "desk, counter",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Dinner is on the table."
+},
+{
+"w": "take",
+"fr": "prendre",
+"def": "To get hold of something or carry it somewhere",
+"syn": "grab, carry",
+"lvl": "A1",
+"pos": "verb",
+"ex": "Take an umbrella, it's going to rain."
+},
+{
+"w": "tall",
+"fr": "grand",
+"def": "Having a greater than average height",
+"syn": "high, lofty",
+"lvl": "A1",
+"pos": "adj",
+"ex": "My brother is very tall."
+},
+{
+"w": "taxi",
+"fr": "taxi",
+"def": "A car with a driver that you pay to travel in",
+"syn": "cab",
+"lvl": "A1",
+"pos": "noun",
+"ex": "We took a taxi to the airport."
+},
+{
+"w": "tea",
+"fr": "thé",
+"def": "A hot drink made by pouring water on dried leaves",
+"syn": "brew, cuppa",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Would you like a cup of tea?"
+},
+{
+"w": "teacher",
+"fr": "professeur, enseignant",
+"def": "A person whose job is to help students learn",
+"syn": "instructor, tutor",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Our English teacher is very friendly."
+},
+{
+"w": "television",
+"fr": "télévision",
+"def": "A device that shows programmes with pictures and sound",
+"syn": "TV, telly",
+"lvl": "A1",
+"pos": "noun",
+"ex": "We watch television in the evening."
+},
+{
+"w": "tell",
+"fr": "dire, raconter",
+"def": "To give information to someone by speaking",
+"syn": "inform, say",
+"lvl": "A1",
+"pos": "verb",
+"ex": "Can you tell me the time?"
+},
+{
+"w": "tennis",
+"fr": "tennis",
+"def": "A game where players hit a ball over a net with rackets",
+"syn": "racket sport",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Do you want to play tennis on Sunday?"
+},
+{
+"w": "thank",
+"fr": "remercier",
+"def": "To tell someone you are grateful",
+"syn": "show gratitude",
+"lvl": "A1",
+"pos": "verb",
+"ex": "I want to thank you for your help."
+},
+{
+"w": "there",
+"fr": "là, là-bas",
+"def": "In or at that place",
+"syn": "over there, in that place",
+"lvl": "A1",
+"pos": "adv",
+"ex": "Put the box over there."
+},
+{
+"w": "think",
+"fr": "penser, croire",
+"def": "To have an opinion or use your mind",
+"syn": "believe, consider",
+"lvl": "A1",
+"pos": "verb",
+"ex": "I think it's going to rain."
+},
+{
+"w": "thirsty",
+"fr": "assoiffé, qui a soif",
+"def": "Wanting or needing to drink",
+"syn": "dry, parched",
+"lvl": "A1",
+"pos": "adj",
+"ex": "I'm thirsty. Is there any water?"
+},
+{
+"w": "thousand",
+"fr": "mille",
+"def": "The number 1,000",
+"syn": "1000",
+"lvl": "A1",
+"pos": "noun",
+"ex": "The ticket costs a thousand euros."
+},
+{
+"w": "ticket",
+"fr": "billet, ticket",
+"def": "A piece of paper showing you paid to travel or enter",
+"syn": "pass, voucher",
+"lvl": "A1",
+"pos": "noun",
+"ex": "I bought two tickets for the concert."
+},
+{
+"w": "time",
+"fr": "temps, heure",
+"def": "What is measured in minutes, hours and days",
+"syn": "hour, period",
+"lvl": "A1",
+"pos": "noun",
+"ex": "What time is it?"
+},
+{
+"w": "tired",
+"fr": "fatigué",
+"def": "Needing to rest or sleep",
+"syn": "exhausted, sleepy",
+"lvl": "A1",
+"pos": "adj",
+"ex": "I'm very tired after work."
+},
+{
+"w": "today",
+"fr": "aujourd'hui",
+"def": "On this present day",
+"syn": "this day",
+"lvl": "A1",
+"pos": "adv",
+"ex": "It's very sunny today."
+},
+{
+"w": "together",
+"fr": "ensemble",
+"def": "With each other",
+"syn": "jointly, side by side",
+"lvl": "A1",
+"pos": "adv",
+"ex": "We always have dinner together."
+},
+{
+"w": "tomato",
+"fr": "tomate",
+"def": "A soft red fruit eaten in salads or cooked",
+"syn": "vegetable",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Add some tomatoes to the salad."
+},
+{
+"w": "tomorrow",
+"fr": "demain",
+"def": "On the day after today",
+"syn": "the next day",
+"lvl": "A1",
+"pos": "adv",
+"ex": "See you tomorrow!"
+},
+{
+"w": "too",
+"fr": "trop, aussi",
+"def": "More than is needed; also",
+"syn": "excessively, also",
+"lvl": "A1",
+"pos": "adv",
+"ex": "This coffee is too hot to drink."
+},
+{
+"w": "tooth",
+"fr": "dent",
+"def": "One of the hard white objects in your mouth",
+"syn": "fang",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Brush your teeth before bed."
+},
+{
+"w": "town",
+"fr": "ville",
+"def": "A place with many houses and shops, smaller than a city",
+"syn": "village, city",
+"lvl": "A1",
+"pos": "noun",
+"ex": "I grew up in a small town."
+},
+{
+"w": "train",
+"fr": "train",
+"def": "A vehicle that travels on rails",
+"syn": "railway, locomotive",
+"lvl": "A1",
+"pos": "noun",
+"ex": "We took the train to Paris."
+},
+{
+"w": "tree",
+"fr": "arbre",
+"def": "A tall plant with a wooden trunk and branches",
+"syn": "oak, pine",
+"lvl": "A1",
+"pos": "noun",
+"ex": "There is a big tree in our garden."
+},
+{
+"w": "trousers",
+"fr": "pantalon",
+"def": "Clothing that covers each leg separately, from waist to ankle",
+"syn": "pants, jeans",
+"lvl": "A1",
+"pos": "noun",
+"ex": "He's wearing black trousers."
+},
+{
+"w": "T-shirt",
+"fr": "tee-shirt",
+"def": "A casual cotton top with short sleeves and no collar",
+"syn": "top, tee",
+"lvl": "A1",
+"pos": "noun",
+"ex": "I always wear a T-shirt in summer."
+},
+{
+"w": "uncle",
+"fr": "oncle",
+"def": "The brother of your mother or father",
+"syn": "relative",
+"lvl": "A1",
+"pos": "noun",
+"ex": "My uncle has a farm."
+},
+{
+"w": "under",
+"fr": "sous",
+"def": "Below something",
+"syn": "beneath, below",
+"lvl": "A1",
+"pos": "prep",
+"ex": "The cat is under the table."
+},
+{
+"w": "understand",
+"fr": "comprendre",
+"def": "To know the meaning of something",
+"syn": "grasp, follow",
+"lvl": "A1",
+"pos": "verb",
+"ex": "I don't understand this word."
+},
+{
+"w": "university",
+"fr": "université",
+"def": "A place where people study for a degree",
+"syn": "college, academy",
+"lvl": "A1",
+"pos": "noun",
+"ex": "My sister goes to university in Bordeaux."
+},
+{
+"w": "use",
+"fr": "utiliser, se servir de",
+"def": "To do something with a thing for a purpose",
+"syn": "employ, utilise",
+"lvl": "A1",
+"pos": "verb",
+"ex": "Can I use your phone?"
+},
+{
+"w": "usually",
+"fr": "d'habitude, généralement",
+"def": "In the way that happens most often",
+"syn": "normally, generally",
+"lvl": "A1",
+"pos": "adv",
+"ex": "I usually get up at seven."
+},
+{
+"w": "vegetable",
+"fr": "légume",
+"def": "A plant or part of a plant eaten as food",
+"syn": "greens",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Carrots are my favourite vegetable."
+},
+{
+"w": "very",
+"fr": "très",
+"def": "To a high degree",
+"syn": "really, extremely",
+"lvl": "A1",
+"pos": "adv",
+"ex": "It's very cold today."
+},
+{
+"w": "visit",
+"fr": "visiter, rendre visite à",
+"def": "To go to see a place or a person",
+"syn": "call on, see",
+"lvl": "A1",
+"pos": "verb",
+"ex": "We visited my grandparents last weekend."
+},
+{
+"w": "wait",
+"fr": "attendre",
+"def": "To stay somewhere until something happens or someone comes",
+"syn": "hold on, stay",
+"lvl": "A1",
+"pos": "verb",
+"ex": "Please wait here for a moment."
+},
+{
+"w": "walk",
+"fr": "marcher, se promener",
+"def": "To move along on foot",
+"syn": "stroll, go on foot",
+"lvl": "A1",
+"pos": "verb",
+"ex": "I walk to work every day."
+},
+{
+"w": "want",
+"fr": "vouloir",
+"def": "To wish to have or do something",
+"syn": "wish, desire",
+"lvl": "A1",
+"pos": "verb",
+"ex": "I want a new bike."
+},
+{
+"w": "warm",
+"fr": "chaud, tiède",
+"def": "Pleasantly hot, but not very hot",
+"syn": "mild, cosy",
+"lvl": "A1",
+"pos": "adj",
+"ex": "It's warm and sunny today."
+},
+{
+"w": "wash",
+"fr": "laver",
+"def": "To make something clean with water",
+"syn": "clean, rinse",
+"lvl": "A1",
+"pos": "verb",
+"ex": "Wash your hands before eating."
+},
+{
+"w": "watch",
+"fr": "regarder",
+"def": "To look at something for a period of time",
+"syn": "view, observe",
+"lvl": "A1",
+"pos": "verb",
+"ex": "We watched a film last night."
+},
+{
+"w": "water",
+"fr": "eau",
+"def": "The clear liquid in rivers and rain that we drink",
+"syn": "liquid",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Drink plenty of water when it's hot."
+},
+{
+"w": "weather",
+"fr": "temps, météo",
+"def": "How hot, cold, wet or sunny it is outside",
+"syn": "climate, conditions",
+"lvl": "A1",
+"pos": "noun",
+"ex": "What's the weather like today?"
+},
+{
+"w": "week",
+"fr": "semaine",
+"def": "A period of seven days",
+"syn": "seven days",
+"lvl": "A1",
+"pos": "noun",
+"ex": "I go swimming twice a week."
+},
+{
+"w": "weekend",
+"fr": "week-end",
+"def": "Saturday and Sunday",
+"syn": "days off",
+"lvl": "A1",
+"pos": "noun",
+"ex": "What are you doing this weekend?"
+},
+{
+"w": "welcome",
+"fr": "bienvenue",
+"def": "Said to greet someone arriving at a place",
+"syn": "greetings, hello",
+"lvl": "A1",
+"pos": "expression",
+"ex": "Welcome to our home!"
+},
+{
+"w": "well",
+"fr": "bien",
+"def": "In a good or satisfactory way",
+"syn": "nicely, properly",
+"lvl": "A1",
+"pos": "adv",
+"ex": "She speaks English very well."
+},
+{
+"w": "what",
+"fr": "quoi, que, quel",
+"def": "Used to ask about things or information",
+"syn": "which",
+"lvl": "A1",
+"pos": "pron",
+"ex": "What is your favourite food?"
+},
+{
+"w": "when",
+"fr": "quand",
+"def": "At what time",
+"syn": "at what time",
+"lvl": "A1",
+"pos": "adv",
+"ex": "When is your birthday?"
+},
+{
+"w": "where",
+"fr": "où",
+"def": "In or to what place",
+"syn": "in which place",
+"lvl": "A1",
+"pos": "adv",
+"ex": "Where do you live?"
+},
+{
+"w": "white",
+"fr": "blanc",
+"def": "Of the colour of snow or milk",
+"syn": "snowy, ivory",
+"lvl": "A1",
+"pos": "adj",
+"ex": "She has a white cat."
+},
+{
+"w": "who",
+"fr": "qui",
+"def": "Used to ask which person",
+"syn": "which person",
+"lvl": "A1",
+"pos": "pron",
+"ex": "Who is that man?"
+},
+{
+"w": "why",
+"fr": "pourquoi",
+"def": "For what reason",
+"syn": "for what reason, how come",
+"lvl": "A1",
+"pos": "adv",
+"ex": "Why are you late?"
+},
+{
+"w": "wife",
+"fr": "femme, épouse",
+"def": "The woman a man is married to",
+"syn": "spouse, partner",
+"lvl": "A1",
+"pos": "noun",
+"ex": "His wife is a doctor."
+},
+{
+"w": "window",
+"fr": "fenêtre",
+"def": "An opening in a wall with glass to let light in",
+"syn": "pane",
+"lvl": "A1",
+"pos": "noun",
+"ex": "Can you open the window?"
+},
+{
+"w": "winter",
+"fr": "hiver",
+"def": "The coldest season of the year",
+"syn": "wintertime",
+"lvl": "A1",
+"pos": "noun",
+"ex": "It snows a lot here in winter."
+},
+{
+"w": "with",
+"fr": "avec",
+"def": "In the company of; accompanied by",
+"syn": "alongside, accompanied by",
+"lvl": "A1",
+"pos": "prep",
+"ex": "I live with my parents."
+},
+{
+"w": "woman",
+"fr": "femme",
+"def": "An adult female person",
+"syn": "lady",
+"lvl": "A1",
+"pos": "noun",
+"ex": "The woman next door is very friendly."
+},
+{
+"w": "word",
+"fr": "mot",
+"def": "A single unit of language with a meaning",
+"syn": "term, expression",
+"lvl": "A1",
+"pos": "noun",
+"ex": "What does this word mean?"
+},
+{
+"w": "work",
+"fr": "travailler",
+"def": "To do a job, usually to earn money",
+"syn": "labour, be employed",
+"lvl": "A1",
+"pos": "verb",
+"ex": "She works in a hospital."
+},
+{
+"w": "write",
+"fr": "écrire",
+"def": "To make letters or words on paper or a screen",
+"syn": "note, type",
+"lvl": "A1",
+"pos": "verb",
+"ex": "Please write your name here."
+},
+{
+"w": "wrong",
+"fr": "faux, incorrect",
+"def": "Not correct",
+"syn": "incorrect, mistaken",
+"lvl": "A1",
+"pos": "adj",
+"ex": "Sorry, I think you have the wrong number."
+},
+{
+"w": "year",
+"fr": "an, année",
+"def": "A period of twelve months",
+"syn": "twelve months",
+"lvl": "A1",
+"pos": "noun",
+"ex": "I started learning English two years ago."
+},
+{
+"w": "yellow",
+"fr": "jaune",
+"def": "Of the colour of lemons or butter",
+"syn": "golden, lemon",
+"lvl": "A1",
+"pos": "adj",
+"ex": "She bought some yellow flowers."
+},
+{
+"w": "yesterday",
+"fr": "hier",
+"def": "On the day before today",
+"syn": "the day before",
+"lvl": "A1",
+"pos": "adv",
+"ex": "I saw him yesterday at the station."
+},
+{
+"w": "young",
+"fr": "jeune",
+"def": "Having lived for a short time; not old",
+"syn": "youthful, juvenile",
+"lvl": "A1",
+"pos": "adj",
+"ex": "She is too young to drive."
+},
+{
+"w": "zero",
+"fr": "zéro",
+"def": "The number 0; nothing",
+"syn": "nought, nil",
+"lvl": "A1",
+"pos": "noun",
+"ex": "The temperature fell below zero last night."
+},
+{
+"w": "zoo",
+"fr": "zoo",
+"def": "A park where wild animals are kept for people to see",
+"syn": "animal park",
+"lvl": "A1",
+"pos": "noun",
+"ex": "We saw lions and tigers at the zoo."
+}
+]

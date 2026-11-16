@@ -1,0 +1,3602 @@
+[
+{
+"w": "abandonment",
+"fr": "abandon",
+"def": "The act of leaving someone or something permanently",
+"syn": "desertion, renunciation",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The abandonment of the project cost the company millions."
+},
+{
+"w": "abbreviation",
+"fr": "abréviation",
+"def": "A shortened form of a word or phrase",
+"syn": "contraction, short form",
+"lvl": "C1",
+"pos": "noun",
+"ex": "\"Dept.\" is a common abbreviation for \"department\"."
+},
+{
+"w": "abide by",
+"fr": "respecter, se conformer à",
+"def": "To accept and follow a rule, law or decision",
+"syn": "obey, comply with, respect",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "All members must abide by the club's rules."
+},
+{
+"w": "abolition",
+"fr": "abolition",
+"def": "The official ending of a law, system or practice",
+"syn": "elimination, cancellation",
+"lvl": "C1",
+"pos": "noun",
+"ex": "They campaigned for the abolition of the death penalty."
+},
+{
+"w": "abound",
+"fr": "abonder",
+"def": "To exist in large numbers or amounts",
+"syn": "proliferate, teem",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Rumours abound about the minister's resignation."
+},
+{
+"w": "abrupt",
+"fr": "brusque, soudain",
+"def": "Sudden and unexpected, or rudely short in manner",
+"syn": "sudden, curt, brusque",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The meeting came to an abrupt end."
+},
+{
+"w": "abstain",
+"fr": "s'abstenir",
+"def": "To choose not to do something, especially not to vote",
+"syn": "refrain, decline",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Three members abstained in the final vote."
+},
+{
+"w": "abstraction",
+"fr": "abstraction",
+"def": "A general idea not based on real or concrete things",
+"syn": "concept, generalization",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Freedom can feel like an abstraction until you lose it."
+},
+{
+"w": "absurdity",
+"fr": "absurdité",
+"def": "The quality of being completely unreasonable or ridiculous",
+"syn": "ridiculousness, folly",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Everyone laughed at the absurdity of the situation."
+},
+{
+"w": "abundance",
+"fr": "abondance",
+"def": "A very large quantity of something",
+"syn": "plenty, wealth, profusion",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The region has an abundance of fresh water."
+},
+{
+"w": "accentuate",
+"fr": "accentuer, souligner",
+"def": "To make something more noticeable or prominent",
+"syn": "emphasize, highlight",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The dark frame accentuates the colours of the painting."
+},
+{
+"w": "acclaim",
+"fr": "acclamer, saluer",
+"def": "To praise someone or something publicly and enthusiastically",
+"syn": "praise, hail, applaud",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Critics acclaimed her latest novel as a masterpiece."
+},
+{
+"w": "acclaimed",
+"fr": "salué, acclamé",
+"def": "Publicly praised by many people, especially critics",
+"syn": "celebrated, renowned",
+"lvl": "C1",
+"pos": "adj",
+"ex": "He is an internationally acclaimed film director."
+},
+{
+"w": "accomplice",
+"fr": "complice",
+"def": "A person who helps someone commit a crime",
+"syn": "partner in crime, collaborator",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Police arrested the thief and his accomplice."
+},
+{
+"w": "accord",
+"fr": "accord",
+"def": "An official agreement between countries or groups",
+"syn": "treaty, pact, agreement",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The two nations signed a peace accord."
+},
+{
+"w": "accordingly",
+"fr": "en conséquence",
+"def": "In a way that suits the situation; therefore",
+"syn": "consequently, appropriately",
+"lvl": "C1",
+"pos": "adv",
+"ex": "Prices rose, and we adjusted our budget accordingly."
+},
+{
+"w": "accountable",
+"fr": "responsable",
+"def": "Expected to explain and take responsibility for your actions",
+"syn": "responsible, answerable, liable",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Politicians must be held accountable for their decisions."
+},
+{
+"w": "accountability",
+"fr": "responsabilité",
+"def": "The fact of being responsible and having to explain your actions",
+"syn": "responsibility, answerability",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Citizens are demanding greater accountability from the police."
+},
+{
+"w": "accumulation",
+"fr": "accumulation",
+"def": "The gradual gathering of more and more of something",
+"syn": "build-up, collection, accrual",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The accumulation of debt worried the investors."
+},
+{
+"w": "accustomed",
+"fr": "habitué",
+"def": "Familiar with something so that it seems normal",
+"syn": "used to, familiar, adapted",
+"lvl": "C1",
+"pos": "adj",
+"ex": "My eyes slowly grew accustomed to the darkness."
+},
+{
+"w": "acknowledgement",
+"fr": "reconnaissance, accusé de réception",
+"def": "Acceptance that something is true or exists",
+"syn": "recognition, admission",
+"lvl": "C1",
+"pos": "noun",
+"ex": "His silence was an acknowledgement of his guilt."
+},
+{
+"w": "acquaintance",
+"fr": "connaissance",
+"def": "A person you know slightly but not well",
+"syn": "contact, associate",
+"lvl": "C1",
+"pos": "noun",
+"ex": "She's not a close friend, just an acquaintance."
+},
+{
+"w": "acquisition",
+"fr": "acquisition",
+"def": "The act of getting something, or a thing obtained",
+"syn": "purchase, takeover, gain",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The museum's latest acquisition is a rare painting."
+},
+{
+"w": "acquit",
+"fr": "acquitter",
+"def": "To officially decide in court that someone is not guilty",
+"syn": "clear, absolve, exonerate",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The jury acquitted him of all charges."
+},
+{
+"w": "activist",
+"fr": "militant, activiste",
+"def": "A person who campaigns for political or social change",
+"syn": "campaigner, militant",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Environmental activists gathered outside parliament."
+},
+{
+"w": "acute",
+"fr": "aigu, grave",
+"def": "Very serious or severe; also sharp and sensitive",
+"syn": "severe, intense, keen",
+"lvl": "C1",
+"pos": "adj",
+"ex": "There is an acute shortage of nurses."
+},
+{
+"w": "adamant",
+"fr": "catégorique, inflexible",
+"def": "Refusing to change your opinion or decision",
+"syn": "determined, firm, insistent",
+"lvl": "C1",
+"pos": "adj",
+"ex": "She was adamant that she had locked the door."
+},
+{
+"w": "adaptable",
+"fr": "adaptable",
+"def": "Able to change easily to suit new conditions",
+"syn": "flexible, versatile",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Employers value staff who are adaptable to change."
+},
+{
+"w": "adept",
+"fr": "habile, doué",
+"def": "Very skilled at doing something",
+"syn": "skilful, proficient, expert",
+"lvl": "C1",
+"pos": "adj",
+"ex": "He is adept at handling difficult customers."
+},
+{
+"w": "adhere to",
+"fr": "adhérer à, respecter",
+"def": "To follow a rule, belief or plan closely",
+"syn": "follow, observe, stick to",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "All staff must adhere to the safety guidelines."
+},
+{
+"w": "adherence",
+"fr": "respect, observance",
+"def": "The act of following rules or beliefs closely",
+"syn": "compliance, observance",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Strict adherence to the diet produced good results."
+},
+{
+"w": "adjacent",
+"fr": "adjacent, voisin",
+"def": "Very near, next to, or touching something",
+"syn": "neighbouring, adjoining, next",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The hotel is adjacent to the train station."
+},
+{
+"w": "administer",
+"fr": "administrer, gérer",
+"def": "To manage, or to give medicine or a test",
+"syn": "manage, dispense, run",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The nurse administered the injection carefully."
+},
+{
+"w": "admittedly",
+"fr": "certes, il faut l'admettre",
+"def": "Used when accepting that something is true",
+"syn": "granted, it must be said",
+"lvl": "C1",
+"pos": "adv",
+"ex": "Admittedly, the plan has some weaknesses."
+},
+{
+"w": "adolescence",
+"fr": "adolescence",
+"def": "The period of life between childhood and adulthood",
+"syn": "youth, teenage years",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Adolescence can be a confusing time for many."
+},
+{
+"w": "adorn",
+"fr": "orner, parer",
+"def": "To decorate something to make it more beautiful",
+"syn": "decorate, embellish",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Paintings adorned the walls of the palace."
+},
+{
+"w": "adversary",
+"fr": "adversaire",
+"def": "An enemy or opponent in a conflict or competition",
+"syn": "opponent, rival, foe",
+"lvl": "C1",
+"pos": "noun",
+"ex": "He faced his old adversary in the final."
+},
+{
+"w": "adverse",
+"fr": "défavorable, négatif",
+"def": "Having a harmful or unfavourable effect",
+"syn": "harmful, negative, unfavourable",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The drug has few adverse side effects."
+},
+{
+"w": "adversity",
+"fr": "adversité",
+"def": "A difficult or unlucky situation or period",
+"syn": "hardship, misfortune",
+"lvl": "C1",
+"pos": "noun",
+"ex": "She showed great courage in the face of adversity."
+},
+{
+"w": "advocate",
+"fr": "préconiser, prôner",
+"def": "To publicly support a particular policy or idea",
+"syn": "recommend, champion, promote",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Many doctors advocate a diet rich in vegetables."
+},
+{
+"w": "aesthetic",
+"fr": "esthétique",
+"def": "Relating to beauty and the appreciation of art",
+"syn": "artistic, visual",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The building has little aesthetic appeal."
+},
+{
+"w": "affinity",
+"fr": "affinité",
+"def": "A natural liking for or connection with something",
+"syn": "rapport, sympathy, bond",
+"lvl": "C1",
+"pos": "noun",
+"ex": "She has a strong affinity with animals."
+},
+{
+"w": "affirm",
+"fr": "affirmer",
+"def": "To state firmly and publicly that something is true",
+"syn": "declare, assert, confirm",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The president affirmed his commitment to reform."
+},
+{
+"w": "affluent",
+"fr": "aisé, riche",
+"def": "Having a lot of money and a high standard of living",
+"syn": "wealthy, prosperous, well-off",
+"lvl": "C1",
+"pos": "adj",
+"ex": "They live in an affluent suburb of London."
+},
+{
+"w": "aftermath",
+"fr": "suites, lendemain",
+"def": "The period following a disaster or very unpleasant event",
+"syn": "consequences, wake",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Many families were homeless in the aftermath of the flood."
+},
+{
+"w": "aggravate",
+"fr": "aggraver, agacer",
+"def": "To make a bad situation worse; informally, to annoy",
+"syn": "worsen, exacerbate, irritate",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Running aggravated his knee injury."
+},
+{
+"w": "aggregate",
+"fr": "total, global",
+"def": "Formed by combining several separate amounts",
+"syn": "total, combined, overall",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The team won on aggregate score over two matches."
+},
+{
+"w": "agile",
+"fr": "agile",
+"def": "Able to move or think quickly and easily",
+"syn": "nimble, quick, lithe",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Despite his age, he remained agile and alert."
+},
+{
+"w": "agitated",
+"fr": "agité, troublé",
+"def": "Worried and nervous so that you cannot stay calm",
+"syn": "anxious, nervous, upset",
+"lvl": "C1",
+"pos": "adj",
+"ex": "He became agitated when the plane was delayed."
+},
+{
+"w": "agonizing",
+"fr": "atroce, déchirant",
+"def": "Causing great physical or mental pain",
+"syn": "excruciating, painful, harrowing",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Choosing between the two jobs was an agonizing decision."
+},
+{
+"w": "ailment",
+"fr": "affection, mal",
+"def": "A minor illness",
+"syn": "illness, complaint, disorder",
+"lvl": "C1",
+"pos": "noun",
+"ex": "He suffers from various minor ailments."
+},
+{
+"w": "alienate",
+"fr": "aliéner, s'éloigner",
+"def": "To make someone feel isolated or no longer friendly",
+"syn": "estrange, isolate, distance",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The new policy alienated many loyal voters."
+},
+{
+"w": "allegation",
+"fr": "allégation, accusation",
+"def": "A public claim, without proof, that someone did wrong",
+"syn": "accusation, claim, charge",
+"lvl": "C1",
+"pos": "noun",
+"ex": "He denied all allegations of corruption."
+},
+{
+"w": "allege",
+"fr": "alléguer, prétendre",
+"def": "To claim something is true without giving proof",
+"syn": "claim, assert, maintain",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The report alleges that the company hid its losses."
+},
+{
+"w": "allegedly",
+"fr": "prétendument, présumément",
+"def": "According to what is said but not proved",
+"syn": "reportedly, supposedly",
+"lvl": "C1",
+"pos": "adv",
+"ex": "The man allegedly stole three cars."
+},
+{
+"w": "allegiance",
+"fr": "allégeance, loyauté",
+"def": "Loyalty and support for a leader, country or group",
+"syn": "loyalty, fidelity, devotion",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Soldiers swore allegiance to the new king."
+},
+{
+"w": "alleviate",
+"fr": "soulager, atténuer",
+"def": "To make pain or a problem less severe",
+"syn": "relieve, ease, lessen",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The new road should alleviate traffic congestion."
+},
+{
+"w": "allocate",
+"fr": "allouer, attribuer",
+"def": "To give something officially for a particular purpose",
+"syn": "assign, distribute, allot",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The government allocated more money to education."
+},
+{
+"w": "allocation",
+"fr": "allocation, attribution",
+"def": "An amount given or the process of sharing it out",
+"syn": "allowance, share, distribution",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Each department receives an annual budget allocation."
+},
+{
+"w": "allude to",
+"fr": "faire allusion à",
+"def": "To mention something indirectly",
+"syn": "hint at, refer to, suggest",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "She alluded to problems in her marriage."
+},
+{
+"w": "allure",
+"fr": "attrait, charme",
+"def": "The quality of being attractive and exciting",
+"syn": "appeal, attraction, charm",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The allure of city life drew him to London."
+},
+{
+"w": "ally",
+"fr": "allié",
+"def": "A country or person that supports another",
+"syn": "partner, supporter, friend",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The two countries have been close allies for decades."
+},
+{
+"w": "aloof",
+"fr": "distant, réservé",
+"def": "Unfriendly and not wanting to get involved with others",
+"syn": "distant, detached, reserved",
+"lvl": "C1",
+"pos": "adj",
+"ex": "He seemed aloof, but he was simply shy."
+},
+{
+"w": "alteration",
+"fr": "modification, retouche",
+"def": "A change made to something",
+"syn": "change, modification, adjustment",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The tailor made a few alterations to the dress."
+},
+{
+"w": "altruistic",
+"fr": "altruiste",
+"def": "Caring about others' needs more than your own",
+"syn": "selfless, unselfish, generous",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Her motives for volunteering were entirely altruistic."
+},
+{
+"w": "amass",
+"fr": "amasser, accumuler",
+"def": "To gather a large amount of something over time",
+"syn": "accumulate, collect, gather",
+"lvl": "C1",
+"pos": "verb",
+"ex": "He amassed a huge fortune in property."
+},
+{
+"w": "ambiguity",
+"fr": "ambiguïté",
+"def": "The state of having more than one possible meaning",
+"syn": "vagueness, uncertainty",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The contract's ambiguity led to a legal dispute."
+},
+{
+"w": "amend",
+"fr": "modifier, amender",
+"def": "To change the words of a text, especially a law",
+"syn": "revise, modify, alter",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Parliament voted to amend the constitution."
+},
+{
+"w": "amendment",
+"fr": "amendement",
+"def": "A change made to a law or document",
+"syn": "revision, modification",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The senator proposed an amendment to the bill."
+},
+{
+"w": "amenity",
+"fr": "équipement, commodité",
+"def": "A useful or pleasant facility in a building or area",
+"syn": "facility, convenience, service",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The town has good local amenities like shops and parks."
+},
+{
+"w": "amid",
+"fr": "au milieu de, sur fond de",
+"def": "In the middle of or surrounded by",
+"syn": "amidst, among, during",
+"lvl": "C1",
+"pos": "prep",
+"ex": "The minister resigned amid growing criticism."
+},
+{
+"w": "ample",
+"fr": "amplement suffisant, abondant",
+"def": "More than enough",
+"syn": "plenty, abundant, sufficient",
+"lvl": "C1",
+"pos": "adj",
+"ex": "There is ample parking behind the building."
+},
+{
+"w": "amplify",
+"fr": "amplifier",
+"def": "To make something louder, stronger or more intense",
+"syn": "increase, intensify, magnify",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Social media can amplify false rumours."
+},
+{
+"w": "anarchy",
+"fr": "anarchie",
+"def": "A situation with no government, order or control",
+"syn": "chaos, disorder, lawlessness",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The country descended into anarchy after the war."
+},
+{
+"w": "ancestry",
+"fr": "ascendance, origines",
+"def": "The people from whom a person is descended",
+"syn": "descent, lineage, heritage",
+"lvl": "C1",
+"pos": "noun",
+"ex": "She is of Irish ancestry."
+},
+{
+"w": "anecdote",
+"fr": "anecdote",
+"def": "A short, often amusing story about a real event",
+"syn": "story, tale",
+"lvl": "C1",
+"pos": "noun",
+"ex": "He told an anecdote about his first day at work."
+},
+{
+"w": "anguish",
+"fr": "angoisse, détresse",
+"def": "Extreme mental or physical suffering",
+"syn": "agony, torment, distress",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Her face showed the anguish she was feeling."
+},
+{
+"w": "animosity",
+"fr": "animosité",
+"def": "A strong feeling of dislike or hostility",
+"syn": "hostility, antagonism, hatred",
+"lvl": "C1",
+"pos": "noun",
+"ex": "There is no animosity between the two rivals."
+},
+{
+"w": "annex",
+"fr": "annexer",
+"def": "To take control of a territory by force",
+"syn": "seize, take over, occupy",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The region was annexed by its powerful neighbour."
+},
+{
+"w": "annotate",
+"fr": "annoter",
+"def": "To add notes or comments to a text or diagram",
+"syn": "comment on, gloss",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Students annotated the poem in the margins."
+},
+{
+"w": "anomaly",
+"fr": "anomalie",
+"def": "Something different from what is normal or expected",
+"syn": "irregularity, oddity, exception",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The low sales figure was an anomaly."
+},
+{
+"w": "anonymity",
+"fr": "anonymat",
+"def": "The state of having your name unknown",
+"syn": "namelessness, secrecy",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The witness spoke on condition of anonymity."
+},
+{
+"w": "antagonize",
+"fr": "contrarier, se mettre à dos",
+"def": "To make someone angry or hostile towards you",
+"syn": "provoke, offend, alienate",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Try not to antagonize the boss today."
+},
+{
+"w": "anticipation",
+"fr": "attente, impatience",
+"def": "Excited feeling about something that will happen",
+"syn": "expectation, excitement",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Fans waited in anticipation for the band to appear."
+},
+{
+"w": "antidote",
+"fr": "antidote",
+"def": "A substance that stops the effects of a poison",
+"syn": "remedy, cure, counteragent",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Laughter is the best antidote to stress."
+},
+{
+"w": "apathy",
+"fr": "apathie, indifférence",
+"def": "Lack of interest or enthusiasm",
+"syn": "indifference, lethargy",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Voter apathy led to a very low turnout."
+},
+{
+"w": "apex",
+"fr": "sommet, apogée",
+"def": "The highest point of something",
+"syn": "peak, summit, pinnacle",
+"lvl": "C1",
+"pos": "noun",
+"ex": "She was at the apex of her career."
+},
+{
+"w": "appease",
+"fr": "apaiser, calmer",
+"def": "To calm someone by giving them what they want",
+"syn": "placate, pacify, satisfy",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The company tried to appease angry customers."
+},
+{
+"w": "applicable",
+"fr": "applicable, pertinent",
+"def": "Affecting or relevant to a person or situation",
+"syn": "relevant, appropriate, pertinent",
+"lvl": "C1",
+"pos": "adj",
+"ex": "These rules are applicable to all employees."
+},
+{
+"w": "appraisal",
+"fr": "évaluation",
+"def": "A judgement of the value or quality of something",
+"syn": "assessment, evaluation, review",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Staff have an annual performance appraisal."
+},
+{
+"w": "appreciative",
+"fr": "reconnaissant",
+"def": "Showing gratitude or pleasure",
+"syn": "grateful, thankful",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The audience was very appreciative of the effort."
+},
+{
+"w": "apprehension",
+"fr": "appréhension",
+"def": "Worry or fear about something that may happen",
+"syn": "anxiety, unease, dread",
+"lvl": "C1",
+"pos": "noun",
+"ex": "She felt some apprehension before the interview."
+},
+{
+"w": "apprehensive",
+"fr": "inquiet, anxieux",
+"def": "Worried that something bad might happen",
+"syn": "anxious, uneasy, nervous",
+"lvl": "C1",
+"pos": "adj",
+"ex": "He was apprehensive about meeting her parents."
+},
+{
+"w": "apprenticeship",
+"fr": "apprentissage",
+"def": "A period of training for a skilled job",
+"syn": "training, traineeship",
+"lvl": "C1",
+"pos": "noun",
+"ex": "He did a four-year apprenticeship as an electrician."
+},
+{
+"w": "aptitude",
+"fr": "aptitude, don",
+"def": "A natural ability to do something well",
+"syn": "talent, gift, flair",
+"lvl": "C1",
+"pos": "noun",
+"ex": "She has a real aptitude for languages."
+},
+{
+"w": "arbitrary",
+"fr": "arbitraire",
+"def": "Based on chance or personal whim, not on reason",
+"syn": "random, capricious, unreasoned",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The choice of date seemed completely arbitrary."
+},
+{
+"w": "arbitration",
+"fr": "arbitrage",
+"def": "Settling a dispute through an independent judge",
+"syn": "mediation, adjudication",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The pay dispute went to arbitration."
+},
+{
+"w": "archaic",
+"fr": "archaïque, désuet",
+"def": "Very old and no longer used or useful",
+"syn": "outdated, antiquated, obsolete",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The law is archaic and needs reform."
+},
+{
+"w": "ardent",
+"fr": "ardent, fervent",
+"def": "Very enthusiastic and passionate",
+"syn": "passionate, fervent, keen",
+"lvl": "C1",
+"pos": "adj",
+"ex": "He is an ardent supporter of the team."
+},
+{
+"w": "arduous",
+"fr": "ardu, pénible",
+"def": "Very difficult and needing a lot of effort",
+"syn": "demanding, gruelling, tough",
+"lvl": "C1",
+"pos": "adj",
+"ex": "It was an arduous climb to the summit."
+},
+{
+"w": "arguably",
+"fr": "sans doute, on peut dire que",
+"def": "Used to say something can reasonably be claimed",
+"syn": "possibly, conceivably",
+"lvl": "C1",
+"pos": "adv",
+"ex": "She is arguably the best player of her generation."
+},
+{
+"w": "arid",
+"fr": "aride",
+"def": "Very dry, with little or no rain",
+"syn": "dry, parched, barren",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Few plants survive in such an arid climate."
+},
+{
+"w": "arouse",
+"fr": "susciter, éveiller",
+"def": "To cause a particular feeling or reaction",
+"syn": "provoke, stir, awaken",
+"lvl": "C1",
+"pos": "verb",
+"ex": "His strange behaviour aroused suspicion."
+},
+{
+"w": "array",
+"fr": "gamme, éventail",
+"def": "A large group or range of things",
+"syn": "range, collection, variety",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The shop sells a wide array of cheeses."
+},
+{
+"w": "arrogance",
+"fr": "arrogance",
+"def": "The attitude of believing you are better than others",
+"syn": "conceit, haughtiness, pride",
+"lvl": "C1",
+"pos": "noun",
+"ex": "His arrogance made him unpopular with colleagues."
+},
+{
+"w": "articulate",
+"fr": "qui s'exprime bien",
+"def": "Able to express ideas clearly and effectively",
+"syn": "eloquent, fluent, expressive",
+"lvl": "C1",
+"pos": "adj",
+"ex": "She is an intelligent and articulate speaker."
+},
+{
+"w": "ascend",
+"fr": "monter, gravir",
+"def": "To move or climb upwards",
+"syn": "climb, rise, mount",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The plane ascended rapidly through the clouds."
+},
+{
+"w": "ascertain",
+"fr": "établir, vérifier",
+"def": "To find out the truth about something",
+"syn": "determine, establish, discover",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Police are trying to ascertain the cause of the fire."
+},
+{
+"w": "ascribe",
+"fr": "attribuer, imputer",
+"def": "To say that something is caused by or belongs to something",
+"syn": "attribute, credit, assign",
+"lvl": "C1",
+"pos": "verb",
+"ex": "He ascribed his success to hard work."
+},
+{
+"w": "aspiration",
+"fr": "aspiration, ambition",
+"def": "A strong hope or wish to achieve something",
+"syn": "ambition, goal, desire",
+"lvl": "C1",
+"pos": "noun",
+"ex": "She has aspirations to become a surgeon."
+},
+{
+"w": "aspire",
+"fr": "aspirer à",
+"def": "To have a strong wish to achieve something",
+"syn": "aim, strive, long",
+"lvl": "C1",
+"pos": "verb",
+"ex": "He aspires to run his own business."
+},
+{
+"w": "assassination",
+"fr": "assassinat",
+"def": "The murder of an important or famous person",
+"syn": "killing, murder",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The assassination of the president shocked the world."
+},
+{
+"w": "assert",
+"fr": "affirmer, revendiquer",
+"def": "To state an opinion or claim firmly",
+"syn": "declare, maintain, insist",
+"lvl": "C1",
+"pos": "verb",
+"ex": "He asserted that he was innocent."
+},
+{
+"w": "assertion",
+"fr": "affirmation",
+"def": "A statement that something is true, made with confidence",
+"syn": "claim, declaration, contention",
+"lvl": "C1",
+"pos": "noun",
+"ex": "There is no evidence to support his assertion."
+},
+{
+"w": "assertive",
+"fr": "sûr de soi, affirmé",
+"def": "Behaving confidently and saying clearly what you want",
+"syn": "confident, self-assured, forceful",
+"lvl": "C1",
+"pos": "adj",
+"ex": "You need to be more assertive in meetings."
+},
+{
+"w": "assimilate",
+"fr": "assimiler, intégrer",
+"def": "To absorb information, or to become part of a group",
+"syn": "absorb, integrate, digest",
+"lvl": "C1",
+"pos": "verb",
+"ex": "It takes time to assimilate so much new information."
+},
+{
+"w": "assortment",
+"fr": "assortiment",
+"def": "A mixture of different types of things",
+"syn": "mixture, variety, selection",
+"lvl": "C1",
+"pos": "noun",
+"ex": "He bought an assortment of chocolates."
+},
+{
+"w": "assurance",
+"fr": "assurance, garantie",
+"def": "A promise, or a feeling of confidence",
+"syn": "guarantee, pledge, confidence",
+"lvl": "C1",
+"pos": "noun",
+"ex": "He gave me his assurance that it would be ready."
+},
+{
+"w": "astounding",
+"fr": "stupéfiant",
+"def": "So surprising that it is difficult to believe",
+"syn": "astonishing, amazing, staggering",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The film was an astounding success."
+},
+{
+"w": "astute",
+"fr": "astucieux, perspicace",
+"def": "Clever at understanding situations and using them to advantage",
+"syn": "shrewd, sharp, perceptive",
+"lvl": "C1",
+"pos": "adj",
+"ex": "She is an astute businesswoman."
+},
+{
+"w": "asylum",
+"fr": "asile",
+"def": "Protection given by a country to refugees",
+"syn": "refuge, sanctuary, shelter",
+"lvl": "C1",
+"pos": "noun",
+"ex": "He applied for political asylum in Canada."
+},
+{
+"w": "atrocity",
+"fr": "atrocité",
+"def": "An extremely cruel and violent act",
+"syn": "outrage, crime, brutality",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Atrocities were committed during the civil war."
+},
+{
+"w": "attain",
+"fr": "atteindre, parvenir à",
+"def": "To reach or achieve something after effort",
+"syn": "achieve, reach, obtain",
+"lvl": "C1",
+"pos": "verb",
+"ex": "She attained the highest grade in the exam."
+},
+{
+"w": "attentive",
+"fr": "attentif, prévenant",
+"def": "Listening or watching carefully; caring for others' needs",
+"syn": "alert, observant, considerate",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The waiters were friendly and attentive."
+},
+{
+"w": "attribute",
+"fr": "attribuer",
+"def": "To say that something is caused by something else",
+"syn": "ascribe, credit, assign",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Doctors attribute the illness to poor diet."
+},
+{
+"w": "audacious",
+"fr": "audacieux",
+"def": "Showing a willingness to take bold risks",
+"syn": "bold, daring, fearless",
+"lvl": "C1",
+"pos": "adj",
+"ex": "It was an audacious plan to rob the bank."
+},
+{
+"w": "audit",
+"fr": "audit, vérification des comptes",
+"def": "An official examination of financial records",
+"syn": "inspection, review, examination",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The annual audit revealed serious errors."
+},
+{
+"w": "augment",
+"fr": "augmenter, accroître",
+"def": "To increase the size or value of something",
+"syn": "increase, boost, supplement",
+"lvl": "C1",
+"pos": "verb",
+"ex": "He works evenings to augment his income."
+},
+{
+"w": "austerity",
+"fr": "austérité",
+"def": "Strict government spending cuts; also a plain, simple lifestyle",
+"syn": "cutbacks, economy, frugality",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Years of austerity have damaged public services."
+},
+{
+"w": "authenticity",
+"fr": "authenticité",
+"def": "The quality of being real or genuine",
+"syn": "genuineness, legitimacy",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Experts questioned the authenticity of the painting."
+},
+{
+"w": "authoritarian",
+"fr": "autoritaire",
+"def": "Demanding total obedience and limiting personal freedom",
+"syn": "dictatorial, despotic, strict",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The country was ruled by an authoritarian regime."
+},
+{
+"w": "autonomous",
+"fr": "autonome",
+"def": "Independent and able to govern or act by itself",
+"syn": "independent, self-governing",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The region is fully autonomous."
+},
+{
+"w": "autonomy",
+"fr": "autonomie",
+"def": "The right or ability to make your own decisions",
+"syn": "independence, self-rule, freedom",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Teachers want more autonomy in the classroom."
+},
+{
+"w": "avert",
+"fr": "éviter, détourner",
+"def": "To prevent something bad from happening",
+"syn": "prevent, avoid, forestall",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Quick action averted a disaster."
+},
+{
+"w": "avid",
+"fr": "passionné, avide",
+"def": "Extremely eager or enthusiastic about something",
+"syn": "keen, enthusiastic, passionate",
+"lvl": "C1",
+"pos": "adj",
+"ex": "She is an avid reader of crime novels."
+},
+{
+"w": "awe",
+"fr": "admiration mêlée de crainte",
+"def": "A feeling of great respect mixed with fear or wonder",
+"syn": "wonder, reverence, amazement",
+"lvl": "C1",
+"pos": "noun",
+"ex": "We stood in awe at the foot of the mountain."
+},
+{
+"w": "backdrop",
+"fr": "toile de fond",
+"def": "The general situation in which events happen",
+"syn": "background, setting, context",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The talks took place against a backdrop of violence."
+},
+{
+"w": "backlash",
+"fr": "réaction violente, contrecoup",
+"def": "A strong negative public reaction to something",
+"syn": "reaction, outcry, counterattack",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The tax rise caused a public backlash."
+},
+{
+"w": "backlog",
+"fr": "arriéré, retard accumulé",
+"def": "Work that should have been done earlier but is waiting",
+"syn": "accumulation, pile-up, arrears",
+"lvl": "C1",
+"pos": "noun",
+"ex": "There is a huge backlog of orders to process."
+},
+{
+"w": "ballot",
+"fr": "scrutin, bulletin de vote",
+"def": "A secret vote, or the paper used for voting",
+"syn": "vote, poll, election",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Union members held a ballot on strike action."
+},
+{
+"w": "bankruptcy",
+"fr": "faillite",
+"def": "The state of being legally unable to pay your debts",
+"syn": "insolvency, ruin, failure",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The airline filed for bankruptcy last year."
+},
+{
+"w": "barren",
+"fr": "stérile, aride",
+"def": "Land too poor to produce plants or crops",
+"syn": "infertile, desolate, arid",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The landscape was barren and rocky."
+},
+{
+"w": "bask",
+"fr": "se prélasser, savourer",
+"def": "To lie in warm sunshine, or to enjoy attention",
+"syn": "lounge, sunbathe, revel",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Seals were basking in the sunshine on the rocks."
+},
+{
+"w": "batch",
+"fr": "lot, fournée",
+"def": "A group of things or people dealt with together",
+"syn": "lot, set, group",
+"lvl": "C1",
+"pos": "noun",
+"ex": "She baked a fresh batch of cookies."
+},
+{
+"w": "beacon",
+"fr": "phare, balise",
+"def": "A light or signal used as a warning or guide",
+"syn": "signal, light, guide",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The city became a beacon of hope for refugees."
+},
+{
+"w": "bearable",
+"fr": "supportable",
+"def": "Able to be accepted or dealt with",
+"syn": "tolerable, endurable",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Good friends made the pain more bearable."
+},
+{
+"w": "beforehand",
+"fr": "à l'avance, auparavant",
+"def": "Before a particular time or event",
+"syn": "in advance, earlier, previously",
+"lvl": "C1",
+"pos": "adv",
+"ex": "Please let me know beforehand if you can't come."
+},
+{
+"w": "belated",
+"fr": "tardif",
+"def": "Coming or happening later than it should",
+"syn": "late, overdue, delayed",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Happy belated birthday!"
+},
+{
+"w": "belittle",
+"fr": "rabaisser, minimiser",
+"def": "To make someone or something seem unimportant",
+"syn": "disparage, diminish, play down",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Don't belittle her achievements."
+},
+{
+"w": "bemused",
+"fr": "perplexe, déconcerté",
+"def": "Slightly confused",
+"syn": "puzzled, bewildered, perplexed",
+"lvl": "C1",
+"pos": "adj",
+"ex": "He looked bemused by all the attention."
+},
+{
+"w": "benchmark",
+"fr": "référence, point de repère",
+"def": "A standard used for comparing or measuring other things",
+"syn": "standard, reference, yardstick",
+"lvl": "C1",
+"pos": "noun",
+"ex": "These results set a new benchmark for the industry."
+},
+{
+"w": "benevolent",
+"fr": "bienveillant",
+"def": "Kind and wanting to help others",
+"syn": "kind, charitable, generous",
+"lvl": "C1",
+"pos": "adj",
+"ex": "He was a benevolent employer who treated staff well."
+},
+{
+"w": "benign",
+"fr": "bénin, bienveillant",
+"def": "Not harmful; also gentle and kind",
+"syn": "harmless, mild, gentle",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Fortunately, the tumour was benign."
+},
+{
+"w": "bereaved",
+"fr": "endeuillé",
+"def": "Having recently lost a close relative or friend through death",
+"syn": "grieving, mourning",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Our thoughts are with the bereaved families."
+},
+{
+"w": "beset",
+"fr": "assailli, en proie à",
+"def": "Troubled continuously by problems or difficulties",
+"syn": "plagued, troubled, afflicted",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The project was beset by delays."
+},
+{
+"w": "bestow",
+"fr": "conférer, accorder",
+"def": "To give an honour or gift to someone",
+"syn": "confer, grant, award",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The title was bestowed on him by the queen."
+},
+{
+"w": "betrayal",
+"fr": "trahison",
+"def": "The act of being disloyal to someone who trusted you",
+"syn": "treachery, disloyalty, deception",
+"lvl": "C1",
+"pos": "noun",
+"ex": "She saw his lie as a deep betrayal."
+},
+{
+"w": "bewildered",
+"fr": "déconcerté, perplexe",
+"def": "Very confused and unable to understand",
+"syn": "baffled, puzzled, perplexed",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The bewildered tourists couldn't find their hotel."
+},
+{
+"w": "bias",
+"fr": "parti pris, préjugé",
+"def": "Unfair preference for or against someone or something",
+"syn": "prejudice, partiality, favouritism",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The newspaper was accused of political bias."
+},
+{
+"w": "biased",
+"fr": "partial, de parti pris",
+"def": "Unfairly favouring one side or view",
+"syn": "partial, prejudiced, one-sided",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The referee was clearly biased."
+},
+{
+"w": "bilateral",
+"fr": "bilatéral",
+"def": "Involving two groups or countries",
+"syn": "two-sided, mutual, reciprocal",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The two countries signed a bilateral trade agreement."
+},
+{
+"w": "binding",
+"fr": "contraignant, obligatoire",
+"def": "Legally requiring someone to do what was agreed",
+"syn": "obligatory, compulsory, mandatory",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The contract is legally binding."
+},
+{
+"w": "biodiversity",
+"fr": "biodiversité",
+"def": "The variety of plants and animals in an area",
+"syn": "biological diversity",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Deforestation is a major threat to biodiversity."
+},
+{
+"w": "bizarre",
+"fr": "bizarre, étrange",
+"def": "Very strange and unusual",
+"syn": "weird, odd, peculiar",
+"lvl": "C1",
+"pos": "adj",
+"ex": "He has some bizarre ideas about food."
+},
+{
+"w": "blatant",
+"fr": "flagrant, éhonté",
+"def": "Very obvious and done openly without shame",
+"syn": "flagrant, glaring, shameless",
+"lvl": "C1",
+"pos": "adj",
+"ex": "It was a blatant lie."
+},
+{
+"w": "blaze",
+"fr": "incendie, flambée",
+"def": "A large, strong fire",
+"syn": "fire, inferno, flames",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Firefighters fought the blaze for hours."
+},
+{
+"w": "bleak",
+"fr": "sombre, morne",
+"def": "Without hope or encouragement; also cold and empty",
+"syn": "grim, dismal, gloomy",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The future looks bleak for the factory workers."
+},
+{
+"w": "blemish",
+"fr": "imperfection, tache",
+"def": "A small mark or flaw that spoils appearance",
+"syn": "flaw, mark, defect",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The scandal left a blemish on his reputation."
+},
+{
+"w": "blissful",
+"fr": "merveilleux, bienheureux",
+"def": "Extremely happy and peaceful",
+"syn": "joyful, ecstatic, serene",
+"lvl": "C1",
+"pos": "adj",
+"ex": "We spent a blissful week by the sea."
+},
+{
+"w": "blunder",
+"fr": "bévue, gaffe",
+"def": "A careless and embarrassing mistake",
+"syn": "mistake, error, gaffe",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The goalkeeper's blunder cost them the match."
+},
+{
+"w": "blunt",
+"fr": "franc, direct; émoussé",
+"def": "Speaking directly without trying to be polite; also not sharp",
+"syn": "direct, frank, outspoken",
+"lvl": "C1",
+"pos": "adj",
+"ex": "To be blunt, your work isn't good enough."
+},
+{
+"w": "blur",
+"fr": "brouiller, estomper",
+"def": "To make or become unclear or less distinct",
+"syn": "obscure, cloud, smudge",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Tears blurred her vision."
+},
+{
+"w": "bodily",
+"fr": "corporel, physique",
+"def": "Relating to the human body",
+"syn": "physical, corporeal",
+"lvl": "C1",
+"pos": "adj",
+"ex": "He was charged with causing grievous bodily harm."
+},
+{
+"w": "bog down",
+"fr": "enliser, embourber",
+"def": "To delay progress by too many difficulties",
+"syn": "hinder, slow down, stall",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "Let's not get bogged down in details."
+},
+{
+"w": "bolster",
+"fr": "renforcer, soutenir",
+"def": "To support or strengthen something",
+"syn": "strengthen, reinforce, boost",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The victory bolstered the team's confidence."
+},
+{
+"w": "bombard",
+"fr": "bombarder, assaillir",
+"def": "To attack continuously, or to direct many questions at",
+"syn": "assail, overwhelm, shell",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Reporters bombarded her with questions."
+},
+{
+"w": "bottleneck",
+"fr": "goulot d'étranglement",
+"def": "Something that slows down a process or traffic",
+"syn": "obstruction, hold-up, jam",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The narrow bridge creates a traffic bottleneck."
+},
+{
+"w": "boycott",
+"fr": "boycotter",
+"def": "To refuse to buy, use or take part in something as protest",
+"syn": "shun, reject, avoid",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Several countries boycotted the games."
+},
+{
+"w": "brace",
+"fr": "se préparer",
+"def": "To prepare yourself for something unpleasant",
+"syn": "prepare, steel, ready",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Residents are bracing themselves for the storm."
+},
+{
+"w": "breach",
+"fr": "violation, infraction",
+"def": "An act of breaking a law, rule or agreement",
+"syn": "violation, infringement, break",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The company was sued for breach of contract."
+},
+{
+"w": "breed",
+"fr": "engendrer, se reproduire",
+"def": "To produce young, or to cause something to develop",
+"syn": "reproduce, generate, foster",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Familiarity breeds contempt."
+},
+{
+"w": "brevity",
+"fr": "brièveté, concision",
+"def": "The quality of being short in time or words",
+"syn": "conciseness, shortness, briefness",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The speech was praised for its brevity."
+},
+{
+"w": "bribe",
+"fr": "pot-de-vin",
+"def": "Money given illegally to persuade someone to act dishonestly",
+"syn": "kickback, inducement, payoff",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The official was accused of accepting bribes."
+},
+{
+"w": "bribery",
+"fr": "corruption",
+"def": "The crime of offering or accepting illegal payments",
+"syn": "corruption, graft",
+"lvl": "C1",
+"pos": "noun",
+"ex": "He was found guilty of bribery."
+},
+{
+"w": "brink",
+"fr": "bord, seuil",
+"def": "The point where something bad is about to happen",
+"syn": "verge, edge, threshold",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The company is on the brink of collapse."
+},
+{
+"w": "brisk",
+"fr": "vif, rapide",
+"def": "Quick, energetic and active",
+"syn": "quick, lively, energetic",
+"lvl": "C1",
+"pos": "adj",
+"ex": "We went for a brisk walk after lunch."
+},
+{
+"w": "brittle",
+"fr": "cassant, fragile",
+"def": "Hard but easily broken",
+"syn": "fragile, breakable, delicate",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Old bones become brittle and break easily."
+},
+{
+"w": "broach",
+"fr": "aborder, entamer",
+"def": "To begin discussing a difficult subject",
+"syn": "raise, bring up, introduce",
+"lvl": "C1",
+"pos": "verb",
+"ex": "I didn't know how to broach the subject of money."
+},
+{
+"w": "brunt",
+"fr": "poids, choc",
+"def": "The main force or worst effects of something",
+"syn": "impact, burden, full force",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Poor families bear the brunt of the price rises."
+},
+{
+"w": "brutality",
+"fr": "brutalité",
+"def": "Cruel and violent behaviour",
+"syn": "cruelty, savagery, violence",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Protesters complained of police brutality."
+},
+{
+"w": "buffer",
+"fr": "tampon, protection",
+"def": "Something that reduces a harmful effect or separates things",
+"syn": "cushion, barrier, shield",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Savings act as a buffer against unemployment."
+},
+{
+"w": "bulk",
+"fr": "majeure partie, masse",
+"def": "The main or largest part of something",
+"syn": "majority, mass, most",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The bulk of the work is already done."
+},
+{
+"w": "bulky",
+"fr": "volumineux, encombrant",
+"def": "Too big and taking up a lot of space",
+"syn": "cumbersome, large, unwieldy",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Bulky items cost more to post."
+},
+{
+"w": "bureaucracy",
+"fr": "bureaucratie",
+"def": "A complicated system of official rules and procedures",
+"syn": "red tape, administration",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Small firms complain about excessive bureaucracy."
+},
+{
+"w": "bureaucratic",
+"fr": "bureaucratique",
+"def": "Involving complicated official rules and processes",
+"syn": "administrative, procedural",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The visa process is slow and bureaucratic."
+},
+{
+"w": "burgeoning",
+"fr": "en plein essor",
+"def": "Growing or developing quickly",
+"syn": "booming, flourishing, expanding",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The city has a burgeoning tech industry."
+},
+{
+"w": "bustling",
+"fr": "animé, grouillant",
+"def": "Full of busy activity and people",
+"syn": "busy, lively, crowded",
+"lvl": "C1",
+"pos": "adj",
+"ex": "We wandered through the bustling market."
+},
+{
+"w": "buoyant",
+"fr": "dynamique, optimiste; flottant",
+"def": "Successful and growing; also cheerful or able to float",
+"syn": "thriving, cheerful, upbeat",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The housing market remains buoyant."
+},
+{
+"w": "by-product",
+"fr": "sous-produit, conséquence",
+"def": "Something produced or caused in addition to the main result",
+"syn": "side effect, spin-off, consequence",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Pollution is a by-product of industrial growth."
+},
+{
+"w": "bystander",
+"fr": "passant, témoin",
+"def": "A person who sees something happen but is not involved",
+"syn": "onlooker, witness, observer",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Two innocent bystanders were hurt in the shooting."
+},
+{
+"w": "bypass",
+"fr": "contourner",
+"def": "To avoid something by going around it",
+"syn": "circumvent, avoid, sidestep",
+"lvl": "C1",
+"pos": "verb",
+"ex": "They found a way to bypass the security system."
+},
+{
+"w": "benefactor",
+"fr": "bienfaiteur",
+"def": "A person who gives money to help a person or organization",
+"syn": "patron, donor, sponsor",
+"lvl": "C1",
+"pos": "noun",
+"ex": "An anonymous benefactor paid for the new library."
+},
+{
+"w": "bequeath",
+"fr": "léguer",
+"def": "To leave property to someone after you die",
+"syn": "leave, will, hand down",
+"lvl": "C1",
+"pos": "verb",
+"ex": "She bequeathed her house to her nephew."
+},
+{
+"w": "blight",
+"fr": "fléau, plaie",
+"def": "Something that spoils or damages something else",
+"syn": "plague, curse, scourge",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Unemployment is a blight on the community."
+},
+{
+"w": "brash",
+"fr": "effronté, impétueux",
+"def": "Too confident and loud in a rude way",
+"syn": "cocky, bold, brazen",
+"lvl": "C1",
+"pos": "adj",
+"ex": "He was a brash young man who annoyed everyone."
+},
+{
+"w": "cajole",
+"fr": "cajoler, amadouer",
+"def": "To persuade someone gently by flattery or promises",
+"syn": "coax, wheedle, persuade",
+"lvl": "C1",
+"pos": "verb",
+"ex": "She cajoled him into coming to the party."
+},
+{
+"w": "calamity",
+"fr": "calamité, catastrophe",
+"def": "A serious accident or event causing great damage",
+"syn": "disaster, catastrophe, tragedy",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The drought was a calamity for farmers."
+},
+{
+"w": "calculated",
+"fr": "calculé, délibéré",
+"def": "Carefully planned to achieve a particular effect",
+"syn": "deliberate, intentional, planned",
+"lvl": "C1",
+"pos": "adj",
+"ex": "It was a calculated risk that paid off."
+},
+{
+"w": "callous",
+"fr": "insensible, dur",
+"def": "Cruel and not caring about others' feelings",
+"syn": "heartless, cold, insensitive",
+"lvl": "C1",
+"pos": "adj",
+"ex": "It was a callous attack on a defenceless woman."
+},
+{
+"w": "camaraderie",
+"fr": "camaraderie",
+"def": "Friendship and trust among people who spend time together",
+"syn": "friendship, fellowship, solidarity",
+"lvl": "C1",
+"pos": "noun",
+"ex": "There is a strong sense of camaraderie in the team."
+},
+{
+"w": "camouflage",
+"fr": "camouflage",
+"def": "The use of colours or patterns to hide something",
+"syn": "disguise, concealment, cover",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The soldiers wore camouflage uniforms."
+},
+{
+"w": "candid",
+"fr": "franc, sincère",
+"def": "Honest and direct, even about difficult things",
+"syn": "frank, open, honest",
+"lvl": "C1",
+"pos": "adj",
+"ex": "She gave a candid interview about her illness."
+},
+{
+"w": "capitalize on",
+"fr": "tirer profit de",
+"def": "To use a situation to gain an advantage",
+"syn": "exploit, profit from, take advantage of",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "The team failed to capitalize on their early lead."
+},
+{
+"w": "captivate",
+"fr": "captiver, fasciner",
+"def": "To hold someone's attention by being very interesting",
+"syn": "fascinate, enchant, charm",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The story captivated young readers."
+},
+{
+"w": "captivity",
+"fr": "captivité",
+"def": "The state of being kept as a prisoner or in a cage",
+"syn": "imprisonment, confinement, detention",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Pandas rarely breed in captivity."
+},
+{
+"w": "caricature",
+"fr": "caricature",
+"def": "A drawing or description exaggerating someone's features for humour",
+"syn": "cartoon, parody, satire",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The magazine published a caricature of the prime minister."
+},
+{
+"w": "casualty",
+"fr": "victime, blessé",
+"def": "A person killed or injured in a war or accident",
+"syn": "victim, fatality, injured person",
+"lvl": "C1",
+"pos": "noun",
+"ex": "There were no casualties in the explosion."
+},
+{
+"w": "catalyst",
+"fr": "catalyseur",
+"def": "Something that causes important change or action",
+"syn": "stimulus, trigger, spark",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The protest was a catalyst for political reform."
+},
+{
+"w": "categorical",
+"fr": "catégorique",
+"def": "Completely clear and certain, without any doubt",
+"syn": "absolute, unequivocal, explicit",
+"lvl": "C1",
+"pos": "adj",
+"ex": "He gave a categorical denial."
+},
+{
+"w": "cater for",
+"fr": "répondre aux besoins de",
+"def": "To provide what a particular group needs or wants",
+"syn": "provide for, serve, accommodate",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "The resort caters for families with young children."
+},
+{
+"w": "cease",
+"fr": "cesser",
+"def": "To stop happening or existing",
+"syn": "stop, end, halt",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The factory ceased production last year."
+},
+{
+"w": "ceasefire",
+"fr": "cessez-le-feu",
+"def": "An agreement to stop fighting for a period",
+"syn": "truce, armistice",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Both sides agreed to a temporary ceasefire."
+},
+{
+"w": "censor",
+"fr": "censurer",
+"def": "To remove parts of a text, film or message considered unacceptable",
+"syn": "cut, suppress, ban",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The government censored all news about the protests."
+},
+{
+"w": "censorship",
+"fr": "censure",
+"def": "The control or suppression of what can be published or said",
+"syn": "suppression, restriction",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Journalists protested against state censorship."
+},
+{
+"w": "certify",
+"fr": "certifier, attester",
+"def": "To officially state that something is true or correct",
+"syn": "confirm, verify, attest",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The document must be certified by a lawyer."
+},
+{
+"w": "chaotic",
+"fr": "chaotique",
+"def": "In a state of complete confusion and disorder",
+"syn": "disorganized, messy, turbulent",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The airport was chaotic during the strike."
+},
+{
+"w": "charisma",
+"fr": "charisme",
+"def": "A strong personal charm that attracts and influences people",
+"syn": "charm, magnetism, presence",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The candidate lacked charisma."
+},
+{
+"w": "charitable",
+"fr": "caritatif, indulgent",
+"def": "Relating to helping people in need; also kind in judging others",
+"syn": "philanthropic, generous, kind",
+"lvl": "C1",
+"pos": "adj",
+"ex": "She does a lot of charitable work."
+},
+{
+"w": "chronic",
+"fr": "chronique",
+"def": "Lasting a long time or constantly recurring",
+"syn": "persistent, long-term, constant",
+"lvl": "C1",
+"pos": "adj",
+"ex": "He suffers from chronic back pain."
+},
+{
+"w": "chronicle",
+"fr": "relater, retracer",
+"def": "To record events in the order they happened",
+"syn": "record, document, narrate",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The book chronicles the history of the city."
+},
+{
+"w": "circulate",
+"fr": "circuler, diffuser",
+"def": "To move around, or to pass information to many people",
+"syn": "spread, distribute, flow",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Rumours circulated about his resignation."
+},
+{
+"w": "circumvent",
+"fr": "contourner",
+"def": "To find a way of avoiding a rule or problem",
+"syn": "bypass, evade, get round",
+"lvl": "C1",
+"pos": "verb",
+"ex": "They tried to circumvent the tax laws."
+},
+{
+"w": "citation",
+"fr": "citation, référence",
+"def": "A reference to a book or author, or an official mention",
+"syn": "quotation, reference",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The essay must include full citations."
+},
+{
+"w": "cite",
+"fr": "citer",
+"def": "To mention something as an example, reason or proof",
+"syn": "quote, mention, refer to",
+"lvl": "C1",
+"pos": "verb",
+"ex": "She cited three studies to support her argument."
+},
+{
+"w": "civic",
+"fr": "civique, municipal",
+"def": "Relating to a town or to the duties of citizens",
+"syn": "municipal, public, communal",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Voting is a civic duty."
+},
+{
+"w": "civilian",
+"fr": "civil",
+"def": "A person who is not a member of the armed forces",
+"syn": "non-combatant, citizen",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Many civilians were killed in the bombing."
+},
+{
+"w": "clamp down on",
+"fr": "sévir contre",
+"def": "To take strict action to stop something",
+"syn": "crack down on, suppress, restrict",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "Police are clamping down on drink-driving."
+},
+{
+"w": "clarity",
+"fr": "clarté",
+"def": "The quality of being clear and easy to understand",
+"syn": "clearness, lucidity, precision",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The report lacked clarity."
+},
+{
+"w": "clash",
+"fr": "affrontement, conflit",
+"def": "A fight or serious disagreement",
+"syn": "conflict, confrontation, dispute",
+"lvl": "C1",
+"pos": "noun",
+"ex": "There were violent clashes between police and protesters."
+},
+{
+"w": "clause",
+"fr": "clause; proposition",
+"def": "A section of a legal document; also a grammar unit",
+"syn": "provision, article, section",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Read every clause before signing the contract."
+},
+{
+"w": "cling",
+"fr": "s'accrocher, se cramponner",
+"def": "To hold tightly to someone or something",
+"syn": "hold on, grip, clutch",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The child clung to her mother's hand."
+},
+{
+"w": "clique",
+"fr": "clique, petit groupe",
+"def": "A small, exclusive group of people who keep others out",
+"syn": "circle, set, gang",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The school was divided into cliques."
+},
+{
+"w": "clout",
+"fr": "influence, poids",
+"def": "Power and influence over others",
+"syn": "influence, power, weight",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The union has a lot of political clout."
+},
+{
+"w": "clutch",
+"fr": "serrer, agripper",
+"def": "To hold something tightly, often in fear",
+"syn": "grip, grasp, clasp",
+"lvl": "C1",
+"pos": "verb",
+"ex": "She clutched her bag as she walked home."
+},
+{
+"w": "clutter",
+"fr": "désordre, fouillis",
+"def": "An untidy collection of things",
+"syn": "mess, disorder, jumble",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Clear the clutter off your desk."
+},
+{
+"w": "coalition",
+"fr": "coalition",
+"def": "A union of political parties or groups for a common aim",
+"syn": "alliance, union, partnership",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The two parties formed a coalition government."
+},
+{
+"w": "coerce",
+"fr": "contraindre, forcer",
+"def": "To make someone do something by using threats",
+"syn": "force, compel, pressure",
+"lvl": "C1",
+"pos": "verb",
+"ex": "He was coerced into signing the confession."
+},
+{
+"w": "coercion",
+"fr": "coercition, contrainte",
+"def": "The use of force or threats to make someone act",
+"syn": "force, pressure, duress",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The confession was obtained by coercion."
+},
+{
+"w": "cognitive",
+"fr": "cognitif",
+"def": "Relating to thinking, learning and understanding",
+"syn": "mental, intellectual",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Sleep is important for cognitive development."
+},
+{
+"w": "coherent",
+"fr": "cohérent",
+"def": "Logical, well organized and easy to understand",
+"syn": "logical, consistent, clear",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The government lacks a coherent policy on energy."
+},
+{
+"w": "cohesion",
+"fr": "cohésion",
+"def": "The state of being united and working well together",
+"syn": "unity, solidarity, togetherness",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Sport can promote social cohesion."
+},
+{
+"w": "coincide",
+"fr": "coïncider",
+"def": "To happen at the same time, or to agree",
+"syn": "concur, correspond, synchronize",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The festival coincides with the school holidays."
+},
+{
+"w": "collaborate",
+"fr": "collaborer",
+"def": "To work together with others on a project",
+"syn": "cooperate, team up, work together",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The two universities collaborated on the research."
+},
+{
+"w": "collateral",
+"fr": "garantie, nantissement",
+"def": "Property promised to a lender if a loan is not repaid",
+"syn": "security, guarantee, surety",
+"lvl": "C1",
+"pos": "noun",
+"ex": "He used his house as collateral for the loan."
+},
+{
+"w": "collision",
+"fr": "collision",
+"def": "An accident in which vehicles or objects hit each other",
+"syn": "crash, impact, smash",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Two people were injured in the collision."
+},
+{
+"w": "colloquial",
+"fr": "familier, parlé",
+"def": "Used in informal conversation rather than formal writing",
+"syn": "informal, conversational, casual",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The book uses a lot of colloquial expressions."
+},
+{
+"w": "collusion",
+"fr": "collusion, connivence",
+"def": "Secret cooperation to do something dishonest",
+"syn": "conspiracy, complicity, connivance",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The firms were accused of collusion in fixing prices."
+},
+{
+"w": "combat",
+"fr": "combattre, lutter contre",
+"def": "To try to stop something harmful from happening or increasing",
+"syn": "fight, tackle, oppose",
+"lvl": "C1",
+"pos": "verb",
+"ex": "New measures were introduced to combat crime."
+},
+{
+"w": "commemorate",
+"fr": "commémorer",
+"def": "To honour the memory of an event or person",
+"syn": "celebrate, honour, mark",
+"lvl": "C1",
+"pos": "verb",
+"ex": "A statue was erected to commemorate the victims."
+},
+{
+"w": "commence",
+"fr": "commencer",
+"def": "To begin, used in formal situations",
+"syn": "begin, start, initiate",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The ceremony will commence at noon."
+},
+{
+"w": "commend",
+"fr": "louer, féliciter",
+"def": "To praise someone formally or publicly",
+"syn": "praise, applaud, compliment",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The firefighter was commended for his bravery."
+},
+{
+"w": "commentary",
+"fr": "commentaire",
+"def": "A spoken description of an event, or a set of comments",
+"syn": "narration, analysis, remarks",
+"lvl": "C1",
+"pos": "noun",
+"ex": "We listened to the match commentary on the radio."
+},
+{
+"w": "commodity",
+"fr": "marchandise, matière première",
+"def": "A product that can be bought and sold",
+"syn": "product, goods, merchandise",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Oil is the country's most valuable commodity."
+},
+{
+"w": "compassion",
+"fr": "compassion",
+"def": "A strong feeling of sympathy for those who suffer",
+"syn": "sympathy, empathy, kindness",
+"lvl": "C1",
+"pos": "noun",
+"ex": "She showed great compassion towards the patients."
+},
+{
+"w": "compassionate",
+"fr": "compatissant",
+"def": "Showing sympathy and care for those who suffer",
+"syn": "caring, sympathetic, kind",
+"lvl": "C1",
+"pos": "adj",
+"ex": "He was given compassionate leave after his father died."
+},
+{
+"w": "compatible",
+"fr": "compatible",
+"def": "Able to exist or work together without problems",
+"syn": "consistent, harmonious, suited",
+"lvl": "C1",
+"pos": "adj",
+"ex": "This software is not compatible with older computers."
+},
+{
+"w": "compel",
+"fr": "contraindre, obliger",
+"def": "To force someone to do something",
+"syn": "force, oblige, require",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Illness compelled him to retire early."
+},
+{
+"w": "compelling",
+"fr": "convaincant, captivant",
+"def": "Very convincing, or so interesting you must pay attention",
+"syn": "convincing, persuasive, gripping",
+"lvl": "C1",
+"pos": "adj",
+"ex": "There is compelling evidence that he lied."
+},
+{
+"w": "compensate",
+"fr": "compenser, indemniser",
+"def": "To pay someone for loss or damage; to make up for",
+"syn": "reimburse, offset, make up for",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Victims will be compensated for their injuries."
+},
+{
+"w": "competence",
+"fr": "compétence",
+"def": "The ability to do something well",
+"syn": "ability, skill, capability",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Nobody doubts her professional competence."
+},
+{
+"w": "compile",
+"fr": "compiler, dresser",
+"def": "To collect information from different sources into one list or book",
+"syn": "assemble, collect, gather",
+"lvl": "C1",
+"pos": "verb",
+"ex": "We compiled a list of possible venues."
+},
+{
+"w": "complacent",
+"fr": "suffisant, trop sûr de soi",
+"def": "Too satisfied with yourself to see possible dangers",
+"syn": "self-satisfied, smug, overconfident",
+"lvl": "C1",
+"pos": "adj",
+"ex": "We can't afford to become complacent about safety."
+},
+{
+"w": "complement",
+"fr": "compléter, aller avec",
+"def": "To add to something so that it is improved",
+"syn": "enhance, go with, supplement",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The wine complements the fish perfectly."
+},
+{
+"w": "complementary",
+"fr": "complémentaire",
+"def": "Combining well so that each improves the other",
+"syn": "matching, reciprocal, harmonious",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Their skills are complementary."
+},
+{
+"w": "compliance",
+"fr": "conformité, respect",
+"def": "The act of obeying a rule or request",
+"syn": "obedience, conformity, adherence",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The factory is in compliance with safety laws."
+},
+{
+"w": "comply",
+"fr": "se conformer, obéir",
+"def": "To act according to a rule or request",
+"syn": "obey, conform, follow",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Companies must comply with the new regulations."
+},
+{
+"w": "composure",
+"fr": "calme, sang-froid",
+"def": "The state of being calm and in control",
+"syn": "calmness, self-control, poise",
+"lvl": "C1",
+"pos": "noun",
+"ex": "She kept her composure throughout the trial."
+},
+{
+"w": "comprehensive",
+"fr": "complet, exhaustif",
+"def": "Including everything or nearly everything",
+"syn": "complete, thorough, extensive",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The guide gives comprehensive information about the city."
+},
+{
+"w": "comprise",
+"fr": "comprendre, se composer de",
+"def": "To consist of or be made up of",
+"syn": "consist of, include, contain",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The team comprises five scientists and two engineers."
+},
+{
+"w": "compulsion",
+"fr": "compulsion, obligation",
+"def": "A strong urge to do something, or being forced to",
+"syn": "urge, obsession, obligation",
+"lvl": "C1",
+"pos": "noun",
+"ex": "He felt a compulsion to check his phone constantly."
+},
+{
+"w": "compulsory",
+"fr": "obligatoire",
+"def": "Required by a law or rule",
+"syn": "mandatory, obligatory, required",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Education is compulsory until the age of sixteen."
+},
+{
+"w": "concede",
+"fr": "concéder, admettre",
+"def": "To admit, often unwillingly, that something is true",
+"syn": "admit, acknowledge, grant",
+"lvl": "C1",
+"pos": "verb",
+"ex": "He conceded that he had made a mistake."
+},
+{
+"w": "conceive",
+"fr": "concevoir, imaginer",
+"def": "To form an idea or plan in your mind",
+"syn": "devise, imagine, envisage",
+"lvl": "C1",
+"pos": "verb",
+"ex": "She conceived the idea for the book in Paris."
+},
+{
+"w": "concession",
+"fr": "concession",
+"def": "Something you give or allow to end a disagreement",
+"syn": "compromise, allowance, adjustment",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Both sides made concessions to reach a deal."
+},
+{
+"w": "concise",
+"fr": "concis",
+"def": "Short and clear, using few words",
+"syn": "brief, succinct, short",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Keep your answers concise and to the point."
+},
+{
+"w": "conclusive",
+"fr": "concluant, décisif",
+"def": "Proving something and removing all doubt",
+"syn": "decisive, definitive, convincing",
+"lvl": "C1",
+"pos": "adj",
+"ex": "There is no conclusive proof of his guilt."
+},
+{
+"w": "concoct",
+"fr": "concocter, inventer",
+"def": "To invent an excuse or story, or mix a dish",
+"syn": "invent, fabricate, devise",
+"lvl": "C1",
+"pos": "verb",
+"ex": "He concocted an elaborate excuse for being late."
+},
+{
+"w": "concurrent",
+"fr": "simultané, concomitant",
+"def": "Happening or existing at the same time",
+"syn": "simultaneous, parallel, coinciding",
+"lvl": "C1",
+"pos": "adj",
+"ex": "He is serving two concurrent prison sentences."
+},
+{
+"w": "condemn",
+"fr": "condamner",
+"def": "To strongly criticize something as wrong",
+"syn": "denounce, criticize, censure",
+"lvl": "C1",
+"pos": "verb",
+"ex": "World leaders condemned the attack."
+},
+{
+"w": "condone",
+"fr": "tolérer, fermer les yeux sur",
+"def": "To accept or allow behaviour that is morally wrong",
+"syn": "excuse, tolerate, overlook",
+"lvl": "C1",
+"pos": "verb",
+"ex": "We cannot condone violence of any kind."
+},
+{
+"w": "conducive",
+"fr": "propice, favorable",
+"def": "Providing conditions that help something happen",
+"syn": "favourable, helpful, beneficial",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Noise is not conducive to concentration."
+},
+{
+"w": "confer",
+"fr": "conférer; se consulter",
+"def": "To give an honour or right; also to discuss",
+"syn": "grant, bestow, consult",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The degree was conferred on her in June."
+},
+{
+"w": "confide",
+"fr": "se confier",
+"def": "To tell someone a secret because you trust them",
+"syn": "open up, disclose, reveal",
+"lvl": "C1",
+"pos": "verb",
+"ex": "She confided in her sister about her problems."
+},
+{
+"w": "confidentiality",
+"fr": "confidentialité",
+"def": "The state of keeping information secret",
+"syn": "privacy, secrecy, discretion",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Doctors must respect patient confidentiality."
+},
+{
+"w": "confiscate",
+"fr": "confisquer",
+"def": "To officially take something away from someone",
+"syn": "seize, impound, take away",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The teacher confiscated his phone."
+},
+{
+"w": "conform",
+"fr": "se conformer",
+"def": "To behave according to accepted rules or standards",
+"syn": "comply, fit in, follow",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Teenagers often feel pressure to conform."
+},
+{
+"w": "conformity",
+"fr": "conformité, conformisme",
+"def": "Behaviour that follows accepted rules or customs",
+"syn": "compliance, conventionality",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The school demanded strict conformity to its rules."
+},
+{
+"w": "congestion",
+"fr": "embouteillage, congestion",
+"def": "A state of being overcrowded, especially with traffic",
+"syn": "traffic jam, overcrowding, blockage",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The city introduced a charge to reduce congestion."
+},
+{
+"w": "conjecture",
+"fr": "conjecture, hypothèse",
+"def": "An opinion formed without complete information",
+"syn": "speculation, guesswork, supposition",
+"lvl": "C1",
+"pos": "noun",
+"ex": "His theory is pure conjecture."
+},
+{
+"w": "conscientious",
+"fr": "consciencieux",
+"def": "Careful to do work thoroughly and correctly",
+"syn": "diligent, careful, meticulous",
+"lvl": "C1",
+"pos": "adj",
+"ex": "She is a very conscientious student."
+},
+{
+"w": "consecutive",
+"fr": "consécutif",
+"def": "Following one after another without a break",
+"syn": "successive, straight, in a row",
+"lvl": "C1",
+"pos": "adj",
+"ex": "It rained for five consecutive days."
+},
+{
+"w": "consensus",
+"fr": "consensus",
+"def": "General agreement among a group of people",
+"syn": "agreement, accord, unanimity",
+"lvl": "C1",
+"pos": "noun",
+"ex": "There is a growing consensus that change is needed."
+},
+{
+"w": "consent",
+"fr": "consentement",
+"def": "Permission or agreement to do something",
+"syn": "permission, approval, agreement",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Patients must give written consent before surgery."
+},
+{
+"w": "considerate",
+"fr": "attentionné, prévenant",
+"def": "Kind and careful not to upset or harm others",
+"syn": "thoughtful, kind, attentive",
+"lvl": "C1",
+"pos": "adj",
+"ex": "It was considerate of you to call."
+},
+{
+"w": "consolidate",
+"fr": "consolider, renforcer",
+"def": "To make a position or power stronger and more secure",
+"syn": "strengthen, reinforce, secure",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The company consolidated its position in the market."
+},
+{
+"w": "conspicuous",
+"fr": "voyant, remarquable",
+"def": "Very easy to notice; standing out",
+"syn": "noticeable, obvious, prominent",
+"lvl": "C1",
+"pos": "adj",
+"ex": "He felt conspicuous in his bright yellow suit."
+},
+{
+"w": "conspiracy",
+"fr": "conspiration, complot",
+"def": "A secret plan by a group to do something harmful",
+"syn": "plot, scheme, intrigue",
+"lvl": "C1",
+"pos": "noun",
+"ex": "They were charged with conspiracy to commit fraud."
+},
+{
+"w": "constituency",
+"fr": "circonscription",
+"def": "An area whose voters elect a representative",
+"syn": "electorate, district, ward",
+"lvl": "C1",
+"pos": "noun",
+"ex": "She represents a rural constituency."
+},
+{
+"w": "constituent",
+"fr": "composant, élément",
+"def": "One of the parts that form a whole",
+"syn": "component, element, ingredient",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Oxygen is a constituent of water."
+},
+{
+"w": "constitute",
+"fr": "constituer",
+"def": "To form or be considered as something",
+"syn": "make up, represent, form",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Women constitute half of the workforce."
+},
+{
+"w": "constrain",
+"fr": "contraindre, limiter",
+"def": "To limit or restrict what someone can do",
+"syn": "restrict, limit, restrain",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Our research is constrained by lack of money."
+},
+{
+"w": "constraint",
+"fr": "contrainte",
+"def": "Something that limits or controls what you can do",
+"syn": "restriction, limitation, restraint",
+"lvl": "C1",
+"pos": "noun",
+"ex": "We have to work within strict budget constraints."
+},
+{
+"w": "contemplate",
+"fr": "envisager, contempler",
+"def": "To think carefully about doing something",
+"syn": "consider, ponder, envisage",
+"lvl": "C1",
+"pos": "verb",
+"ex": "She is contemplating a career change."
+},
+{
+"w": "contempt",
+"fr": "mépris",
+"def": "A strong feeling that someone deserves no respect",
+"syn": "scorn, disdain, disrespect",
+"lvl": "C1",
+"pos": "noun",
+"ex": "He looked at me with contempt."
+},
+{
+"w": "contend",
+"fr": "soutenir, affirmer; lutter",
+"def": "To argue that something is true; also to compete",
+"syn": "argue, maintain, claim",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The lawyer contended that his client was innocent."
+},
+{
+"w": "contentious",
+"fr": "controversé, litigieux",
+"def": "Likely to cause disagreement or argument",
+"syn": "controversial, disputed, divisive",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Immigration remains a contentious issue."
+},
+{
+"w": "contingency",
+"fr": "éventualité, imprévu",
+"def": "A possible future event that may cause problems",
+"syn": "eventuality, possibility, emergency",
+"lvl": "C1",
+"pos": "noun",
+"ex": "We need a contingency plan in case it rains."
+},
+{
+"w": "contradiction",
+"fr": "contradiction",
+"def": "A difference between two statements that cannot both be true",
+"syn": "inconsistency, conflict, discrepancy",
+"lvl": "C1",
+"pos": "noun",
+"ex": "There are several contradictions in his story."
+},
+{
+"w": "contravene",
+"fr": "enfreindre, contrevenir à",
+"def": "To break a law or rule",
+"syn": "violate, breach, infringe",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The advert contravenes broadcasting regulations."
+},
+{
+"w": "contrived",
+"fr": "artificiel, forcé",
+"def": "Seeming false and unnatural rather than spontaneous",
+"syn": "artificial, forced, unnatural",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The film's ending felt contrived."
+},
+{
+"w": "conversely",
+"fr": "inversement",
+"def": "Used to introduce an opposite idea",
+"syn": "on the other hand, by contrast",
+"lvl": "C1",
+"pos": "adv",
+"ex": "Some foods raise blood pressure; conversely, others lower it."
+},
+{
+"w": "convey",
+"fr": "transmettre, exprimer",
+"def": "To communicate an idea or feeling",
+"syn": "communicate, express, transmit",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Words cannot convey how grateful I am."
+},
+{
+"w": "conviction",
+"fr": "conviction; condamnation",
+"def": "A firmly held belief; also a court finding of guilt",
+"syn": "belief, certainty, sentence",
+"lvl": "C1",
+"pos": "noun",
+"ex": "She spoke with great conviction."
+},
+{
+"w": "convoluted",
+"fr": "alambiqué, compliqué",
+"def": "Extremely complicated and difficult to follow",
+"syn": "complicated, intricate, tortuous",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The plot of the film was too convoluted."
+},
+{
+"w": "cordial",
+"fr": "cordial",
+"def": "Friendly but polite and formal",
+"syn": "friendly, warm, amiable",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Relations between the two leaders were cordial."
+},
+{
+"w": "cornerstone",
+"fr": "pierre angulaire",
+"def": "Something of great importance on which everything else depends",
+"syn": "foundation, basis, keystone",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Trust is the cornerstone of any relationship."
+},
+{
+"w": "corroborate",
+"fr": "corroborer",
+"def": "To provide evidence that supports a statement or theory",
+"syn": "confirm, support, verify",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Witnesses corroborated her version of events."
+},
+{
+"w": "cosmopolitan",
+"fr": "cosmopolite",
+"def": "Including people and ideas from many different countries",
+"syn": "multicultural, international, worldly",
+"lvl": "C1",
+"pos": "adj",
+"ex": "London is a truly cosmopolitan city."
+},
+{
+"w": "counterpart",
+"fr": "homologue",
+"def": "A person or thing with the same role elsewhere",
+"syn": "equivalent, opposite number, peer",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The minister met her French counterpart."
+},
+{
+"w": "coup",
+"fr": "coup d'État; beau coup",
+"def": "A sudden illegal seizure of power; also a clever success",
+"syn": "takeover, overthrow, triumph",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The president was overthrown in a military coup."
+},
+{
+"w": "courteous",
+"fr": "courtois, poli",
+"def": "Polite and showing respect",
+"syn": "polite, respectful, civil",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The staff were always courteous and helpful."
+},
+{
+"w": "covert",
+"fr": "secret, clandestin",
+"def": "Done secretly and hidden from view",
+"syn": "secret, hidden, clandestine",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The agency carried out covert operations abroad."
+},
+{
+"w": "crackdown",
+"fr": "répression, mesures sévères",
+"def": "Strong official action to stop illegal activity",
+"syn": "clampdown, suppression, purge",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Police announced a crackdown on street crime."
+},
+{
+"w": "credibility",
+"fr": "crédibilité",
+"def": "The quality of being believed or trusted",
+"syn": "trustworthiness, reliability, plausibility",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The scandal damaged the minister's credibility."
+},
+{
+"w": "credible",
+"fr": "crédible",
+"def": "Able to be believed or trusted",
+"syn": "believable, plausible, convincing",
+"lvl": "C1",
+"pos": "adj",
+"ex": "There is no credible evidence against him."
+},
+{
+"w": "creed",
+"fr": "croyance, credo",
+"def": "A set of beliefs, especially religious ones",
+"syn": "belief, faith, doctrine",
+"lvl": "C1",
+"pos": "noun",
+"ex": "People of every race and creed live here."
+},
+{
+"w": "crippling",
+"fr": "paralysant, écrasant",
+"def": "Causing severe damage or making action impossible",
+"syn": "devastating, debilitating, ruinous",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The family was left with crippling debts."
+},
+{
+"w": "criterion",
+"fr": "critère",
+"def": "A standard by which something is judged",
+"syn": "standard, measure, benchmark",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Price is not the only criterion for choosing a school."
+},
+{
+"w": "crude",
+"fr": "rudimentaire, grossier; brut",
+"def": "Simple and roughly made; also rude or unrefined",
+"syn": "rough, basic, vulgar",
+"lvl": "C1",
+"pos": "adj",
+"ex": "They built a crude shelter from branches."
+},
+{
+"w": "culminate",
+"fr": "aboutir, culminer",
+"def": "To reach a final or highest point",
+"syn": "climax, end, conclude",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The protests culminated in the government's resignation."
+},
+{
+"w": "culpable",
+"fr": "coupable, responsable",
+"def": "Deserving blame for something wrong",
+"syn": "guilty, blameworthy, responsible",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The company was held culpable for the accident."
+},
+{
+"w": "culprit",
+"fr": "coupable, responsable",
+"def": "A person or thing responsible for a crime or problem",
+"syn": "offender, wrongdoer, cause",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Sugar is often the main culprit in tooth decay."
+},
+{
+"w": "cumbersome",
+"fr": "encombrant, lourd",
+"def": "Large, heavy and hard to use; also slow and complicated",
+"syn": "unwieldy, bulky, awkward",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The application process is cumbersome."
+},
+{
+"w": "cumulative",
+"fr": "cumulatif",
+"def": "Increasing gradually as more is added",
+"syn": "accumulated, growing, aggregate",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The cumulative effect of stress can be serious."
+},
+{
+"w": "curb",
+"fr": "freiner, limiter",
+"def": "To control or limit something, especially something harmful",
+"syn": "restrain, limit, check",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The government wants to curb inflation."
+},
+{
+"w": "curtail",
+"fr": "réduire, écourter",
+"def": "To reduce or limit something, or cut it short",
+"syn": "cut back, reduce, restrict",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Spending on health has been severely curtailed."
+},
+{
+"w": "custody",
+"fr": "garde; détention",
+"def": "Legal right to care for a child; also detention by police",
+"syn": "guardianship, care, detention",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The mother was given custody of the children."
+},
+{
+"w": "cynical",
+"fr": "cynique",
+"def": "Believing that people act only from selfish motives",
+"syn": "sceptical, distrustful, suspicious",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Many voters have become cynical about politicians."
+},
+{
+"w": "cynicism",
+"fr": "cynisme",
+"def": "The belief that people are generally selfish and dishonest",
+"syn": "scepticism, distrust, pessimism",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Public cynicism about politics is growing."
+},
+{
+"w": "converge",
+"fr": "converger",
+"def": "To move towards the same point from different directions",
+"syn": "meet, merge, come together",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Thousands of fans converged on the stadium."
+},
+{
+"w": "confrontation",
+"fr": "confrontation, affrontement",
+"def": "A situation of angry disagreement or open conflict",
+"syn": "conflict, clash, showdown",
+"lvl": "C1",
+"pos": "noun",
+"ex": "He wanted to avoid a confrontation with his boss."
+},
+{
+"w": "connoisseur",
+"fr": "connaisseur",
+"def": "An expert in matters of taste, such as art or wine",
+"syn": "expert, specialist, aficionado",
+"lvl": "C1",
+"pos": "noun",
+"ex": "He is a connoisseur of fine wines."
+},
+{
+"w": "connotation",
+"fr": "connotation",
+"def": "An idea or feeling a word suggests beyond its meaning",
+"syn": "implication, nuance, overtone",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The word \"cheap\" has negative connotations."
+},
+{
+"w": "consistency",
+"fr": "cohérence, régularité",
+"def": "The quality of always behaving or performing the same way",
+"syn": "reliability, regularity, uniformity",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The team lacks consistency."
+},
+{
+"w": "consortium",
+"fr": "consortium",
+"def": "A group of companies working together on a project",
+"syn": "association, alliance, syndicate",
+"lvl": "C1",
+"pos": "noun",
+"ex": "A consortium of banks financed the new airport."
+},
+{
+"w": "constructive",
+"fr": "constructif",
+"def": "Helpful and intended to improve something",
+"syn": "helpful, positive, useful",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Thank you for your constructive criticism."
+},
+{
+"w": "contaminate",
+"fr": "contaminer",
+"def": "To make something dirty or poisonous by adding a harmful substance",
+"syn": "pollute, infect, poison",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Chemicals have contaminated the water supply."
+},
+{
+"w": "contemptuous",
+"fr": "méprisant",
+"def": "Showing that you feel no respect for someone",
+"syn": "scornful, disdainful, dismissive",
+"lvl": "C1",
+"pos": "adj",
+"ex": "She gave him a contemptuous look."
+},
+{
+"w": "contingent",
+"fr": "subordonné à, dépendant de",
+"def": "Depending on something else happening",
+"syn": "dependent, conditional, subject to",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The deal is contingent on government approval."
+},
+{
+"w": "continuity",
+"fr": "continuité",
+"def": "The state of continuing without interruption or change",
+"syn": "consistency, stability, permanence",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The new manager will ensure continuity."
+},
+{
+"w": "contractor",
+"fr": "entrepreneur, prestataire",
+"def": "A person or firm paid to do work for another",
+"syn": "builder, supplier, subcontractor",
+"lvl": "C1",
+"pos": "noun",
+"ex": "We hired a contractor to build the extension."
+},
+{
+"w": "controversy",
+"fr": "controverse, polémique",
+"def": "Public disagreement or argument about something",
+"syn": "dispute, debate, row",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The decision caused a lot of controversy."
+},
+{
+"w": "convene",
+"fr": "convoquer, se réunir",
+"def": "To bring people together for a formal meeting",
+"syn": "assemble, summon, gather",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The committee will convene next week."
+},
+{
+"w": "convict",
+"fr": "déclarer coupable",
+"def": "To decide officially in court that someone is guilty",
+"syn": "find guilty, sentence, condemn",
+"lvl": "C1",
+"pos": "verb",
+"ex": "He was convicted of armed robbery."
+},
+{
+"w": "coordinate",
+"fr": "coordonner",
+"def": "To organize different people or activities to work together",
+"syn": "organize, arrange, synchronize",
+"lvl": "C1",
+"pos": "verb",
+"ex": "She coordinates the volunteers at the hospital."
+},
+{
+"w": "copious",
+"fr": "abondant, copieux",
+"def": "Produced in large amounts",
+"syn": "abundant, plentiful, ample",
+"lvl": "C1",
+"pos": "adj",
+"ex": "She took copious notes during the lecture."
+},
+{
+"w": "correlation",
+"fr": "corrélation",
+"def": "A connection between two things where one affects the other",
+"syn": "link, relationship, association",
+"lvl": "C1",
+"pos": "noun",
+"ex": "There is a strong correlation between poverty and illness."
+},
+{
+"w": "correspondent",
+"fr": "correspondant, envoyé spécial",
+"def": "A journalist who reports on a particular subject or place",
+"syn": "reporter, journalist",
+"lvl": "C1",
+"pos": "noun",
+"ex": "She is the paper's Middle East correspondent."
+},
+{
+"w": "corrode",
+"fr": "corroder, ronger",
+"def": "To be slowly damaged or destroyed by chemical action",
+"syn": "erode, rust, wear away",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Salt water corrodes metal over time."
+},
+{
+"w": "counteract",
+"fr": "contrebalancer, neutraliser",
+"def": "To reduce or stop the effect of something",
+"syn": "offset, neutralize, counter",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Exercise can counteract the effects of stress."
+},
+{
+"w": "counterproductive",
+"fr": "contre-productif",
+"def": "Having the opposite effect to the one intended",
+"syn": "self-defeating, harmful",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Punishing children too harshly can be counterproductive."
+},
+{
+"w": "courtesy",
+"fr": "courtoisie, politesse",
+"def": "Polite and respectful behaviour",
+"syn": "politeness, civility, respect",
+"lvl": "C1",
+"pos": "noun",
+"ex": "He didn't even have the courtesy to reply."
+},
+{
+"w": "coverage",
+"fr": "couverture médiatique",
+"def": "The reporting of news and events by the media",
+"syn": "reporting, reportage, broadcasting",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The trial received extensive media coverage."
+},
+{
+"w": "cramped",
+"fr": "exigu, à l'étroit",
+"def": "Having too little space to be comfortable",
+"syn": "confined, crowded, tight",
+"lvl": "C1",
+"pos": "adj",
+"ex": "They live in a cramped flat in the centre."
+},
+{
+"w": "crave",
+"fr": "avoir très envie de",
+"def": "To want something very strongly",
+"syn": "long for, yearn for, desire",
+"lvl": "C1",
+"pos": "verb",
+"ex": "After the diet, I craved chocolate."
+},
+{
+"w": "craving",
+"fr": "envie irrésistible",
+"def": "A very strong desire for something",
+"syn": "longing, yearning, urge",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Pregnant women often have strange food cravings."
+},
+{
+"w": "credentials",
+"fr": "références, qualifications",
+"def": "Qualities, training or documents that show you are suitable",
+"syn": "qualifications, references, background",
+"lvl": "C1",
+"pos": "noun",
+"ex": "She has excellent academic credentials."
+},
+{
+"w": "creditor",
+"fr": "créancier",
+"def": "A person or company to whom money is owed",
+"syn": "lender, claimant",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The firm could not pay its creditors."
+},
+{
+"w": "critique",
+"fr": "critique, analyse critique",
+"def": "A detailed analysis and judgement of a work or idea",
+"syn": "review, appraisal, analysis",
+"lvl": "C1",
+"pos": "noun",
+"ex": "She wrote a critique of the government's policy."
+},
+{
+"w": "crumble",
+"fr": "s'effondrer, s'effriter",
+"def": "To break into small pieces or gradually fail",
+"syn": "collapse, disintegrate, fall apart",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Their marriage began to crumble after the move."
+},
+{
+"w": "crusade",
+"fr": "croisade, campagne",
+"def": "A long, determined effort to achieve something you believe in",
+"syn": "campaign, drive, struggle",
+"lvl": "C1",
+"pos": "noun",
+"ex": "She led a crusade against child poverty."
+},
+{
+"w": "crux",
+"fr": "nœud, point crucial",
+"def": "The most important part of a problem or issue",
+"syn": "heart, core, essence",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The crux of the matter is money."
+},
+{
+"w": "cultivate",
+"fr": "cultiver, entretenir",
+"def": "To grow crops, or to develop a skill or relationship",
+"syn": "grow, develop, nurture",
+"lvl": "C1",
+"pos": "verb",
+"ex": "He has cultivated good relations with the press."
+},
+{
+"w": "cunning",
+"fr": "rusé, astucieux",
+"def": "Clever at deceiving people to get what you want",
+"syn": "crafty, sly, shrewd",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The fox is known as a cunning animal."
+},
+{
+"w": "curator",
+"fr": "conservateur",
+"def": "A person in charge of a museum or gallery collection",
+"syn": "keeper, custodian",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The curator explained the history of each painting."
+},
+{
+"w": "curfew",
+"fr": "couvre-feu",
+"def": "A rule requiring people to stay indoors after a certain time",
+"syn": "restriction, lockdown",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The army imposed a night-time curfew."
+},
+{
+"w": "cursory",
+"fr": "superficiel, rapide",
+"def": "Done quickly without much attention to detail",
+"syn": "hasty, superficial, brief",
+"lvl": "C1",
+"pos": "adj",
+"ex": "He gave the report only a cursory glance."
+},
+{
+"w": "customary",
+"fr": "habituel, d'usage",
+"def": "Usual or traditional in a particular situation",
+"syn": "usual, traditional, conventional",
+"lvl": "C1",
+"pos": "adj",
+"ex": "It is customary to tip waiters in this country."
+},
+{
+"w": "cutback",
+"fr": "réduction, compression",
+"def": "A reduction in spending, staff or production",
+"syn": "reduction, cut, saving",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Hospitals are suffering from government cutbacks."
+},
+{
+"w": "cutting-edge",
+"fr": "de pointe",
+"def": "Using the newest and most advanced methods",
+"syn": "state-of-the-art, innovative, advanced",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The lab uses cutting-edge technology."
+},
+{
+"w": "acrimonious",
+"fr": "acrimonieux, amer",
+"def": "Full of anger and bitter arguments",
+"syn": "bitter, hostile, angry",
+"lvl": "C1",
+"pos": "adj",
+"ex": "They went through an acrimonious divorce."
+},
+{
+"w": "acumen",
+"fr": "sens, flair",
+"def": "The ability to make good judgements quickly",
+"syn": "shrewdness, insight, judgement",
+"lvl": "C1",
+"pos": "noun",
+"ex": "She is known for her business acumen."
+},
+{
+"w": "affiliation",
+"fr": "affiliation, appartenance",
+"def": "A connection with a political party, religion or organization",
+"syn": "association, membership, connection",
+"lvl": "C1",
+"pos": "noun",
+"ex": "He has no political affiliation."
+},
+{
+"w": "amiable",
+"fr": "aimable, affable",
+"def": "Pleasant and friendly",
+"syn": "friendly, genial, likeable",
+"lvl": "C1",
+"pos": "adj",
+"ex": "He was an amiable host."
+},
+{
+"w": "antiquated",
+"fr": "vieillot, désuet",
+"def": "Old-fashioned and no longer suitable",
+"syn": "outdated, obsolete, archaic",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The factory still uses antiquated machinery."
+},
+{
+"w": "appalling",
+"fr": "épouvantable, consternant",
+"def": "Very bad or shocking",
+"syn": "dreadful, terrible, shocking",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Prisoners were kept in appalling conditions."
+},
+{
+"w": "assiduous",
+"fr": "assidu",
+"def": "Showing great care and hard work",
+"syn": "diligent, conscientious, thorough",
+"lvl": "C1",
+"pos": "adj",
+"ex": "She was assiduous in her research."
+},
+{
+"w": "belligerent",
+"fr": "belliqueux, agressif",
+"def": "Hostile and eager to fight or argue",
+"syn": "aggressive, hostile, combative",
+"lvl": "C1",
+"pos": "adj",
+"ex": "He became belligerent after a few drinks."
+},
+{
+"w": "bigotry",
+"fr": "sectarisme, intolérance",
+"def": "Unreasonable dislike of people with different beliefs or origins",
+"syn": "intolerance, prejudice, discrimination",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The campaign aims to fight racism and bigotry."
+},
+{
+"w": "bountiful",
+"fr": "abondant, généreux",
+"def": "Existing in large quantities; also generous",
+"syn": "abundant, plentiful, generous",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The farmers celebrated a bountiful harvest."
+}
+]

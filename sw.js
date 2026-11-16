@@ -1,4 +1,4 @@
-const CACHE = "scifi-vocab-v1";
+const CACHE = "scifi-vocab-v2";
 const ASSETS = ["./", "index.html", "style.css", "app.js", "words.js", "manifest.webmanifest",
   "icons/icon.svg", "icons/icon-192.png", "icons/icon-512.png"];
 

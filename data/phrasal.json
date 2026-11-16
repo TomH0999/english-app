@@ -1,0 +1,2693 @@
+[
+{
+"w": "give up",
+"fr": "abandonner, renoncer",
+"def": "Stop trying to do something",
+"syn": "quit, abandon",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "Don't give up now; you're almost there."
+},
+{
+"w": "look after",
+"fr": "s'occuper de",
+"def": "Take care of someone or something",
+"syn": "care for, mind",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "Can you look after my cat this weekend?"
+},
+{
+"w": "find out",
+"fr": "découvrir, apprendre",
+"def": "Discover a fact or piece of information",
+"syn": "discover, learn",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "I need to find out what time the train leaves."
+},
+{
+"w": "turn down",
+"fr": "refuser, décliner",
+"def": "Reject an offer or request",
+"syn": "refuse, decline",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "She turned down the job because the salary was too low."
+},
+{
+"w": "carry on",
+"fr": "continuer",
+"def": "Continue doing something",
+"syn": "continue, keep going",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "Carry on with your work while I make a call."
+},
+{
+"w": "set up",
+"fr": "créer, mettre en place",
+"def": "Start a business or organisation",
+"syn": "establish, found",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "They set up their own company in 2015."
+},
+{
+"w": "put off",
+"fr": "repousser, remettre à plus tard",
+"def": "Delay doing something until a later time",
+"syn": "postpone, delay",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "Stop putting off your homework and do it now."
+},
+{
+"w": "get over",
+"fr": "se remettre de",
+"def": "Recover from an illness or a bad experience",
+"syn": "recover from, overcome",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "It took him months to get over the break-up."
+},
+{
+"w": "bring up",
+"fr": "élever (un enfant)",
+"def": "Care for a child until it becomes an adult",
+"syn": "raise, rear",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "She was brought up by her grandparents."
+},
+{
+"w": "come across",
+"fr": "tomber sur",
+"def": "Find or meet something or someone by chance",
+"syn": "encounter, stumble upon",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "I came across some old photos while cleaning."
+},
+{
+"w": "look forward to",
+"fr": "avoir hâte de",
+"def": "Feel happy and excited about something that will happen",
+"syn": "anticipate, await eagerly",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "I'm really looking forward to the holidays."
+},
+{
+"w": "pick up",
+"fr": "aller chercher",
+"def": "Collect someone or something from a place",
+"syn": "collect, fetch",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "I'll pick you up from the station at six."
+},
+{
+"w": "run out of",
+"fr": "être à court de, manquer de",
+"def": "Use all of something so that none is left",
+"syn": "exhaust, use up",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "We've run out of milk again."
+},
+{
+"w": "get along",
+"fr": "bien s'entendre",
+"def": "Have a friendly relationship with someone",
+"syn": "get on, be friends",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "I get along really well with my colleagues."
+},
+{
+"w": "take off",
+"fr": "décoller",
+"def": "Leave the ground and begin to fly",
+"syn": "lift off, depart",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "The plane took off twenty minutes late."
+},
+{
+"w": "break down",
+"fr": "tomber en panne",
+"def": "Stop working, used of a machine or vehicle",
+"syn": "fail, stop working",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "Our car broke down on the motorway."
+},
+{
+"w": "fill in",
+"fr": "remplir (un formulaire)",
+"def": "Complete a form by writing the necessary information",
+"syn": "complete, fill out",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "Please fill in this form and sign it."
+},
+{
+"w": "turn up",
+"fr": "arriver, se pointer",
+"def": "Arrive somewhere, often late or unexpectedly",
+"syn": "arrive, appear",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "He turned up an hour late without apologising."
+},
+{
+"w": "show up",
+"fr": "se montrer, venir",
+"def": "Arrive at a place where people are expecting you",
+"syn": "turn up, appear",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "Only five people showed up for the meeting."
+},
+{
+"w": "work out",
+"fr": "faire du sport, s'entraîner",
+"def": "Do physical exercise to improve fitness",
+"syn": "exercise, train",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "She works out at the gym three times a week."
+},
+{
+"w": "figure out",
+"fr": "comprendre, trouver",
+"def": "Understand or solve something after thinking about it",
+"syn": "work out, solve",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "I can't figure out how this machine works."
+},
+{
+"w": "look up",
+"fr": "chercher (une information)",
+"def": "Search for information in a book or online",
+"syn": "check, search for",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "Look up the word in the dictionary."
+},
+{
+"w": "get rid of",
+"fr": "se débarrasser de",
+"def": "Remove or throw away something you do not want",
+"syn": "dispose of, discard",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "We need to get rid of these old chairs."
+},
+{
+"w": "hang out",
+"fr": "traîner, passer du temps",
+"def": "Spend time relaxing somewhere or with someone",
+"syn": "spend time, socialise",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "We usually hang out at the park after school."
+},
+{
+"w": "calm down",
+"fr": "se calmer",
+"def": "Become less angry, upset or excited",
+"syn": "relax, settle down",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "Calm down and tell me what happened."
+},
+{
+"w": "cheer up",
+"fr": "remonter le moral, se réjouir",
+"def": "Become or make someone happier",
+"syn": "brighten, buck up",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "Cheer up! It's not the end of the world."
+},
+{
+"w": "grow up",
+"fr": "grandir",
+"def": "Develop from a child into an adult",
+"syn": "mature, develop",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "I grew up in a small village by the sea."
+},
+{
+"w": "go on",
+"fr": "continuer",
+"def": "Continue happening or doing something",
+"syn": "continue, carry on",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "The meeting went on for three hours."
+},
+{
+"w": "take up",
+"fr": "se mettre à",
+"def": "Start doing a new hobby or activity",
+"syn": "start, begin",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "He took up yoga after he retired."
+},
+{
+"w": "give back",
+"fr": "rendre",
+"def": "Return something to the person who owns it",
+"syn": "return, hand back",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "Can you give me back my pen, please?"
+},
+{
+"w": "call back",
+"fr": "rappeler",
+"def": "Phone someone again, or phone someone who called you",
+"syn": "ring back, return a call",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "I'm busy now; can I call you back later?"
+},
+{
+"w": "hold on",
+"fr": "patienter, attendre",
+"def": "Wait for a short time",
+"syn": "wait, hang on",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "Hold on a minute, I'll get my coat."
+},
+{
+"w": "hang up",
+"fr": "raccrocher",
+"def": "End a telephone call",
+"syn": "put the phone down",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "She got angry and hung up on me."
+},
+{
+"w": "set off",
+"fr": "partir, se mettre en route",
+"def": "Start a journey",
+"syn": "leave, depart",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "We set off early to avoid the traffic."
+},
+{
+"w": "check in",
+"fr": "s'enregistrer",
+"def": "Register on arrival at a hotel or airport",
+"syn": "register, sign in",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "You must check in two hours before your flight."
+},
+{
+"w": "check out",
+"fr": "régler sa note, quitter l'hôtel",
+"def": "Pay your bill and leave a hotel",
+"syn": "leave, depart",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "We have to check out before eleven o'clock."
+},
+{
+"w": "drop off",
+"fr": "déposer",
+"def": "Take someone or something somewhere and leave them there",
+"syn": "deliver, leave",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "I'll drop the kids off at school on my way."
+},
+{
+"w": "let down",
+"fr": "décevoir, laisser tomber",
+"def": "Fail to do what someone trusted you to do",
+"syn": "disappoint, fail",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "I promised to help, and I won't let you down."
+},
+{
+"w": "make up",
+"fr": "inventer",
+"def": "Invent a story or excuse, often to deceive",
+"syn": "invent, fabricate",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "He made up an excuse about being ill."
+},
+{
+"w": "point out",
+"fr": "faire remarquer, souligner",
+"def": "Draw someone's attention to a fact",
+"syn": "indicate, highlight",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "She pointed out a mistake in my report."
+},
+{
+"w": "sort out",
+"fr": "régler, arranger",
+"def": "Deal with a problem or situation successfully",
+"syn": "resolve, fix",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "Don't worry, I'll sort out the problem with the bank."
+},
+{
+"w": "throw away",
+"fr": "jeter",
+"def": "Put something in the bin because you no longer want it",
+"syn": "discard, bin",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "Don't throw away those boxes; we can reuse them."
+},
+{
+"w": "try on",
+"fr": "essayer (un vêtement)",
+"def": "Put on clothing to see if it fits or suits you",
+"syn": "test, try",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "Can I try on these jeans in a larger size?"
+},
+{
+"w": "watch out",
+"fr": "faire attention",
+"def": "Be careful because there is danger",
+"syn": "look out, beware",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "Watch out! There's a car coming."
+},
+{
+"w": "eat out",
+"fr": "manger au restaurant",
+"def": "Have a meal in a restaurant rather than at home",
+"syn": "dine out",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "We eat out about once a week."
+},
+{
+"w": "get back",
+"fr": "rentrer, revenir",
+"def": "Return to a place, especially home",
+"syn": "return, come back",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "What time did you get back last night?"
+},
+{
+"w": "join in",
+"fr": "participer, se joindre à",
+"def": "Take part in an activity with other people",
+"syn": "participate, take part",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "Everyone joined in the singing."
+},
+{
+"w": "keep up with",
+"fr": "suivre le rythme de",
+"def": "Move or progress at the same speed as others",
+"syn": "keep pace with, match",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "It's hard to keep up with all the new technology."
+},
+{
+"w": "log in",
+"fr": "se connecter",
+"def": "Enter your details to start using a computer system",
+"syn": "sign in, log on",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "You need a password to log in."
+},
+{
+"w": "log out",
+"fr": "se déconnecter",
+"def": "Finish using a computer system or website",
+"syn": "sign out, log off",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "Always log out when you use a public computer."
+},
+{
+"w": "look around",
+"fr": "faire le tour, visiter",
+"def": "Walk through a place to see what is there",
+"syn": "explore, tour",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "We spent the afternoon looking around the old town."
+},
+{
+"w": "move in",
+"fr": "emménager",
+"def": "Start living in a new home",
+"syn": "settle in, take up residence",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "Our new neighbours moved in last week."
+},
+{
+"w": "move out",
+"fr": "déménager, quitter son logement",
+"def": "Leave the home where you have been living",
+"syn": "leave, relocate",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "She moved out of her parents' house at nineteen."
+},
+{
+"w": "pay back",
+"fr": "rembourser",
+"def": "Return money that you borrowed",
+"syn": "repay, reimburse",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "I'll pay you back on Friday."
+},
+{
+"w": "run away",
+"fr": "s'enfuir",
+"def": "Leave a place or person secretly or quickly to escape",
+"syn": "flee, escape",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "The boy ran away from home at fourteen."
+},
+{
+"w": "slow down",
+"fr": "ralentir",
+"def": "Move or happen less quickly",
+"syn": "decelerate, ease up",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "Slow down, you're driving too fast!"
+},
+{
+"w": "speed up",
+"fr": "accélérer",
+"def": "Move or happen more quickly",
+"syn": "accelerate, hurry",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "The new software will speed up the process."
+},
+{
+"w": "take back",
+"fr": "retirer (ses paroles)",
+"def": "Admit that something you said was wrong",
+"syn": "retract, withdraw",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "I take back what I said about your cooking."
+},
+{
+"w": "tidy up",
+"fr": "ranger",
+"def": "Make a room or place clean and neat",
+"syn": "clean up, straighten",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "Tidy up your bedroom before your friends arrive."
+},
+{
+"w": "turn into",
+"fr": "se transformer en, devenir",
+"def": "Change and become something different",
+"syn": "become, transform",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "The caterpillar turned into a beautiful butterfly."
+},
+{
+"w": "write down",
+"fr": "noter, écrire",
+"def": "Write something on paper so you remember it",
+"syn": "note, jot down",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "Write down my phone number before you forget."
+},
+{
+"w": "get on",
+"fr": "monter (dans un véhicule)",
+"def": "Enter a bus, train, plane or boat",
+"syn": "board, embark",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "We got on the bus at the last stop."
+},
+{
+"w": "get off",
+"fr": "descendre (d'un véhicule)",
+"def": "Leave a bus, train, plane or boat",
+"syn": "alight, disembark",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "Get off at the third stop after the bridge."
+},
+{
+"w": "lie down",
+"fr": "s'allonger",
+"def": "Put your body in a flat position to rest",
+"syn": "recline, rest",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "I feel dizzy; I need to lie down."
+},
+{
+"w": "stand up for",
+"fr": "défendre",
+"def": "Support or defend a person or idea that is attacked",
+"syn": "defend, support",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "You should stand up for your rights."
+},
+{
+"w": "look into",
+"fr": "examiner, se pencher sur",
+"def": "Investigate or examine something carefully",
+"syn": "investigate, examine",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "The police are looking into the complaint."
+},
+{
+"w": "put up with",
+"fr": "supporter, tolérer",
+"def": "Accept something unpleasant without complaining",
+"syn": "tolerate, endure",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "I can't put up with this noise any longer."
+},
+{
+"w": "come up with",
+"fr": "trouver, imaginer",
+"def": "Think of an idea, plan or solution",
+"syn": "devise, think up",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "She came up with a brilliant idea for the campaign."
+},
+{
+"w": "carry out",
+"fr": "réaliser, effectuer",
+"def": "Do or complete a task, plan or piece of research",
+"syn": "perform, conduct",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "The tests were carried out in a laboratory."
+},
+{
+"w": "deal with",
+"fr": "s'occuper de, gérer",
+"def": "Take action to solve a problem or handle a task",
+"syn": "handle, manage",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "The manager will deal with your complaint."
+},
+{
+"w": "end up",
+"fr": "finir par, se retrouver",
+"def": "Finally be in a place or situation without planning it",
+"syn": "wind up, finish up",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "We got lost and ended up in the wrong town."
+},
+{
+"w": "fall out",
+"fr": "se brouiller, se fâcher",
+"def": "Argue with someone and stop being friendly",
+"syn": "quarrel, argue",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "She fell out with her sister over money."
+},
+{
+"w": "go through",
+"fr": "traverser, subir",
+"def": "Experience a difficult or unpleasant situation",
+"syn": "undergo, endure",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "She's going through a difficult divorce."
+},
+{
+"w": "look down on",
+"fr": "mépriser, regarder de haut",
+"def": "Think that you are better than someone",
+"syn": "despise, disdain",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "He looks down on people who didn't go to university."
+},
+{
+"w": "look up to",
+"fr": "admirer",
+"def": "Respect and admire someone",
+"syn": "admire, respect",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "I've always looked up to my older brother."
+},
+{
+"w": "make out",
+"fr": "distinguer, discerner",
+"def": "See, hear or understand something with difficulty",
+"syn": "discern, distinguish",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "I could just make out a figure in the fog."
+},
+{
+"w": "pass away",
+"fr": "décéder, s'éteindre",
+"def": "Die; a polite way of saying it",
+"syn": "die, pass on",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "Her grandfather passed away last year."
+},
+{
+"w": "put out",
+"fr": "éteindre (un feu)",
+"def": "Stop a fire or cigarette from burning",
+"syn": "extinguish, douse",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "Firefighters put out the blaze in an hour."
+},
+{
+"w": "run into",
+"fr": "tomber sur, croiser",
+"def": "Meet someone you know by chance",
+"syn": "bump into, meet",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "I ran into an old friend at the supermarket."
+},
+{
+"w": "bump into",
+"fr": "croiser, rencontrer par hasard",
+"def": "Meet someone unexpectedly",
+"syn": "run into, come across",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "Guess who I bumped into at the airport?"
+},
+{
+"w": "set out",
+"fr": "entreprendre de, chercher à",
+"def": "Start an activity with a particular aim",
+"syn": "aim, intend",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "They set out to prove the theory wrong."
+},
+{
+"w": "take after",
+"fr": "ressembler à (un parent)",
+"def": "Look or behave like an older family member",
+"syn": "resemble, be like",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "She takes after her mother; they're both stubborn."
+},
+{
+"w": "take over",
+"fr": "prendre le contrôle de, reprendre",
+"def": "Take control of something from someone else",
+"syn": "seize, assume control",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "A large company took over the family business."
+},
+{
+"w": "turn out",
+"fr": "s'avérer, se révéler",
+"def": "Happen in a particular way, or be found to be",
+"syn": "prove, transpire",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "The rumour turned out to be true."
+},
+{
+"w": "break up",
+"fr": "rompre, se séparer",
+"def": "End a romantic relationship",
+"syn": "split up, separate",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "They broke up after five years together."
+},
+{
+"w": "split up",
+"fr": "se séparer",
+"def": "End a marriage or relationship, or divide into groups",
+"syn": "separate, break up",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "Let's split up and search both sides of the park."
+},
+{
+"w": "call off",
+"fr": "annuler",
+"def": "Decide that a planned event will not happen",
+"syn": "cancel, scrap",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "The match was called off because of the rain."
+},
+{
+"w": "catch up",
+"fr": "rattraper (son retard)",
+"def": "Reach the same level or place as others",
+"syn": "draw level, close the gap",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "I missed a week of school and need to catch up."
+},
+{
+"w": "count on",
+"fr": "compter sur",
+"def": "Rely on someone to help or support you",
+"syn": "rely on, depend on",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "You can always count on me."
+},
+{
+"w": "cut down on",
+"fr": "réduire sa consommation de",
+"def": "Eat, drink or use less of something",
+"syn": "reduce, cut back on",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "The doctor told him to cut down on salt."
+},
+{
+"w": "drop out",
+"fr": "abandonner (ses études)",
+"def": "Leave school, university or a course before finishing",
+"syn": "quit, leave",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "He dropped out of university after one year."
+},
+{
+"w": "hurry up",
+"fr": "se dépêcher",
+"def": "Do something more quickly",
+"syn": "rush, get a move on",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "Hurry up or we'll miss the bus!"
+},
+{
+"w": "show around",
+"fr": "faire visiter",
+"def": "Guide someone through a place so they can see it",
+"syn": "give a tour, guide",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "Let me show you around the office."
+},
+{
+"w": "put together",
+"fr": "assembler, monter",
+"def": "Build something by joining its parts",
+"syn": "assemble, construct",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "It took two hours to put the bookcase together."
+},
+{
+"w": "bring along",
+"fr": "apporter, emmener",
+"def": "Take someone or something with you",
+"syn": "bring, take along",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "Feel free to bring along a friend."
+},
+{
+"w": "line up",
+"fr": "faire la queue, s'aligner",
+"def": "Stand in a row while waiting for something",
+"syn": "queue, form a line",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "Fans lined up outside the stadium for hours."
+},
+{
+"w": "warm up",
+"fr": "s'échauffer",
+"def": "Do gentle exercise to prepare for sport",
+"syn": "limber up, prepare",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "Always warm up before you go running."
+},
+{
+"w": "wash up",
+"fr": "faire la vaisselle",
+"def": "Clean the plates, cups and pans after a meal",
+"syn": "do the dishes",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "I cooked, so you can wash up."
+},
+{
+"w": "cross out",
+"fr": "barrer, rayer",
+"def": "Draw a line through writing to show it is wrong",
+"syn": "strike out, delete",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "Cross out any answers that are wrong."
+},
+{
+"w": "shut up",
+"fr": "se taire",
+"def": "Stop talking; an impolite way of saying this",
+"syn": "be quiet, keep quiet",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "He told his brother to shut up and listen."
+},
+{
+"w": "back up",
+"fr": "soutenir, appuyer",
+"def": "Support someone or confirm that what they say is true",
+"syn": "support, confirm",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "My colleagues backed me up in the meeting."
+},
+{
+"w": "blow up",
+"fr": "exploser, faire sauter",
+"def": "Explode, or destroy something with an explosion",
+"syn": "explode, detonate",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "The rebels blew up the bridge."
+},
+{
+"w": "break into",
+"fr": "entrer par effraction dans",
+"def": "Enter a building or car illegally, using force",
+"syn": "burgle, force entry",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "Someone broke into our car last night."
+},
+{
+"w": "break out",
+"fr": "éclater, se déclarer",
+"def": "Start suddenly, used of war, fire or disease",
+"syn": "erupt, flare up",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "A fire broke out in the kitchen."
+},
+{
+"w": "bring back",
+"fr": "rappeler (des souvenirs)",
+"def": "Make someone remember something from the past",
+"syn": "evoke, recall",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "This song brings back memories of my childhood."
+},
+{
+"w": "bring in",
+"fr": "introduire, instaurer",
+"def": "Introduce a new law, rule or system",
+"syn": "introduce, implement",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "The government brought in a new tax on sugar."
+},
+{
+"w": "bring out",
+"fr": "sortir, lancer (un produit)",
+"def": "Produce and start to sell a new product",
+"syn": "launch, release",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "The band is bringing out a new album in May."
+},
+{
+"w": "brush up on",
+"fr": "réviser, se remettre à niveau en",
+"def": "Improve a skill or knowledge you have partly forgotten",
+"syn": "refresh, revise",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "I need to brush up on my Spanish before the trip."
+},
+{
+"w": "build up",
+"fr": "accumuler, développer",
+"def": "Increase gradually in amount, size or strength",
+"syn": "accumulate, develop",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "She has built up a successful business over ten years."
+},
+{
+"w": "call for",
+"fr": "exiger, réclamer",
+"def": "Publicly demand or say that something is necessary",
+"syn": "demand, require",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "Protesters are calling for the minister's resignation."
+},
+{
+"w": "check up on",
+"fr": "surveiller, vérifier",
+"def": "Make sure someone is safe or doing what they should",
+"syn": "monitor, check on",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "My mum calls every day to check up on me."
+},
+{
+"w": "clear up",
+"fr": "éclaircir, dissiper",
+"def": "Explain or solve a problem or misunderstanding",
+"syn": "resolve, clarify",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "I'd like to clear up a few misunderstandings."
+},
+{
+"w": "close down",
+"fr": "fermer (définitivement)",
+"def": "Stop operating permanently, used of a business",
+"syn": "shut down, close",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "The factory closed down last year."
+},
+{
+"w": "come along",
+"fr": "venir, accompagner",
+"def": "Go somewhere with someone",
+"syn": "accompany, tag along",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "We're going to the beach; do you want to come along?"
+},
+{
+"w": "come down with",
+"fr": "attraper (une maladie)",
+"def": "Start to suffer from an illness, usually not serious",
+"syn": "catch, contract",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "I think I'm coming down with a cold."
+},
+{
+"w": "come out",
+"fr": "sortir, paraître",
+"def": "Become available to the public",
+"syn": "be released, appear",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "Her new book comes out next month."
+},
+{
+"w": "come over",
+"fr": "passer (chez quelqu'un)",
+"def": "Visit someone at their home",
+"syn": "drop by, visit",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "Why don't you come over for dinner tonight?"
+},
+{
+"w": "come round",
+"fr": "se laisser convaincre, changer d'avis",
+"def": "Change your opinion and agree with someone",
+"syn": "be persuaded, give in",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "Dad didn't like the idea at first, but he'll come round."
+},
+{
+"w": "come up",
+"fr": "surgir, être abordé",
+"def": "Be mentioned, or happen unexpectedly",
+"syn": "arise, crop up",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "Your name came up in the conversation."
+},
+{
+"w": "cut off",
+"fr": "couper (l'alimentation)",
+"def": "Stop the supply of electricity, water or gas",
+"syn": "disconnect, interrupt",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "Our electricity was cut off because we didn't pay."
+},
+{
+"w": "do up",
+"fr": "attacher, boutonner",
+"def": "Fasten clothes, buttons or a zip",
+"syn": "fasten, button",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "Do up your coat; it's freezing outside."
+},
+{
+"w": "do without",
+"fr": "se passer de",
+"def": "Manage without having something",
+"syn": "go without, forgo",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "I can't do without my morning coffee."
+},
+{
+"w": "dress up",
+"fr": "se déguiser, se mettre sur son trente-et-un",
+"def": "Wear special clothes, a costume or formal clothes",
+"syn": "costume, get dressed up",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "The children dressed up as pirates for the party."
+},
+{
+"w": "drop by",
+"fr": "passer (voir)",
+"def": "Visit someone briefly without arranging it first",
+"syn": "drop in, pop in",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "Drop by any time you're in the area."
+},
+{
+"w": "fall apart",
+"fr": "tomber en morceaux, s'effondrer",
+"def": "Break into pieces, or stop working effectively",
+"syn": "collapse, disintegrate",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "My old shoes are falling apart."
+},
+{
+"w": "fall behind",
+"fr": "prendre du retard",
+"def": "Fail to do something as fast as others or as planned",
+"syn": "lag behind, trail",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "He fell behind with his rent payments."
+},
+{
+"w": "fall for",
+"fr": "se laisser prendre à",
+"def": "Be tricked into believing something untrue",
+"syn": "be fooled by, swallow",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "I can't believe you fell for that old trick."
+},
+{
+"w": "fill up",
+"fr": "remplir, faire le plein",
+"def": "Make something completely full",
+"syn": "fill, top up",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "Let's fill up the car before the motorway."
+},
+{
+"w": "get away",
+"fr": "s'échapper, s'enfuir",
+"def": "Escape from a person or place",
+"syn": "escape, flee",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "The thief got away on a motorbike."
+},
+{
+"w": "get away with",
+"fr": "s'en tirer, ne pas être puni pour",
+"def": "Do something wrong and not be punished for it",
+"syn": "escape punishment, go unpunished",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "He cheated and got away with it."
+},
+{
+"w": "get by",
+"fr": "se débrouiller, s'en sortir",
+"def": "Manage to live with limited money, skill or knowledge",
+"syn": "cope, manage",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "I get by in Italian, but I'm not fluent."
+},
+{
+"w": "get through",
+"fr": "traverser, surmonter",
+"def": "Manage to survive a difficult experience",
+"syn": "survive, endure",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "Her friends helped her get through a hard year."
+},
+{
+"w": "get together",
+"fr": "se réunir, se retrouver",
+"def": "Meet socially or to discuss something",
+"syn": "meet up, gather",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "Let's get together for a coffee next week."
+},
+{
+"w": "give away",
+"fr": "donner, offrir",
+"def": "Give something to someone free of charge",
+"syn": "donate, hand out",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "She gave away all her old books."
+},
+{
+"w": "give in",
+"fr": "céder",
+"def": "Finally agree to something after resisting it",
+"syn": "yield, surrender",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "After hours of begging, his parents gave in."
+},
+{
+"w": "go ahead",
+"fr": "commencer, avoir lieu",
+"def": "Start or proceed, especially after permission",
+"syn": "proceed, begin",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "The concert will go ahead despite the rain."
+},
+{
+"w": "go off",
+"fr": "sonner, exploser",
+"def": "Ring suddenly, or explode",
+"syn": "ring, explode",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "My alarm didn't go off this morning."
+},
+{
+"w": "go over",
+"fr": "revoir, examiner",
+"def": "Check or examine something carefully",
+"syn": "review, examine",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "Let's go over the plan one more time."
+},
+{
+"w": "go up",
+"fr": "augmenter",
+"def": "Increase in price, amount or level",
+"syn": "rise, increase",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "The price of petrol has gone up again."
+},
+{
+"w": "go down",
+"fr": "baisser, diminuer",
+"def": "Become lower in price, amount or level",
+"syn": "fall, drop",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "Unemployment has gone down this year."
+},
+{
+"w": "go with",
+"fr": "aller avec, s'accorder avec",
+"def": "Look or taste good together with something",
+"syn": "match, suit",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "Does this tie go with my shirt?"
+},
+{
+"w": "grow out of",
+"fr": "devenir trop grand pour, passer l'âge de",
+"def": "Become too big for clothes, or too old for a habit",
+"syn": "outgrow",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "Kids grow out of their shoes so quickly."
+},
+{
+"w": "hand in",
+"fr": "rendre, remettre",
+"def": "Give a piece of work or document to someone in authority",
+"syn": "submit, turn in",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "Please hand in your essays by Friday."
+},
+{
+"w": "hand out",
+"fr": "distribuer",
+"def": "Give something to each person in a group",
+"syn": "distribute, give out",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "The teacher handed out the exam papers."
+},
+{
+"w": "hand over",
+"fr": "remettre, céder",
+"def": "Give control or possession of something to someone",
+"syn": "surrender, transfer",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "The robber ordered him to hand over his wallet."
+},
+{
+"w": "head for",
+"fr": "se diriger vers",
+"def": "Move towards a place",
+"syn": "make for, go towards",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "We headed for the exit as soon as it ended."
+},
+{
+"w": "hold back",
+"fr": "retenir, freiner",
+"def": "Stop yourself showing a feeling, or stop progress",
+"syn": "restrain, hinder",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "She held back her tears during the speech."
+},
+{
+"w": "hold up",
+"fr": "retarder",
+"def": "Delay someone or something",
+"syn": "delay, detain",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "Sorry I'm late; I was held up in traffic."
+},
+{
+"w": "keep on",
+"fr": "continuer à",
+"def": "Continue doing something, often repeatedly",
+"syn": "continue, persist",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "He keeps on asking me the same question."
+},
+{
+"w": "kick off",
+"fr": "commencer, donner le coup d'envoi",
+"def": "Start, especially a football match or an event",
+"syn": "start, begin",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "The match kicks off at three o'clock."
+},
+{
+"w": "knock down",
+"fr": "démolir, abattre",
+"def": "Destroy a building or wall",
+"syn": "demolish, raze",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "They're knocking down the old cinema to build flats."
+},
+{
+"w": "knock out",
+"fr": "assommer, mettre K.-O.",
+"def": "Make someone unconscious, usually by hitting them",
+"syn": "stun, floor",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "The boxer was knocked out in the second round."
+},
+{
+"w": "leave out",
+"fr": "omettre, exclure",
+"def": "Not include someone or something",
+"syn": "omit, exclude",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "You've left out an important detail."
+},
+{
+"w": "let in",
+"fr": "laisser entrer",
+"def": "Allow someone or something to enter",
+"syn": "admit, allow in",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "The security guard wouldn't let us in."
+},
+{
+"w": "let off",
+"fr": "ne pas punir, épargner",
+"def": "Not punish someone, or give a light punishment",
+"syn": "excuse, pardon",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "The officer let him off with a warning."
+},
+{
+"w": "look back",
+"fr": "repenser au passé",
+"def": "Think about something that happened in the past",
+"syn": "reminisce, recall",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "Looking back, I should have studied harder."
+},
+{
+"w": "look over",
+"fr": "parcourir, jeter un œil à",
+"def": "Examine something quickly",
+"syn": "scan, review",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "Could you look over my CV before I send it?"
+},
+{
+"w": "look through",
+"fr": "feuilleter, parcourir",
+"def": "Read or examine something quickly",
+"syn": "browse, leaf through",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "I looked through the newspaper on the train."
+},
+{
+"w": "make up for",
+"fr": "compenser, rattraper",
+"def": "Do something good to replace something bad or lost",
+"syn": "compensate for, offset",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "I bought her flowers to make up for forgetting her birthday."
+},
+{
+"w": "miss out",
+"fr": "rater (une occasion)",
+"def": "Lose the chance to do or have something enjoyable",
+"syn": "lose out",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "Come to the party; you don't want to miss out."
+},
+{
+"w": "mix up",
+"fr": "confondre",
+"def": "Think that one person or thing is another",
+"syn": "confuse, muddle",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "I always mix up the twins."
+},
+{
+"w": "move on",
+"fr": "passer à autre chose",
+"def": "Stop dwelling on something and start something new",
+"syn": "progress, proceed",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "It's time to forget the past and move on."
+},
+{
+"w": "jot down",
+"fr": "noter rapidement",
+"def": "Write something quickly in short form",
+"syn": "note, scribble",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "Let me jot down your address."
+},
+{
+"w": "pass on",
+"fr": "transmettre",
+"def": "Give information or a message to another person",
+"syn": "convey, relay",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "Could you pass on the message to your manager?"
+},
+{
+"w": "pass out",
+"fr": "s'évanouir",
+"def": "Suddenly become unconscious",
+"syn": "faint, black out",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "It was so hot that two people passed out."
+},
+{
+"w": "pay off",
+"fr": "porter ses fruits",
+"def": "Be successful after a lot of effort",
+"syn": "succeed, work",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "All her hard work finally paid off."
+},
+{
+"w": "pick on",
+"fr": "s'en prendre à, harceler",
+"def": "Repeatedly treat someone unkindly or unfairly",
+"syn": "bully, victimise",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "Stop picking on your little brother!"
+},
+{
+"w": "pile up",
+"fr": "s'accumuler, s'entasser",
+"def": "Increase in quantity, often too much",
+"syn": "accumulate, mount up",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "The work keeps piling up on my desk."
+},
+{
+"w": "plug in",
+"fr": "brancher",
+"def": "Connect a machine to the electricity supply",
+"syn": "connect, attach",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "Plug in the kettle and make some tea."
+},
+{
+"w": "pull out",
+"fr": "se retirer",
+"def": "Stop taking part in an agreement or activity",
+"syn": "withdraw, back out",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "The investors pulled out of the deal."
+},
+{
+"w": "pull over",
+"fr": "se garer, se ranger",
+"def": "Move a vehicle to the side of the road and stop",
+"syn": "stop, pull in",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "The police officer told me to pull over."
+},
+{
+"w": "put away",
+"fr": "ranger",
+"def": "Put something back in its usual place",
+"syn": "store, tidy away",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "Put your toys away before bedtime."
+},
+{
+"w": "put forward",
+"fr": "proposer, avancer",
+"def": "Suggest an idea or plan for others to consider",
+"syn": "propose, suggest",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "She put forward a proposal to cut costs."
+},
+{
+"w": "put through",
+"fr": "passer (au téléphone)",
+"def": "Connect someone to another person by phone",
+"syn": "connect, transfer",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "Hold the line; I'll put you through to sales."
+},
+{
+"w": "put up",
+"fr": "héberger, loger",
+"def": "Let someone stay in your home for a short time",
+"syn": "accommodate, house",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "My cousin can put us up for the weekend."
+},
+{
+"w": "run over",
+"fr": "écraser, renverser (en voiture)",
+"def": "Hit and drive over someone or something with a vehicle",
+"syn": "knock down, hit",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "Our cat was nearly run over by a bus."
+},
+{
+"w": "see off",
+"fr": "accompagner (au départ)",
+"def": "Go to a station or airport to say goodbye to someone",
+"syn": "wave off",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "My parents came to the airport to see me off."
+},
+{
+"w": "sell out",
+"fr": "être épuisé, se vendre entièrement",
+"def": "Have all the tickets or goods sold so none remain",
+"syn": "be sold out, run out",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "The concert tickets sold out in an hour."
+},
+{
+"w": "settle down",
+"fr": "se ranger, s'installer",
+"def": "Start living a quiet life with a home and partner",
+"syn": "settle, put down roots",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "He wants to settle down and start a family."
+},
+{
+"w": "show off",
+"fr": "frimer, crâner",
+"def": "Behave in a way intended to make people admire you",
+"syn": "boast, brag",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "He's always showing off his expensive car."
+},
+{
+"w": "shut down",
+"fr": "éteindre, fermer",
+"def": "Stop operating, used of a computer, machine or business",
+"syn": "close, switch off",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "Remember to shut down your computer at night."
+},
+{
+"w": "sign up",
+"fr": "s'inscrire",
+"def": "Officially agree to take part in something",
+"syn": "enrol, register",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "I've signed up for a cooking course."
+},
+{
+"w": "sit back",
+"fr": "se détendre, se caler",
+"def": "Relax and not get involved",
+"syn": "relax, take it easy",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "Just sit back and enjoy the show."
+},
+{
+"w": "sleep in",
+"fr": "faire la grasse matinée",
+"def": "Sleep later than usual in the morning",
+"syn": "lie in, oversleep",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "I like to sleep in on Sundays."
+},
+{
+"w": "stand by",
+"fr": "se tenir prêt",
+"def": "Be ready to act if needed",
+"syn": "be ready, wait",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "Ambulances were standing by at the stadium."
+},
+{
+"w": "stand out",
+"fr": "se démarquer, ressortir",
+"def": "Be easy to notice, or clearly better than others",
+"syn": "stick out, shine",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "Her bright red coat stood out in the crowd."
+},
+{
+"w": "stay up",
+"fr": "veiller, ne pas se coucher",
+"def": "Not go to bed until later than usual",
+"syn": "sit up, stay awake",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "We stayed up until 2 a.m. watching films."
+},
+{
+"w": "stick to",
+"fr": "s'en tenir à, respecter",
+"def": "Continue following a plan, rule or decision",
+"syn": "adhere to, keep to",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "Try to stick to your budget."
+},
+{
+"w": "take in",
+"fr": "assimiler, comprendre",
+"def": "Understand and remember information",
+"syn": "absorb, grasp",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "There was too much information to take in."
+},
+{
+"w": "take on",
+"fr": "assumer, accepter",
+"def": "Accept a responsibility or a piece of work",
+"syn": "undertake, assume",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "I can't take on any more work this month."
+},
+{
+"w": "talk into",
+"fr": "persuader de",
+"def": "Persuade someone to do something",
+"syn": "persuade, coax",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "She talked me into buying a new phone."
+},
+{
+"w": "tell off",
+"fr": "gronder, réprimander",
+"def": "Speak angrily to someone for doing something wrong",
+"syn": "scold, reprimand",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "The teacher told us off for talking in class."
+},
+{
+"w": "think over",
+"fr": "réfléchir à",
+"def": "Consider something carefully before deciding",
+"syn": "consider, mull over",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "Think it over and give me your answer tomorrow."
+},
+{
+"w": "throw up",
+"fr": "vomir",
+"def": "Bring food back up from your stomach through your mouth",
+"syn": "vomit, be sick",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "The boat was rocking so much that I threw up."
+},
+{
+"w": "try out",
+"fr": "essayer, tester",
+"def": "Test something to see if it works or is suitable",
+"syn": "test, trial",
+"lvl": "B1",
+"pos": "phrasal verb",
+"ex": "I want to try out the new recipe tonight."
+},
+{
+"w": "use up",
+"fr": "épuiser, utiliser entièrement",
+"def": "Use all of something so nothing remains",
+"syn": "exhaust, consume",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "We've used up all the printer paper."
+},
+{
+"w": "wear out",
+"fr": "user, épuiser",
+"def": "Become unusable through use, or make someone very tired",
+"syn": "wear down, exhaust",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "The kids have completely worn me out."
+},
+{
+"w": "wrap up",
+"fr": "conclure, terminer",
+"def": "Finish a meeting, task or event",
+"syn": "conclude, finish",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "Let's wrap up the meeting; it's nearly five."
+},
+{
+"w": "cover up",
+"fr": "dissimuler, étouffer",
+"def": "Hide a mistake or crime so people do not discover it",
+"syn": "conceal, hush up",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "The company tried to cover up the scandal."
+},
+{
+"w": "add up",
+"fr": "tenir debout, avoir du sens",
+"def": "Seem logical, believable or reasonable",
+"syn": "make sense, be logical",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "His story just doesn't add up."
+},
+{
+"w": "answer back",
+"fr": "répondre (avec insolence)",
+"def": "Reply rudely to someone in authority",
+"syn": "talk back, retort",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "Don't answer back when I'm talking to you!"
+},
+{
+"w": "abide by",
+"fr": "respecter, se conformer à",
+"def": "Obey a rule, law or decision",
+"syn": "comply with, obey",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "All members must abide by the club's rules."
+},
+{
+"w": "account for",
+"fr": "expliquer, justifier",
+"def": "Give an explanation or reason for something",
+"syn": "explain, justify",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "How do you account for the missing money?"
+},
+{
+"w": "act up",
+"fr": "faire des siennes",
+"def": "Behave badly, or not work properly",
+"syn": "misbehave, malfunction",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "My laptop has been acting up all week."
+},
+{
+"w": "allow for",
+"fr": "tenir compte de, prévoir",
+"def": "Consider something when making plans or calculations",
+"syn": "take into account, provide for",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "Allow for delays when planning your journey."
+},
+{
+"w": "back down",
+"fr": "faire marche arrière, céder",
+"def": "Withdraw a claim or demand after opposition",
+"syn": "retreat, give way",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "The government refused to back down over the new law."
+},
+{
+"w": "back out",
+"fr": "se désister, se retirer",
+"def": "Decide not to do something you had agreed to do",
+"syn": "withdraw, pull out",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "The buyer backed out of the deal at the last minute."
+},
+{
+"w": "bail out",
+"fr": "renflouer, tirer d'affaire",
+"def": "Rescue a person or company from financial difficulty",
+"syn": "rescue, save",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "The government bailed out the failing banks."
+},
+{
+"w": "bank on",
+"fr": "compter sur, miser sur",
+"def": "Depend on something happening",
+"syn": "rely on, count on",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "Don't bank on getting a pay rise this year."
+},
+{
+"w": "bear out",
+"fr": "confirmer, corroborer",
+"def": "Show that something is true with evidence",
+"syn": "confirm, corroborate",
+"lvl": "C2",
+"pos": "phrasal verb",
+"ex": "The results bear out our original theory."
+},
+{
+"w": "bear with",
+"fr": "patienter, être patient avec",
+"def": "Be patient while someone does something",
+"syn": "be patient, wait",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "Please bear with me while I find your file."
+},
+{
+"w": "blow over",
+"fr": "se calmer, passer",
+"def": "Become less important and be forgotten",
+"syn": "subside, die down",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "Don't worry, the scandal will soon blow over."
+},
+{
+"w": "boil down to",
+"fr": "se résumer à",
+"def": "Have something as the main or basic point",
+"syn": "come down to, amount to",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "In the end, it all boils down to money."
+},
+{
+"w": "bottle up",
+"fr": "refouler, garder pour soi",
+"def": "Hide strong feelings instead of expressing them",
+"syn": "suppress, repress",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "It's unhealthy to bottle up your anger."
+},
+{
+"w": "branch out",
+"fr": "se diversifier",
+"def": "Start doing something new or different",
+"syn": "diversify, expand",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "The bakery has branched out into catering."
+},
+{
+"w": "brush aside",
+"fr": "écarter, balayer d'un revers de main",
+"def": "Refuse to consider something seriously",
+"syn": "dismiss, ignore",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "He brushed aside all criticism of his plan."
+},
+{
+"w": "butt in",
+"fr": "interrompre, s'immiscer",
+"def": "Rudely interrupt a conversation",
+"syn": "interrupt, cut in",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "Sorry to butt in, but your taxi is here."
+},
+{
+"w": "carry off",
+"fr": "réussir, mener à bien",
+"def": "Succeed in doing something difficult",
+"syn": "pull off, accomplish",
+"lvl": "C2",
+"pos": "phrasal verb",
+"ex": "It was a risky outfit, but she carried it off."
+},
+{
+"w": "cash in on",
+"fr": "tirer profit de",
+"def": "Take advantage of a situation to make money",
+"syn": "capitalise on, exploit",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "Shops are cashing in on the World Cup."
+},
+{
+"w": "cave in",
+"fr": "céder, capituler",
+"def": "Finally agree after strong pressure",
+"syn": "yield, give in",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "The management caved in to the workers' demands."
+},
+{
+"w": "chip in",
+"fr": "participer, mettre la main au portefeuille",
+"def": "Give money together with others to pay for something",
+"syn": "contribute, club together",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "We all chipped in to buy her a present."
+},
+{
+"w": "crack down on",
+"fr": "sévir contre, réprimer",
+"def": "Act strictly to stop an illegal or harmful activity",
+"syn": "clamp down on, suppress",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "Police are cracking down on drink-driving."
+},
+{
+"w": "clamp down on",
+"fr": "mettre un frein à, sévir contre",
+"def": "Take strong official action to limit something",
+"syn": "crack down on, restrict",
+"lvl": "C2",
+"pos": "phrasal verb",
+"ex": "The authorities are clamping down on tax evasion."
+},
+{
+"w": "come about",
+"fr": "se produire, arriver",
+"def": "Happen, especially in a way that is not planned",
+"syn": "happen, occur",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "How did this situation come about?"
+},
+{
+"w": "come across as",
+"fr": "donner l'impression d'être",
+"def": "Seem to have a particular quality to other people",
+"syn": "seem, appear",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "He comes across as arrogant, but he's actually shy."
+},
+{
+"w": "come by",
+"fr": "obtenir, se procurer",
+"def": "Manage to get something that is rare or hard to find",
+"syn": "obtain, acquire",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "Good jobs are hard to come by these days."
+},
+{
+"w": "come in for",
+"fr": "faire l'objet de, essuyer (des critiques)",
+"def": "Receive criticism or blame",
+"syn": "attract, receive",
+"lvl": "C2",
+"pos": "phrasal verb",
+"ex": "The minister has come in for heavy criticism."
+},
+{
+"w": "come into",
+"fr": "hériter de",
+"def": "Receive money or property after someone dies",
+"syn": "inherit, be left",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "She came into a fortune when her aunt died."
+},
+{
+"w": "come off",
+"fr": "réussir, marcher",
+"def": "Succeed or happen as planned",
+"syn": "succeed, work",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "The surprise party didn't quite come off."
+},
+{
+"w": "come through",
+"fr": "s'en sortir, survivre à",
+"def": "Survive a dangerous or difficult situation",
+"syn": "survive, pull through",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "She came through the operation well."
+},
+{
+"w": "come to",
+"fr": "reprendre connaissance",
+"def": "Become conscious again after fainting",
+"syn": "come round, revive",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "When he came to, he was lying in hospital."
+},
+{
+"w": "cut back",
+"fr": "réduire (les dépenses)",
+"def": "Reduce the amount of money spent or things used",
+"syn": "reduce, cut down",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "We need to cut back on spending this month."
+},
+{
+"w": "do away with",
+"fr": "supprimer, abolir",
+"def": "Get rid of something or stop using it",
+"syn": "abolish, eliminate",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "Many schools have done away with uniforms."
+},
+{
+"w": "drag on",
+"fr": "s'éterniser, traîner en longueur",
+"def": "Continue for longer than necessary or wanted",
+"syn": "go on, drag out",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "The negotiations dragged on for months."
+},
+{
+"w": "draw on",
+"fr": "puiser dans, s'appuyer sur",
+"def": "Use knowledge, experience or resources to help you",
+"syn": "use, tap into",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "The novel draws on the author's own childhood."
+},
+{
+"w": "draw up",
+"fr": "rédiger, établir",
+"def": "Prepare a written document, list or plan",
+"syn": "draft, write up",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "The lawyer drew up a new contract."
+},
+{
+"w": "dream up",
+"fr": "inventer, imaginer",
+"def": "Invent an unusual plan or idea",
+"syn": "invent, concoct",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "Who dreamed up this ridiculous scheme?"
+},
+{
+"w": "doze off",
+"fr": "s'assoupir",
+"def": "Fall asleep, especially during the day",
+"syn": "nod off, drift off",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "Grandpa dozed off in front of the TV."
+},
+{
+"w": "drown out",
+"fr": "couvrir (un bruit)",
+"def": "Be so loud that another sound cannot be heard",
+"syn": "muffle, overpower",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "The music drowned out our conversation."
+},
+{
+"w": "dwell on",
+"fr": "ressasser",
+"def": "Keep thinking or talking about something unpleasant",
+"syn": "brood over, ruminate",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "Try not to dwell on your mistakes."
+},
+{
+"w": "ease off",
+"fr": "diminuer, se calmer",
+"def": "Become less strong, severe or intense",
+"syn": "lessen, abate",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "The rain should ease off by this afternoon."
+},
+{
+"w": "egg on",
+"fr": "pousser, inciter",
+"def": "Encourage someone to do something, usually foolish",
+"syn": "urge, goad",
+"lvl": "C2",
+"pos": "phrasal verb",
+"ex": "His friends egged him on to jump into the lake."
+},
+{
+"w": "fade away",
+"fr": "s'estomper, disparaître peu à peu",
+"def": "Gradually become weaker and disappear",
+"syn": "vanish, dwindle",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "The sound of the music slowly faded away."
+},
+{
+"w": "fend off",
+"fr": "repousser, parer",
+"def": "Defend yourself from an attack, question or criticism",
+"syn": "repel, ward off",
+"lvl": "C2",
+"pos": "phrasal verb",
+"ex": "The minister fended off questions from reporters."
+},
+{
+"w": "fizzle out",
+"fr": "tourner court, s'essouffler",
+"def": "Gradually end in a weak or disappointing way",
+"syn": "peter out, die out",
+"lvl": "C2",
+"pos": "phrasal verb",
+"ex": "Their romance fizzled out after a few weeks."
+},
+{
+"w": "flare up",
+"fr": "éclater, se raviver",
+"def": "Suddenly become more violent, intense or painful",
+"syn": "erupt, break out",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "Fighting flared up again along the border."
+},
+{
+"w": "follow up",
+"fr": "donner suite à, faire un suivi",
+"def": "Take further action connected with something",
+"syn": "pursue, act on",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "I'll follow up the interview with an email."
+},
+{
+"w": "frown on",
+"fr": "désapprouver",
+"def": "Disapprove of something",
+"syn": "disapprove of, condemn",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "Using phones in class is frowned on here."
+},
+{
+"w": "gear up",
+"fr": "se préparer",
+"def": "Prepare for an activity or event",
+"syn": "prepare, get ready",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "Shops are gearing up for the Christmas rush."
+},
+{
+"w": "get at",
+"fr": "vouloir dire, insinuer",
+"def": "Try to express or suggest an idea indirectly",
+"syn": "imply, hint at",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "I don't understand what you're getting at."
+},
+{
+"w": "get across",
+"fr": "faire passer (un message)",
+"def": "Communicate an idea successfully so people understand",
+"syn": "convey, communicate",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "The ad gets its message across clearly."
+},
+{
+"w": "get down to",
+"fr": "se mettre sérieusement à",
+"def": "Start working seriously on something",
+"syn": "begin, tackle",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "Let's get down to business."
+},
+{
+"w": "get round to",
+"fr": "trouver le temps de",
+"def": "Finally do something after delaying it",
+"syn": "get around to, find time for",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "I never got round to fixing the gate."
+},
+{
+"w": "give off",
+"fr": "dégager, émettre",
+"def": "Produce a smell, heat, light or gas",
+"syn": "emit, release",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "The flowers give off a lovely scent."
+},
+{
+"w": "go about",
+"fr": "s'y prendre",
+"def": "Start dealing with a task in a particular way",
+"syn": "tackle, approach",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "How do I go about getting a work visa?"
+},
+{
+"w": "go along with",
+"fr": "accepter, se ranger à",
+"def": "Agree with or accept an idea or decision",
+"syn": "accept, comply with",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "I'll go along with whatever you decide."
+},
+{
+"w": "go back on",
+"fr": "revenir sur (une promesse)",
+"def": "Fail to keep a promise or agreement",
+"syn": "break, renege on",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "He went back on his word."
+},
+{
+"w": "go for",
+"fr": "choisir, opter pour",
+"def": "Choose something from several options",
+"syn": "choose, opt for",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "I think I'll go for the chicken."
+},
+{
+"w": "go in for",
+"fr": "s'intéresser à, aimer",
+"def": "Usually do or enjoy a particular activity",
+"syn": "like, enjoy",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "I don't really go in for team sports."
+},
+{
+"w": "grow on",
+"fr": "plaire de plus en plus à",
+"def": "Become more liked by someone over time",
+"syn": "win over, appeal to",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "I didn't like the song at first, but it's growing on me."
+},
+{
+"w": "hammer out",
+"fr": "élaborer à force de discussions",
+"def": "Reach an agreement after long, difficult discussion",
+"syn": "thrash out, negotiate",
+"lvl": "C2",
+"pos": "phrasal verb",
+"ex": "The two sides hammered out a deal overnight."
+},
+{
+"w": "hand down",
+"fr": "transmettre, léguer",
+"def": "Pass something to a younger generation",
+"syn": "pass down, bequeath",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "This ring was handed down from my grandmother."
+},
+{
+"w": "hang around",
+"fr": "traîner, attendre",
+"def": "Stay somewhere doing nothing in particular",
+"syn": "loiter, linger",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "Teenagers were hanging around outside the shop."
+},
+{
+"w": "hold off",
+"fr": "attendre, différer",
+"def": "Delay doing something",
+"syn": "postpone, delay",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "We'll hold off buying a house until prices fall."
+},
+{
+"w": "hold out",
+"fr": "tenir bon, résister",
+"def": "Continue to resist or survive in a difficult situation",
+"syn": "resist, last",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "The rebels held out for three weeks."
+},
+{
+"w": "hush up",
+"fr": "étouffer (une affaire)",
+"def": "Stop the public from learning about something",
+"syn": "cover up, suppress",
+"lvl": "C2",
+"pos": "phrasal verb",
+"ex": "The affair was hushed up by the government."
+},
+{
+"w": "iron out",
+"fr": "aplanir, régler",
+"def": "Solve small problems or difficulties",
+"syn": "resolve, smooth out",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "We still need to iron out a few details."
+},
+{
+"w": "kick in",
+"fr": "faire effet, entrer en vigueur",
+"def": "Start to have an effect",
+"syn": "take effect, start working",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "The painkillers should kick in soon."
+},
+{
+"w": "lash out",
+"fr": "s'en prendre violemment à",
+"def": "Suddenly attack or criticise someone angrily",
+"syn": "attack, hit out",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "He lashed out at the journalists."
+},
+{
+"w": "lay down",
+"fr": "établir, fixer",
+"def": "Officially state rules or principles",
+"syn": "establish, stipulate",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "The rules are laid down in the contract."
+},
+{
+"w": "lay off",
+"fr": "licencier",
+"def": "Stop employing workers because there is not enough work",
+"syn": "dismiss, make redundant",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "The company laid off 200 workers."
+},
+{
+"w": "lead up to",
+"fr": "précéder, mener à",
+"def": "Happen in the period before an important event",
+"syn": "precede, build up to",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "In the weeks leading up to the exam, I barely slept."
+},
+{
+"w": "let on",
+"fr": "révéler, dire",
+"def": "Tell a secret or show that you know something",
+"syn": "reveal, disclose",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "Don't let on that I told you."
+},
+{
+"w": "lighten up",
+"fr": "se détendre, se dérider",
+"def": "Become less serious or worried",
+"syn": "relax, chill out",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "Lighten up! It was only a joke."
+},
+{
+"w": "live on",
+"fr": "vivre de",
+"def": "Have a particular amount of money or food to survive",
+"syn": "subsist on, survive on",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "Students often live on very little money."
+},
+{
+"w": "live up to",
+"fr": "être à la hauteur de",
+"def": "Be as good as people expected",
+"syn": "meet, fulfil",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "The film didn't live up to the hype."
+},
+{
+"w": "look on",
+"fr": "regarder sans intervenir",
+"def": "Watch something happen without taking part",
+"syn": "observe, watch",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "A crowd looked on as the firefighters worked."
+},
+{
+"w": "map out",
+"fr": "planifier, tracer",
+"def": "Plan something in detail",
+"syn": "plan, outline",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "She has her whole career mapped out."
+},
+{
+"w": "mess up",
+"fr": "gâcher, rater",
+"def": "Spoil something or do it badly",
+"syn": "spoil, botch",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "I completely messed up the interview."
+},
+{
+"w": "mull over",
+"fr": "réfléchir longuement à",
+"def": "Think carefully about something for a long time",
+"syn": "ponder, consider",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "I need time to mull over your offer."
+},
+{
+"w": "narrow down",
+"fr": "réduire, restreindre",
+"def": "Reduce the number of possibilities or choices",
+"syn": "reduce, limit",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "We've narrowed down the list to three candidates."
+},
+{
+"w": "nod off",
+"fr": "s'endormir, piquer du nez",
+"def": "Fall asleep without intending to",
+"syn": "doze off, drift off",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "I nodded off during the lecture."
+},
+{
+"w": "open up",
+"fr": "s'ouvrir, se confier",
+"def": "Talk more freely about your feelings",
+"syn": "confide, speak openly",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "It took months before he opened up to me."
+},
+{
+"w": "opt for",
+"fr": "opter pour",
+"def": "Choose one thing instead of another",
+"syn": "choose, select",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "Many students opt for a gap year."
+},
+{
+"w": "opt out",
+"fr": "choisir de ne pas participer",
+"def": "Choose not to take part in something",
+"syn": "withdraw, decline",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "You can opt out of the pension scheme."
+},
+{
+"w": "own up",
+"fr": "avouer, reconnaître",
+"def": "Admit that you have done something wrong",
+"syn": "confess, admit",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "Nobody owned up to breaking the window."
+},
+{
+"w": "pan out",
+"fr": "se dérouler, tourner",
+"def": "Develop or happen in a particular way",
+"syn": "turn out, work out",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "Let's see how things pan out."
+},
+{
+"w": "phase out",
+"fr": "supprimer progressivement",
+"def": "Gradually stop using or providing something",
+"syn": "discontinue, withdraw",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "Petrol cars will be phased out by 2035."
+},
+{
+"w": "pin down",
+"fr": "cerner, déterminer",
+"def": "Discover or describe something exactly",
+"syn": "identify, determine",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "Doctors couldn't pin down the cause of the illness."
+},
+{
+"w": "play down",
+"fr": "minimiser",
+"def": "Make something seem less important than it is",
+"syn": "downplay, minimise",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "The government played down the risks."
+},
+{
+"w": "pop up",
+"fr": "surgir, apparaître",
+"def": "Appear suddenly or unexpectedly",
+"syn": "appear, emerge",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "New cafés are popping up all over town."
+},
+{
+"w": "press on",
+"fr": "poursuivre, persévérer",
+"def": "Continue doing something despite difficulties",
+"syn": "persevere, push on",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "Despite the rain, we pressed on to the summit."
+},
+{
+"w": "pull off",
+"fr": "réussir (un exploit)",
+"def": "Succeed in doing something difficult",
+"syn": "accomplish, achieve",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "They pulled off a surprising victory."
+},
+{
+"w": "pull through",
+"fr": "s'en sortir, se rétablir",
+"def": "Recover from a serious illness or difficulty",
+"syn": "recover, survive",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "Doctors expect him to pull through."
+},
+{
+"w": "put aside",
+"fr": "mettre de côté",
+"def": "Save money or time for a particular purpose",
+"syn": "set aside, save",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "I put aside some money every month."
+},
+{
+"w": "put down",
+"fr": "rabaisser, dénigrer",
+"def": "Criticise someone to make them feel stupid",
+"syn": "belittle, humiliate",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "He's always putting his wife down in public."
+},
+{
+"w": "put down to",
+"fr": "attribuer à",
+"def": "Think that something is caused by a particular thing",
+"syn": "attribute to, ascribe to",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "I put his bad mood down to tiredness."
+},
+{
+"w": "reach out",
+"fr": "tendre la main, contacter",
+"def": "Try to communicate with or offer help to someone",
+"syn": "contact, approach",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "Don't hesitate to reach out if you need help."
+},
+{
+"w": "rip off",
+"fr": "arnaquer",
+"def": "Charge someone too much money; cheat them",
+"syn": "cheat, swindle",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "Tourists often get ripped off by taxi drivers."
+}
+]

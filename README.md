@@ -1,6 +1,8 @@
 # SciFi Vocab
 
-PWA pour apprendre le vocabulaire anglais des classiques de la science-fiction : *1984*, *Neuromancer*, *Dune*, *Brave New World*, *Fahrenheit 451*, *Do Androids Dream of Electric Sheep?*, *Foundation*, *Snow Crash*…
+PWA pour apprendre le vocabulaire anglais et valider ses niveaux CECRL de A1 à C2 : **~6 500 mots et expressions**
+(A1 400 · A2 485 · B1 867 · B2 1 757 · C1 1 815 · C2 1 190), dont des phrasal verbs, des idioms et le vocabulaire des
+classiques de la SF (*1984*, *Neuromancer*, *Dune*, *Brave New World*, *Fahrenheit 451*, *Foundation*, *Snow Crash*…).
 
 ## Fonctionnement
 
@@ -11,6 +13,9 @@ PWA pour apprendre le vocabulaire anglais des classiques de la science-fiction :
 - **Test** (onglet à côté) : QCM sur les mots vus (anglais → français ou français → anglais).
   - Bonne réponse : le mot est **acquis**.
   - Mauvaise réponse : le mot retourne **en tête de la pile de swipe** avec le tag « À revoir ».
+- **Filtre de niveau** au-dessus des cartes (A1 → C2, B2 par défaut) + bouton 🚀 SF pour ne voir que le vocabulaire des romans.
+- **Niveaux** (3e onglet) : progression par niveau et **test de niveau** de 20 questions — 80 % de bonnes réponses valident le niveau.
+  Les mots trouvés passent en « acquis », les ratés retournent dans la pile de swipe.
 - Tous les **10 swipes**, une fenêtre te propose de lancer un test.
 
 La progression est enregistrée dans le navigateur (localStorage) et l'app marche hors ligne grâce au service worker.
@@ -24,6 +29,15 @@ python3 -m http.server 8000
 
 Pour l'installer sur ton téléphone, il faut la servir en HTTPS (GitHub Pages, Netlify…), puis faire « Ajouter à l'écran d'accueil ».
 
-## Ajouter des mots
+## Ajouter / corriger des mots
 
-Édite `words.js` : `[mot, traduction, sens, "synonyme1, synonyme2", source]`. Les nouveaux mots apparaissent automatiquement dans la pile sans effacer la progression.
+Les sources sont dans `data/*.json` (un objet par mot : `w, fr, def, syn, lvl, pos, ex`, et `src` pour la SF).
+Après modification, régénère `words.js` :
+
+```sh
+python3 tools/build_words.py
+```
+
+Les doublons sont fusionnés (on garde le niveau le plus bas). Les nouveaux mots apparaissent dans la pile sans effacer la progression.
+La base a été générée par IA à partir des référentiels CECRL connus (English Vocabulary Profile, Oxford 3000/5000) :
+les niveaux sont indicatifs et quelques traductions peuvent être imparfaites.

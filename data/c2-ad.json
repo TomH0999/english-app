@@ -1,0 +1,4376 @@
+[
+{
+"w": "abate",
+"fr": "diminuer, s'apaiser",
+"def": "To become less strong or intense",
+"syn": "subside, lessen, ease",
+"lvl": "C2",
+"pos": "verb",
+"ex": "We waited for the storm to abate before setting off."
+},
+{
+"w": "aberration",
+"fr": "aberration, anomalie",
+"def": "Something that differs from what is normal or expected",
+"syn": "anomaly, deviation, oddity",
+"lvl": "C2",
+"pos": "noun",
+"ex": "His poor exam result was an aberration in an otherwise excellent year."
+},
+{
+"w": "abhor",
+"fr": "abhorrer, exécrer",
+"def": "To hate something very strongly, especially for moral reasons",
+"syn": "detest, loathe, abominate",
+"lvl": "C2",
+"pos": "verb",
+"ex": "She abhors any form of cruelty to animals."
+},
+{
+"w": "abject",
+"fr": "abject, extrême",
+"def": "Extremely bad, miserable or without any pride",
+"syn": "wretched, miserable, hopeless",
+"lvl": "C2",
+"pos": "adj",
+"ex": "They lived in abject poverty for years."
+},
+{
+"w": "abjure",
+"fr": "abjurer, renoncer à",
+"def": "To formally reject or give up a belief or claim",
+"syn": "renounce, repudiate, forswear",
+"lvl": "C2",
+"pos": "verb",
+"ex": "He was forced to abjure his political beliefs."
+},
+{
+"w": "abnegation",
+"fr": "abnégation",
+"def": "The act of denying oneself or giving up one's own interests",
+"syn": "self-denial, renunciation, sacrifice",
+"lvl": "C2",
+"pos": "noun",
+"ex": "Her life was one of quiet abnegation and service."
+},
+{
+"w": "abrasive",
+"fr": "abrasif, rugueux",
+"def": "Rude and unkind in a way that upsets people",
+"syn": "harsh, caustic, grating",
+"lvl": "C2",
+"pos": "adj",
+"ex": "His abrasive manner alienated many colleagues."
+},
+{
+"w": "abrogate",
+"fr": "abroger",
+"def": "To officially end or cancel a law or agreement",
+"syn": "repeal, revoke, annul",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The new government abrogated the treaty."
+},
+{
+"w": "abscond",
+"fr": "s'enfuir, disparaître",
+"def": "To leave secretly, often to avoid arrest or with stolen money",
+"syn": "flee, bolt, decamp",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The treasurer absconded with the club's funds."
+},
+{
+"w": "abstemious",
+"fr": "sobre, frugal",
+"def": "Avoiding too much food, alcohol or pleasure",
+"syn": "temperate, sober, frugal",
+"lvl": "C2",
+"pos": "adj",
+"ex": "He was an abstemious man who rarely drank wine."
+},
+{
+"w": "abstruse",
+"fr": "abstrus, obscur",
+"def": "Difficult to understand because very complex or specialized",
+"syn": "obscure, recondite, esoteric",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The lecture dealt with abstruse philosophical questions."
+},
+{
+"w": "abysmal",
+"fr": "épouvantable, lamentable",
+"def": "Extremely bad or of very poor quality",
+"syn": "dreadful, appalling, atrocious",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The team's performance this season has been abysmal."
+},
+{
+"w": "abeyance",
+"fr": "suspens",
+"def": "A state of temporary suspension or inactivity",
+"syn": "suspension, dormancy, limbo",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The plans are in abeyance until funding is found."
+},
+{
+"w": "absolve",
+"fr": "absoudre, disculper",
+"def": "To declare someone free from guilt or responsibility",
+"syn": "exonerate, acquit, pardon",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The report absolved the pilot of any blame."
+},
+{
+"w": "accede",
+"fr": "accéder à, consentir",
+"def": "To agree to a demand or request, often reluctantly",
+"syn": "consent, assent, comply",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The management finally acceded to the workers' demands."
+},
+{
+"w": "accentuate",
+"fr": "accentuer, souligner",
+"def": "To make something more noticeable or prominent",
+"syn": "emphasize, highlight, underline",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The dark frame accentuates the colours of the painting."
+},
+{
+"w": "accolade",
+"fr": "distinction, éloge",
+"def": "Praise or an award given for an achievement",
+"syn": "honour, tribute, distinction",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The novel received every major literary accolade."
+},
+{
+"w": "accost",
+"fr": "aborder, accoster",
+"def": "To approach and speak to someone boldly or aggressively",
+"syn": "confront, waylay, buttonhole",
+"lvl": "C2",
+"pos": "verb",
+"ex": "She was accosted by a stranger in the street."
+},
+{
+"w": "acerbic",
+"fr": "acerbe, caustique",
+"def": "Sharp and critical in a clever but unkind way",
+"syn": "caustic, biting, sardonic",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The critic was known for his acerbic reviews."
+},
+{
+"w": "acolyte",
+"fr": "acolyte, disciple",
+"def": "A devoted follower or assistant of an important person",
+"syn": "follower, disciple, devotee",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The professor arrived surrounded by his acolytes."
+},
+{
+"w": "acquiesce",
+"fr": "acquiescer, consentir",
+"def": "To accept or agree to something without protest",
+"syn": "consent, comply, submit",
+"lvl": "C2",
+"pos": "verb",
+"ex": "She reluctantly acquiesced in the decision."
+},
+{
+"w": "acrid",
+"fr": "âcre",
+"def": "Having a strong, bitter and unpleasant smell or taste",
+"syn": "pungent, bitter, sharp",
+"lvl": "C2",
+"pos": "adj",
+"ex": "Acrid smoke filled the room."
+},
+{
+"w": "acrimonious",
+"fr": "acrimonieux, amer",
+"def": "Full of anger, bitterness and bad feeling",
+"syn": "bitter, rancorous, hostile",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The couple went through an acrimonious divorce."
+},
+{
+"w": "acumen",
+"fr": "perspicacité, flair",
+"def": "The ability to make good judgements and quick decisions",
+"syn": "shrewdness, insight, astuteness",
+"lvl": "C2",
+"pos": "noun",
+"ex": "She is admired for her business acumen."
+},
+{
+"w": "adage",
+"fr": "adage, dicton",
+"def": "A well-known short saying expressing a general truth",
+"syn": "saying, proverb, maxim",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The old adage says that time is money."
+},
+{
+"w": "adamant",
+"fr": "catégorique, inflexible",
+"def": "Refusing to change one's opinion or decision",
+"syn": "insistent, unyielding, firm",
+"lvl": "C2",
+"pos": "adj",
+"ex": "He was adamant that he had done nothing wrong."
+},
+{
+"w": "adjudicate",
+"fr": "juger, arbitrer",
+"def": "To make an official judgement or decision about a dispute",
+"syn": "judge, arbitrate, rule",
+"lvl": "C2",
+"pos": "verb",
+"ex": "A special tribunal will adjudicate the claims."
+},
+{
+"w": "admonish",
+"fr": "réprimander, avertir",
+"def": "To warn or criticize someone firmly",
+"syn": "reprimand, rebuke, reprove",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The teacher admonished the pupils for talking."
+},
+{
+"w": "adroit",
+"fr": "adroit, habile",
+"def": "Clever and skilful, especially in handling situations",
+"syn": "deft, skilful, dexterous",
+"lvl": "C2",
+"pos": "adj",
+"ex": "She gave an adroit answer to the awkward question."
+},
+{
+"w": "adulation",
+"fr": "adulation",
+"def": "Excessive praise or admiration",
+"syn": "worship, idolization, flattery",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The singer basked in the adulation of her fans."
+},
+{
+"w": "adulterate",
+"fr": "frelater, falsifier",
+"def": "To make something impure by adding a worse substance",
+"syn": "contaminate, dilute, taint",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The milk had been adulterated with water."
+},
+{
+"w": "aegis",
+"fr": "égide",
+"def": "The protection, support or control of an organization",
+"syn": "auspices, patronage, sponsorship",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The talks were held under the aegis of the UN."
+},
+{
+"w": "aesthete",
+"fr": "esthète",
+"def": "A person with a refined appreciation of art and beauty",
+"syn": "connoisseur, art lover",
+"lvl": "C2",
+"pos": "noun",
+"ex": "As an aesthete, he filled his home with fine paintings."
+},
+{
+"w": "affable",
+"fr": "affable, aimable",
+"def": "Friendly, pleasant and easy to talk to",
+"syn": "genial, amiable, cordial",
+"lvl": "C2",
+"pos": "adj",
+"ex": "Our affable host made everyone feel welcome."
+},
+{
+"w": "affectation",
+"fr": "affectation",
+"def": "Behaviour or speech that is unnatural and meant to impress",
+"syn": "pretension, artificiality, pose",
+"lvl": "C2",
+"pos": "noun",
+"ex": "His British accent was a pure affectation."
+},
+{
+"w": "affront",
+"fr": "affront, insulte",
+"def": "An action or remark that causes offence",
+"syn": "insult, slight, outrage",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The decision was an affront to democracy."
+},
+{
+"w": "aficionado",
+"fr": "passionné, amateur",
+"def": "A person who is very enthusiastic and knowledgeable about something",
+"syn": "enthusiast, devotee, buff",
+"lvl": "C2",
+"pos": "noun",
+"ex": "Jazz aficionados flock to the festival every summer."
+},
+{
+"w": "aggrandize",
+"fr": "accroître, glorifier",
+"def": "To increase the power, wealth or importance of",
+"syn": "enlarge, exalt, magnify",
+"lvl": "C2",
+"pos": "verb",
+"ex": "He used his office to aggrandize himself."
+},
+{
+"w": "aggrieved",
+"fr": "lésé, offensé",
+"def": "Upset or angry because of being treated unfairly",
+"syn": "resentful, wronged, indignant",
+"lvl": "C2",
+"pos": "adj",
+"ex": "Aggrieved customers demanded a refund."
+},
+{
+"w": "akin",
+"fr": "apparenté, semblable",
+"def": "Similar in character or nature",
+"syn": "similar, comparable, related",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The feeling was akin to panic."
+},
+{
+"w": "alacrity",
+"fr": "empressement, entrain",
+"def": "Eager and quick willingness to do something",
+"syn": "eagerness, readiness, promptness",
+"lvl": "C2",
+"pos": "noun",
+"ex": "She accepted the invitation with alacrity."
+},
+{
+"w": "allay",
+"fr": "apaiser, dissiper",
+"def": "To reduce or calm fear, doubt or worry",
+"syn": "alleviate, assuage, ease",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The minister tried to allay public fears."
+},
+{
+"w": "allegory",
+"fr": "allégorie",
+"def": "A story with a hidden moral or political meaning",
+"syn": "parable, fable, symbol",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The novel is an allegory of totalitarian rule."
+},
+{
+"w": "allude",
+"fr": "faire allusion",
+"def": "To mention something indirectly",
+"syn": "refer, hint, suggest",
+"lvl": "C2",
+"pos": "verb",
+"ex": "She alluded to problems without giving details."
+},
+{
+"w": "aloof",
+"fr": "distant, réservé",
+"def": "Unfriendly and not wanting to be involved with others",
+"syn": "distant, detached, standoffish",
+"lvl": "C2",
+"pos": "adj",
+"ex": "He remained aloof from the office gossip."
+},
+{
+"w": "altercation",
+"fr": "altercation, dispute",
+"def": "A noisy argument or minor fight",
+"syn": "quarrel, dispute, row",
+"lvl": "C2",
+"pos": "noun",
+"ex": "There was an altercation between two drivers."
+},
+{
+"w": "altruism",
+"fr": "altruisme",
+"def": "Unselfish concern for the welfare of others",
+"syn": "selflessness, unselfishness, philanthropy",
+"lvl": "C2",
+"pos": "noun",
+"ex": "Her donation was an act of pure altruism."
+},
+{
+"w": "amalgamate",
+"fr": "fusionner",
+"def": "To combine two or more things into one",
+"syn": "merge, combine, unite",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The two schools were amalgamated last year."
+},
+{
+"w": "amass",
+"fr": "amasser, accumuler",
+"def": "To gather a large amount of something over time",
+"syn": "accumulate, gather, hoard",
+"lvl": "C2",
+"pos": "verb",
+"ex": "He amassed a fortune in property."
+},
+{
+"w": "ambivalent",
+"fr": "ambivalent, partagé",
+"def": "Having mixed or contradictory feelings about something",
+"syn": "uncertain, conflicted, equivocal",
+"lvl": "C2",
+"pos": "adj",
+"ex": "She felt ambivalent about moving abroad."
+},
+{
+"w": "ameliorate",
+"fr": "améliorer",
+"def": "To make a bad situation better",
+"syn": "improve, alleviate, mitigate",
+"lvl": "C2",
+"pos": "verb",
+"ex": "Measures were taken to ameliorate living conditions."
+},
+{
+"w": "amenable",
+"fr": "disposé, réceptif",
+"def": "Willing to accept or be influenced by something",
+"syn": "receptive, agreeable, compliant",
+"lvl": "C2",
+"pos": "adj",
+"ex": "He seemed amenable to our suggestions."
+},
+{
+"w": "amiable",
+"fr": "aimable, sympathique",
+"def": "Friendly and pleasant in manner",
+"syn": "affable, genial, good-natured",
+"lvl": "C2",
+"pos": "adj",
+"ex": "He was an amiable old man."
+},
+{
+"w": "amicable",
+"fr": "amiable, cordial",
+"def": "Done in a friendly way without argument",
+"syn": "friendly, cordial, peaceable",
+"lvl": "C2",
+"pos": "adj",
+"ex": "They reached an amicable settlement."
+},
+{
+"w": "amorphous",
+"fr": "amorphe, informe",
+"def": "Without a clear shape, structure or organization",
+"syn": "shapeless, formless, vague",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The party remains an amorphous coalition of interests."
+},
+{
+"w": "anachronism",
+"fr": "anachronisme",
+"def": "Something that seems to belong to a different period",
+"syn": "relic, throwback",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The monarchy is seen by some as an anachronism."
+},
+{
+"w": "analogous",
+"fr": "analogue",
+"def": "Similar in some way, allowing a comparison",
+"syn": "comparable, similar, parallel",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The situation is analogous to a game of chess."
+},
+{
+"w": "anathema",
+"fr": "abomination, anathème",
+"def": "Something that is strongly disliked or opposed",
+"syn": "abomination, bane, bugbear",
+"lvl": "C2",
+"pos": "noun",
+"ex": "Censorship is anathema to journalists."
+},
+{
+"w": "ancillary",
+"fr": "auxiliaire, annexe",
+"def": "Providing support or help to a main activity",
+"syn": "auxiliary, supplementary, subsidiary",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The hospital employs many ancillary staff."
+},
+{
+"w": "anguish",
+"fr": "angoisse, détresse",
+"def": "Severe mental or physical suffering",
+"syn": "agony, torment, distress",
+"lvl": "C2",
+"pos": "noun",
+"ex": "She waited in anguish for news of her son."
+},
+{
+"w": "animosity",
+"fr": "animosité, hostilité",
+"def": "Strong dislike or hostility",
+"syn": "hostility, enmity, antagonism",
+"lvl": "C2",
+"pos": "noun",
+"ex": "There is no animosity between the two rivals."
+},
+{
+"w": "annals",
+"fr": "annales",
+"def": "Historical records of events year by year",
+"syn": "records, chronicles, archives",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The victory went down in the annals of sport."
+},
+{
+"w": "annul",
+"fr": "annuler",
+"def": "To declare officially that something is no longer valid",
+"syn": "cancel, invalidate, nullify",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The marriage was annulled after six months."
+},
+{
+"w": "anodyne",
+"fr": "anodin, insipide",
+"def": "Inoffensive but dull and lacking strong opinions",
+"syn": "bland, innocuous, insipid",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The speech was full of anodyne statements."
+},
+{
+"w": "antagonize",
+"fr": "contrarier, se mettre à dos",
+"def": "To make someone feel hostile or angry",
+"syn": "provoke, alienate, irritate",
+"lvl": "C2",
+"pos": "verb",
+"ex": "He didn't want to antagonize his boss."
+},
+{
+"w": "antediluvian",
+"fr": "antédiluvien, préhistorique",
+"def": "Extremely old-fashioned or out of date",
+"syn": "archaic, outdated, prehistoric",
+"lvl": "C2",
+"pos": "adj",
+"ex": "Their attitudes to women are positively antediluvian."
+},
+{
+"w": "antipathy",
+"fr": "antipathie, aversion",
+"def": "A strong feeling of dislike",
+"syn": "aversion, hostility, animosity",
+"lvl": "C2",
+"pos": "noun",
+"ex": "He had a deep antipathy towards politicians."
+},
+{
+"w": "antithesis",
+"fr": "antithèse, opposé",
+"def": "The exact opposite of someone or something",
+"syn": "opposite, converse, reverse",
+"lvl": "C2",
+"pos": "noun",
+"ex": "Her calm was the antithesis of his panic."
+},
+{
+"w": "aphorism",
+"fr": "aphorisme",
+"def": "A short, clever saying expressing a general truth",
+"syn": "maxim, saying, epigram",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The book is full of witty aphorisms."
+},
+{
+"w": "aplomb",
+"fr": "aplomb, assurance",
+"def": "Calm self-confidence in a difficult situation",
+"syn": "poise, composure, assurance",
+"lvl": "C2",
+"pos": "noun",
+"ex": "She handled the hostile questions with great aplomb."
+},
+{
+"w": "apocryphal",
+"fr": "apocryphe, douteux",
+"def": "Widely told but probably not true",
+"syn": "fictitious, spurious, mythical",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The story about the president is probably apocryphal."
+},
+{
+"w": "apoplectic",
+"fr": "furieux, hors de soi",
+"def": "Extremely angry",
+"syn": "furious, livid, enraged",
+"lvl": "C2",
+"pos": "adj",
+"ex": "He was apoplectic with rage when he heard."
+},
+{
+"w": "apparition",
+"fr": "apparition, spectre",
+"def": "A ghost or ghostlike image of a person",
+"syn": "ghost, phantom, spectre",
+"lvl": "C2",
+"pos": "noun",
+"ex": "She claimed to have seen an apparition in the hall."
+},
+{
+"w": "appease",
+"fr": "apaiser, amadouer",
+"def": "To calm someone by giving them what they demand",
+"syn": "placate, pacify, mollify",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The concession was made to appease the protesters."
+},
+{
+"w": "apposite",
+"fr": "approprié, pertinent",
+"def": "Very appropriate or suitable for the situation",
+"syn": "apt, pertinent, fitting",
+"lvl": "C2",
+"pos": "adj",
+"ex": "She made some very apposite remarks."
+},
+{
+"w": "apprise",
+"fr": "informer, mettre au courant",
+"def": "To inform or tell someone about something",
+"syn": "inform, notify, advise",
+"lvl": "C2",
+"pos": "verb",
+"ex": "Please keep me apprised of any developments."
+},
+{
+"w": "approbation",
+"fr": "approbation",
+"def": "Official approval or praise",
+"syn": "approval, endorsement, sanction",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The plan met with general approbation."
+},
+{
+"w": "arbiter",
+"fr": "arbitre",
+"def": "A person with power to judge or settle matters",
+"syn": "judge, arbitrator, authority",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The magazine became an arbiter of fashion."
+},
+{
+"w": "arcane",
+"fr": "obscur, ésotérique",
+"def": "Mysterious and known or understood by very few",
+"syn": "esoteric, obscure, recondite",
+"lvl": "C2",
+"pos": "adj",
+"ex": "Few people understand the arcane rules of the game."
+},
+{
+"w": "archetype",
+"fr": "archétype",
+"def": "A perfect or typical example of something",
+"syn": "prototype, epitome, model",
+"lvl": "C2",
+"pos": "noun",
+"ex": "He is the archetype of the absent-minded professor."
+},
+{
+"w": "ardent",
+"fr": "ardent, fervent",
+"def": "Very enthusiastic or passionate",
+"syn": "fervent, passionate, zealous",
+"lvl": "C2",
+"pos": "adj",
+"ex": "She is an ardent supporter of animal rights."
+},
+{
+"w": "arduous",
+"fr": "ardu, pénible",
+"def": "Very difficult and requiring great effort",
+"syn": "gruelling, strenuous, laborious",
+"lvl": "C2",
+"pos": "adj",
+"ex": "It was a long and arduous climb."
+},
+{
+"w": "arraign",
+"fr": "traduire en justice",
+"def": "To call someone before a court to answer a charge",
+"syn": "indict, charge, accuse",
+"lvl": "C2",
+"pos": "verb",
+"ex": "He was arraigned on charges of fraud."
+},
+{
+"w": "arrears",
+"fr": "arriérés",
+"def": "Money owed that should have been paid earlier",
+"syn": "debts, backlog, outstanding payments",
+"lvl": "C2",
+"pos": "noun",
+"ex": "They are three months in arrears with the rent."
+},
+{
+"w": "arrogate",
+"fr": "s'arroger",
+"def": "To take or claim something without having the right",
+"syn": "seize, usurp, appropriate",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The general arrogated to himself the powers of parliament."
+},
+{
+"w": "artifice",
+"fr": "artifice, ruse",
+"def": "Clever tricks used to deceive people",
+"syn": "trickery, cunning, guile",
+"lvl": "C2",
+"pos": "noun",
+"ex": "She charmed everyone without any artifice."
+},
+{
+"w": "ascendancy",
+"fr": "ascendant, suprématie",
+"def": "A position of power, control or dominance",
+"syn": "dominance, supremacy, power",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The party is in the ascendancy after the election."
+},
+{
+"w": "ascetic",
+"fr": "ascétique",
+"def": "Living simply and avoiding physical pleasures",
+"syn": "austere, abstinent, spartan",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The monks lead an ascetic life."
+},
+{
+"w": "ascribe",
+"fr": "attribuer",
+"def": "To regard something as caused by or belonging to",
+"syn": "attribute, credit, assign",
+"lvl": "C2",
+"pos": "verb",
+"ex": "He ascribed his success to hard work."
+},
+{
+"w": "askance",
+"fr": "de travers, avec méfiance",
+"def": "With suspicion or disapproval",
+"syn": "suspiciously, sceptically, distrustfully",
+"lvl": "C2",
+"pos": "adv",
+"ex": "The neighbours looked askance at the newcomers."
+},
+{
+"w": "aspersion",
+"fr": "calomnie, dénigrement",
+"def": "A damaging or unkind remark about someone",
+"syn": "slur, slander, insinuation",
+"lvl": "C2",
+"pos": "noun",
+"ex": "I don't wish to cast aspersions on his honesty."
+},
+{
+"w": "assail",
+"fr": "assaillir",
+"def": "To attack violently or criticize strongly",
+"syn": "attack, assault, beset",
+"lvl": "C2",
+"pos": "verb",
+"ex": "She was assailed by doubts all night."
+},
+{
+"w": "assiduous",
+"fr": "assidu, appliqué",
+"def": "Showing great care, attention and hard work",
+"syn": "diligent, conscientious, industrious",
+"lvl": "C2",
+"pos": "adj",
+"ex": "He was assiduous in his research."
+},
+{
+"w": "assuage",
+"fr": "apaiser, calmer",
+"def": "To make an unpleasant feeling less intense",
+"syn": "relieve, soothe, allay",
+"lvl": "C2",
+"pos": "verb",
+"ex": "Nothing could assuage her grief."
+},
+{
+"w": "astute",
+"fr": "astucieux, perspicace",
+"def": "Clever at understanding situations and gaining advantage",
+"syn": "shrewd, perceptive, canny",
+"lvl": "C2",
+"pos": "adj",
+"ex": "She is an astute businesswoman."
+},
+{
+"w": "atavistic",
+"fr": "atavique",
+"def": "Relating to ancient, primitive instincts or behaviour",
+"syn": "primitive, primal, ancestral",
+"lvl": "C2",
+"pos": "adj",
+"ex": "Crowds can awaken atavistic fears in us."
+},
+{
+"w": "atone",
+"fr": "expier, racheter",
+"def": "To make amends for a wrong one has done",
+"syn": "make amends, expiate, redeem",
+"lvl": "C2",
+"pos": "verb",
+"ex": "He tried to atone for his past mistakes."
+},
+{
+"w": "atrophy",
+"fr": "s'atrophier",
+"def": "To waste away or weaken from lack of use",
+"syn": "wither, waste away, deteriorate",
+"lvl": "C2",
+"pos": "verb",
+"ex": "Without exercise, the muscles will atrophy."
+},
+{
+"w": "attenuate",
+"fr": "atténuer",
+"def": "To reduce the force, effect or value of something",
+"syn": "weaken, reduce, diminish",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The drug attenuates the effects of the virus."
+},
+{
+"w": "attrition",
+"fr": "usure, érosion",
+"def": "Gradual weakening through constant pressure or attack",
+"syn": "erosion, wearing down, depletion",
+"lvl": "C2",
+"pos": "noun",
+"ex": "It became a war of attrition."
+},
+{
+"w": "audacious",
+"fr": "audacieux",
+"def": "Showing a willingness to take bold risks",
+"syn": "bold, daring, fearless",
+"lvl": "C2",
+"pos": "adj",
+"ex": "It was an audacious plan to rob the bank."
+},
+{
+"w": "augment",
+"fr": "augmenter, accroître",
+"def": "To make something larger by adding to it",
+"syn": "increase, supplement, boost",
+"lvl": "C2",
+"pos": "verb",
+"ex": "She took a second job to augment her income."
+},
+{
+"w": "augur",
+"fr": "augurer, présager",
+"def": "To be a sign of a likely future outcome",
+"syn": "bode, portend, foreshadow",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The poor sales figures do not augur well."
+},
+{
+"w": "august",
+"fr": "auguste, vénérable",
+"def": "Respected and impressive because of age or status",
+"syn": "distinguished, venerable, eminent",
+"lvl": "C2",
+"pos": "adj",
+"ex": "She joined the august ranks of the Academy."
+},
+{
+"w": "auspicious",
+"fr": "propice, de bon augure",
+"def": "Suggesting that future success is likely",
+"syn": "favourable, promising, propitious",
+"lvl": "C2",
+"pos": "adj",
+"ex": "It was an auspicious start to the season."
+},
+{
+"w": "austere",
+"fr": "austère, sévère",
+"def": "Very plain and simple, without comfort or decoration",
+"syn": "stark, severe, spartan",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The room was austere, with just a bed and chair."
+},
+{
+"w": "autocratic",
+"fr": "autocratique, autoritaire",
+"def": "Having or using total power without consulting others",
+"syn": "despotic, dictatorial, authoritarian",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The company was run by an autocratic founder."
+},
+{
+"w": "avarice",
+"fr": "avarice, cupidité",
+"def": "Extreme desire for wealth or material gain",
+"syn": "greed, cupidity, rapacity",
+"lvl": "C2",
+"pos": "noun",
+"ex": "His avarice eventually ruined him."
+},
+{
+"w": "aver",
+"fr": "affirmer, déclarer",
+"def": "To state firmly that something is true",
+"syn": "assert, declare, maintain",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The witness averred that she had seen the accused."
+},
+{
+"w": "averse",
+"fr": "opposé, hostile",
+"def": "Strongly disliking or opposed to something",
+"syn": "opposed, reluctant, disinclined",
+"lvl": "C2",
+"pos": "adj",
+"ex": "I'm not averse to a glass of wine now and then."
+},
+{
+"w": "avid",
+"fr": "passionné, avide",
+"def": "Very keen and enthusiastic about an activity",
+"syn": "keen, eager, ardent",
+"lvl": "C2",
+"pos": "adj",
+"ex": "She is an avid reader of crime novels."
+},
+{
+"w": "avow",
+"fr": "avouer, déclarer",
+"def": "To state or admit something openly",
+"syn": "declare, profess, affirm",
+"lvl": "C2",
+"pos": "verb",
+"ex": "He avowed his support for the new leader."
+},
+{
+"w": "avuncular",
+"fr": "paternel, bienveillant",
+"def": "Kind and friendly towards younger people, like an uncle",
+"syn": "genial, benevolent, kindly",
+"lvl": "C2",
+"pos": "adj",
+"ex": "He had an avuncular manner with his students."
+},
+{
+"w": "awry",
+"fr": "de travers, mal",
+"def": "Away from the expected course; wrong",
+"syn": "amiss, astray, wrong",
+"lvl": "C2",
+"pos": "adv",
+"ex": "Their plans for the evening went badly awry."
+},
+{
+"w": "axiom",
+"fr": "axiome",
+"def": "A statement accepted as true without needing proof",
+"syn": "principle, truism, maxim",
+"lvl": "C2",
+"pos": "noun",
+"ex": "It is an axiom that power corrupts."
+},
+{
+"w": "archaic",
+"fr": "archaïque, désuet",
+"def": "Very old or old-fashioned and no longer used",
+"syn": "antiquated, obsolete, outdated",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The law is archaic and should be changed."
+},
+{
+"w": "arid",
+"fr": "aride",
+"def": "Having very little rain and therefore dry",
+"syn": "dry, parched, barren",
+"lvl": "C2",
+"pos": "adj",
+"ex": "Few plants survive in this arid region."
+},
+{
+"w": "abound",
+"fr": "abonder, foisonner",
+"def": "To exist in large numbers or amounts",
+"syn": "proliferate, teem, flourish",
+"lvl": "C2",
+"pos": "verb",
+"ex": "Rumours abound about the minister's resignation."
+},
+{
+"w": "allure",
+"fr": "attrait, charme",
+"def": "The quality of being attractive or fascinating",
+"syn": "appeal, charm, attraction",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The allure of city life drew him to London."
+},
+{
+"w": "amity",
+"fr": "amitié, bonne entente",
+"def": "Friendly and peaceful relations between people or nations",
+"syn": "friendship, harmony, goodwill",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The two nations lived in amity for centuries."
+},
+{
+"w": "apex",
+"fr": "sommet, apogée",
+"def": "The highest point of something",
+"syn": "peak, summit, pinnacle",
+"lvl": "C2",
+"pos": "noun",
+"ex": "She reached the apex of her career at forty."
+},
+{
+"w": "appendage",
+"fr": "appendice, accessoire",
+"def": "Something attached to a larger or more important thing",
+"syn": "addition, attachment, adjunct",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The committee was a mere appendage of the ministry."
+},
+{
+"w": "asunder",
+"fr": "en morceaux, séparé",
+"def": "Into separate parts or pieces",
+"syn": "apart, to pieces, in two",
+"lvl": "C2",
+"pos": "adv",
+"ex": "The family was torn asunder by the war."
+},
+{
+"w": "awash",
+"fr": "inondé, submergé",
+"def": "Covered with or having too much of something",
+"syn": "flooded, swamped, overflowing",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The market is awash with cheap imports."
+},
+{
+"w": "apostate",
+"fr": "apostat, renégat",
+"def": "A person who abandons their religion or principles",
+"syn": "renegade, defector, turncoat",
+"lvl": "C2",
+"pos": "noun",
+"ex": "He was denounced as an apostate by his former party."
+},
+{
+"w": "appellation",
+"fr": "appellation, nom",
+"def": "A name or title given to someone or something",
+"syn": "name, title, designation",
+"lvl": "C2",
+"pos": "noun",
+"ex": "He earned the appellation 'the Iron Chancellor'."
+},
+{
+"w": "assent",
+"fr": "assentiment, accord",
+"def": "Official agreement or approval",
+"syn": "agreement, consent, approval",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The bill received royal assent last week."
+},
+{
+"w": "badger",
+"fr": "harceler, importuner",
+"def": "To repeatedly ask someone to do something",
+"syn": "pester, nag, harass",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The children badgered their parents for a dog."
+},
+{
+"w": "baleful",
+"fr": "menaçant, sinistre",
+"def": "Threatening harm or evil",
+"syn": "menacing, sinister, malevolent",
+"lvl": "C2",
+"pos": "adj",
+"ex": "He gave me a baleful stare."
+},
+{
+"w": "balk",
+"fr": "rechigner, regimber",
+"def": "To be unwilling to accept or do something",
+"syn": "hesitate, recoil, shrink from",
+"lvl": "C2",
+"pos": "verb",
+"ex": "Many voters balked at the idea of higher taxes."
+},
+{
+"w": "balm",
+"fr": "baume, réconfort",
+"def": "Something that soothes or comforts",
+"syn": "comfort, solace, salve",
+"lvl": "C2",
+"pos": "noun",
+"ex": "Music was a balm to her troubled mind."
+},
+{
+"w": "banal",
+"fr": "banal",
+"def": "So ordinary and obvious that it is boring",
+"syn": "trite, hackneyed, commonplace",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The dialogue was banal and predictable."
+},
+{
+"w": "bandy",
+"fr": "échanger, faire circuler",
+"def": "To mention or exchange words or ideas casually",
+"syn": "toss about, exchange, circulate",
+"lvl": "C2",
+"pos": "verb",
+"ex": "Various figures have been bandied about in the press."
+},
+{
+"w": "bane",
+"fr": "fléau, plaie",
+"def": "A cause of great trouble or annoyance",
+"syn": "curse, scourge, plague",
+"lvl": "C2",
+"pos": "noun",
+"ex": "That noisy dog is the bane of my life."
+},
+{
+"w": "bastion",
+"fr": "bastion, rempart",
+"def": "A place or institution that strongly defends something",
+"syn": "stronghold, bulwark, citadel",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The club was the last bastion of male privilege."
+},
+{
+"w": "bathos",
+"fr": "chute ridicule",
+"def": "A sudden, ridiculous change from serious to trivial",
+"syn": "anticlimax, letdown",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The film's ending slipped into bathos."
+},
+{
+"w": "beatific",
+"fr": "béat, radieux",
+"def": "Showing intense happiness and peace",
+"syn": "blissful, serene, rapturous",
+"lvl": "C2",
+"pos": "adj",
+"ex": "She gave a beatific smile."
+},
+{
+"w": "bedevil",
+"fr": "accabler, tourmenter",
+"def": "To cause continual trouble to",
+"syn": "plague, beset, afflict",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The project has been bedevilled by delays."
+},
+{
+"w": "bedlam",
+"fr": "chaos, pagaille",
+"def": "A scene of noisy confusion and disorder",
+"syn": "chaos, pandemonium, uproar",
+"lvl": "C2",
+"pos": "noun",
+"ex": "It was bedlam in the station after the strike."
+},
+{
+"w": "bedraggled",
+"fr": "débraillé, trempé",
+"def": "Wet, dirty and untidy",
+"syn": "dishevelled, unkempt, messy",
+"lvl": "C2",
+"pos": "adj",
+"ex": "A few bedraggled tourists sheltered from the rain."
+},
+{
+"w": "befall",
+"fr": "arriver à, survenir",
+"def": "To happen to someone, usually something bad",
+"syn": "happen to, occur, betide",
+"lvl": "C2",
+"pos": "verb",
+"ex": "Tragedy befell the family that winter."
+},
+{
+"w": "befuddled",
+"fr": "embrouillé, perplexe",
+"def": "Confused and unable to think clearly",
+"syn": "muddled, bewildered, confused",
+"lvl": "C2",
+"pos": "adj",
+"ex": "He looked befuddled by the question."
+},
+{
+"w": "beguile",
+"fr": "séduire, enjôler",
+"def": "To charm or attract someone, sometimes in a deceptive way",
+"syn": "charm, entrance, enchant",
+"lvl": "C2",
+"pos": "verb",
+"ex": "She was beguiled by his good looks."
+},
+{
+"w": "behemoth",
+"fr": "mastodonte, géant",
+"def": "Something enormous, especially a large organization",
+"syn": "giant, colossus, titan",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The company has become a media behemoth."
+},
+{
+"w": "behest",
+"fr": "demande, ordre",
+"def": "A person's order or request",
+"syn": "command, request, bidding",
+"lvl": "C2",
+"pos": "noun",
+"ex": "He resigned at the behest of the president."
+},
+{
+"w": "beholden",
+"fr": "redevable",
+"def": "Owing something to someone because of their help",
+"syn": "indebted, obliged, grateful",
+"lvl": "C2",
+"pos": "adj",
+"ex": "I don't want to be beholden to anyone."
+},
+{
+"w": "belabour",
+"fr": "insister lourdement sur",
+"def": "To discuss something for too long or in excess",
+"syn": "overemphasize, harp on, labour",
+"lvl": "C2",
+"pos": "verb",
+"ex": "I won't belabour the point."
+},
+{
+"w": "beleaguered",
+"fr": "assiégé, en difficulté",
+"def": "Experiencing many problems or much criticism",
+"syn": "besieged, harassed, troubled",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The beleaguered minister finally resigned."
+},
+{
+"w": "belie",
+"fr": "démentir, masquer",
+"def": "To give a false impression of something",
+"syn": "disguise, contradict, misrepresent",
+"lvl": "C2",
+"pos": "verb",
+"ex": "His calm voice belied his true feelings."
+},
+{
+"w": "bellicose",
+"fr": "belliqueux",
+"def": "Eager to fight or start a war",
+"syn": "aggressive, warlike, hostile",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The general made bellicose statements."
+},
+{
+"w": "belligerent",
+"fr": "belliqueux, agressif",
+"def": "Hostile and aggressive, ready to argue or fight",
+"syn": "aggressive, combative, pugnacious",
+"lvl": "C2",
+"pos": "adj",
+"ex": "He became belligerent after a few drinks."
+},
+{
+"w": "bemoan",
+"fr": "déplorer, se lamenter sur",
+"def": "To express sadness or complaint about something",
+"syn": "lament, deplore, bewail",
+"lvl": "C2",
+"pos": "verb",
+"ex": "Teachers bemoan the lack of resources."
+},
+{
+"w": "bemused",
+"fr": "perplexe, déconcerté",
+"def": "Puzzled or confused",
+"syn": "puzzled, bewildered, perplexed",
+"lvl": "C2",
+"pos": "adj",
+"ex": "She looked bemused by all the attention."
+},
+{
+"w": "benefactor",
+"fr": "bienfaiteur",
+"def": "A person who gives money or help to others",
+"syn": "patron, donor, sponsor",
+"lvl": "C2",
+"pos": "noun",
+"ex": "An anonymous benefactor paid for the new library."
+},
+{
+"w": "benevolent",
+"fr": "bienveillant",
+"def": "Kind and wishing to help others",
+"syn": "kind, charitable, benign",
+"lvl": "C2",
+"pos": "adj",
+"ex": "He was a benevolent ruler loved by his people."
+},
+{
+"w": "benighted",
+"fr": "ignorant, arriéré",
+"def": "Lacking knowledge or moral understanding",
+"syn": "ignorant, unenlightened, backward",
+"lvl": "C2",
+"pos": "adj",
+"ex": "He spoke of the benighted days before education reform."
+},
+{
+"w": "benign",
+"fr": "bénin, bienveillant",
+"def": "Gentle and kind; not harmful",
+"syn": "kindly, harmless, gentle",
+"lvl": "C2",
+"pos": "adj",
+"ex": "Luckily, the tumour was benign."
+},
+{
+"w": "bequeath",
+"fr": "léguer",
+"def": "To leave property to someone in a will",
+"syn": "leave, will, hand down",
+"lvl": "C2",
+"pos": "verb",
+"ex": "She bequeathed her paintings to the museum."
+},
+{
+"w": "berate",
+"fr": "réprimander, tancer",
+"def": "To scold or criticize someone angrily",
+"syn": "scold, rebuke, upbraid",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The coach berated the players at half-time."
+},
+{
+"w": "bereavement",
+"fr": "deuil",
+"def": "The loss of a close relative or friend through death",
+"syn": "loss, grief, mourning",
+"lvl": "C2",
+"pos": "noun",
+"ex": "She took leave following a family bereavement."
+},
+{
+"w": "bereft",
+"fr": "privé, dépourvu",
+"def": "Deprived of something; feeling great loss",
+"syn": "deprived, devoid, destitute",
+"lvl": "C2",
+"pos": "adj",
+"ex": "He was bereft of hope after the verdict."
+},
+{
+"w": "beseech",
+"fr": "implorer, supplier",
+"def": "To ask someone urgently and desperately",
+"syn": "implore, beg, entreat",
+"lvl": "C2",
+"pos": "verb",
+"ex": "She beseeched him to stay."
+},
+{
+"w": "beset",
+"fr": "assaillir, accabler",
+"def": "To trouble someone or something continuously",
+"syn": "plague, afflict, bedevil",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The expedition was beset by problems."
+},
+{
+"w": "besiege",
+"fr": "assiéger, assaillir",
+"def": "To surround a place or overwhelm with requests",
+"syn": "surround, blockade, inundate",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The star was besieged by fans."
+},
+{
+"w": "besmirch",
+"fr": "salir, ternir",
+"def": "To damage someone's reputation",
+"syn": "tarnish, sully, defame",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The scandal besmirched his good name."
+},
+{
+"w": "bespoke",
+"fr": "sur mesure",
+"def": "Made specially for a particular customer",
+"syn": "custom-made, tailor-made, made-to-measure",
+"lvl": "C2",
+"pos": "adj",
+"ex": "He only wears bespoke suits."
+},
+{
+"w": "bestow",
+"fr": "conférer, accorder",
+"def": "To give an honour, right or gift to someone",
+"syn": "confer, grant, award",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The title was bestowed on him by the king."
+},
+{
+"w": "betoken",
+"fr": "présager, dénoter",
+"def": "To be a sign of something",
+"syn": "signify, indicate, portend",
+"lvl": "C2",
+"pos": "verb",
+"ex": "Dark clouds betokened a storm."
+},
+{
+"w": "bevy",
+"fr": "essaim, bande",
+"def": "A large group of people or things of one kind",
+"syn": "group, crowd, flock",
+"lvl": "C2",
+"pos": "noun",
+"ex": "She arrived with a bevy of photographers."
+},
+{
+"w": "bicker",
+"fr": "se chamailler",
+"def": "To argue about unimportant things",
+"syn": "squabble, quarrel, wrangle",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The children bickered all the way home."
+},
+{
+"w": "bigot",
+"fr": "sectaire, fanatique",
+"def": "A person intolerant of people with different opinions or backgrounds",
+"syn": "chauvinist, zealot, racist",
+"lvl": "C2",
+"pos": "noun",
+"ex": "He was a bigot who refused to hear other views."
+},
+{
+"w": "billow",
+"fr": "se gonfler, tourbillonner",
+"def": "To fill with air and swell out, or roll in clouds",
+"syn": "swell, puff out, surge",
+"lvl": "C2",
+"pos": "verb",
+"ex": "Smoke billowed from the burning building."
+},
+{
+"w": "blanch",
+"fr": "blêmir, pâlir",
+"def": "To become pale from shock or fear",
+"syn": "pale, whiten, go white",
+"lvl": "C2",
+"pos": "verb",
+"ex": "He blanched when he saw the bill."
+},
+{
+"w": "blandishment",
+"fr": "flatterie, cajolerie",
+"def": "Flattering words used to persuade someone",
+"syn": "flattery, cajolery, coaxing",
+"lvl": "C2",
+"pos": "noun",
+"ex": "She resisted all his blandishments."
+},
+{
+"w": "blasé",
+"fr": "blasé",
+"def": "Unimpressed because of having experienced something often",
+"syn": "indifferent, jaded, nonchalant",
+"lvl": "C2",
+"pos": "adj",
+"ex": "He was blasé about winning another award."
+},
+{
+"w": "blatant",
+"fr": "flagrant, criant",
+"def": "Done openly and without shame; very obvious",
+"syn": "flagrant, glaring, brazen",
+"lvl": "C2",
+"pos": "adj",
+"ex": "It was a blatant lie."
+},
+{
+"w": "blight",
+"fr": "fléau, plaie",
+"def": "Something that spoils or damages something else",
+"syn": "scourge, curse, affliction",
+"lvl": "C2",
+"pos": "noun",
+"ex": "Unemployment is a blight on the region."
+},
+{
+"w": "blithe",
+"fr": "insouciant, désinvolte",
+"def": "Showing a casual and careless lack of concern",
+"syn": "carefree, casual, heedless",
+"lvl": "C2",
+"pos": "adj",
+"ex": "He showed a blithe disregard for the rules."
+},
+{
+"w": "bludgeon",
+"fr": "matraquer, contraindre",
+"def": "To beat with a heavy object; to force someone",
+"syn": "club, bully, coerce",
+"lvl": "C2",
+"pos": "verb",
+"ex": "They bludgeoned him into signing the contract."
+},
+{
+"w": "bluster",
+"fr": "fanfaronnade, rodomontade",
+"def": "Loud, aggressive talk with little real effect",
+"syn": "bravado, swagger, bombast",
+"lvl": "C2",
+"pos": "noun",
+"ex": "His threats were just bluster."
+},
+{
+"w": "blurt",
+"fr": "laisser échapper",
+"def": "To say something suddenly and without thinking",
+"syn": "exclaim, blab, let slip",
+"lvl": "C2",
+"pos": "verb",
+"ex": "She blurted out the secret."
+},
+{
+"w": "bode",
+"fr": "présager, augurer",
+"def": "To be a sign of a particular future outcome",
+"syn": "augur, portend, presage",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The weather bodes well for the harvest."
+},
+{
+"w": "boisterous",
+"fr": "turbulent, bruyant",
+"def": "Noisy, energetic and cheerful",
+"syn": "rowdy, lively, exuberant",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The boisterous children ran around the garden."
+},
+{
+"w": "bolster",
+"fr": "renforcer, soutenir",
+"def": "To support or strengthen something",
+"syn": "reinforce, strengthen, boost",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The victory bolstered the team's confidence."
+},
+{
+"w": "bombastic",
+"fr": "grandiloquent, pompeux",
+"def": "Using pompous language to sound impressive",
+"syn": "pompous, grandiloquent, pretentious",
+"lvl": "C2",
+"pos": "adj",
+"ex": "His bombastic speech impressed no one."
+},
+{
+"w": "bonhomie",
+"fr": "bonhomie, convivialité",
+"def": "Cheerful friendliness",
+"syn": "geniality, affability, warmth",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The party was full of bonhomie."
+},
+{
+"w": "boon",
+"fr": "aubaine, bienfait",
+"def": "Something helpful or beneficial",
+"syn": "blessing, godsend, advantage",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The new road is a boon for local businesses."
+},
+{
+"w": "boorish",
+"fr": "rustre, grossier",
+"def": "Rough and rude in behaviour",
+"syn": "uncouth, crude, loutish",
+"lvl": "C2",
+"pos": "adj",
+"ex": "His boorish behaviour embarrassed everyone."
+},
+{
+"w": "bowdlerize",
+"fr": "expurger, censurer",
+"def": "To remove parts of a text considered offensive",
+"syn": "expurgate, censor, sanitize",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The children's edition was heavily bowdlerized."
+},
+{
+"w": "brackish",
+"fr": "saumâtre",
+"def": "Slightly salty, as in water mixing with seawater",
+"syn": "briny, saline, salty",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The river becomes brackish near the estuary."
+},
+{
+"w": "braggart",
+"fr": "vantard, fanfaron",
+"def": "A person who boasts a lot",
+"syn": "boaster, show-off, blowhard",
+"lvl": "C2",
+"pos": "noun",
+"ex": "Nobody believed the old braggart's stories."
+},
+{
+"w": "brandish",
+"fr": "brandir",
+"def": "To wave something, especially a weapon, threateningly",
+"syn": "wave, flourish, wield",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The robber brandished a knife."
+},
+{
+"w": "bravado",
+"fr": "bravade",
+"def": "A show of boldness meant to impress or hide fear",
+"syn": "swagger, bluster, boldness",
+"lvl": "C2",
+"pos": "noun",
+"ex": "His bravado hid a deep insecurity."
+},
+{
+"w": "brazen",
+"fr": "effronté, éhonté",
+"def": "Bold and without shame",
+"syn": "shameless, barefaced, impudent",
+"lvl": "C2",
+"pos": "adj",
+"ex": "It was a brazen attempt to cheat."
+},
+{
+"w": "brevity",
+"fr": "brièveté, concision",
+"def": "The quality of being short or concise",
+"syn": "conciseness, briefness, succinctness",
+"lvl": "C2",
+"pos": "noun",
+"ex": "Brevity is the soul of wit."
+},
+{
+"w": "bristle",
+"fr": "se hérisser, s'irriter",
+"def": "To react angrily or defensively",
+"syn": "bridle, take offence, flare up",
+"lvl": "C2",
+"pos": "verb",
+"ex": "She bristled at the suggestion she was lazy."
+},
+{
+"w": "broach",
+"fr": "aborder, entamer",
+"def": "To raise a difficult subject for discussion",
+"syn": "raise, bring up, introduce",
+"lvl": "C2",
+"pos": "verb",
+"ex": "I didn't know how to broach the subject."
+},
+{
+"w": "browbeat",
+"fr": "intimider, malmener",
+"def": "To intimidate someone with threats or harsh words",
+"syn": "bully, intimidate, coerce",
+"lvl": "C2",
+"pos": "verb",
+"ex": "They browbeat him into confessing."
+},
+{
+"w": "brusque",
+"fr": "brusque, abrupt",
+"def": "Abrupt and short in manner or speech",
+"syn": "curt, abrupt, blunt",
+"lvl": "C2",
+"pos": "adj",
+"ex": "Her brusque reply surprised me."
+},
+{
+"w": "brunt",
+"fr": "le plus gros, le poids",
+"def": "The main force or worst part of something unpleasant",
+"syn": "impact, burden, force",
+"lvl": "C2",
+"pos": "noun",
+"ex": "Coastal towns bore the brunt of the storm."
+},
+{
+"w": "bucolic",
+"fr": "bucolique, champêtre",
+"def": "Relating to the pleasant aspects of country life",
+"syn": "pastoral, rustic, rural",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The painting shows a bucolic scene of grazing sheep."
+},
+{
+"w": "buffoon",
+"fr": "bouffon, pitre",
+"def": "A ridiculous but amusing person; a fool",
+"syn": "clown, fool, jester",
+"lvl": "C2",
+"pos": "noun",
+"ex": "He played the buffoon to make people laugh."
+},
+{
+"w": "bulwark",
+"fr": "rempart, bastion",
+"def": "A person or thing that defends against danger",
+"syn": "defence, bastion, safeguard",
+"lvl": "C2",
+"pos": "noun",
+"ex": "A free press is a bulwark against tyranny."
+},
+{
+"w": "bumptious",
+"fr": "prétentieux, suffisant",
+"def": "Irritatingly self-important and confident",
+"syn": "conceited, arrogant, cocky",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The bumptious young manager annoyed his staff."
+},
+{
+"w": "bungle",
+"fr": "bâcler, rater",
+"def": "To do something badly or clumsily",
+"syn": "botch, mishandle, mess up",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The police bungled the investigation."
+},
+{
+"w": "buoyant",
+"fr": "dynamique, gai",
+"def": "Cheerful and optimistic; also able to float",
+"syn": "cheerful, upbeat, resilient",
+"lvl": "C2",
+"pos": "adj",
+"ex": "She was in a buoyant mood after the interview."
+},
+{
+"w": "burgeon",
+"fr": "s'épanouir, croître rapidement",
+"def": "To grow or develop quickly",
+"syn": "flourish, mushroom, expand",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The city's tech sector is burgeoning."
+},
+{
+"w": "burlesque",
+"fr": "parodie, burlesque",
+"def": "A comic imitation that mocks something serious",
+"syn": "parody, caricature, spoof",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The play is a burlesque of Victorian melodrama."
+},
+{
+"w": "burnish",
+"fr": "polir, redorer",
+"def": "To polish; to improve a reputation or image",
+"syn": "polish, enhance, shine",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The campaign aimed to burnish her image."
+},
+{
+"w": "buttress",
+"fr": "étayer, renforcer",
+"def": "To support or strengthen an argument or system",
+"syn": "reinforce, bolster, prop up",
+"lvl": "C2",
+"pos": "verb",
+"ex": "He used statistics to buttress his argument."
+},
+{
+"w": "byzantine",
+"fr": "byzantin, complexe",
+"def": "Excessively complicated and difficult to understand",
+"syn": "convoluted, labyrinthine, intricate",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The tax system is utterly byzantine."
+},
+{
+"w": "byword",
+"fr": "symbole, synonyme",
+"def": "A person or thing typical of a quality",
+"syn": "epitome, embodiment, symbol",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The brand became a byword for luxury."
+},
+{
+"w": "bygone",
+"fr": "révolu, d'autrefois",
+"def": "Belonging to an earlier time",
+"syn": "past, former, olden",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The village has the charm of a bygone era."
+},
+{
+"w": "burly",
+"fr": "costaud, baraqué",
+"def": "Large, strong and heavily built",
+"syn": "brawny, hefty, strapping",
+"lvl": "C2",
+"pos": "adj",
+"ex": "Two burly men guarded the door."
+},
+{
+"w": "bustle",
+"fr": "agitation, effervescence",
+"def": "Busy, noisy activity",
+"syn": "activity, commotion, hustle",
+"lvl": "C2",
+"pos": "noun",
+"ex": "I love the hustle and bustle of the market."
+},
+{
+"w": "brood",
+"fr": "ruminer, broyer du noir",
+"def": "To think anxiously or sadly about something for a long time",
+"syn": "mope, dwell on, ponder",
+"lvl": "C2",
+"pos": "verb",
+"ex": "There's no point brooding over the past."
+},
+{
+"w": "brash",
+"fr": "impétueux, effronté",
+"def": "Too confident and loud in a rude way",
+"syn": "brazen, cocky, bumptious",
+"lvl": "C2",
+"pos": "adj",
+"ex": "He was a brash young journalist."
+},
+{
+"w": "brawn",
+"fr": "muscle, force physique",
+"def": "Physical strength as opposed to intelligence",
+"syn": "strength, muscle, might",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The job requires brains rather than brawn."
+},
+{
+"w": "bogus",
+"fr": "bidon, faux",
+"def": "Not genuine or true; fake",
+"syn": "fake, sham, counterfeit",
+"lvl": "C2",
+"pos": "adj",
+"ex": "He made a bogus insurance claim."
+},
+{
+"w": "blemish",
+"fr": "défaut, tache",
+"def": "A small mark or flaw that spoils something",
+"syn": "flaw, defect, stain",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The scandal left a blemish on his record."
+},
+{
+"w": "bilk",
+"fr": "escroquer",
+"def": "To cheat someone, especially out of money",
+"syn": "swindle, defraud, con",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The scheme bilked investors out of millions."
+},
+{
+"w": "bilious",
+"fr": "bilieux, nauséeux",
+"def": "Bad-tempered, or feeling sick",
+"syn": "irritable, peevish, nauseous",
+"lvl": "C2",
+"pos": "adj",
+"ex": "He wrote a bilious attack on his critics."
+},
+{
+"w": "bawdy",
+"fr": "grivois, paillard",
+"def": "Humorously dealing with sex in a rude way",
+"syn": "ribald, racy, risqué",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The sailors sang bawdy songs."
+},
+{
+"w": "barren",
+"fr": "stérile, aride",
+"def": "Unable to produce crops or results",
+"syn": "infertile, arid, unproductive",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The land was barren and rocky."
+},
+{
+"w": "barrage",
+"fr": "déluge, avalanche",
+"def": "A large number of things coming quickly together",
+"syn": "deluge, torrent, onslaught",
+"lvl": "C2",
+"pos": "noun",
+"ex": "She faced a barrage of questions from reporters."
+},
+{
+"w": "beckon",
+"fr": "faire signe",
+"def": "To make a gesture to someone to come nearer",
+"syn": "signal, gesture, summon",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The waiter beckoned us to our table."
+},
+{
+"w": "begrudge",
+"fr": "envier, reprocher",
+"def": "To feel resentful that someone has something",
+"syn": "resent, envy, grudge",
+"lvl": "C2",
+"pos": "verb",
+"ex": "I don't begrudge him his success."
+},
+{
+"w": "belated",
+"fr": "tardif",
+"def": "Coming or happening later than expected",
+"syn": "late, overdue, tardy",
+"lvl": "C2",
+"pos": "adj",
+"ex": "Please accept my belated birthday wishes."
+},
+{
+"w": "bellow",
+"fr": "beugler, hurler",
+"def": "To shout in a deep, loud voice",
+"syn": "roar, shout, bawl",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The sergeant bellowed orders at the recruits."
+},
+{
+"w": "blasphemy",
+"fr": "blasphème",
+"def": "Speech or behaviour showing disrespect for God or sacred things",
+"syn": "sacrilege, profanity, irreverence",
+"lvl": "C2",
+"pos": "noun",
+"ex": "He was accused of blasphemy."
+},
+{
+"w": "bloated",
+"fr": "boursouflé, pléthorique",
+"def": "Swollen; or too large and inefficient",
+"syn": "swollen, distended, inflated",
+"lvl": "C2",
+"pos": "adj",
+"ex": "Critics attacked the bloated bureaucracy."
+},
+{
+"w": "bombard",
+"fr": "bombarder, assaillir",
+"def": "To attack continuously or overwhelm with questions",
+"syn": "assail, besiege, inundate",
+"lvl": "C2",
+"pos": "verb",
+"ex": "We were bombarded with advertisements."
+},
+{
+"w": "bounty",
+"fr": "prime, générosité",
+"def": "A reward paid for capturing someone; or generosity",
+"syn": "reward, premium, largesse",
+"lvl": "C2",
+"pos": "noun",
+"ex": "A bounty was offered for his capture."
+},
+{
+"w": "budge",
+"fr": "bouger, céder",
+"def": "To move slightly or change one's opinion",
+"syn": "move, shift, yield",
+"lvl": "C2",
+"pos": "verb",
+"ex": "She refused to budge on the issue."
+},
+{
+"w": "bumbling",
+"fr": "maladroit, empoté",
+"def": "Acting in a confused and clumsy way",
+"syn": "clumsy, inept, blundering",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The film features a bumbling detective."
+},
+{
+"w": "bourgeois",
+"fr": "bourgeois",
+"def": "Typical of the middle class and its conventional values",
+"syn": "middle-class, conventional, conformist",
+"lvl": "C2",
+"pos": "adj",
+"ex": "He rejected his parents' bourgeois lifestyle."
+},
+{
+"w": "cabal",
+"fr": "cabale, clique",
+"def": "A small secret group plotting for political power",
+"syn": "clique, faction, conspiracy",
+"lvl": "C2",
+"pos": "noun",
+"ex": "A cabal of officers planned the coup."
+},
+{
+"w": "cacophony",
+"fr": "cacophonie",
+"def": "A harsh, unpleasant mixture of loud sounds",
+"syn": "din, racket, discord",
+"lvl": "C2",
+"pos": "noun",
+"ex": "A cacophony of car horns filled the street."
+},
+{
+"w": "cadence",
+"fr": "cadence, intonation",
+"def": "The rhythm and rise and fall of a voice",
+"syn": "rhythm, intonation, lilt",
+"lvl": "C2",
+"pos": "noun",
+"ex": "She spoke with the soft cadence of the south."
+},
+{
+"w": "cajole",
+"fr": "cajoler, amadouer",
+"def": "To persuade someone gently with flattery",
+"syn": "coax, wheedle, persuade",
+"lvl": "C2",
+"pos": "verb",
+"ex": "She cajoled him into coming to the party."
+},
+{
+"w": "calamitous",
+"fr": "calamiteux, désastreux",
+"def": "Causing great damage or distress",
+"syn": "disastrous, catastrophic, ruinous",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The decision had calamitous consequences."
+},
+{
+"w": "callous",
+"fr": "insensible, dur",
+"def": "Cruel and showing no concern for others",
+"syn": "heartless, unfeeling, cold",
+"lvl": "C2",
+"pos": "adj",
+"ex": "It was a callous disregard for human life."
+},
+{
+"w": "callow",
+"fr": "inexpérimenté, novice",
+"def": "Young and lacking experience",
+"syn": "inexperienced, immature, green",
+"lvl": "C2",
+"pos": "adj",
+"ex": "He was a callow youth of eighteen."
+},
+{
+"w": "calumny",
+"fr": "calomnie",
+"def": "A false statement made to damage someone's reputation",
+"syn": "slander, defamation, libel",
+"lvl": "C2",
+"pos": "noun",
+"ex": "She was the victim of vicious calumny."
+},
+{
+"w": "camaraderie",
+"fr": "camaraderie",
+"def": "Trust and friendship among people in a group",
+"syn": "fellowship, comradeship, solidarity",
+"lvl": "C2",
+"pos": "noun",
+"ex": "There is great camaraderie among the soldiers."
+},
+{
+"w": "candour",
+"fr": "franchise, sincérité",
+"def": "The quality of being open and honest",
+"syn": "frankness, honesty, openness",
+"lvl": "C2",
+"pos": "noun",
+"ex": "He spoke with surprising candour about his illness."
+},
+{
+"w": "canny",
+"fr": "rusé, avisé",
+"def": "Clever and shrewd, especially in business",
+"syn": "shrewd, astute, sharp",
+"lvl": "C2",
+"pos": "adj",
+"ex": "She's a canny negotiator."
+},
+{
+"w": "cantankerous",
+"fr": "acariâtre, grincheux",
+"def": "Bad-tempered and always arguing",
+"syn": "grumpy, irascible, crotchety",
+"lvl": "C2",
+"pos": "adj",
+"ex": "Our cantankerous neighbour complains about everything."
+},
+{
+"w": "capacious",
+"fr": "spacieux, vaste",
+"def": "Having a lot of space inside",
+"syn": "roomy, spacious, ample",
+"lvl": "C2",
+"pos": "adj",
+"ex": "She carried a capacious leather bag."
+},
+{
+"w": "capitulate",
+"fr": "capituler, céder",
+"def": "To stop resisting and accept defeat",
+"syn": "surrender, yield, give in",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The government capitulated to the unions."
+},
+{
+"w": "capricious",
+"fr": "capricieux, inconstant",
+"def": "Changing mood or behaviour suddenly and unpredictably",
+"syn": "fickle, volatile, unpredictable",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The weather here is capricious."
+},
+{
+"w": "careen",
+"fr": "foncer, valser",
+"def": "To move fast in an uncontrolled way",
+"syn": "hurtle, career, lurch",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The car careened down the hill."
+},
+{
+"w": "carnage",
+"fr": "carnage, massacre",
+"def": "The violent killing of many people",
+"syn": "slaughter, massacre, bloodshed",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The bomb caused terrible carnage."
+},
+{
+"w": "castigate",
+"fr": "fustiger, châtier",
+"def": "To criticize or reprimand someone severely",
+"syn": "rebuke, chastise, berate",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The report castigated the hospital's management."
+},
+{
+"w": "cataclysm",
+"fr": "cataclysme",
+"def": "A sudden violent event causing great change or destruction",
+"syn": "catastrophe, disaster, upheaval",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The war was a cataclysm for Europe."
+},
+{
+"w": "categorical",
+"fr": "catégorique",
+"def": "Completely clear and direct, without doubt",
+"syn": "absolute, unequivocal, explicit",
+"lvl": "C2",
+"pos": "adj",
+"ex": "He gave a categorical denial."
+},
+{
+"w": "catharsis",
+"fr": "catharsis",
+"def": "The release of strong emotions, bringing relief",
+"syn": "release, purging, cleansing",
+"lvl": "C2",
+"pos": "noun",
+"ex": "Writing the book was a kind of catharsis."
+},
+{
+"w": "caustic",
+"fr": "caustique, mordant",
+"def": "Bitterly sarcastic or critical",
+"syn": "acerbic, biting, scathing",
+"lvl": "C2",
+"pos": "adj",
+"ex": "She made a caustic comment about his work."
+},
+{
+"w": "cavalier",
+"fr": "désinvolte, cavalier",
+"def": "Showing a careless lack of proper concern",
+"syn": "offhand, casual, dismissive",
+"lvl": "C2",
+"pos": "adj",
+"ex": "He has a cavalier attitude to safety."
+},
+{
+"w": "caveat",
+"fr": "mise en garde, réserve",
+"def": "A warning or condition attached to a statement",
+"syn": "proviso, warning, qualification",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The offer comes with one important caveat."
+},
+{
+"w": "cavil",
+"fr": "ergoter, chicaner",
+"def": "To make petty or unnecessary objections",
+"syn": "quibble, carp, nitpick",
+"lvl": "C2",
+"pos": "verb",
+"ex": "They cavilled at the cost of the project."
+},
+{
+"w": "cede",
+"fr": "céder",
+"def": "To give up power or territory to another",
+"syn": "surrender, relinquish, yield",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The territory was ceded to France in 1763."
+},
+{
+"w": "censure",
+"fr": "blâme, réprobation",
+"def": "Strong official criticism or disapproval",
+"syn": "condemnation, rebuke, reproach",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The senator faced censure from his colleagues."
+},
+{
+"w": "cerebral",
+"fr": "cérébral, intellectuel",
+"def": "Intellectual rather than emotional",
+"syn": "intellectual, academic, analytical",
+"lvl": "C2",
+"pos": "adj",
+"ex": "Her films are rather cerebral."
+},
+{
+"w": "chafe",
+"fr": "s'irriter, frotter",
+"def": "To feel impatient or annoyed by restrictions",
+"syn": "be irritated, fret, bristle",
+"lvl": "C2",
+"pos": "verb",
+"ex": "He chafed at the rules of the school."
+},
+{
+"w": "chagrin",
+"fr": "dépit, contrariété",
+"def": "Annoyance or disappointment at having failed",
+"syn": "annoyance, vexation, mortification",
+"lvl": "C2",
+"pos": "noun",
+"ex": "Much to his chagrin, he wasn't invited."
+},
+{
+"w": "charlatan",
+"fr": "charlatan, imposteur",
+"def": "A person who falsely claims special knowledge or skill",
+"syn": "fraud, impostor, quack",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The healer turned out to be a charlatan."
+},
+{
+"w": "chary",
+"fr": "méfiant, prudent",
+"def": "Cautious and unwilling to take risks",
+"syn": "wary, cautious, leery",
+"lvl": "C2",
+"pos": "adj",
+"ex": "Banks are chary of lending to new firms."
+},
+{
+"w": "chasm",
+"fr": "gouffre, abîme",
+"def": "A deep crack in the ground or a deep divide",
+"syn": "abyss, gulf, rift",
+"lvl": "C2",
+"pos": "noun",
+"ex": "There is a chasm between rich and poor."
+},
+{
+"w": "chastise",
+"fr": "réprimander, châtier",
+"def": "To criticize or punish someone severely",
+"syn": "scold, reprimand, castigate",
+"lvl": "C2",
+"pos": "verb",
+"ex": "She chastised him for being late."
+},
+{
+"w": "chauvinism",
+"fr": "chauvinisme, machisme",
+"def": "Excessive belief in the superiority of one's group or gender",
+"syn": "jingoism, sexism, prejudice",
+"lvl": "C2",
+"pos": "noun",
+"ex": "Male chauvinism is still common in the industry."
+},
+{
+"w": "chicanery",
+"fr": "manigances, chicane",
+"def": "Clever dishonest tricks used to deceive",
+"syn": "trickery, deception, skulduggery",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The election was marred by political chicanery."
+},
+{
+"w": "chide",
+"fr": "gronder, réprimander",
+"def": "To scold someone mildly",
+"syn": "scold, reprove, rebuke",
+"lvl": "C2",
+"pos": "verb",
+"ex": "She chided him for forgetting her birthday."
+},
+{
+"w": "chimera",
+"fr": "chimère, illusion",
+"def": "An impossible dream or illusion",
+"syn": "illusion, fantasy, delusion",
+"lvl": "C2",
+"pos": "noun",
+"ex": "Lasting peace proved to be a chimera."
+},
+{
+"w": "chivalrous",
+"fr": "chevaleresque, galant",
+"def": "Polite, honourable and kind, especially towards women",
+"syn": "gallant, courteous, gentlemanly",
+"lvl": "C2",
+"pos": "adj",
+"ex": "It was chivalrous of him to offer his seat."
+},
+{
+"w": "churlish",
+"fr": "grossier, mal élevé",
+"def": "Rude and ungracious",
+"syn": "impolite, boorish, surly",
+"lvl": "C2",
+"pos": "adj",
+"ex": "It would be churlish to refuse their gift."
+},
+{
+"w": "circuitous",
+"fr": "détourné, sinueux",
+"def": "Longer than the most direct way",
+"syn": "roundabout, indirect, meandering",
+"lvl": "C2",
+"pos": "adj",
+"ex": "We took a circuitous route to avoid traffic."
+},
+{
+"w": "circumlocution",
+"fr": "circonlocution, périphrase",
+"def": "Using many words when fewer would do, often evasively",
+"syn": "verbosity, periphrasis, evasion",
+"lvl": "C2",
+"pos": "noun",
+"ex": "Politicians are masters of circumlocution."
+},
+{
+"w": "circumscribe",
+"fr": "circonscrire, limiter",
+"def": "To restrict something within limits",
+"syn": "limit, restrict, confine",
+"lvl": "C2",
+"pos": "verb",
+"ex": "Their freedom was severely circumscribed."
+},
+{
+"w": "circumspect",
+"fr": "circonspect, prudent",
+"def": "Careful to consider all risks before acting",
+"syn": "cautious, wary, prudent",
+"lvl": "C2",
+"pos": "adj",
+"ex": "Be circumspect about what you post online."
+},
+{
+"w": "circumvent",
+"fr": "contourner",
+"def": "To find a way around a rule or obstacle",
+"syn": "bypass, evade, sidestep",
+"lvl": "C2",
+"pos": "verb",
+"ex": "They found ways to circumvent the law."
+},
+{
+"w": "clamour",
+"fr": "clameur, réclamer",
+"def": "A loud, insistent demand or noise",
+"syn": "outcry, uproar, demand",
+"lvl": "C2",
+"pos": "noun",
+"ex": "There was a clamour for reform."
+},
+{
+"w": "clandestine",
+"fr": "clandestin, secret",
+"def": "Done secretly, often because it is illegal",
+"syn": "covert, secret, surreptitious",
+"lvl": "C2",
+"pos": "adj",
+"ex": "They held clandestine meetings at night."
+},
+{
+"w": "cleave",
+"fr": "fendre, s'attacher à",
+"def": "To split apart; or to stick closely to",
+"syn": "split, sever, cling",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The axe cleaved the log in two."
+},
+{
+"w": "clemency",
+"fr": "clémence",
+"def": "Mercy shown in punishing someone",
+"syn": "mercy, leniency, forgiveness",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The prisoner appealed for clemency."
+},
+{
+"w": "cloying",
+"fr": "écœurant, mièvre",
+"def": "Too sweet or sentimental in a sickening way",
+"syn": "sickly, saccharine, mawkish",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The film's ending was cloying."
+},
+{
+"w": "coalesce",
+"fr": "s'unir, fusionner",
+"def": "To come together to form one group or mass",
+"syn": "merge, unite, combine",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The groups coalesced into a single movement."
+},
+{
+"w": "coax",
+"fr": "amadouer, persuader",
+"def": "To persuade gradually and gently",
+"syn": "cajole, wheedle, entice",
+"lvl": "C2",
+"pos": "verb",
+"ex": "She coaxed the cat out from under the bed."
+},
+{
+"w": "codify",
+"fr": "codifier",
+"def": "To arrange laws or rules into a system",
+"syn": "systematize, organize, formalize",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The rules were codified in 1863."
+},
+{
+"w": "cogent",
+"fr": "convaincant, probant",
+"def": "Clear, logical and convincing",
+"syn": "compelling, persuasive, convincing",
+"lvl": "C2",
+"pos": "adj",
+"ex": "She made a cogent case for reform."
+},
+{
+"w": "cogitate",
+"fr": "cogiter, réfléchir",
+"def": "To think deeply about something",
+"syn": "ponder, contemplate, meditate",
+"lvl": "C2",
+"pos": "verb",
+"ex": "He sat cogitating on the problem."
+},
+{
+"w": "cognizant",
+"fr": "conscient, informé",
+"def": "Having knowledge or awareness of something",
+"syn": "aware, conscious, mindful",
+"lvl": "C2",
+"pos": "adj",
+"ex": "We are cognizant of the risks involved."
+},
+{
+"w": "collusion",
+"fr": "collusion, connivence",
+"def": "Secret cooperation to cheat or deceive others",
+"syn": "conspiracy, complicity, connivance",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The firms were accused of collusion over prices."
+},
+{
+"w": "comely",
+"fr": "avenant, joli",
+"def": "Attractive in appearance",
+"syn": "attractive, pretty, fair",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The tale describes a comely young maiden."
+},
+{
+"w": "comeuppance",
+"fr": "monnaie de sa pièce",
+"def": "A deserved punishment or bad outcome",
+"syn": "just deserts, retribution, nemesis",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The villain gets his comeuppance in the end."
+},
+{
+"w": "commensurate",
+"fr": "proportionné, en rapport",
+"def": "Matching in size, amount or degree",
+"syn": "proportionate, equivalent, corresponding",
+"lvl": "C2",
+"pos": "adj",
+"ex": "Salary will be commensurate with experience."
+},
+{
+"w": "commiserate",
+"fr": "compatir",
+"def": "To express sympathy for someone's misfortune",
+"syn": "sympathize, console, condole",
+"lvl": "C2",
+"pos": "verb",
+"ex": "I commiserated with her on losing the match."
+},
+{
+"w": "colloquial",
+"fr": "familier, parlé",
+"def": "Used in informal conversation rather than formal writing",
+"syn": "informal, conversational, vernacular",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The phrase is too colloquial for an essay."
+},
+{
+"w": "compendium",
+"fr": "recueil, compendium",
+"def": "A collection of detailed information on a subject",
+"syn": "collection, compilation, digest",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The book is a compendium of folk tales."
+},
+{
+"w": "complacent",
+"fr": "suffisant, trop confiant",
+"def": "Too satisfied with oneself to see dangers or need for effort",
+"syn": "smug, self-satisfied, unconcerned",
+"lvl": "C2",
+"pos": "adj",
+"ex": "We can't afford to become complacent about safety."
+},
+{
+"w": "complicit",
+"fr": "complice",
+"def": "Involved with others in wrongdoing",
+"syn": "involved, implicated, collusive",
+"lvl": "C2",
+"pos": "adj",
+"ex": "Officials were complicit in the fraud."
+},
+{
+"w": "compunction",
+"fr": "scrupule, remords",
+"def": "A feeling of guilt that stops one doing wrong",
+"syn": "scruple, qualm, remorse",
+"lvl": "C2",
+"pos": "noun",
+"ex": "He had no compunction about lying to her."
+},
+{
+"w": "conciliatory",
+"fr": "conciliant",
+"def": "Intended to end anger or disagreement",
+"syn": "placatory, appeasing, pacifying",
+"lvl": "C2",
+"pos": "adj",
+"ex": "She made a conciliatory gesture towards her rivals."
+},
+{
+"w": "concoct",
+"fr": "concocter, inventer",
+"def": "To make up a story or mix a dish",
+"syn": "invent, fabricate, devise",
+"lvl": "C2",
+"pos": "verb",
+"ex": "He concocted an elaborate excuse."
+},
+{
+"w": "concomitant",
+"fr": "concomitant",
+"def": "Happening together with something else as a consequence",
+"syn": "accompanying, attendant, associated",
+"lvl": "C2",
+"pos": "adj",
+"ex": "War and its concomitant suffering affected millions."
+},
+{
+"w": "condescend",
+"fr": "condescendre, daigner",
+"def": "To behave as if one is superior to others",
+"syn": "patronize, talk down, deign",
+"lvl": "C2",
+"pos": "verb",
+"ex": "Don't condescend to me; I understand perfectly."
+},
+{
+"w": "condone",
+"fr": "tolérer, fermer les yeux sur",
+"def": "To accept or allow behaviour that is wrong",
+"syn": "excuse, tolerate, overlook",
+"lvl": "C2",
+"pos": "verb",
+"ex": "We cannot condone violence of any kind."
+},
+{
+"w": "conflagration",
+"fr": "incendie, embrasement",
+"def": "A large destructive fire, or a major war",
+"syn": "blaze, inferno, fire",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The conflagration destroyed half the city."
+},
+{
+"w": "conflate",
+"fr": "amalgamer, confondre",
+"def": "To combine two different things or ideas into one",
+"syn": "merge, combine, confuse",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The article conflates two separate issues."
+},
+{
+"w": "confluence",
+"fr": "confluent, convergence",
+"def": "The point where two rivers or things meet",
+"syn": "junction, convergence, meeting",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The city stands at the confluence of two rivers."
+},
+{
+"w": "confound",
+"fr": "déconcerter, démentir",
+"def": "To surprise or confuse; to prove wrong",
+"syn": "baffle, perplex, contradict",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The results confounded the experts."
+},
+{
+"w": "congenial",
+"fr": "agréable, sympathique",
+"def": "Pleasant because suited to one's tastes",
+"syn": "pleasant, agreeable, compatible",
+"lvl": "C2",
+"pos": "adj",
+"ex": "She found the work congenial."
+},
+{
+"w": "congenital",
+"fr": "congénital, invétéré",
+"def": "Present from birth; or by nature and habit",
+"syn": "inborn, innate, inveterate",
+"lvl": "C2",
+"pos": "adj",
+"ex": "He is a congenital liar."
+},
+{
+"w": "conjecture",
+"fr": "conjecture, supposition",
+"def": "An opinion based on incomplete information",
+"syn": "speculation, guesswork, supposition",
+"lvl": "C2",
+"pos": "noun",
+"ex": "His theory is pure conjecture."
+},
+{
+"w": "conjure",
+"fr": "évoquer, faire apparaître",
+"def": "To make something appear as if by magic",
+"syn": "summon, evoke, produce",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The smell conjured up memories of childhood."
+},
+{
+"w": "connive",
+"fr": "être de connivence",
+"def": "To secretly allow or plot wrongdoing",
+"syn": "conspire, collude, plot",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The guards connived at the prisoner's escape."
+},
+{
+"w": "connoisseur",
+"fr": "connaisseur",
+"def": "An expert judge in matters of taste",
+"syn": "expert, aficionado, authority",
+"lvl": "C2",
+"pos": "noun",
+"ex": "He is a connoisseur of fine wines."
+},
+{
+"w": "connote",
+"fr": "évoquer, suggérer",
+"def": "To suggest an idea in addition to the main meaning",
+"syn": "imply, suggest, evoke",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The word 'home' connotes warmth and security."
+},
+{
+"w": "consecrate",
+"fr": "consacrer, sacrer",
+"def": "To officially make something holy",
+"syn": "sanctify, bless, hallow",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The church was consecrated in 1150."
+},
+{
+"w": "consign",
+"fr": "reléguer, confier",
+"def": "To put someone or something somewhere to be rid of it",
+"syn": "relegate, banish, deliver",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The old furniture was consigned to the attic."
+},
+{
+"w": "consternation",
+"fr": "consternation",
+"def": "A feeling of shock, worry and confusion",
+"syn": "dismay, alarm, distress",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The news caused consternation among staff."
+},
+{
+"w": "construe",
+"fr": "interpréter",
+"def": "To understand words or actions in a particular way",
+"syn": "interpret, read, understand",
+"lvl": "C2",
+"pos": "verb",
+"ex": "His silence was construed as guilt."
+},
+{
+"w": "consummate",
+"fr": "consommé, accompli",
+"def": "Showing great skill; perfect",
+"syn": "accomplished, masterly, supreme",
+"lvl": "C2",
+"pos": "adj",
+"ex": "She is a consummate professional."
+},
+{
+"w": "contentious",
+"fr": "controversé, litigieux",
+"def": "Likely to cause disagreement or argument",
+"syn": "controversial, disputed, divisive",
+"lvl": "C2",
+"pos": "adj",
+"ex": "Immigration remains a contentious issue."
+},
+{
+"w": "contiguous",
+"fr": "contigu, adjacent",
+"def": "Sharing a border or touching",
+"syn": "adjacent, adjoining, neighbouring",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The two estates are contiguous."
+},
+{
+"w": "contingent",
+"fr": "subordonné à, dépendant de",
+"def": "Depending on something that may or may not happen",
+"syn": "dependent, conditional, subject to",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The deal is contingent on government approval."
+},
+{
+"w": "contravene",
+"fr": "enfreindre",
+"def": "To break a law or rule",
+"syn": "violate, breach, infringe",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The company contravened safety regulations."
+},
+{
+"w": "contrite",
+"fr": "contrit, repentant",
+"def": "Feeling sorry and guilty for having done wrong",
+"syn": "remorseful, repentant, penitent",
+"lvl": "C2",
+"pos": "adj",
+"ex": "He looked suitably contrite."
+},
+{
+"w": "contrive",
+"fr": "s'arranger pour, inventer",
+"def": "To manage to do something by clever planning",
+"syn": "engineer, devise, manage",
+"lvl": "C2",
+"pos": "verb",
+"ex": "She contrived to be seated next to him."
+},
+{
+"w": "conundrum",
+"fr": "casse-tête, énigme",
+"def": "A confusing and difficult problem",
+"syn": "puzzle, dilemma, riddle",
+"lvl": "C2",
+"pos": "noun",
+"ex": "Funding the project remains a conundrum."
+},
+{
+"w": "convalesce",
+"fr": "se rétablir",
+"def": "To recover health after an illness",
+"syn": "recover, recuperate, get better",
+"lvl": "C2",
+"pos": "verb",
+"ex": "She is convalescing at home after surgery."
+},
+{
+"w": "conversant",
+"fr": "familier de, au fait de",
+"def": "Familiar with or knowledgeable about something",
+"syn": "familiar, acquainted, versed",
+"lvl": "C2",
+"pos": "adj",
+"ex": "He is fully conversant with the new software."
+},
+{
+"w": "convivial",
+"fr": "convivial, chaleureux",
+"def": "Friendly, lively and enjoyable",
+"syn": "sociable, genial, jovial",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The dinner was held in a convivial atmosphere."
+},
+{
+"w": "convoluted",
+"fr": "alambiqué, compliqué",
+"def": "Extremely complex and hard to follow",
+"syn": "complicated, tortuous, intricate",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The plot is far too convoluted."
+},
+{
+"w": "copious",
+"fr": "copieux, abondant",
+"def": "Plentiful; in large amounts",
+"syn": "abundant, plentiful, profuse",
+"lvl": "C2",
+"pos": "adj",
+"ex": "She took copious notes during the lecture."
+},
+{
+"w": "cordial",
+"fr": "cordial, chaleureux",
+"def": "Warm and friendly, but polite and formal",
+"syn": "friendly, warm, genial",
+"lvl": "C2",
+"pos": "adj",
+"ex": "Relations between the two leaders are cordial."
+},
+{
+"w": "corollary",
+"fr": "corollaire",
+"def": "A natural consequence or result of something",
+"syn": "consequence, result, upshot",
+"lvl": "C2",
+"pos": "noun",
+"ex": "Higher prices are a corollary of the tax increase."
+},
+{
+"w": "corporeal",
+"fr": "corporel, matériel",
+"def": "Relating to the physical body rather than the spirit",
+"syn": "bodily, physical, material",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The ghost had no corporeal form."
+},
+{
+"w": "corpulent",
+"fr": "corpulent",
+"def": "Fat and large in body",
+"syn": "obese, stout, portly",
+"lvl": "C2",
+"pos": "adj",
+"ex": "A corpulent gentleman sat by the fire."
+},
+{
+"w": "corroborate",
+"fr": "corroborer, confirmer",
+"def": "To confirm or support with evidence",
+"syn": "confirm, verify, substantiate",
+"lvl": "C2",
+"pos": "verb",
+"ex": "No witness could corroborate his story."
+},
+{
+"w": "cosset",
+"fr": "dorloter, choyer",
+"def": "To care for and protect too much",
+"syn": "pamper, coddle, mollycoddle",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The children were cosseted by their grandparents."
+},
+{
+"w": "coterie",
+"fr": "coterie, cercle",
+"def": "A small exclusive group with shared interests",
+"syn": "clique, circle, set",
+"lvl": "C2",
+"pos": "noun",
+"ex": "She was part of a coterie of young poets."
+},
+{
+"w": "countenance",
+"fr": "tolérer, admettre",
+"def": "To accept or allow something",
+"syn": "tolerate, sanction, condone",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The board would not countenance any delay."
+},
+{
+"w": "covert",
+"fr": "secret, clandestin",
+"def": "Not openly acknowledged or displayed",
+"syn": "secret, clandestine, hidden",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The agency ran covert operations abroad."
+},
+{
+"w": "covet",
+"fr": "convoiter",
+"def": "To strongly desire something belonging to another",
+"syn": "desire, crave, envy",
+"lvl": "C2",
+"pos": "verb",
+"ex": "It is the most coveted prize in cinema."
+},
+{
+"w": "cower",
+"fr": "se recroqueviller, trembler",
+"def": "To bend down or move back in fear",
+"syn": "cringe, quail, shrink",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The dog cowered in the corner."
+},
+{
+"w": "coy",
+"fr": "faussement timide, évasif",
+"def": "Pretending to be shy, or unwilling to give information",
+"syn": "evasive, reticent, demure",
+"lvl": "C2",
+"pos": "adj",
+"ex": "She was coy about her age."
+},
+{
+"w": "crass",
+"fr": "grossier, crasse",
+"def": "Showing a stupid lack of sensitivity",
+"syn": "insensitive, tactless, gross",
+"lvl": "C2",
+"pos": "adj",
+"ex": "It was a crass remark to make at a funeral."
+},
+{
+"w": "craven",
+"fr": "lâche, veule",
+"def": "Lacking courage; cowardly",
+"syn": "cowardly, spineless, pusillanimous",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The government's craven surrender shocked voters."
+},
+{
+"w": "credence",
+"fr": "crédit, foi",
+"def": "Belief in or acceptance that something is true",
+"syn": "credibility, belief, acceptance",
+"lvl": "C2",
+"pos": "noun",
+"ex": "New evidence lends credence to the theory."
+},
+{
+"w": "credulous",
+"fr": "crédule",
+"def": "Too ready to believe things",
+"syn": "gullible, naive, trusting",
+"lvl": "C2",
+"pos": "adj",
+"ex": "Credulous investors lost all their savings."
+},
+{
+"w": "crestfallen",
+"fr": "déconfit, abattu",
+"def": "Sad and disappointed",
+"syn": "dejected, downcast, disheartened",
+"lvl": "C2",
+"pos": "adj",
+"ex": "He looked crestfallen when he lost."
+},
+{
+"w": "cronyism",
+"fr": "copinage, favoritisme",
+"def": "Giving jobs or favours to friends unfairly",
+"syn": "favouritism, nepotism, patronage",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The government was accused of cronyism."
+},
+{
+"w": "cryptic",
+"fr": "énigmatique, sibyllin",
+"def": "Having a hidden or mysterious meaning",
+"syn": "enigmatic, obscure, puzzling",
+"lvl": "C2",
+"pos": "adj",
+"ex": "She left a cryptic message on my desk."
+},
+{
+"w": "culminate",
+"fr": "culminer, aboutir",
+"def": "To reach a final or highest point",
+"syn": "climax, peak, end",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The protests culminated in a general strike."
+},
+{
+"w": "culpable",
+"fr": "coupable, fautif",
+"def": "Deserving blame for something wrong",
+"syn": "guilty, blameworthy, responsible",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The court found the company culpable."
+},
+{
+"w": "cumbersome",
+"fr": "encombrant, lourd",
+"def": "Large, heavy and difficult to use or carry",
+"syn": "unwieldy, awkward, bulky",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The application process is cumbersome."
+},
+{
+"w": "cupidity",
+"fr": "cupidité",
+"def": "Greed for money or possessions",
+"syn": "greed, avarice, rapacity",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The scandal revealed the cupidity of the bankers."
+},
+{
+"w": "curmudgeon",
+"fr": "grincheux, ronchon",
+"def": "A bad-tempered, often old person",
+"syn": "grouch, crank, grump",
+"lvl": "C2",
+"pos": "noun",
+"ex": "He has become a real curmudgeon in old age."
+},
+{
+"w": "cursory",
+"fr": "superficiel, rapide",
+"def": "Done quickly without great attention to detail",
+"syn": "perfunctory, hasty, superficial",
+"lvl": "C2",
+"pos": "adj",
+"ex": "She gave the report a cursory glance."
+},
+{
+"w": "curt",
+"fr": "sec, brusque",
+"def": "Rudely brief in speech",
+"syn": "brusque, terse, abrupt",
+"lvl": "C2",
+"pos": "adj",
+"ex": "He gave a curt reply and walked off."
+},
+{
+"w": "curtail",
+"fr": "restreindre, écourter",
+"def": "To reduce or limit something",
+"syn": "restrict, cut back, limit",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The new law curtails press freedom."
+},
+{
+"w": "cusp",
+"fr": "seuil, aube",
+"def": "A point of transition between two states",
+"syn": "verge, threshold, brink",
+"lvl": "C2",
+"pos": "noun",
+"ex": "Scientists are on the cusp of a breakthrough."
+},
+{
+"w": "dabble",
+"fr": "s'essayer à, toucher à",
+"def": "To take part in an activity casually, not seriously",
+"syn": "tinker, toy with, potter",
+"lvl": "C2",
+"pos": "verb",
+"ex": "She dabbled in painting for a while."
+},
+{
+"w": "dalliance",
+"fr": "amourette, flirt",
+"def": "A brief, casual romantic or other involvement",
+"syn": "affair, flirtation, fling",
+"lvl": "C2",
+"pos": "noun",
+"ex": "His dalliance with politics was short-lived."
+},
+{
+"w": "dank",
+"fr": "humide, froid",
+"def": "Unpleasantly damp and cold",
+"syn": "damp, clammy, musty",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The prisoners were kept in a dank cell."
+},
+{
+"w": "dapper",
+"fr": "élégant, tiré à quatre épingles",
+"def": "Neat and stylish in dress, usually of a man",
+"syn": "smart, spruce, natty",
+"lvl": "C2",
+"pos": "adj",
+"ex": "He looked dapper in his new suit."
+},
+{
+"w": "dastardly",
+"fr": "lâche, ignoble",
+"def": "Wicked and cruel in a cowardly way",
+"syn": "villainous, base, despicable",
+"lvl": "C2",
+"pos": "adj",
+"ex": "It was a dastardly attack on innocent people."
+},
+{
+"w": "daunt",
+"fr": "intimider, décourager",
+"def": "To make someone feel nervous or discouraged",
+"syn": "intimidate, dishearten, deter",
+"lvl": "C2",
+"pos": "verb",
+"ex": "She was not daunted by the size of the task."
+},
+{
+"w": "dauntless",
+"fr": "intrépide",
+"def": "Showing determination and no fear",
+"syn": "fearless, intrepid, undaunted",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The dauntless explorers pressed on."
+},
+{
+"w": "dawdle",
+"fr": "traînasser, lambiner",
+"def": "To waste time by moving slowly",
+"syn": "dally, linger, loiter",
+"lvl": "C2",
+"pos": "verb",
+"ex": "Stop dawdling or we'll miss the train."
+},
+{
+"w": "deadpan",
+"fr": "pince-sans-rire, impassible",
+"def": "Deliberately expressionless, especially when joking",
+"syn": "impassive, straight-faced, dry",
+"lvl": "C2",
+"pos": "adj",
+"ex": "She has a wonderful deadpan sense of humour."
+},
+{
+"w": "dearth",
+"fr": "pénurie, manque",
+"def": "A lack or scarcity of something",
+"syn": "scarcity, shortage, paucity",
+"lvl": "C2",
+"pos": "noun",
+"ex": "There is a dearth of reliable information."
+},
+{
+"w": "debacle",
+"fr": "débâcle, fiasco",
+"def": "A sudden and complete failure",
+"syn": "fiasco, disaster, catastrophe",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The launch was a total debacle."
+},
+{
+"w": "debase",
+"fr": "avilir, dégrader",
+"def": "To reduce the quality or value of something",
+"syn": "degrade, devalue, cheapen",
+"lvl": "C2",
+"pos": "verb",
+"ex": "Sport has been debased by commercialism."
+},
+{
+"w": "debauchery",
+"fr": "débauche",
+"def": "Excessive indulgence in sex, alcohol or other pleasures",
+"syn": "dissipation, depravity, decadence",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The novel depicts a life of debauchery."
+},
+{
+"w": "debilitate",
+"fr": "affaiblir, débiliter",
+"def": "To make someone or something very weak",
+"syn": "weaken, enfeeble, sap",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The illness had debilitated him."
+},
+{
+"w": "debonair",
+"fr": "élégant, charmeur",
+"def": "Confident, stylish and charming, usually of a man",
+"syn": "suave, urbane, sophisticated",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The debonair actor charmed the audience."
+},
+{
+"w": "debunk",
+"fr": "démystifier, réfuter",
+"def": "To show that a belief or idea is false",
+"syn": "discredit, expose, refute",
+"lvl": "C2",
+"pos": "verb",
+"ex": "Scientists have debunked the myth."
+},
+{
+"w": "decadent",
+"fr": "décadent",
+"def": "Showing moral decline and too much love of pleasure",
+"syn": "self-indulgent, dissolute, degenerate",
+"lvl": "C2",
+"pos": "adj",
+"ex": "They enjoyed a decadent chocolate dessert."
+},
+{
+"w": "decimate",
+"fr": "décimer",
+"def": "To kill or destroy a large proportion of",
+"syn": "devastate, destroy, wipe out",
+"lvl": "C2",
+"pos": "verb",
+"ex": "Disease decimated the population."
+},
+{
+"w": "decorous",
+"fr": "bienséant, convenable",
+"def": "Behaving in a polite and socially correct way",
+"syn": "proper, seemly, dignified",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The guests danced in a decorous manner."
+},
+{
+"w": "decorum",
+"fr": "bienséance, décorum",
+"def": "Correct and polite behaviour",
+"syn": "propriety, etiquette, dignity",
+"lvl": "C2",
+"pos": "noun",
+"ex": "Please behave with decorum in court."
+},
+{
+"w": "decrepit",
+"fr": "décrépit, délabré",
+"def": "Old and in poor condition",
+"syn": "dilapidated, rundown, ramshackle",
+"lvl": "C2",
+"pos": "adj",
+"ex": "They bought a decrepit old farmhouse."
+},
+{
+"w": "decry",
+"fr": "décrier, dénoncer",
+"def": "To publicly criticize something strongly",
+"syn": "condemn, denounce, deplore",
+"lvl": "C2",
+"pos": "verb",
+"ex": "Critics decried the plan as wasteful."
+},
+{
+"w": "deference",
+"fr": "déférence, respect",
+"def": "Polite respect for someone's wishes or authority",
+"syn": "respect, regard, submission",
+"lvl": "C2",
+"pos": "noun",
+"ex": "He removed his hat out of deference to the priest."
+},
+{
+"w": "defile",
+"fr": "profaner, souiller",
+"def": "To damage the purity of something sacred",
+"syn": "desecrate, pollute, violate",
+"lvl": "C2",
+"pos": "verb",
+"ex": "Vandals defiled the cemetery."
+},
+{
+"w": "defray",
+"fr": "couvrir, prendre en charge",
+"def": "To provide money to pay costs",
+"syn": "cover, pay for, meet",
+"lvl": "C2",
+"pos": "verb",
+"ex": "A grant helped defray the cost of travel."
+},
+{
+"w": "defunct",
+"fr": "défunt, disparu",
+"def": "No longer existing or working",
+"syn": "extinct, obsolete, inactive",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The company is now defunct."
+},
+{
+"w": "deft",
+"fr": "adroit, habile",
+"def": "Quick and skilful in movement or action",
+"syn": "nimble, adroit, dexterous",
+"lvl": "C2",
+"pos": "adj",
+"ex": "With a few deft strokes she sketched his face."
+},
+{
+"w": "deign",
+"fr": "daigner",
+"def": "To do something one considers beneath one's dignity",
+"syn": "condescend, stoop, lower oneself",
+"lvl": "C2",
+"pos": "verb",
+"ex": "He didn't even deign to reply."
+},
+{
+"w": "deleterious",
+"fr": "délétère, nuisible",
+"def": "Causing harm or damage",
+"syn": "harmful, damaging, detrimental",
+"lvl": "C2",
+"pos": "adj",
+"ex": "Smoking has deleterious effects on health."
+},
+{
+"w": "delineate",
+"fr": "délimiter, décrire",
+"def": "To describe or mark something precisely",
+"syn": "outline, define, depict",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The report delineates the responsibilities of each team."
+},
+{
+"w": "deluge",
+"fr": "déluge, avalanche",
+"def": "A heavy flood, or a great quantity arriving at once",
+"syn": "flood, torrent, barrage",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The office received a deluge of complaints."
+},
+{
+"w": "delude",
+"fr": "tromper, abuser",
+"def": "To make someone believe something that is not true",
+"syn": "deceive, mislead, fool",
+"lvl": "C2",
+"pos": "verb",
+"ex": "Don't delude yourself that he will change."
+},
+{
+"w": "demagogue",
+"fr": "démagogue",
+"def": "A leader who wins support by exploiting prejudices and emotions",
+"syn": "rabble-rouser, agitator, populist",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The demagogue stirred up the angry crowd."
+},
+{
+"w": "demean",
+"fr": "rabaisser, avilir",
+"def": "To make someone lose dignity or respect",
+"syn": "degrade, belittle, humiliate",
+"lvl": "C2",
+"pos": "verb",
+"ex": "I won't demean myself by answering that."
+},
+{
+"w": "demeanour",
+"fr": "comportement, attitude",
+"def": "The way a person looks and behaves",
+"syn": "bearing, manner, conduct",
+"lvl": "C2",
+"pos": "noun",
+"ex": "His calm demeanour reassured the passengers."
+},
+{
+"w": "demise",
+"fr": "disparition, fin",
+"def": "The end or failure of something; a death",
+"syn": "end, downfall, death",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The demise of the local shop saddened everyone."
+},
+{
+"w": "demur",
+"fr": "émettre des objections",
+"def": "To express doubt or reluctance about something",
+"syn": "object, protest, hesitate",
+"lvl": "C2",
+"pos": "verb",
+"ex": "She demurred when asked to work late."
+},
+{
+"w": "demure",
+"fr": "sage, réservé",
+"def": "Quiet, modest and shy, especially of a woman",
+"syn": "modest, reserved, shy",
+"lvl": "C2",
+"pos": "adj",
+"ex": "She gave a demure smile."
+},
+{
+"w": "denigrate",
+"fr": "dénigrer",
+"def": "To criticize unfairly and say something is worthless",
+"syn": "belittle, disparage, decry",
+"lvl": "C2",
+"pos": "verb",
+"ex": "He never denigrates the work of others."
+},
+{
+"w": "denizen",
+"fr": "habitant, hôte",
+"def": "A person or animal living in a particular place",
+"syn": "inhabitant, resident, dweller",
+"lvl": "C2",
+"pos": "noun",
+"ex": "Sharks are denizens of the deep."
+},
+{
+"w": "deplete",
+"fr": "épuiser, réduire",
+"def": "To reduce the amount of something greatly",
+"syn": "exhaust, drain, use up",
+"lvl": "C2",
+"pos": "verb",
+"ex": "Fish stocks have been severely depleted."
+},
+{
+"w": "deplore",
+"fr": "déplorer",
+"def": "To strongly disapprove of something",
+"syn": "condemn, deprecate, lament",
+"lvl": "C2",
+"pos": "verb",
+"ex": "We deplore all acts of violence."
+},
+{
+"w": "deprecate",
+"fr": "désapprouver, dénigrer",
+"def": "To express disapproval of or play down",
+"syn": "disapprove, belittle, deplore",
+"lvl": "C2",
+"pos": "verb",
+"ex": "She has a self-deprecating sense of humour."
+},
+{
+"w": "depravity",
+"fr": "dépravation",
+"def": "Moral corruption or wickedness",
+"syn": "corruption, wickedness, vice",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The crime revealed shocking depravity."
+},
+{
+"w": "deride",
+"fr": "tourner en dérision",
+"def": "To mock or laugh at someone with contempt",
+"syn": "ridicule, mock, scoff at",
+"lvl": "C2",
+"pos": "verb",
+"ex": "His ideas were derided by experts."
+},
+{
+"w": "derisive",
+"fr": "moqueur, méprisant",
+"def": "Expressing contempt or ridicule",
+"syn": "mocking, scornful, contemptuous",
+"lvl": "C2",
+"pos": "adj",
+"ex": "She gave a derisive laugh."
+},
+{
+"w": "derogatory",
+"fr": "désobligeant, péjoratif",
+"def": "Showing a critical or disrespectful attitude",
+"syn": "disparaging, pejorative, insulting",
+"lvl": "C2",
+"pos": "adj",
+"ex": "He made derogatory remarks about women."
+},
+{
+"w": "desiccated",
+"fr": "desséché",
+"def": "Completely dried out; lacking energy or interest",
+"syn": "dried, dehydrated, arid",
+"lvl": "C2",
+"pos": "adj",
+"ex": "Add a spoonful of desiccated coconut."
+},
+{
+"w": "desolate",
+"fr": "désolé, désert",
+"def": "Empty, bleak and without people; or very sad",
+"syn": "bleak, deserted, forlorn",
+"lvl": "C2",
+"pos": "adj",
+"ex": "They crossed a desolate landscape."
+},
+{
+"w": "despondent",
+"fr": "découragé, abattu",
+"def": "Very unhappy and without hope",
+"syn": "dejected, disheartened, despairing",
+"lvl": "C2",
+"pos": "adj",
+"ex": "He grew despondent after months without work."
+},
+{
+"w": "despot",
+"fr": "despote, tyran",
+"def": "A ruler with total power who uses it cruelly",
+"syn": "tyrant, dictator, autocrat",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The country was ruled by a despot."
+},
+{
+"w": "destitute",
+"fr": "démuni, indigent",
+"def": "Extremely poor and lacking basic necessities",
+"syn": "penniless, impoverished, needy",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The war left thousands destitute."
+},
+{
+"w": "desultory",
+"fr": "décousu, sans conviction",
+"def": "Lacking a plan, purpose or enthusiasm",
+"syn": "half-hearted, aimless, random",
+"lvl": "C2",
+"pos": "adj",
+"ex": "They made desultory conversation."
+},
+{
+"w": "detract",
+"fr": "diminuer, nuire à",
+"def": "To reduce the value or quality of something",
+"syn": "diminish, lessen, take away",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The scandal detracted from his achievements."
+},
+{
+"w": "detrimental",
+"fr": "préjudiciable, nuisible",
+"def": "Causing harm or damage",
+"syn": "harmful, damaging, deleterious",
+"lvl": "C2",
+"pos": "adj",
+"ex": "Stress is detrimental to your health."
+},
+{
+"w": "devious",
+"fr": "sournois, retors",
+"def": "Dishonest and using indirect methods to get what one wants",
+"syn": "underhand, sly, scheming",
+"lvl": "C2",
+"pos": "adj",
+"ex": "He used devious means to win the contract."
+},
+{
+"w": "devoid",
+"fr": "dépourvu, dénué",
+"def": "Completely lacking something",
+"syn": "lacking, empty, bereft",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The speech was devoid of substance."
+},
+{
+"w": "devolve",
+"fr": "déléguer, transférer",
+"def": "To transfer power to a lower level",
+"syn": "delegate, transfer, hand down",
+"lvl": "C2",
+"pos": "verb",
+"ex": "Power was devolved to regional assemblies."
+},
+{
+"w": "dexterous",
+"fr": "adroit, habile",
+"def": "Showing skill, especially with the hands",
+"syn": "deft, nimble, adroit",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The surgeon's dexterous fingers worked quickly."
+},
+{
+"w": "diabolical",
+"fr": "diabolique, épouvantable",
+"def": "Extremely bad or wicked",
+"syn": "appalling, fiendish, atrocious",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The service was diabolical."
+},
+{
+"w": "diaphanous",
+"fr": "diaphane, transparent",
+"def": "Light, delicate and almost transparent",
+"syn": "sheer, translucent, gauzy",
+"lvl": "C2",
+"pos": "adj",
+"ex": "She wore a diaphanous silk scarf."
+},
+{
+"w": "diatribe",
+"fr": "diatribe",
+"def": "A bitter, angry verbal attack",
+"syn": "tirade, harangue, rant",
+"lvl": "C2",
+"pos": "noun",
+"ex": "He launched into a diatribe against the media."
+},
+{
+"w": "dichotomy",
+"fr": "dichotomie, opposition",
+"def": "A division or contrast between two opposing things",
+"syn": "division, split, contrast",
+"lvl": "C2",
+"pos": "noun",
+"ex": "There is a dichotomy between theory and practice."
+},
+{
+"w": "dictum",
+"fr": "maxime, sentence",
+"def": "A short statement expressing a principle or rule",
+"syn": "maxim, saying, pronouncement",
+"lvl": "C2",
+"pos": "noun",
+"ex": "He followed the dictum that less is more."
+},
+{
+"w": "didactic",
+"fr": "didactique, moralisateur",
+"def": "Intended to teach, often in a preaching way",
+"syn": "instructive, educational, moralizing",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The novel is too didactic for my taste."
+},
+{
+"w": "diffident",
+"fr": "timide, peu sûr de soi",
+"def": "Shy and lacking self-confidence",
+"syn": "shy, timid, unassertive",
+"lvl": "C2",
+"pos": "adj",
+"ex": "He was a diffident young man."
+},
+{
+"w": "digress",
+"fr": "faire une digression",
+"def": "To move away from the main subject temporarily",
+"syn": "deviate, stray, wander",
+"lvl": "C2",
+"pos": "verb",
+"ex": "But I digress; let's return to the topic."
+},
+{
+"w": "dilapidated",
+"fr": "délabré, vétuste",
+"def": "In very bad condition because of age or neglect",
+"syn": "ramshackle, decrepit, rundown",
+"lvl": "C2",
+"pos": "adj",
+"ex": "They lived in a dilapidated old house."
+},
+{
+"w": "dilatory",
+"fr": "lent, dilatoire",
+"def": "Slow to act; intended to cause delay",
+"syn": "slow, tardy, sluggish",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The council has been dilatory in repairing the roads."
+},
+{
+"w": "dilettante",
+"fr": "dilettante, amateur",
+"def": "A person who dabbles in a subject without serious commitment",
+"syn": "amateur, dabbler, layman",
+"lvl": "C2",
+"pos": "noun",
+"ex": "He is a dilettante, not a serious artist."
+},
+{
+"w": "diminutive",
+"fr": "minuscule, menu",
+"def": "Extremely or unusually small",
+"syn": "tiny, petite, minute",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The diminutive actress had a powerful voice."
+},
+{
+"w": "dirge",
+"fr": "chant funèbre, complainte",
+"def": "A slow, sad song, especially for the dead",
+"syn": "lament, elegy, requiem",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The band played a mournful dirge."
+},
+{
+"w": "disabuse",
+"fr": "détromper",
+"def": "To persuade someone that their belief is wrong",
+"syn": "undeceive, set straight, enlighten",
+"lvl": "C2",
+"pos": "verb",
+"ex": "I quickly disabused him of that idea."
+},
+{
+"w": "disaffected",
+"fr": "mécontent, désabusé",
+"def": "No longer loyal or satisfied with authority",
+"syn": "alienated, dissatisfied, estranged",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The party appeals to disaffected voters."
+},
+{
+"w": "disavow",
+"fr": "désavouer, renier",
+"def": "To deny any responsibility for or connection with",
+"syn": "deny, repudiate, disown",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The government disavowed the agent's actions."
+},
+{
+"w": "discerning",
+"fr": "averti, perspicace",
+"def": "Showing good judgement and taste",
+"syn": "perceptive, discriminating, astute",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The shop caters for discerning customers."
+},
+{
+"w": "discomfit",
+"fr": "déconcerter, embarrasser",
+"def": "To make someone feel uneasy or embarrassed",
+"syn": "unsettle, disconcert, fluster",
+"lvl": "C2",
+"pos": "verb",
+"ex": "He was discomfited by her direct questions."
+},
+{
+"w": "disconcerting",
+"fr": "déconcertant, troublant",
+"def": "Making someone feel uneasy or unsettled",
+"syn": "unsettling, unnerving, disturbing",
+"lvl": "C2",
+"pos": "adj",
+"ex": "His silence was rather disconcerting."
+},
+{
+"w": "disconsolate",
+"fr": "inconsolable, triste",
+"def": "Very unhappy and impossible to comfort",
+"syn": "inconsolable, dejected, forlorn",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The disconsolate fans left the stadium."
+},
+{
+"w": "discordant",
+"fr": "discordant",
+"def": "Not in harmony or agreement",
+"syn": "dissonant, clashing, conflicting",
+"lvl": "C2",
+"pos": "adj",
+"ex": "His was the only discordant voice in the meeting."
+},
+{
+"w": "discursive",
+"fr": "décousu, discursif",
+"def": "Moving from subject to subject without clear order",
+"syn": "rambling, digressive, meandering",
+"lvl": "C2",
+"pos": "adj",
+"ex": "Her essays are long and discursive."
+},
+{
+"w": "disdain",
+"fr": "dédain, mépris",
+"def": "The feeling that someone is not worthy of respect",
+"syn": "contempt, scorn, disregard",
+"lvl": "C2",
+"pos": "noun",
+"ex": "She looked at him with disdain."
+},
+{
+"w": "disgruntled",
+"fr": "mécontent",
+"def": "Angry and dissatisfied",
+"syn": "dissatisfied, discontented, aggrieved",
+"lvl": "C2",
+"pos": "adj",
+"ex": "A disgruntled employee leaked the documents."
+},
+{
+"w": "dishevelled",
+"fr": "échevelé, débraillé",
+"def": "Untidy in appearance, especially hair or clothes",
+"syn": "unkempt, messy, bedraggled",
+"lvl": "C2",
+"pos": "adj",
+"ex": "He arrived looking tired and dishevelled."
+},
+{
+"w": "disingenuous",
+"fr": "hypocrite, de mauvaise foi",
+"def": "Pretending to know less or be more honest than one is",
+"syn": "insincere, deceitful, hypocritical",
+"lvl": "C2",
+"pos": "adj",
+"ex": "It would be disingenuous to claim surprise."
+},
+{
+"w": "disinterested",
+"fr": "impartial, désintéressé",
+"def": "Not influenced by personal advantage",
+"syn": "impartial, neutral, unbiased",
+"lvl": "C2",
+"pos": "adj",
+"ex": "We need a disinterested observer."
+},
+{
+"w": "disparage",
+"fr": "dénigrer, déprécier",
+"def": "To speak about someone as if they have little value",
+"syn": "belittle, denigrate, deride",
+"lvl": "C2",
+"pos": "verb",
+"ex": "He often disparages his rivals."
+},
+{
+"w": "disparate",
+"fr": "disparate, hétérogène",
+"def": "Very different from each other",
+"syn": "dissimilar, diverse, contrasting",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The book brings together disparate ideas."
+},
+{
+"w": "dispassionate",
+"fr": "impartial, objectif",
+"def": "Not influenced by strong emotion; calm and fair",
+"syn": "objective, detached, impartial",
+"lvl": "C2",
+"pos": "adj",
+"ex": "She gave a dispassionate account of events."
+},
+{
+"w": "dispel",
+"fr": "dissiper",
+"def": "To make a doubt, feeling or belief disappear",
+"syn": "banish, dismiss, allay",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The report dispelled fears of a recession."
+},
+{
+"w": "disquiet",
+"fr": "inquiétude, malaise",
+"def": "A feeling of worry or unease",
+"syn": "unease, anxiety, concern",
+"lvl": "C2",
+"pos": "noun",
+"ex": "There is growing public disquiet about the plan."
+},
+{
+"w": "disrepute",
+"fr": "discrédit",
+"def": "The state of having a bad reputation",
+"syn": "disgrace, discredit, infamy",
+"lvl": "C2",
+"pos": "noun",
+"ex": "His conduct brought the game into disrepute."
+},
+{
+"w": "dissemble",
+"fr": "dissimuler, feindre",
+"def": "To hide one's real feelings or intentions",
+"syn": "pretend, feign, dissimulate",
+"lvl": "C2",
+"pos": "verb",
+"ex": "She is too honest to dissemble."
+},
+{
+"w": "disseminate",
+"fr": "diffuser, propager",
+"def": "To spread information widely",
+"syn": "spread, circulate, distribute",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The results were disseminated to all schools."
+},
+{
+"w": "dissipate",
+"fr": "se dissiper, dilapider",
+"def": "To disappear gradually, or waste money or energy",
+"syn": "disperse, vanish, squander",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The fog dissipated by midday."
+},
+{
+"w": "dissolute",
+"fr": "dissolu, débauché",
+"def": "Living an immoral life devoted to pleasure",
+"syn": "debauched, decadent, depraved",
+"lvl": "C2",
+"pos": "adj",
+"ex": "He wasted his youth in dissolute living."
+},
+{
+"w": "dissonance",
+"fr": "dissonance, discordance",
+"def": "A lack of harmony or agreement",
+"syn": "discord, conflict, disharmony",
+"lvl": "C2",
+"pos": "noun",
+"ex": "There is a dissonance between his words and actions."
+},
+{
+"w": "dissuade",
+"fr": "dissuader",
+"def": "To persuade someone not to do something",
+"syn": "deter, discourage, talk out of",
+"lvl": "C2",
+"pos": "verb",
+"ex": "We tried to dissuade her from leaving."
+},
+{
+"w": "distraught",
+"fr": "éperdu, bouleversé",
+"def": "Extremely upset and worried",
+"syn": "distressed, frantic, overwrought",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The distraught parents searched all night."
+},
+{
+"w": "divest",
+"fr": "se défaire de, dépouiller",
+"def": "To get rid of something, or take something away",
+"syn": "strip, dispossess, sell off",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The company divested itself of its oil assets."
+},
+{
+"w": "divulge",
+"fr": "divulguer, révéler",
+"def": "To make secret information known",
+"syn": "reveal, disclose, leak",
+"lvl": "C2",
+"pos": "verb",
+"ex": "He refused to divulge his sources."
+},
+{
+"w": "docile",
+"fr": "docile",
+"def": "Quiet and easily controlled",
+"syn": "compliant, submissive, meek",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The horse is very docile."
+},
+{
+"w": "doctrinaire",
+"fr": "doctrinaire, dogmatique",
+"def": "Applying a theory rigidly without regard for practicalities",
+"syn": "dogmatic, rigid, inflexible",
+"lvl": "C2",
+"pos": "adj",
+"ex": "He takes a doctrinaire approach to economics."
+},
+{
+"w": "dogged",
+"fr": "tenace, obstiné",
+"def": "Showing persistent determination",
+"syn": "tenacious, persistent, resolute",
+"lvl": "C2",
+"pos": "adj",
+"ex": "Her dogged determination paid off."
+},
+{
+"w": "dogmatic",
+"fr": "dogmatique",
+"def": "Insisting one's beliefs are true without considering others",
+"syn": "opinionated, doctrinaire, rigid",
+"lvl": "C2",
+"pos": "adj",
+"ex": "He is very dogmatic about politics."
+},
+{
+"w": "doldrums",
+"fr": "marasme, stagnation",
+"def": "A state of inactivity, stagnation or depression",
+"syn": "stagnation, slump, depression",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The economy is in the doldrums."
+},
+{
+"w": "doleful",
+"fr": "triste, lugubre",
+"def": "Expressing sorrow; mournful",
+"syn": "mournful, sorrowful, woeful",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The puppy looked up with doleful eyes."
+},
+{
+"w": "domineering",
+"fr": "autoritaire, dominateur",
+"def": "Trying to control other people too much",
+"syn": "overbearing, bossy, authoritarian",
+"lvl": "C2",
+"pos": "adj",
+"ex": "She had a domineering mother."
+},
+{
+"w": "dote",
+"fr": "adorer, être gaga de",
+"def": "To love someone very much, often foolishly",
+"syn": "adore, idolize, worship",
+"lvl": "C2",
+"pos": "verb",
+"ex": "He dotes on his granddaughter."
+},
+{
+"w": "dour",
+"fr": "austère, sévère",
+"def": "Unfriendly, serious and gloomy",
+"syn": "stern, grim, sullen",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The dour old farmer rarely smiled."
+},
+{
+"w": "downtrodden",
+"fr": "opprimé",
+"def": "Treated badly and oppressed by those in power",
+"syn": "oppressed, persecuted, exploited",
+"lvl": "C2",
+"pos": "adj",
+"ex": "He fought for the rights of the downtrodden."
+},
+{
+"w": "doyen",
+"fr": "doyen",
+"def": "The most respected or experienced member of a group",
+"syn": "dean, veteran, elder statesman",
+"lvl": "C2",
+"pos": "noun",
+"ex": "He is the doyen of British theatre critics."
+},
+{
+"w": "draconian",
+"fr": "draconien",
+"def": "Excessively harsh and severe, especially of laws",
+"syn": "harsh, severe, drastic",
+"lvl": "C2",
+"pos": "adj",
+"ex": "The government introduced draconian new laws."
+},
+{
+"w": "droll",
+"fr": "drôle, cocasse",
+"def": "Amusing in an odd or dry way",
+"syn": "wry, witty, whimsical",
+"lvl": "C2",
+"pos": "adj",
+"ex": "He has a droll sense of humour."
+},
+{
+"w": "dross",
+"fr": "rebut, camelote",
+"def": "Something worthless or of very low quality",
+"syn": "rubbish, trash, junk",
+"lvl": "C2",
+"pos": "noun",
+"ex": "Most television these days is dross."
+},
+{
+"w": "drudgery",
+"fr": "corvée, travail pénible",
+"def": "Hard, boring and repetitive work",
+"syn": "toil, grind, labour",
+"lvl": "C2",
+"pos": "noun",
+"ex": "Machines have taken the drudgery out of housework."
+},
+{
+"w": "dulcet",
+"fr": "doux, mélodieux",
+"def": "Sweet and pleasant to hear, often used ironically",
+"syn": "sweet, melodious, mellifluous",
+"lvl": "C2",
+"pos": "adj",
+"ex": "I heard the dulcet tones of my brother shouting."
+},
+{
+"w": "dupe",
+"fr": "duper, berner",
+"def": "To deceive or trick someone",
+"syn": "deceive, trick, con",
+"lvl": "C2",
+"pos": "verb",
+"ex": "Investors were duped into buying worthless shares."
+},
+{
+"w": "duplicity",
+"fr": "duplicité, fourberie",
+"def": "Deceitfulness; dishonest behaviour",
+"syn": "deceit, double-dealing, treachery",
+"lvl": "C2",
+"pos": "noun",
+"ex": "She was shocked by his duplicity."
+},
+{
+"w": "duress",
+"fr": "contrainte",
+"def": "Threats or force used to make someone act",
+"syn": "coercion, compulsion, pressure",
+"lvl": "C2",
+"pos": "noun",
+"ex": "The confession was signed under duress."
+},
+{
+"w": "dwindle",
+"fr": "diminuer, s'amenuiser",
+"def": "To become gradually smaller or fewer",
+"syn": "decrease, shrink, diminish",
+"lvl": "C2",
+"pos": "verb",
+"ex": "Their savings dwindled to nothing."
+},
+{
+"w": "demarcate",
+"fr": "délimiter, démarquer",
+"def": "To set or mark the boundaries of something",
+"syn": "delimit, separate, mark out",
+"lvl": "C2",
+"pos": "verb",
+"ex": "The fields were demarcated by stone walls."
+},
+{
+"w": "despicable",
+"fr": "méprisable, ignoble",
+"def": "Deserving hatred and contempt",
+"syn": "contemptible, vile, abhorrent",
+"lvl": "C2",
+"pos": "adj",
+"ex": "It was a despicable act of cruelty."
+}
+]

@@ -1,0 +1,3602 @@
+[
+{
+"w": "quaint",
+"fr": "pittoresque, désuet",
+"def": "Attractively old-fashioned or unusual",
+"syn": "picturesque, old-world, charming",
+"lvl": "C1",
+"pos": "adj",
+"ex": "We stayed in a quaint little village by the sea."
+},
+{
+"w": "qualm",
+"fr": "scrupule",
+"def": "A feeling of doubt or unease about whether something is right",
+"syn": "misgiving, scruple, reservation",
+"lvl": "C1",
+"pos": "noun",
+"ex": "He had no qualms about lying to his boss."
+},
+{
+"w": "quandary",
+"fr": "dilemme",
+"def": "A state of uncertainty about what to do in a difficult situation",
+"syn": "dilemma, predicament",
+"lvl": "C1",
+"pos": "noun",
+"ex": "I'm in a quandary about which job offer to accept."
+},
+{
+"w": "quantify",
+"fr": "quantifier",
+"def": "To express or measure the amount of something",
+"syn": "measure, calculate, gauge",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The damage is difficult to quantify."
+},
+{
+"w": "quash",
+"fr": "annuler, étouffer",
+"def": "To officially reject a decision or stop something from continuing",
+"syn": "overturn, suppress, cancel",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The court quashed his conviction."
+},
+{
+"w": "quell",
+"fr": "réprimer, apaiser",
+"def": "To put an end to something, especially by force; to calm",
+"syn": "suppress, crush, calm",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Police were called in to quell the riot."
+},
+{
+"w": "quench",
+"fr": "étancher",
+"def": "To satisfy thirst by drinking",
+"syn": "satisfy, slake",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Nothing quenches your thirst like cold water."
+},
+{
+"w": "questionable",
+"fr": "discutable, douteux",
+"def": "Doubtful as regards truth, quality or honesty",
+"syn": "dubious, debatable, suspect",
+"lvl": "C1",
+"pos": "adj",
+"ex": "His motives were highly questionable."
+},
+{
+"w": "quirk",
+"fr": "bizarrerie, particularité",
+"def": "A strange habit or unusual feature",
+"syn": "peculiarity, idiosyncrasy, oddity",
+"lvl": "C1",
+"pos": "noun",
+"ex": "By a quirk of fate, we met again years later."
+},
+{
+"w": "quirky",
+"fr": "original, excentrique",
+"def": "Unusual in an interesting or attractive way",
+"syn": "eccentric, offbeat, unconventional",
+"lvl": "C1",
+"pos": "adj",
+"ex": "She has a quirky sense of humour."
+},
+{
+"w": "quota",
+"fr": "quota",
+"def": "A fixed share or limited amount that is officially allowed",
+"syn": "allocation, share, allowance",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The country has strict import quotas on cars."
+},
+{
+"w": "qualitative",
+"fr": "qualitatif",
+"def": "Relating to how good something is rather than how much",
+"syn": "descriptive",
+"lvl": "C1",
+"pos": "adj",
+"ex": "We carried out a qualitative study of patient experiences."
+},
+{
+"w": "quantitative",
+"fr": "quantitatif",
+"def": "Relating to amounts or numbers that can be measured",
+"syn": "numerical, measurable",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The report is based on quantitative data."
+},
+{
+"w": "rampant",
+"fr": "endémique, galopant",
+"def": "Spreading or happening in an uncontrolled way",
+"syn": "widespread, unchecked, rife",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Corruption was rampant in the government."
+},
+{
+"w": "ramification",
+"fr": "répercussion, conséquence",
+"def": "A complicated, often unwanted result of an action",
+"syn": "consequence, implication, repercussion",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Have you considered the legal ramifications?"
+},
+{
+"w": "rapport",
+"fr": "bonne entente, relation",
+"def": "A friendly relationship in which people understand each other well",
+"syn": "bond, understanding, affinity",
+"lvl": "C1",
+"pos": "noun",
+"ex": "She quickly built a good rapport with her students."
+},
+{
+"w": "rationale",
+"fr": "justification, raisonnement",
+"def": "The reasons that explain a decision or belief",
+"syn": "reasoning, justification, basis",
+"lvl": "C1",
+"pos": "noun",
+"ex": "What is the rationale behind this new policy?"
+},
+{
+"w": "ravage",
+"fr": "ravager, dévaster",
+"def": "To cause severe damage to something",
+"syn": "devastate, destroy, wreck",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The region was ravaged by war."
+},
+{
+"w": "readily",
+"fr": "volontiers, facilement",
+"def": "Quickly and easily, or willingly and without hesitation",
+"syn": "easily, willingly, promptly",
+"lvl": "C1",
+"pos": "adv",
+"ex": "The information is readily available online."
+},
+{
+"w": "realm",
+"fr": "domaine, royaume",
+"def": "An area of activity, knowledge or interest",
+"syn": "domain, field, sphere",
+"lvl": "C1",
+"pos": "noun",
+"ex": "A cure is not beyond the realms of possibility."
+},
+{
+"w": "reaffirm",
+"fr": "réaffirmer",
+"def": "To state again strongly that something is true or still valid",
+"syn": "restate, confirm, reassert",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The minister reaffirmed his commitment to reform."
+},
+{
+"w": "rebate",
+"fr": "remboursement, ristourne",
+"def": "An amount of money returned to someone who has paid too much",
+"syn": "refund, discount, reimbursement",
+"lvl": "C1",
+"pos": "noun",
+"ex": "You may be entitled to a tax rebate."
+},
+{
+"w": "rebuke",
+"fr": "réprimander",
+"def": "To criticise someone sharply for something they have done",
+"syn": "reprimand, scold, reproach",
+"lvl": "C1",
+"pos": "verb",
+"ex": "She was rebuked for arriving late."
+},
+{
+"w": "reciprocal",
+"fr": "réciproque",
+"def": "Given or done in return by both sides",
+"syn": "mutual, shared, two-way",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The two countries signed a reciprocal trade agreement."
+},
+{
+"w": "reckless",
+"fr": "imprudent, téméraire",
+"def": "Doing something dangerous without thinking about the risks",
+"syn": "careless, rash, irresponsible",
+"lvl": "C1",
+"pos": "adj",
+"ex": "He was fined for reckless driving."
+},
+{
+"w": "reclaim",
+"fr": "récupérer, réclamer",
+"def": "To get back something that was lost or taken away",
+"syn": "recover, retrieve, regain",
+"lvl": "C1",
+"pos": "verb",
+"ex": "You can reclaim your luggage at the airport."
+},
+{
+"w": "recollection",
+"fr": "souvenir",
+"def": "A memory of something, or the ability to remember",
+"syn": "memory, recall, remembrance",
+"lvl": "C1",
+"pos": "noun",
+"ex": "I have no recollection of meeting him."
+},
+{
+"w": "reconcile",
+"fr": "réconcilier, concilier",
+"def": "To make two different ideas or people agree or exist together",
+"syn": "harmonise, resolve, settle",
+"lvl": "C1",
+"pos": "verb",
+"ex": "It's hard to reconcile work with family life."
+},
+{
+"w": "rectify",
+"fr": "rectifier, corriger",
+"def": "To correct something that is wrong",
+"syn": "correct, fix, remedy",
+"lvl": "C1",
+"pos": "verb",
+"ex": "We will rectify the error as soon as possible."
+},
+{
+"w": "recur",
+"fr": "se reproduire",
+"def": "To happen again, or happen many times",
+"syn": "reoccur, repeat, return",
+"lvl": "C1",
+"pos": "verb",
+"ex": "If the pain recurs, see your doctor."
+},
+{
+"w": "redeem",
+"fr": "racheter, échanger",
+"def": "To make up for past faults, or exchange a voucher for goods",
+"syn": "compensate, exchange, save",
+"lvl": "C1",
+"pos": "verb",
+"ex": "He scored twice to redeem himself after the defeat."
+},
+{
+"w": "redundant",
+"fr": "superflu, licencié",
+"def": "Not needed any more; having lost a job because it no longer exists",
+"syn": "superfluous, unnecessary, laid off",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Two hundred workers were made redundant last year."
+},
+{
+"w": "refrain",
+"fr": "s'abstenir",
+"def": "To stop yourself from doing something",
+"syn": "abstain, avoid, desist",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Please refrain from smoking inside the building."
+},
+{
+"w": "refurbish",
+"fr": "rénover, remettre à neuf",
+"def": "To clean, decorate and repair a building or room",
+"syn": "renovate, refurnish, overhaul",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The hotel has been completely refurbished."
+},
+{
+"w": "refute",
+"fr": "réfuter",
+"def": "To prove that a statement or theory is wrong",
+"syn": "disprove, rebut, deny",
+"lvl": "C1",
+"pos": "verb",
+"ex": "She refuted all the allegations against her."
+},
+{
+"w": "regime",
+"fr": "régime",
+"def": "A government, especially an undemocratic one; a system of rules",
+"syn": "government, system, administration",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The military regime was overthrown in 1990."
+},
+{
+"w": "rehabilitation",
+"fr": "réadaptation, réinsertion",
+"def": "The process of returning someone to a normal, healthy life",
+"syn": "recovery, reintegration, restoration",
+"lvl": "C1",
+"pos": "noun",
+"ex": "He spent months in rehabilitation after the accident."
+},
+{
+"w": "reign",
+"fr": "règne",
+"def": "The period during which a king or queen rules",
+"syn": "rule, sovereignty, era",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The castle was built during the reign of Henry VIII."
+},
+{
+"w": "reiterate",
+"fr": "réitérer",
+"def": "To say something again for emphasis or clarity",
+"syn": "repeat, restate, emphasise",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Let me reiterate that safety is our priority."
+},
+{
+"w": "relentless",
+"fr": "implacable, acharné",
+"def": "Continuing strongly without stopping or becoming weaker",
+"syn": "unrelenting, persistent, incessant",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The relentless rain lasted all week."
+},
+{
+"w": "relinquish",
+"fr": "renoncer à, céder",
+"def": "To give up power, control or a right, often unwillingly",
+"syn": "surrender, give up, cede",
+"lvl": "C1",
+"pos": "verb",
+"ex": "He refused to relinquish control of the company."
+},
+{
+"w": "reminiscent",
+"fr": "qui rappelle, évocateur",
+"def": "Making you think of something similar from the past",
+"syn": "evocative, suggestive, redolent",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The music is reminiscent of the early Beatles."
+},
+{
+"w": "remnant",
+"fr": "vestige, reste",
+"def": "A small part of something that remains",
+"syn": "remainder, vestige, trace",
+"lvl": "C1",
+"pos": "noun",
+"ex": "These walls are the remnants of a Roman fort."
+},
+{
+"w": "remorse",
+"fr": "remords",
+"def": "Deep regret for something wrong you have done",
+"syn": "regret, guilt, contrition",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The prisoner showed no remorse for his crime."
+},
+{
+"w": "render",
+"fr": "rendre",
+"def": "To cause someone or something to be in a particular state",
+"syn": "make, leave, cause to be",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The injury rendered him unable to walk."
+},
+{
+"w": "renounce",
+"fr": "renoncer à",
+"def": "To formally give up a claim, belief or right",
+"syn": "give up, abandon, reject",
+"lvl": "C1",
+"pos": "verb",
+"ex": "She renounced her citizenship."
+},
+{
+"w": "renowned",
+"fr": "célèbre, renommé",
+"def": "Famous and admired for a particular quality",
+"syn": "famous, celebrated, acclaimed",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The region is renowned for its wines."
+},
+{
+"w": "repercussion",
+"fr": "répercussion",
+"def": "An unexpected, usually bad effect of an action",
+"syn": "consequence, ramification, effect",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The scandal had serious repercussions for the party."
+},
+{
+"w": "replenish",
+"fr": "réapprovisionner, remplir",
+"def": "To fill something up again",
+"syn": "refill, restock, top up",
+"lvl": "C1",
+"pos": "verb",
+"ex": "We need to replenish our food supplies."
+},
+{
+"w": "replicate",
+"fr": "reproduire",
+"def": "To make or do something again in exactly the same way",
+"syn": "reproduce, duplicate, copy",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Other scientists failed to replicate the results."
+},
+{
+"w": "reprimand",
+"fr": "réprimander",
+"def": "To tell someone officially that they have done wrong",
+"syn": "rebuke, scold, reproach",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The officer was reprimanded for his conduct."
+},
+{
+"w": "repress",
+"fr": "réprimer, refouler",
+"def": "To control or hide feelings, or to control people by force",
+"syn": "suppress, stifle, hold back",
+"lvl": "C1",
+"pos": "verb",
+"ex": "She tried to repress a smile."
+},
+{
+"w": "resent",
+"fr": "en vouloir à, mal supporter",
+"def": "To feel angry about something you think is unfair",
+"syn": "begrudge, be bitter about",
+"lvl": "C1",
+"pos": "verb",
+"ex": "He resented being treated like a child."
+},
+{
+"w": "resilient",
+"fr": "résilient, résistant",
+"def": "Able to recover quickly from difficulties",
+"syn": "tough, hardy, adaptable",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Children are often remarkably resilient."
+},
+{
+"w": "resolute",
+"fr": "résolu, déterminé",
+"def": "Determined and not willing to change your mind",
+"syn": "determined, steadfast, firm",
+"lvl": "C1",
+"pos": "adj",
+"ex": "She remained resolute in her decision."
+},
+{
+"w": "respite",
+"fr": "répit",
+"def": "A short period of rest from something difficult or unpleasant",
+"syn": "break, relief, rest",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The rain gave us a brief respite from the heat."
+},
+{
+"w": "restrain",
+"fr": "retenir, maîtriser",
+"def": "To stop someone from doing something, often by force",
+"syn": "hold back, curb, control",
+"lvl": "C1",
+"pos": "verb",
+"ex": "He had to be restrained by security guards."
+},
+{
+"w": "restraint",
+"fr": "retenue, modération",
+"def": "Calm, controlled behaviour; a limit on something",
+"syn": "self-control, moderation, limitation",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Both sides were urged to show restraint."
+},
+{
+"w": "resurgence",
+"fr": "résurgence, renouveau",
+"def": "A new increase in activity or popularity after a quiet period",
+"syn": "revival, comeback, renewal",
+"lvl": "C1",
+"pos": "noun",
+"ex": "There has been a resurgence of interest in vinyl records."
+},
+{
+"w": "retaliate",
+"fr": "riposter, se venger",
+"def": "To do something harmful to someone because they harmed you",
+"syn": "hit back, strike back, take revenge",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The army retaliated with air strikes."
+},
+{
+"w": "retention",
+"fr": "rétention, maintien",
+"def": "The continued keeping or use of something",
+"syn": "preservation, keeping, maintenance",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Staff retention is a major problem for the firm."
+},
+{
+"w": "retrieve",
+"fr": "récupérer",
+"def": "To find and bring something back",
+"syn": "recover, fetch, regain",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The data was retrieved from the damaged disk."
+},
+{
+"w": "retrospect",
+"fr": "rétrospectivement",
+"def": "Considering a past event with knowledge gained since then",
+"syn": "hindsight, looking back",
+"lvl": "C1",
+"pos": "noun",
+"ex": "In retrospect, it was a terrible decision."
+},
+{
+"w": "revamp",
+"fr": "remanier, rénover",
+"def": "To change something in order to improve it",
+"syn": "overhaul, renovate, update",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The company has revamped its website."
+},
+{
+"w": "revelation",
+"fr": "révélation",
+"def": "A surprising fact that is made known",
+"syn": "disclosure, discovery, eye-opener",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The revelations about his past shocked everyone."
+},
+{
+"w": "revere",
+"fr": "vénérer, révérer",
+"def": "To respect and admire someone or something deeply",
+"syn": "venerate, idolise, honour",
+"lvl": "C1",
+"pos": "verb",
+"ex": "He is revered as a national hero."
+},
+{
+"w": "revoke",
+"fr": "révoquer, retirer",
+"def": "To officially cancel a law, licence or decision",
+"syn": "cancel, withdraw, annul",
+"lvl": "C1",
+"pos": "verb",
+"ex": "His driving licence was revoked."
+},
+{
+"w": "rhetoric",
+"fr": "rhétorique",
+"def": "Speech or writing meant to persuade, often lacking sincerity",
+"syn": "oratory, bombast, eloquence",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Voters are tired of empty political rhetoric."
+},
+{
+"w": "rife",
+"fr": "répandu, omniprésent",
+"def": "Very common, especially of something bad",
+"syn": "widespread, rampant, prevalent",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Rumours were rife that the company would close."
+},
+{
+"w": "rigorous",
+"fr": "rigoureux",
+"def": "Very careful, thorough and strict",
+"syn": "thorough, meticulous, strict",
+"lvl": "C1",
+"pos": "adj",
+"ex": "All products undergo rigorous testing."
+},
+{
+"w": "riveting",
+"fr": "captivant, fascinant",
+"def": "So interesting that you cannot stop paying attention",
+"syn": "gripping, fascinating, enthralling",
+"lvl": "C1",
+"pos": "adj",
+"ex": "It was a riveting performance."
+},
+{
+"w": "robust",
+"fr": "robuste, solide",
+"def": "Strong and healthy, or unlikely to break or fail",
+"syn": "sturdy, strong, sound",
+"lvl": "C1",
+"pos": "adj",
+"ex": "We need a more robust security system."
+},
+{
+"w": "rudimentary",
+"fr": "rudimentaire",
+"def": "Very basic and simple; not highly developed",
+"syn": "basic, elementary, primitive",
+"lvl": "C1",
+"pos": "adj",
+"ex": "I only have a rudimentary knowledge of Spanish."
+},
+{
+"w": "rupture",
+"fr": "rupture, déchirure",
+"def": "A sudden break or burst, or the end of a relationship",
+"syn": "break, split, breach",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The rupture of the pipe flooded the street."
+},
+{
+"w": "ruthless",
+"fr": "impitoyable",
+"def": "Cruel and determined, without caring about others",
+"syn": "merciless, pitiless, heartless",
+"lvl": "C1",
+"pos": "adj",
+"ex": "He was a ruthless businessman."
+},
+{
+"w": "rally",
+"fr": "rassembler, se mobiliser",
+"def": "To come or bring people together to support something",
+"syn": "gather, unite, mobilise",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Supporters rallied behind their leader."
+},
+{
+"w": "recipient",
+"fr": "destinataire, bénéficiaire",
+"def": "A person who receives something",
+"syn": "receiver, beneficiary",
+"lvl": "C1",
+"pos": "noun",
+"ex": "She was the recipient of a national award."
+},
+{
+"w": "recount",
+"fr": "raconter",
+"def": "To describe events that you experienced",
+"syn": "narrate, relate, tell",
+"lvl": "C1",
+"pos": "verb",
+"ex": "He recounted his adventures in the jungle."
+},
+{
+"w": "relic",
+"fr": "vestige, relique",
+"def": "An object or custom surviving from an earlier time",
+"syn": "remnant, artefact, survival",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The custom is a relic of the Middle Ages."
+},
+{
+"w": "remuneration",
+"fr": "rémunération",
+"def": "Payment for work or services",
+"syn": "pay, salary, compensation",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The job offers attractive remuneration."
+},
+{
+"w": "repertoire",
+"fr": "répertoire",
+"def": "All the songs, plays or skills a person can perform",
+"syn": "range, collection, stock",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The band added new songs to its repertoire."
+},
+{
+"w": "reproach",
+"fr": "reproche, reprocher",
+"def": "Criticism expressing disappointment, or to express such criticism",
+"syn": "blame, rebuke, reproof",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Her behaviour was beyond reproach."
+},
+{
+"w": "requisite",
+"fr": "requis, nécessaire",
+"def": "Needed for a particular purpose",
+"syn": "required, necessary, essential",
+"lvl": "C1",
+"pos": "adj",
+"ex": "He lacks the requisite experience for the job."
+},
+{
+"w": "residue",
+"fr": "résidu",
+"def": "A small amount of something left after the main part is gone",
+"syn": "remainder, remnant, deposit",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Wipe away any soap residue from the sink."
+},
+{
+"w": "resort to",
+"fr": "recourir à",
+"def": "To do something unpleasant because no other option exists",
+"syn": "fall back on, turn to",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "They resorted to violence when talks failed."
+},
+{
+"w": "respective",
+"fr": "respectif",
+"def": "Relating to each of the people or things mentioned separately",
+"syn": "individual, separate, own",
+"lvl": "C1",
+"pos": "adj",
+"ex": "They returned to their respective homes."
+},
+{
+"w": "resonate",
+"fr": "trouver un écho, résonner",
+"def": "To have special meaning or importance for someone",
+"syn": "strike a chord, echo",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Her speech resonated with young voters."
+},
+{
+"w": "retract",
+"fr": "rétracter, retirer",
+"def": "To take back a statement or offer you made earlier",
+"syn": "withdraw, take back, recant",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The newspaper retracted the story and apologised."
+},
+{
+"w": "revert",
+"fr": "revenir à",
+"def": "To go back to a previous state or behaviour",
+"syn": "return, regress, go back",
+"lvl": "C1",
+"pos": "verb",
+"ex": "After the holidays, he reverted to his old habits."
+},
+{
+"w": "revitalise",
+"fr": "revitaliser, redynamiser",
+"def": "To give new life and energy to something",
+"syn": "revive, regenerate, rejuvenate",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The plan aims to revitalise the city centre."
+},
+{
+"w": "rigid",
+"fr": "rigide",
+"def": "Strict and difficult to change; stiff and not bending",
+"syn": "inflexible, strict, stiff",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The school has very rigid rules."
+},
+{
+"w": "ripple",
+"fr": "ondulation, ride",
+"def": "A small wave on water, or a spreading effect",
+"syn": "wave, wavelet, undulation",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The decision sent ripples through the industry."
+},
+{
+"w": "rivalry",
+"fr": "rivalité",
+"def": "Competition between people or groups for the same thing",
+"syn": "competition, contest, antagonism",
+"lvl": "C1",
+"pos": "noun",
+"ex": "There is fierce rivalry between the two clubs."
+},
+{
+"w": "roam",
+"fr": "errer, parcourir",
+"def": "To move or travel around without a clear purpose",
+"syn": "wander, rove, drift",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Wild horses roam freely across the plains."
+},
+{
+"w": "rubble",
+"fr": "décombres, gravats",
+"def": "Broken pieces of stone and brick from destroyed buildings",
+"syn": "debris, ruins, wreckage",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Rescuers searched the rubble for survivors."
+},
+{
+"w": "run-down",
+"fr": "délabré, épuisé",
+"def": "In bad condition; or tired and slightly unwell",
+"syn": "dilapidated, shabby, exhausted",
+"lvl": "C1",
+"pos": "adj",
+"ex": "They bought a run-down farmhouse and restored it."
+},
+{
+"w": "rustic",
+"fr": "rustique",
+"def": "Simple and typical of the countryside",
+"syn": "rural, country, simple",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The restaurant has a charming rustic interior."
+},
+{
+"w": "reckon with",
+"fr": "compter avec, tenir compte de",
+"def": "To consider something as a serious factor or opponent",
+"syn": "take into account, deal with",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "She is a force to be reckoned with."
+},
+{
+"w": "rein in",
+"fr": "freiner, maîtriser",
+"def": "To control or limit something more strictly",
+"syn": "curb, restrain, check",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "The government must rein in public spending."
+},
+{
+"w": "rigour",
+"fr": "rigueur",
+"def": "Great care and thoroughness in doing something",
+"syn": "thoroughness, precision, strictness",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The study lacks scientific rigour."
+},
+{
+"w": "sabotage",
+"fr": "saboter",
+"def": "To deliberately damage or destroy something to stop it working",
+"syn": "undermine, wreck, disrupt",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Someone had sabotaged the machinery."
+},
+{
+"w": "safeguard",
+"fr": "protéger, sauvegarder",
+"def": "To protect something from harm or loss",
+"syn": "protect, defend, preserve",
+"lvl": "C1",
+"pos": "verb",
+"ex": "New laws will safeguard workers' rights."
+},
+{
+"w": "salient",
+"fr": "saillant, principal",
+"def": "Most important or most noticeable",
+"syn": "main, key, prominent",
+"lvl": "C1",
+"pos": "adj",
+"ex": "She summarised the salient points of the report."
+},
+{
+"w": "salvage",
+"fr": "sauver, récupérer",
+"def": "To save something from damage, loss or failure",
+"syn": "rescue, save, recover",
+"lvl": "C1",
+"pos": "verb",
+"ex": "They tried to salvage their marriage."
+},
+{
+"w": "sanction",
+"fr": "sanction, sanctionner",
+"def": "An official penalty, often against a country, for breaking rules",
+"syn": "penalty, embargo, punishment",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The UN imposed economic sanctions on the country."
+},
+{
+"w": "sanctuary",
+"fr": "refuge, sanctuaire",
+"def": "A safe place, especially for people or animals in danger",
+"syn": "refuge, haven, shelter",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The island is a sanctuary for rare birds."
+},
+{
+"w": "saturate",
+"fr": "saturer, imprégner",
+"def": "To make something completely wet or completely full",
+"syn": "soak, flood, drench",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The market is saturated with cheap phones."
+},
+{
+"w": "savvy",
+"fr": "avisé, calé",
+"def": "Having practical knowledge and good judgement",
+"syn": "shrewd, astute, knowledgeable",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Young people are very tech-savvy."
+},
+{
+"w": "scarcity",
+"fr": "pénurie, rareté",
+"def": "A situation in which something is not easy to find",
+"syn": "shortage, lack, dearth",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Water scarcity is a growing problem."
+},
+{
+"w": "scathing",
+"fr": "cinglant, acerbe",
+"def": "Very severely critical",
+"syn": "harsh, withering, scornful",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The film received scathing reviews."
+},
+{
+"w": "scepticism",
+"fr": "scepticisme",
+"def": "An attitude of doubting that claims are true",
+"syn": "doubt, distrust, disbelief",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The plan was greeted with scepticism."
+},
+{
+"w": "scrutinise",
+"fr": "examiner minutieusement",
+"def": "To examine something very carefully",
+"syn": "inspect, examine, study",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Auditors scrutinised the company's accounts."
+},
+{
+"w": "scrutiny",
+"fr": "examen minutieux",
+"def": "Careful and detailed examination",
+"syn": "inspection, examination, analysis",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The minister's decisions came under close scrutiny."
+},
+{
+"w": "seamless",
+"fr": "homogène, sans accroc",
+"def": "Smooth and continuous, without problems or interruptions",
+"syn": "smooth, uninterrupted, flawless",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The transition to the new system was seamless."
+},
+{
+"w": "secluded",
+"fr": "isolé, retiré",
+"def": "Quiet, private and away from other people",
+"syn": "isolated, remote, private",
+"lvl": "C1",
+"pos": "adj",
+"ex": "We found a secluded beach."
+},
+{
+"w": "segregate",
+"fr": "séparer, ségréguer",
+"def": "To keep one group of people or things apart from others",
+"syn": "separate, isolate, divide",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Boys and girls were segregated at school."
+},
+{
+"w": "semblance",
+"fr": "semblant, apparence",
+"def": "A situation or quality that seems to exist, at least partly",
+"syn": "appearance, show, veneer",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Life slowly returned to some semblance of normality."
+},
+{
+"w": "setback",
+"fr": "revers, contretemps",
+"def": "A problem that delays or stops progress",
+"syn": "hitch, obstacle, reversal",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The injury was a major setback for his career."
+},
+{
+"w": "shed",
+"fr": "perdre, se débarrasser de",
+"def": "To get rid of something unwanted, or let something fall off",
+"syn": "discard, drop, lose",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The company plans to shed 500 jobs."
+},
+{
+"w": "shrewd",
+"fr": "perspicace, astucieux",
+"def": "Clever at understanding situations and making good judgements",
+"syn": "astute, sharp, canny",
+"lvl": "C1",
+"pos": "adj",
+"ex": "She is a shrewd negotiator."
+},
+{
+"w": "shun",
+"fr": "fuir, éviter",
+"def": "To deliberately avoid someone or something",
+"syn": "avoid, reject, ostracise",
+"lvl": "C1",
+"pos": "verb",
+"ex": "He was shunned by his former friends."
+},
+{
+"w": "sideline",
+"fr": "écarter, mettre sur la touche",
+"def": "To remove someone from an active or important role",
+"syn": "exclude, marginalise, bench",
+"lvl": "C1",
+"pos": "verb",
+"ex": "He was sidelined for weeks with an injury."
+},
+{
+"w": "simultaneous",
+"fr": "simultané",
+"def": "Happening at exactly the same time",
+"syn": "concurrent, synchronous, coinciding",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The concert had simultaneous broadcasts in ten countries."
+},
+{
+"w": "skew",
+"fr": "fausser, biaiser",
+"def": "To make information inaccurate or not typical",
+"syn": "distort, bias, slant",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The small sample may have skewed the results."
+},
+{
+"w": "slander",
+"fr": "calomnie, diffamation",
+"def": "A false spoken statement that damages someone's reputation",
+"syn": "defamation, libel, smear",
+"lvl": "C1",
+"pos": "noun",
+"ex": "He sued the journalist for slander."
+},
+{
+"w": "sluggish",
+"fr": "lent, au ralenti",
+"def": "Moving or working more slowly than normal",
+"syn": "slow, lethargic, inactive",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Economic growth remains sluggish."
+},
+{
+"w": "smother",
+"fr": "étouffer",
+"def": "To kill by covering the face, or to cover completely",
+"syn": "suffocate, stifle, cover",
+"lvl": "C1",
+"pos": "verb",
+"ex": "She smothered the flames with a blanket."
+},
+{
+"w": "snag",
+"fr": "hic, inconvénient",
+"def": "A small, unexpected problem or difficulty",
+"syn": "hitch, drawback, catch",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The only snag is that it's expensive."
+},
+{
+"w": "soar",
+"fr": "monter en flèche, s'envoler",
+"def": "To rise very quickly to a high level",
+"syn": "rocket, surge, climb",
+"lvl": "C1",
+"pos": "verb",
+"ex": "House prices have soared this year."
+},
+{
+"w": "sober",
+"fr": "sobre, sérieux",
+"def": "Serious and calm; or not drunk",
+"syn": "serious, solemn, clear-headed",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The report makes sober reading."
+},
+{
+"w": "solace",
+"fr": "réconfort",
+"def": "Comfort when you are sad or worried",
+"syn": "comfort, consolation, relief",
+"lvl": "C1",
+"pos": "noun",
+"ex": "She found solace in music after his death."
+},
+{
+"w": "solicit",
+"fr": "solliciter",
+"def": "To ask someone for money, information or help",
+"syn": "request, seek, ask for",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The council is soliciting views from local residents."
+},
+{
+"w": "sombre",
+"fr": "sombre, morne",
+"def": "Serious, sad or dark in colour",
+"syn": "gloomy, grave, dark",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The mood at the funeral was sombre."
+},
+{
+"w": "sovereign",
+"fr": "souverain",
+"def": "Having complete power to govern itself",
+"syn": "independent, autonomous, self-governing",
+"lvl": "C1",
+"pos": "adj",
+"ex": "It became a sovereign state in 1991."
+},
+{
+"w": "sovereignty",
+"fr": "souveraineté",
+"def": "The power of a country to control its own government",
+"syn": "autonomy, independence, self-rule",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Both countries claim sovereignty over the islands."
+},
+{
+"w": "sparse",
+"fr": "clairsemé, épars",
+"def": "Small in number or amount and spread out",
+"syn": "scanty, scattered, thin",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Vegetation is sparse in the desert."
+},
+{
+"w": "spearhead",
+"fr": "mener, être le fer de lance",
+"def": "To lead an attack, campaign or organised action",
+"syn": "lead, head, pioneer",
+"lvl": "C1",
+"pos": "verb",
+"ex": "She spearheaded the campaign for equal pay."
+},
+{
+"w": "speculate",
+"fr": "spéculer, conjecturer",
+"def": "To guess possible answers without having all the facts",
+"syn": "conjecture, guess, surmise",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Journalists speculated about the reasons for his resignation."
+},
+{
+"w": "sporadic",
+"fr": "sporadique",
+"def": "Happening at irregular intervals, not continuously",
+"syn": "occasional, intermittent, irregular",
+"lvl": "C1",
+"pos": "adj",
+"ex": "There has been sporadic fighting in the north."
+},
+{
+"w": "spur",
+"fr": "inciter, stimuler",
+"def": "To encourage someone or make something happen faster",
+"syn": "prompt, stimulate, drive",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Lower taxes could spur economic growth."
+},
+{
+"w": "squander",
+"fr": "gaspiller, dilapider",
+"def": "To waste money, time or opportunities",
+"syn": "waste, fritter away, misuse",
+"lvl": "C1",
+"pos": "verb",
+"ex": "He squandered his inheritance on gambling."
+},
+{
+"w": "stagnant",
+"fr": "stagnant",
+"def": "Not moving, flowing or developing",
+"syn": "still, static, inactive",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Wages have remained stagnant for years."
+},
+{
+"w": "stake",
+"fr": "enjeu, participation",
+"def": "A share in a business; something that can be won or lost",
+"syn": "share, interest, investment",
+"lvl": "C1",
+"pos": "noun",
+"ex": "There is a lot at stake in this election."
+},
+{
+"w": "stalemate",
+"fr": "impasse",
+"def": "A situation in which neither side can make progress",
+"syn": "deadlock, impasse, standoff",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Negotiations have reached a stalemate."
+},
+{
+"w": "stance",
+"fr": "position, prise de position",
+"def": "An attitude or opinion that is publicly stated",
+"syn": "position, standpoint, view",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The party has changed its stance on immigration."
+},
+{
+"w": "staple",
+"fr": "aliment de base, pilier",
+"def": "A basic food or product that is used regularly",
+"syn": "basic, mainstay, essential",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Rice is the staple of their diet."
+},
+{
+"w": "startle",
+"fr": "faire sursauter, effrayer",
+"def": "To suddenly surprise or slightly frighten someone",
+"syn": "surprise, alarm, shock",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The noise startled the birds."
+},
+{
+"w": "stature",
+"fr": "stature, envergure",
+"def": "The reputation and importance someone has; or their height",
+"syn": "standing, status, eminence",
+"lvl": "C1",
+"pos": "noun",
+"ex": "She is a writer of international stature."
+},
+{
+"w": "staunch",
+"fr": "fervent, inconditionnel",
+"def": "Very loyal and committed",
+"syn": "loyal, steadfast, devoted",
+"lvl": "C1",
+"pos": "adj",
+"ex": "He is a staunch supporter of the party."
+},
+{
+"w": "steadfast",
+"fr": "inébranlable, constant",
+"def": "Firm and not changing in purpose or loyalty",
+"syn": "resolute, unwavering, loyal",
+"lvl": "C1",
+"pos": "adj",
+"ex": "She remained steadfast in her beliefs."
+},
+{
+"w": "stem from",
+"fr": "découler de, provenir de",
+"def": "To be caused by or originate in something",
+"syn": "arise from, derive from, result from",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "His problems stem from a difficult childhood."
+},
+{
+"w": "stifle",
+"fr": "étouffer, réprimer",
+"def": "To prevent something from happening or developing",
+"syn": "suppress, smother, restrain",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Too many rules can stifle creativity."
+},
+{
+"w": "stigma",
+"fr": "stigmate, honte",
+"def": "Strong social disapproval of a quality or circumstance",
+"syn": "shame, disgrace, taint",
+"lvl": "C1",
+"pos": "noun",
+"ex": "There is still a stigma attached to mental illness."
+},
+{
+"w": "stipulate",
+"fr": "stipuler",
+"def": "To state clearly that something must be done",
+"syn": "specify, require, lay down",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The contract stipulates a 30-day notice period."
+},
+{
+"w": "strenuous",
+"fr": "ardu, intense",
+"def": "Needing a lot of effort or energy",
+"syn": "arduous, demanding, vigorous",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Avoid strenuous exercise after the operation."
+},
+{
+"w": "stringent",
+"fr": "strict, rigoureux",
+"def": "Very strict and precise",
+"syn": "strict, rigorous, tough",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Stringent safety regulations apply to all factories."
+},
+{
+"w": "subdue",
+"fr": "maîtriser, soumettre",
+"def": "To bring under control, usually by force",
+"syn": "overpower, quell, suppress",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Police subdued the attacker."
+},
+{
+"w": "subordinate",
+"fr": "subordonné",
+"def": "A person with a lower position at work",
+"syn": "junior, inferior, underling",
+"lvl": "C1",
+"pos": "noun",
+"ex": "She treats her subordinates with respect."
+},
+{
+"w": "subsequent",
+"fr": "ultérieur, suivant",
+"def": "Happening after something else",
+"syn": "following, later, ensuing",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Subsequent research confirmed the findings."
+},
+{
+"w": "subsidise",
+"fr": "subventionner",
+"def": "To pay part of the cost of something",
+"syn": "fund, finance, sponsor",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The government subsidises public transport."
+},
+{
+"w": "subsidy",
+"fr": "subvention",
+"def": "Money given by a government to reduce costs",
+"syn": "grant, funding, allowance",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Farmers receive large subsidies from the EU."
+},
+{
+"w": "substantiate",
+"fr": "étayer, prouver",
+"def": "To provide evidence to prove that something is true",
+"syn": "prove, support, confirm",
+"lvl": "C1",
+"pos": "verb",
+"ex": "He could not substantiate his claims."
+},
+{
+"w": "succinct",
+"fr": "succinct, concis",
+"def": "Expressed clearly in few words",
+"syn": "concise, brief, terse",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Give a succinct summary of the article."
+},
+{
+"w": "succumb",
+"fr": "succomber, céder",
+"def": "To be unable to resist something; or to die of illness",
+"syn": "give in, yield, surrender",
+"lvl": "C1",
+"pos": "verb",
+"ex": "I finally succumbed to temptation and ate the cake."
+},
+{
+"w": "suffice",
+"fr": "suffire",
+"def": "To be enough",
+"syn": "be enough, do, serve",
+"lvl": "C1",
+"pos": "verb",
+"ex": "A short note will suffice."
+},
+{
+"w": "superfluous",
+"fr": "superflu",
+"def": "More than is needed; unnecessary",
+"syn": "unnecessary, redundant, surplus",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Remove any superfluous words from your essay."
+},
+{
+"w": "supersede",
+"fr": "remplacer, supplanter",
+"def": "To replace something older or less effective",
+"syn": "replace, supplant, succeed",
+"lvl": "C1",
+"pos": "verb",
+"ex": "DVDs were superseded by streaming services."
+},
+{
+"w": "surge",
+"fr": "montée subite, poussée",
+"def": "A sudden large increase",
+"syn": "rise, upsurge, increase",
+"lvl": "C1",
+"pos": "noun",
+"ex": "There was a surge in demand for masks."
+},
+{
+"w": "surmount",
+"fr": "surmonter",
+"def": "To deal successfully with a difficulty",
+"syn": "overcome, conquer, get over",
+"lvl": "C1",
+"pos": "verb",
+"ex": "She surmounted many obstacles to succeed."
+},
+{
+"w": "surpass",
+"fr": "dépasser, surpasser",
+"def": "To be better or greater than something else",
+"syn": "exceed, outdo, beat",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The results surpassed all our expectations."
+},
+{
+"w": "surplus",
+"fr": "excédent, surplus",
+"def": "An amount that is more than what is needed",
+"syn": "excess, surfeit, glut",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The country has a trade surplus."
+},
+{
+"w": "susceptible",
+"fr": "sensible à, vulnérable",
+"def": "Easily influenced or harmed by something",
+"syn": "vulnerable, prone, liable",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Older people are more susceptible to infection."
+},
+{
+"w": "sway",
+"fr": "influencer, osciller",
+"def": "To persuade someone to change their opinion; to move gently",
+"syn": "influence, persuade, swing",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Voters were swayed by the debate."
+},
+{
+"w": "swift",
+"fr": "rapide, prompt",
+"def": "Happening quickly or immediately",
+"syn": "rapid, prompt, speedy",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The government took swift action."
+},
+{
+"w": "symptomatic",
+"fr": "symptomatique",
+"def": "Showing that a particular problem exists",
+"syn": "indicative, characteristic, typical",
+"lvl": "C1",
+"pos": "adj",
+"ex": "These protests are symptomatic of deeper discontent."
+},
+{
+"w": "synthesis",
+"fr": "synthèse",
+"def": "The combination of separate ideas or things into a whole",
+"syn": "combination, fusion, integration",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Her style is a synthesis of jazz and folk."
+},
+{
+"w": "scrap",
+"fr": "abandonner, supprimer",
+"def": "To get rid of or cancel something",
+"syn": "abolish, discard, drop",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The plan was scrapped due to lack of funds."
+},
+{
+"w": "scramble",
+"fr": "se ruer, se bousculer",
+"def": "To compete or hurry in a disorganised way",
+"syn": "rush, jostle, scurry",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Investors scrambled to sell their shares."
+},
+{
+"w": "sentiment",
+"fr": "sentiment, opinion",
+"def": "An opinion or feeling about something",
+"syn": "feeling, view, attitude",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Public sentiment is turning against the war."
+},
+{
+"w": "shortcoming",
+"fr": "défaut, lacune",
+"def": "A fault or weakness",
+"syn": "flaw, defect, weakness",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Despite its shortcomings, the plan is a good start."
+},
+{
+"w": "showcase",
+"fr": "mettre en valeur, vitrine",
+"def": "To show the best qualities of something",
+"syn": "display, exhibit, present",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The festival showcases local talent."
+},
+{
+"w": "simulate",
+"fr": "simuler",
+"def": "To create conditions that look or feel real",
+"syn": "imitate, reproduce, mimic",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The software simulates real flying conditions."
+},
+{
+"w": "slump",
+"fr": "effondrement, chute",
+"def": "A sudden fall in prices, sales or activity",
+"syn": "decline, drop, downturn",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The housing market is in a slump."
+},
+{
+"w": "smuggle",
+"fr": "passer en contrebande",
+"def": "To move goods or people illegally into or out of a place",
+"syn": "traffic, sneak, run",
+"lvl": "C1",
+"pos": "verb",
+"ex": "They were caught smuggling drugs across the border."
+},
+{
+"w": "solidarity",
+"fr": "solidarité",
+"def": "Support and agreement among people with shared interests",
+"syn": "unity, mutual support, cohesion",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The workers went on strike in solidarity."
+},
+{
+"w": "soothe",
+"fr": "apaiser, calmer",
+"def": "To make someone calmer or reduce pain",
+"syn": "calm, comfort, relieve",
+"lvl": "C1",
+"pos": "verb",
+"ex": "This cream will soothe the burn."
+},
+{
+"w": "spawn",
+"fr": "engendrer, donner naissance à",
+"def": "To cause something new to develop or appear",
+"syn": "generate, produce, give rise to",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The film spawned several sequels."
+},
+{
+"w": "spectrum",
+"fr": "éventail, spectre",
+"def": "A complete range of different opinions, people or things",
+"syn": "range, scope, gamut",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Politicians from across the political spectrum agreed."
+},
+{
+"w": "stagger",
+"fr": "tituber, échelonner",
+"def": "To walk unsteadily; or to arrange events at different times",
+"syn": "totter, lurch, spread out",
+"lvl": "C1",
+"pos": "verb",
+"ex": "He staggered home after the party."
+},
+{
+"w": "stark",
+"fr": "saisissant, brutal",
+"def": "Very obvious, plain or harsh",
+"syn": "sharp, blunt, harsh",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The figures are a stark reminder of the problem."
+},
+{
+"w": "stern",
+"fr": "sévère, austère",
+"def": "Serious and strict, often showing disapproval",
+"syn": "strict, severe, austere",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The teacher gave him a stern look."
+},
+{
+"w": "stockpile",
+"fr": "stocker, faire des réserves",
+"def": "To collect a large supply of something for future use",
+"syn": "hoard, amass, store",
+"lvl": "C1",
+"pos": "verb",
+"ex": "People began stockpiling food before the storm."
+},
+{
+"w": "stray",
+"fr": "errant, perdu",
+"def": "Lost or away from home; or separated from the main group",
+"syn": "lost, wandering, homeless",
+"lvl": "C1",
+"pos": "adj",
+"ex": "She adopted a stray cat."
+},
+{
+"w": "streamline",
+"fr": "rationaliser, simplifier",
+"def": "To make a system more efficient and simple",
+"syn": "simplify, rationalise, modernise",
+"lvl": "C1",
+"pos": "verb",
+"ex": "We need to streamline our procedures."
+},
+{
+"w": "sturdy",
+"fr": "solide, robuste",
+"def": "Strong and not easily broken",
+"syn": "robust, solid, durable",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Wear sturdy shoes for the hike."
+},
+{
+"w": "subtlety",
+"fr": "subtilité",
+"def": "A small detail or quality that is not obvious",
+"syn": "nuance, finesse, delicacy",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The translation loses some of the subtleties of the original."
+},
+{
+"w": "surveillance",
+"fr": "surveillance",
+"def": "Careful watching of a person or place, especially by police",
+"syn": "monitoring, observation, scrutiny",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The suspect was kept under surveillance."
+},
+{
+"w": "sweeping",
+"fr": "radical, de grande envergure",
+"def": "Affecting many things; or too general",
+"syn": "far-reaching, wide-ranging, broad",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The new government made sweeping changes."
+},
+{
+"w": "synonymous",
+"fr": "synonyme",
+"def": "So closely linked that one suggests the other",
+"syn": "associated, equivalent, identified",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The brand is synonymous with luxury."
+},
+{
+"w": "taboo",
+"fr": "tabou",
+"def": "A subject or action that society avoids or forbids",
+"syn": "prohibition, ban, no-go area",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Death is still a taboo in many cultures."
+},
+{
+"w": "tacit",
+"fr": "tacite",
+"def": "Understood without being stated directly",
+"syn": "implicit, unspoken, implied",
+"lvl": "C1",
+"pos": "adj",
+"ex": "They had a tacit agreement not to discuss politics."
+},
+{
+"w": "tactful",
+"fr": "plein de tact, diplomate",
+"def": "Careful not to say things that upset or offend people",
+"syn": "diplomatic, discreet, sensitive",
+"lvl": "C1",
+"pos": "adj",
+"ex": "That wasn't a very tactful remark."
+},
+{
+"w": "tangible",
+"fr": "tangible, concret",
+"def": "Real and able to be shown, touched or measured",
+"syn": "concrete, real, palpable",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The reforms have produced tangible benefits."
+},
+{
+"w": "tantamount to",
+"fr": "équivalent à",
+"def": "Almost the same as something, usually something bad",
+"syn": "equivalent to, as good as",
+"lvl": "C1",
+"pos": "adj",
+"ex": "His refusal was tantamount to an admission of guilt."
+},
+{
+"w": "tarnish",
+"fr": "ternir",
+"def": "To damage someone's reputation; or to make metal dull",
+"syn": "sully, stain, damage",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The scandal tarnished his image."
+},
+{
+"w": "taunt",
+"fr": "railler, provoquer",
+"def": "To say unkind things to annoy or upset someone",
+"syn": "tease, mock, jeer",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The other boys taunted him about his weight."
+},
+{
+"w": "tedious",
+"fr": "fastidieux, ennuyeux",
+"def": "Boring and lasting too long",
+"syn": "boring, monotonous, dull",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Filling in forms is a tedious task."
+},
+{
+"w": "temperament",
+"fr": "tempérament",
+"def": "A person's usual nature and way of reacting",
+"syn": "nature, disposition, character",
+"lvl": "C1",
+"pos": "noun",
+"ex": "She has a calm temperament."
+},
+{
+"w": "tenacious",
+"fr": "tenace",
+"def": "Determined and not giving up easily",
+"syn": "persistent, determined, dogged",
+"lvl": "C1",
+"pos": "adj",
+"ex": "She is a tenacious journalist."
+},
+{
+"w": "tenure",
+"fr": "mandat, titularisation",
+"def": "The period of holding a position; or a permanent job",
+"syn": "term, incumbency, tenancy",
+"lvl": "C1",
+"pos": "noun",
+"ex": "During his tenure as mayor, crime fell sharply."
+},
+{
+"w": "tentative",
+"fr": "provisoire, hésitant",
+"def": "Not certain or final; done without confidence",
+"syn": "provisional, hesitant, cautious",
+"lvl": "C1",
+"pos": "adj",
+"ex": "We made tentative plans to meet next week."
+},
+{
+"w": "terminate",
+"fr": "résilier, mettre fin à",
+"def": "To end something officially",
+"syn": "end, cancel, discontinue",
+"lvl": "C1",
+"pos": "verb",
+"ex": "His contract was terminated without warning."
+},
+{
+"w": "testimony",
+"fr": "témoignage",
+"def": "A formal statement that something is true, especially in court",
+"syn": "evidence, statement, witness",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Her testimony led to his conviction."
+},
+{
+"w": "thereby",
+"fr": "de ce fait, ainsi",
+"def": "As a result of the action just mentioned",
+"syn": "thus, consequently, by that means",
+"lvl": "C1",
+"pos": "adv",
+"ex": "He signed the contract, thereby accepting the terms."
+},
+{
+"w": "thrive",
+"fr": "prospérer, s'épanouir",
+"def": "To grow, develop or succeed very well",
+"syn": "flourish, prosper, boom",
+"lvl": "C1",
+"pos": "verb",
+"ex": "These plants thrive in sunny conditions."
+},
+{
+"w": "thwart",
+"fr": "contrecarrer, déjouer",
+"def": "To prevent someone from doing what they planned",
+"syn": "foil, frustrate, block",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Police thwarted a bank robbery."
+},
+{
+"w": "tier",
+"fr": "niveau, échelon",
+"def": "One of several levels in an organisation or system",
+"syn": "level, layer, rank",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The company has three tiers of management."
+},
+{
+"w": "timid",
+"fr": "timide, craintif",
+"def": "Shy and lacking courage or confidence",
+"syn": "shy, fearful, nervous",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The timid child hid behind his mother."
+},
+{
+"w": "toll",
+"fr": "bilan, péage",
+"def": "The number of deaths or damage caused; or a road charge",
+"syn": "cost, loss, charge",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The death toll from the earthquake has risen to 300."
+},
+{
+"w": "torment",
+"fr": "tourmenter",
+"def": "To make someone suffer, physically or mentally",
+"syn": "torture, distress, harass",
+"lvl": "C1",
+"pos": "verb",
+"ex": "He was tormented by guilt."
+},
+{
+"w": "tout",
+"fr": "vanter, présenter comme",
+"def": "To praise or promote something strongly",
+"syn": "promote, advertise, hype",
+"lvl": "C1",
+"pos": "verb",
+"ex": "She is being touted as the next prime minister."
+},
+{
+"w": "trait",
+"fr": "trait, caractéristique",
+"def": "A particular quality in someone's character",
+"syn": "characteristic, feature, quality",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Honesty is his best trait."
+},
+{
+"w": "tranquil",
+"fr": "paisible, tranquille",
+"def": "Calm, quiet and peaceful",
+"syn": "peaceful, calm, serene",
+"lvl": "C1",
+"pos": "adj",
+"ex": "They live in a tranquil village."
+},
+{
+"w": "transcend",
+"fr": "transcender, dépasser",
+"def": "To go beyond the usual limits of something",
+"syn": "surpass, rise above, exceed",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Great music transcends cultural boundaries."
+},
+{
+"w": "transient",
+"fr": "passager, éphémère",
+"def": "Lasting only for a short time",
+"syn": "temporary, fleeting, short-lived",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Fame can be very transient."
+},
+{
+"w": "traverse",
+"fr": "traverser",
+"def": "To move across or through an area",
+"syn": "cross, pass through, travel over",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The road traverses the mountain range."
+},
+{
+"w": "treacherous",
+"fr": "dangereux, traître",
+"def": "Very dangerous; or likely to betray people",
+"syn": "perilous, hazardous, disloyal",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Icy roads made driving treacherous."
+},
+{
+"w": "tremor",
+"fr": "secousse, tremblement",
+"def": "A slight shaking of the ground or of the body",
+"syn": "shaking, quake, quiver",
+"lvl": "C1",
+"pos": "noun",
+"ex": "An earth tremor was felt in the capital."
+},
+{
+"w": "trepidation",
+"fr": "appréhension, inquiétude",
+"def": "Fear or worry about something that will happen",
+"syn": "apprehension, anxiety, dread",
+"lvl": "C1",
+"pos": "noun",
+"ex": "She opened the letter with trepidation."
+},
+{
+"w": "truce",
+"fr": "trêve",
+"def": "An agreement to stop fighting for a time",
+"syn": "ceasefire, armistice, peace",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The two sides agreed to a truce."
+},
+{
+"w": "turbulent",
+"fr": "agité, tumultueux",
+"def": "Full of sudden changes, conflict or disorder",
+"syn": "stormy, chaotic, unstable",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The country has a turbulent history."
+},
+{
+"w": "turmoil",
+"fr": "tourmente, chaos",
+"def": "A state of great confusion, disorder or anxiety",
+"syn": "chaos, upheaval, confusion",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The economy is in turmoil."
+},
+{
+"w": "turnover",
+"fr": "chiffre d'affaires, rotation",
+"def": "The money a business earns; or the rate staff leave",
+"syn": "revenue, sales, staff changes",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The firm has an annual turnover of ten million euros."
+},
+{
+"w": "tycoon",
+"fr": "magnat",
+"def": "A very rich and powerful businessperson",
+"syn": "magnate, mogul, baron",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The newspaper is owned by a media tycoon."
+},
+{
+"w": "tamper with",
+"fr": "trafiquer, altérer",
+"def": "To interfere with something in order to damage or alter it",
+"syn": "interfere with, meddle with, manipulate",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "Someone had tampered with the brakes."
+},
+{
+"w": "taper off",
+"fr": "diminuer progressivement",
+"def": "To gradually become smaller or less",
+"syn": "decrease, decline, dwindle",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "Sales tend to taper off after Christmas."
+},
+{
+"w": "tariff",
+"fr": "droit de douane, tarif",
+"def": "A tax on goods coming into or leaving a country",
+"syn": "duty, levy, tax",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The US raised tariffs on imported steel."
+},
+{
+"w": "testament",
+"fr": "preuve, témoignage",
+"def": "Something that clearly proves a quality or fact",
+"syn": "proof, evidence, tribute",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Her success is a testament to her hard work."
+},
+{
+"w": "threshold",
+"fr": "seuil",
+"def": "The level at which something starts to happen",
+"syn": "limit, point, verge",
+"lvl": "C1",
+"pos": "noun",
+"ex": "He has a low pain threshold."
+},
+{
+"w": "tilt",
+"fr": "incliner, pencher",
+"def": "To move into a sloping position",
+"syn": "tip, lean, slant",
+"lvl": "C1",
+"pos": "verb",
+"ex": "She tilted her head to one side."
+},
+{
+"w": "tinker",
+"fr": "bricoler",
+"def": "To make small changes to something to try to improve it",
+"syn": "fiddle, tweak, adjust",
+"lvl": "C1",
+"pos": "verb",
+"ex": "He spent the weekend tinkering with his car."
+},
+{
+"w": "token",
+"fr": "symbolique",
+"def": "Done only as a small gesture, not seriously",
+"syn": "symbolic, nominal, perfunctory",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The protesters put up only token resistance."
+},
+{
+"w": "topple",
+"fr": "renverser, faire tomber",
+"def": "To make something fall; or to remove a leader from power",
+"syn": "overthrow, overturn, bring down",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The government was toppled by a military coup."
+},
+{
+"w": "trajectory",
+"fr": "trajectoire",
+"def": "The curved path of a moving object; or a course of development",
+"syn": "path, course, route",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Her career followed an upward trajectory."
+},
+{
+"w": "trauma",
+"fr": "traumatisme",
+"def": "Severe emotional shock or physical injury",
+"syn": "shock, distress, injury",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Many survivors suffer from long-term trauma."
+},
+{
+"w": "trespass",
+"fr": "entrer sans autorisation",
+"def": "To go onto someone's land without permission",
+"syn": "intrude, encroach, invade",
+"lvl": "C1",
+"pos": "verb",
+"ex": "They were arrested for trespassing on private property."
+},
+{
+"w": "tribute",
+"fr": "hommage",
+"def": "Something said or done to show respect or admiration",
+"syn": "homage, honour, accolade",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Fans paid tribute to the late singer."
+},
+{
+"w": "trickle",
+"fr": "filet, couler goutte à goutte",
+"def": "A small, slow flow of liquid or of people or things",
+"syn": "dribble, drip, trace",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Only a trickle of tourists visited this year."
+},
+{
+"w": "trivialise",
+"fr": "banaliser, minimiser",
+"def": "To make something seem less important than it really is",
+"syn": "belittle, minimise, downplay",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The film trivialises the suffering of war victims."
+},
+{
+"w": "tumultuous",
+"fr": "tumultueux",
+"def": "Very loud, noisy or full of confusion and change",
+"syn": "turbulent, stormy, uproarious",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The band received tumultuous applause."
+},
+{
+"w": "tweak",
+"fr": "peaufiner, ajuster",
+"def": "To make a small change to improve something",
+"syn": "adjust, fine-tune, modify",
+"lvl": "C1",
+"pos": "verb",
+"ex": "We just need to tweak the design a little."
+},
+{
+"w": "twofold",
+"fr": "double",
+"def": "Having two parts; or twice as much",
+"syn": "double, dual, twice",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The problem is twofold."
+},
+{
+"w": "ubiquitous",
+"fr": "omniprésent",
+"def": "Seeming to be everywhere at the same time",
+"syn": "omnipresent, pervasive, everywhere",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Smartphones have become ubiquitous."
+},
+{
+"w": "ultimatum",
+"fr": "ultimatum",
+"def": "A final demand with a threat if it is not met",
+"syn": "final demand, final warning",
+"lvl": "C1",
+"pos": "noun",
+"ex": "She gave him an ultimatum: stop drinking or leave."
+},
+{
+"w": "unanimous",
+"fr": "unanime",
+"def": "Agreed by everyone",
+"syn": "united, undivided, consensual",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The decision was unanimous."
+},
+{
+"w": "unbiased",
+"fr": "impartial, objectif",
+"def": "Fair and not influenced by personal opinions",
+"syn": "impartial, neutral, objective",
+"lvl": "C1",
+"pos": "adj",
+"ex": "We need an unbiased assessment of the situation."
+},
+{
+"w": "uncanny",
+"fr": "troublant, étrange",
+"def": "Strange and difficult to explain",
+"syn": "eerie, weird, remarkable",
+"lvl": "C1",
+"pos": "adj",
+"ex": "She bears an uncanny resemblance to my sister."
+},
+{
+"w": "undermine",
+"fr": "saper, compromettre",
+"def": "To gradually weaken or damage something",
+"syn": "weaken, erode, sabotage",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Constant criticism undermined her confidence."
+},
+{
+"w": "underpin",
+"fr": "sous-tendre, étayer",
+"def": "To support or form the basis of something",
+"syn": "support, underlie, reinforce",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Strong values underpin the company's success."
+},
+{
+"w": "undertake",
+"fr": "entreprendre",
+"def": "To accept and begin a task or responsibility",
+"syn": "take on, embark on, assume",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The university is undertaking a major research project."
+},
+{
+"w": "underscore",
+"fr": "souligner",
+"def": "To emphasise that something is important",
+"syn": "emphasise, highlight, stress",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The accident underscores the need for better training."
+},
+{
+"w": "undue",
+"fr": "excessif, injustifié",
+"def": "More than is necessary or reasonable",
+"syn": "excessive, unwarranted, unreasonable",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Don't put undue pressure on the children."
+},
+{
+"w": "unearth",
+"fr": "déterrer, découvrir",
+"def": "To find something buried or hidden",
+"syn": "dig up, discover, uncover",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Archaeologists unearthed a Roman villa."
+},
+{
+"w": "unequivocal",
+"fr": "sans équivoque",
+"def": "Completely clear, with no doubt or uncertainty",
+"syn": "unambiguous, clear, explicit",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The answer was an unequivocal no."
+},
+{
+"w": "unfold",
+"fr": "se dérouler, déplier",
+"def": "To develop or be revealed gradually",
+"syn": "develop, evolve, emerge",
+"lvl": "C1",
+"pos": "verb",
+"ex": "We watched the drama unfold on TV."
+},
+{
+"w": "unforeseen",
+"fr": "imprévu",
+"def": "Not expected or predicted",
+"syn": "unexpected, unanticipated, unpredicted",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The concert was cancelled due to unforeseen circumstances."
+},
+{
+"w": "unprecedented",
+"fr": "sans précédent",
+"def": "Never having happened or existed before",
+"syn": "unparalleled, unheard-of, exceptional",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The pandemic caused unprecedented disruption."
+},
+{
+"w": "unravel",
+"fr": "démêler, s'effondrer",
+"def": "To solve something complicated; or to start to fail",
+"syn": "solve, untangle, collapse",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Detectives are trying to unravel the mystery."
+},
+{
+"w": "unrest",
+"fr": "agitation, troubles",
+"def": "Angry disagreement or protests among a group of people",
+"syn": "disturbance, turmoil, agitation",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Rising food prices led to social unrest."
+},
+{
+"w": "unruly",
+"fr": "indiscipliné, turbulent",
+"def": "Difficult to control or behaving badly",
+"syn": "disorderly, rowdy, wild",
+"lvl": "C1",
+"pos": "adj",
+"ex": "An unruly passenger was removed from the plane."
+},
+{
+"w": "unscrupulous",
+"fr": "sans scrupules",
+"def": "Behaving dishonestly without caring about others",
+"syn": "unprincipled, dishonest, corrupt",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Unscrupulous landlords exploit vulnerable tenants."
+},
+{
+"w": "unveil",
+"fr": "dévoiler",
+"def": "To show or announce something new for the first time",
+"syn": "reveal, present, launch",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The company unveiled its latest model yesterday."
+},
+{
+"w": "unwarranted",
+"fr": "injustifié",
+"def": "Not deserved or justified",
+"syn": "unjustified, unfounded, unnecessary",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The criticism was completely unwarranted."
+},
+{
+"w": "unwavering",
+"fr": "inébranlable",
+"def": "Not changing or becoming weaker",
+"syn": "steadfast, firm, resolute",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Thank you for your unwavering support."
+},
+{
+"w": "upbringing",
+"fr": "éducation",
+"def": "The way a child is cared for and taught by parents",
+"syn": "raising, rearing, education",
+"lvl": "C1",
+"pos": "noun",
+"ex": "She had a strict religious upbringing."
+},
+{
+"w": "upheaval",
+"fr": "bouleversement",
+"def": "A big change that causes disruption or confusion",
+"syn": "disruption, turmoil, disturbance",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Moving house is a major upheaval."
+},
+{
+"w": "uphold",
+"fr": "maintenir, défendre",
+"def": "To support or defend a law, decision or principle",
+"syn": "maintain, support, defend",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The court upheld the original verdict."
+},
+{
+"w": "upkeep",
+"fr": "entretien",
+"def": "The cost or process of keeping something in good condition",
+"syn": "maintenance, care, running costs",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The upkeep of a large house is expensive."
+},
+{
+"w": "uproar",
+"fr": "tollé, tumulte",
+"def": "A loud, angry public reaction or noisy confusion",
+"syn": "outcry, furore, commotion",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The decision caused an uproar among fans."
+},
+{
+"w": "utilise",
+"fr": "utiliser, exploiter",
+"def": "To use something in an effective way",
+"syn": "use, employ, make use of",
+"lvl": "C1",
+"pos": "verb",
+"ex": "We must utilise our resources more efficiently."
+},
+{
+"w": "utmost",
+"fr": "le plus grand, extrême",
+"def": "Of the greatest possible degree",
+"syn": "greatest, maximum, highest",
+"lvl": "C1",
+"pos": "adj",
+"ex": "This matter is of the utmost importance."
+},
+{
+"w": "utter",
+"fr": "prononcer, proférer",
+"def": "To say something or make a sound with your voice",
+"syn": "say, voice, articulate",
+"lvl": "C1",
+"pos": "verb",
+"ex": "She didn't utter a word all evening."
+},
+{
+"w": "unwittingly",
+"fr": "sans le savoir, involontairement",
+"def": "Without knowing or intending to",
+"syn": "unknowingly, unintentionally, inadvertently",
+"lvl": "C1",
+"pos": "adv",
+"ex": "He unwittingly helped the thieves."
+},
+{
+"w": "unduly",
+"fr": "outre mesure",
+"def": "More than is reasonable or necessary",
+"syn": "excessively, overly, unnecessarily",
+"lvl": "C1",
+"pos": "adv",
+"ex": "Don't be unduly worried about the test."
+},
+{
+"w": "unilateral",
+"fr": "unilatéral",
+"def": "Done by one side or group without others' agreement",
+"syn": "one-sided, independent",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The country declared a unilateral ceasefire."
+},
+{
+"w": "underlying",
+"fr": "sous-jacent",
+"def": "Real but not immediately obvious; forming the basis",
+"syn": "fundamental, basic, hidden",
+"lvl": "C1",
+"pos": "adj",
+"ex": "We need to address the underlying causes of poverty."
+},
+{
+"w": "undergo",
+"fr": "subir",
+"def": "To experience something, especially a change or treatment",
+"syn": "go through, experience, endure",
+"lvl": "C1",
+"pos": "verb",
+"ex": "She underwent surgery last month."
+},
+{
+"w": "understated",
+"fr": "sobre, discret",
+"def": "Attractive in a simple, quiet way; not exaggerated",
+"syn": "subtle, restrained, low-key",
+"lvl": "C1",
+"pos": "adj",
+"ex": "She wore an elegant, understated dress."
+},
+{
+"w": "undeniable",
+"fr": "indéniable",
+"def": "Certainly true and impossible to doubt",
+"syn": "indisputable, unquestionable, certain",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Her talent is undeniable."
+},
+{
+"w": "uncharted",
+"fr": "inexploré, inconnu",
+"def": "Not yet explored or experienced",
+"syn": "unexplored, unknown, unmapped",
+"lvl": "C1",
+"pos": "adj",
+"ex": "We are entering uncharted territory."
+},
+{
+"w": "unconditional",
+"fr": "inconditionnel",
+"def": "Complete and without any limits or conditions",
+"syn": "absolute, total, unreserved",
+"lvl": "C1",
+"pos": "adj",
+"ex": "A parent's love should be unconditional."
+},
+{
+"w": "undisputed",
+"fr": "incontesté",
+"def": "Accepted by everyone as true or deserved",
+"syn": "unquestioned, acknowledged, accepted",
+"lvl": "C1",
+"pos": "adj",
+"ex": "He is the undisputed champion."
+},
+{
+"w": "uneasy",
+"fr": "mal à l'aise, inquiet",
+"def": "Slightly worried or uncomfortable",
+"syn": "anxious, uncomfortable, troubled",
+"lvl": "C1",
+"pos": "adj",
+"ex": "I felt uneasy about leaving her alone."
+},
+{
+"w": "unfounded",
+"fr": "sans fondement",
+"def": "Not based on fact or evidence",
+"syn": "baseless, groundless, unjustified",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Your fears are completely unfounded."
+},
+{
+"w": "unwieldy",
+"fr": "encombrant, lourd",
+"def": "Difficult to carry or manage because of size or complexity",
+"syn": "cumbersome, awkward, bulky",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The system has become too unwieldy to manage."
+},
+{
+"w": "upfront",
+"fr": "franc, direct",
+"def": "Honest and open about something",
+"syn": "frank, open, candid",
+"lvl": "C1",
+"pos": "adj",
+"ex": "He was very upfront about his intentions."
+},
+{
+"w": "usher in",
+"fr": "inaugurer, marquer le début de",
+"def": "To mark or cause the start of something new",
+"syn": "introduce, launch, herald",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "The invention ushered in a new era of communication."
+},
+{
+"w": "upsurge",
+"fr": "recrudescence, montée",
+"def": "A sudden increase in something",
+"syn": "surge, rise, increase",
+"lvl": "C1",
+"pos": "noun",
+"ex": "There has been an upsurge in violence."
+},
+{
+"w": "vacant",
+"fr": "vacant, libre",
+"def": "Empty, not being used; or showing no interest or thought",
+"syn": "empty, unoccupied, blank",
+"lvl": "C1",
+"pos": "adj",
+"ex": "There are two vacant positions in the department."
+},
+{
+"w": "validate",
+"fr": "valider, confirmer",
+"def": "To prove that something is true or correct",
+"syn": "confirm, verify, endorse",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Further research is needed to validate the theory."
+},
+{
+"w": "validity",
+"fr": "validité",
+"def": "The quality of being reasonable, legal or acceptable",
+"syn": "legitimacy, soundness, legality",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Some experts question the validity of the study."
+},
+{
+"w": "vehement",
+"fr": "véhément",
+"def": "Expressing strong feelings, especially opposition",
+"syn": "passionate, fierce, forceful",
+"lvl": "C1",
+"pos": "adj",
+"ex": "He was a vehement opponent of the war."
+},
+{
+"w": "velocity",
+"fr": "vitesse, vélocité",
+"def": "The speed of something moving in a particular direction",
+"syn": "speed, pace, rate",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The bullet travels at a high velocity."
+},
+{
+"w": "verdict",
+"fr": "verdict",
+"def": "An official decision in court; or an opinion after thinking",
+"syn": "judgement, ruling, decision",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The jury returned a verdict of not guilty."
+},
+{
+"w": "verge",
+"fr": "bord, bas-côté",
+"def": "The point where something is about to happen; a roadside edge",
+"syn": "brink, edge, threshold",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The company is on the verge of bankruptcy."
+},
+{
+"w": "versatile",
+"fr": "polyvalent",
+"def": "Able to do or be used for many different things",
+"syn": "adaptable, flexible, multipurpose",
+"lvl": "C1",
+"pos": "adj",
+"ex": "She is a versatile actress."
+},
+{
+"w": "viable",
+"fr": "viable, réalisable",
+"def": "Able to work successfully",
+"syn": "feasible, workable, practicable",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Solar power is a viable alternative to oil."
+},
+{
+"w": "vibrant",
+"fr": "dynamique, vivant",
+"def": "Full of energy and life; or very bright in colour",
+"syn": "lively, dynamic, vivid",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Barcelona is a vibrant city."
+},
+{
+"w": "vicious",
+"fr": "violent, méchant",
+"def": "Violent and cruel, intending to hurt",
+"syn": "brutal, savage, cruel",
+"lvl": "C1",
+"pos": "adj",
+"ex": "He was the victim of a vicious attack."
+},
+{
+"w": "vigilant",
+"fr": "vigilant",
+"def": "Watching carefully for danger or problems",
+"syn": "watchful, alert, attentive",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Passengers are asked to remain vigilant."
+},
+{
+"w": "vigorous",
+"fr": "vigoureux, énergique",
+"def": "Strong, healthy and full of energy",
+"syn": "energetic, robust, forceful",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Do thirty minutes of vigorous exercise a day."
+},
+{
+"w": "vindicate",
+"fr": "justifier, donner raison à",
+"def": "To prove that someone was right or not guilty",
+"syn": "justify, exonerate, clear",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The decision was vindicated by later events."
+},
+{
+"w": "violate",
+"fr": "violer, enfreindre",
+"def": "To break a law, rule or agreement",
+"syn": "break, breach, infringe",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The company violated safety regulations."
+},
+{
+"w": "virtually",
+"fr": "pratiquement, quasiment",
+"def": "Almost completely",
+"syn": "almost, practically, nearly",
+"lvl": "C1",
+"pos": "adv",
+"ex": "The town was virtually destroyed by the flood."
+},
+{
+"w": "visionary",
+"fr": "visionnaire",
+"def": "Having original ideas about how the future could be",
+"syn": "imaginative, forward-looking, innovative",
+"lvl": "C1",
+"pos": "adj",
+"ex": "He was a visionary leader."
+},
+{
+"w": "vocal",
+"fr": "qui se fait entendre, virulent",
+"def": "Expressing opinions loudly and often",
+"syn": "outspoken, vociferous, forthright",
+"lvl": "C1",
+"pos": "adj",
+"ex": "She is a vocal critic of the government."
+},
+{
+"w": "void",
+"fr": "nul, vide",
+"def": "Having no legal force; or completely empty",
+"syn": "invalid, null, empty",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The contract was declared null and void."
+},
+{
+"w": "volatile",
+"fr": "instable, volatil",
+"def": "Likely to change suddenly and unexpectedly",
+"syn": "unstable, unpredictable, explosive",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The political situation remains volatile."
+},
+{
+"w": "vow",
+"fr": "jurer, faire le vœu de",
+"def": "To make a serious promise",
+"syn": "pledge, swear, promise",
+"lvl": "C1",
+"pos": "verb",
+"ex": "He vowed never to return."
+},
+{
+"w": "vein",
+"fr": "veine, ton",
+"def": "A tube carrying blood; or a particular style or mood",
+"syn": "blood vessel, style, mood",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The novel continues in a similar comic vein."
+},
+{
+"w": "veto",
+"fr": "veto, opposer son veto",
+"def": "To officially refuse to allow something",
+"syn": "reject, block, forbid",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The president vetoed the bill."
+},
+{
+"w": "vicinity",
+"fr": "voisinage, environs",
+"def": "The area near or around a place",
+"syn": "neighbourhood, surrounding area, proximity",
+"lvl": "C1",
+"pos": "noun",
+"ex": "There are several hotels in the vicinity."
+},
+{
+"w": "vie",
+"fr": "rivaliser",
+"def": "To compete hard to get or achieve something",
+"syn": "compete, contend, strive",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Three teams are vying for the title."
+},
+{
+"w": "vigour",
+"fr": "vigueur, énergie",
+"def": "Physical or mental strength and energy",
+"syn": "energy, vitality, force",
+"lvl": "C1",
+"pos": "noun",
+"ex": "She returned to work with renewed vigour."
+},
+{
+"w": "vilify",
+"fr": "diffamer, dénigrer",
+"def": "To say or write very unpleasant things about someone",
+"syn": "denigrate, defame, malign",
+"lvl": "C1",
+"pos": "verb",
+"ex": "He was vilified by the press."
+},
+{
+"w": "virtue",
+"fr": "vertu, avantage",
+"def": "A good moral quality; or an advantage",
+"syn": "merit, goodness, advantage",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Patience is a virtue."
+},
+{
+"w": "vocation",
+"fr": "vocation",
+"def": "A strong feeling that a job is right for you",
+"syn": "calling, mission, career",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Teaching is a vocation, not just a job."
+},
+{
+"w": "vulnerability",
+"fr": "vulnérabilité",
+"def": "The state of being easily hurt, attacked or influenced",
+"syn": "weakness, fragility, exposure",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Hackers exploited a vulnerability in the software."
+},
+{
+"w": "vested interest",
+"fr": "intérêt personnel",
+"def": "A personal reason for wanting something to happen",
+"syn": "personal stake, self-interest",
+"lvl": "C1",
+"pos": "expression",
+"ex": "He has a vested interest in the project's success."
+},
+{
+"w": "vanguard",
+"fr": "avant-garde",
+"def": "The leading position in a new development or movement",
+"syn": "forefront, cutting edge, front line",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The company is in the vanguard of green technology."
+},
+{
+"w": "wane",
+"fr": "décliner, diminuer",
+"def": "To gradually become weaker or less important",
+"syn": "decline, fade, diminish",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Interest in the scandal soon waned."
+},
+{
+"w": "warrant",
+"fr": "justifier, mandat",
+"def": "To make an action necessary or appropriate",
+"syn": "justify, merit, deserve",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The situation does not warrant such drastic action."
+},
+{
+"w": "wary",
+"fr": "méfiant, prudent",
+"def": "Careful because you think something may be dangerous",
+"syn": "cautious, suspicious, careful",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Be wary of strangers offering help."
+},
+{
+"w": "waive",
+"fr": "renoncer à, supprimer",
+"def": "To choose not to apply a rule, fee or right",
+"syn": "forgo, set aside, give up",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The bank agreed to waive the fee."
+},
+{
+"w": "wield",
+"fr": "exercer, manier",
+"def": "To have and use power; or to hold a weapon or tool",
+"syn": "exercise, exert, brandish",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The media wields enormous influence."
+},
+{
+"w": "whereby",
+"fr": "par lequel, selon lequel",
+"def": "By which; by means of which",
+"syn": "by which, through which",
+"lvl": "C1",
+"pos": "adv",
+"ex": "They set up a system whereby staff could work from home."
+},
+{
+"w": "whatsoever",
+"fr": "quel qu'il soit, du tout",
+"def": "At all; used to emphasise a negative",
+"syn": "at all, of any kind",
+"lvl": "C1",
+"pos": "adv",
+"ex": "I have no doubt whatsoever."
+},
+{
+"w": "wholesale",
+"fr": "en gros, massif",
+"def": "On a large scale; or relating to selling in large quantities",
+"syn": "extensive, mass, total",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The report calls for wholesale reform of the system."
+},
+{
+"w": "wilful",
+"fr": "délibéré, obstiné",
+"def": "Done deliberately; or determined to do what you want",
+"syn": "deliberate, intentional, headstrong",
+"lvl": "C1",
+"pos": "adj",
+"ex": "He was charged with wilful damage."
+},
+{
+"w": "wither",
+"fr": "se flétrir, dépérir",
+"def": "To become dry and weak; or to gradually disappear",
+"syn": "wilt, shrivel, fade",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The plants withered in the heat."
+},
+{
+"w": "withhold",
+"fr": "retenir, refuser",
+"def": "To refuse to give something",
+"syn": "hold back, keep back, retain",
+"lvl": "C1",
+"pos": "verb",
+"ex": "He was accused of withholding information from the police."
+},
+{
+"w": "withstand",
+"fr": "résister à, supporter",
+"def": "To be strong enough not to be damaged by something",
+"syn": "resist, endure, survive",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The building can withstand earthquakes."
+},
+{
+"w": "wreak",
+"fr": "causer, semer",
+"def": "To cause a lot of damage or harm",
+"syn": "cause, inflict, bring about",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The storm wreaked havoc across the region."
+},
+{
+"w": "wrath",
+"fr": "courroux, colère",
+"def": "Extreme anger",
+"syn": "fury, rage, anger",
+"lvl": "C1",
+"pos": "noun",
+"ex": "He faced the wrath of angry customers."
+},
+{
+"w": "wrangle",
+"fr": "se disputer, se chamailler",
+"def": "To argue angrily for a long time",
+"syn": "argue, quarrel, squabble",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The two sides are still wrangling over the details."
+},
+{
+"w": "wrench",
+"fr": "arracher, déchirement",
+"def": "To pull or twist something suddenly and violently",
+"syn": "twist, yank, jerk",
+"lvl": "C1",
+"pos": "verb",
+"ex": "He wrenched the door open."
+},
+{
+"w": "wrongdoing",
+"fr": "méfait, faute",
+"def": "Illegal or dishonest behaviour",
+"syn": "misconduct, offence, crime",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The company denies any wrongdoing."
+},
+{
+"w": "waver",
+"fr": "hésiter, vaciller",
+"def": "To be uncertain or become less firm",
+"syn": "hesitate, falter, dither",
+"lvl": "C1",
+"pos": "verb",
+"ex": "Her support for the plan never wavered."
+},
+{
+"w": "weary",
+"fr": "las, fatigué",
+"def": "Very tired, or tired of something",
+"syn": "tired, exhausted, fed up",
+"lvl": "C1",
+"pos": "adj",
+"ex": "People are growing weary of the war."
+},
+{
+"w": "weigh up",
+"fr": "peser, évaluer",
+"def": "To consider advantages and disadvantages before deciding",
+"syn": "assess, evaluate, consider",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "You need to weigh up the pros and cons."
+},
+{
+"w": "well-founded",
+"fr": "fondé, justifié",
+"def": "Based on good reasons or facts",
+"syn": "justified, valid, reasonable",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Her fears turned out to be well-founded."
+},
+{
+"w": "whereabouts",
+"fr": "lieu où se trouve quelqu'un",
+"def": "The place where someone or something is",
+"syn": "location, position",
+"lvl": "C1",
+"pos": "noun",
+"ex": "His whereabouts are still unknown."
+},
+{
+"w": "whim",
+"fr": "caprice, lubie",
+"def": "A sudden wish or idea, often without good reason",
+"syn": "impulse, fancy, caprice",
+"lvl": "C1",
+"pos": "noun",
+"ex": "We went to Paris on a whim."
+},
+{
+"w": "whirlwind",
+"fr": "tourbillon, éclair",
+"def": "A very fast, spinning wind; or a rush of activity",
+"syn": "tornado, flurry, rush",
+"lvl": "C1",
+"pos": "noun",
+"ex": "They had a whirlwind romance and married within weeks."
+},
+{
+"w": "wholesome",
+"fr": "sain",
+"def": "Good for your health or morally good",
+"syn": "healthy, nutritious, decent",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The hotel serves simple, wholesome food."
+},
+{
+"w": "windfall",
+"fr": "aubaine, manne",
+"def": "An unexpected amount of money received",
+"syn": "bonus, jackpot, godsend",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The family received a windfall from a distant relative."
+},
+{
+"w": "wipe out",
+"fr": "anéantir, éliminer",
+"def": "To destroy or remove something completely",
+"syn": "destroy, eliminate, eradicate",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "The disease wiped out the entire population."
+},
+{
+"w": "wit",
+"fr": "esprit, humour",
+"def": "The ability to say clever and funny things",
+"syn": "humour, cleverness, repartee",
+"lvl": "C1",
+"pos": "noun",
+"ex": "She is known for her sharp wit."
+},
+{
+"w": "withdrawal",
+"fr": "retrait, sevrage",
+"def": "Removing something or pulling out; or stopping a drug",
+"syn": "removal, retreat, pull-out",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The withdrawal of troops began in May."
+},
+{
+"w": "workforce",
+"fr": "main-d'œuvre, effectifs",
+"def": "All the people who work in a company or country",
+"syn": "staff, labour force, personnel",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Women make up half of the workforce."
+},
+{
+"w": "wreckage",
+"fr": "débris, épave",
+"def": "The broken parts left after something is destroyed",
+"syn": "debris, remains, ruins",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Investigators searched the wreckage of the plane."
+},
+{
+"w": "watershed",
+"fr": "tournant, moment décisif",
+"def": "An event that marks an important change",
+"syn": "turning point, milestone, landmark",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The election was a watershed in the country's history."
+},
+{
+"w": "weather",
+"fr": "surmonter, essuyer",
+"def": "To survive a difficult period successfully",
+"syn": "survive, endure, withstand",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The company weathered the economic crisis."
+},
+{
+"w": "whistle-blower",
+"fr": "lanceur d'alerte",
+"def": "A person who reveals illegal activity inside an organisation",
+"syn": "informant, informer",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The fraud was exposed by a whistle-blower."
+},
+{
+"w": "wind down",
+"fr": "se détendre, réduire progressivement",
+"def": "To relax after stress; or to gradually reduce activity",
+"syn": "relax, unwind, scale down",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "I like to wind down with a book."
+},
+{
+"w": "wishful thinking",
+"fr": "prendre ses désirs pour des réalités",
+"def": "Believing something is true because you want it to be",
+"syn": "daydreaming, illusion, fantasy",
+"lvl": "C1",
+"pos": "expression",
+"ex": "Hoping for a pay rise this year is wishful thinking."
+},
+{
+"w": "well-being",
+"fr": "bien-être",
+"def": "The state of being healthy, happy and comfortable",
+"syn": "welfare, health, happiness",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Exercise improves your mental well-being."
+},
+{
+"w": "woefully",
+"fr": "lamentablement",
+"def": "Very badly or regrettably",
+"syn": "deplorably, sadly, lamentably",
+"lvl": "C1",
+"pos": "adv",
+"ex": "The hospital is woefully understaffed."
+},
+{
+"w": "worn out",
+"fr": "épuisé, usé",
+"def": "Extremely tired; or too old and used to work",
+"syn": "exhausted, drained, threadbare",
+"lvl": "C1",
+"pos": "adj",
+"ex": "After the move, we were completely worn out."
+},
+{
+"w": "yearn",
+"fr": "aspirer à, désirer ardemment",
+"def": "To want something very much, especially something hard to get",
+"syn": "long, crave, ache",
+"lvl": "C1",
+"pos": "verb",
+"ex": "She yearned for a quiet life in the country."
+},
+{
+"w": "yield",
+"fr": "produire, céder",
+"def": "To produce a result or crop; or to give way",
+"syn": "produce, generate, give way",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The investment yielded a high return."
+},
+{
+"w": "youthful",
+"fr": "juvénile, jeune",
+"def": "Typical of young people, or looking young",
+"syn": "young, young-looking, fresh",
+"lvl": "C1",
+"pos": "adj",
+"ex": "He has a youthful appearance for his age."
+},
+{
+"w": "yardstick",
+"fr": "critère, référence",
+"def": "A standard used to judge or compare something",
+"syn": "benchmark, standard, measure",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Exam results are not the only yardstick of success."
+},
+{
+"w": "zeal",
+"fr": "zèle, ferveur",
+"def": "Great energy and enthusiasm for a cause or aim",
+"syn": "enthusiasm, passion, fervour",
+"lvl": "C1",
+"pos": "noun",
+"ex": "She campaigned with missionary zeal."
+},
+{
+"w": "zealous",
+"fr": "zélé, fervent",
+"def": "Very enthusiastic and committed, sometimes too much",
+"syn": "fervent, ardent, passionate",
+"lvl": "C1",
+"pos": "adj",
+"ex": "He is a zealous supporter of animal rights."
+},
+{
+"w": "zest",
+"fr": "entrain, enthousiasme",
+"def": "Great enthusiasm and energy",
+"syn": "enthusiasm, gusto, relish",
+"lvl": "C1",
+"pos": "noun",
+"ex": "She has a real zest for life."
+},
+{
+"w": "venerable",
+"fr": "vénérable",
+"def": "Respected because of great age, wisdom or character",
+"syn": "respected, revered, esteemed",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The venerable institution was founded in 1650."
+},
+{
+"w": "verbatim",
+"fr": "mot pour mot",
+"def": "Using exactly the same words",
+"syn": "word for word, exactly, literally",
+"lvl": "C1",
+"pos": "adv",
+"ex": "He repeated the speech verbatim."
+},
+{
+"w": "vestige",
+"fr": "vestige, trace",
+"def": "A small part or trace of something that no longer exists",
+"syn": "trace, remnant, relic",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Not a vestige of the old town remains."
+},
+{
+"w": "vex",
+"fr": "contrarier, irriter",
+"def": "To make someone annoyed or worried",
+"syn": "annoy, irritate, trouble",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The question of funding continues to vex the committee."
+},
+{
+"w": "vicarious",
+"fr": "par procuration",
+"def": "Experienced indirectly through another person's actions",
+"syn": "indirect, secondhand, surrogate",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Parents often get vicarious pleasure from their children's success."
+},
+{
+"w": "vigil",
+"fr": "veillée",
+"def": "A period of staying awake or gathering quietly to watch or pray",
+"syn": "watch, wake, gathering",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Hundreds held a candlelit vigil for the victims."
+},
+{
+"w": "vindictive",
+"fr": "vindicatif, rancunier",
+"def": "Wanting to harm someone who has harmed you",
+"syn": "vengeful, spiteful, malicious",
+"lvl": "C1",
+"pos": "adj",
+"ex": "Her ex-husband was vindictive after the divorce."
+},
+{
+"w": "virulent",
+"fr": "virulent",
+"def": "Extremely harmful or bitterly hostile",
+"syn": "severe, hostile, malignant",
+"lvl": "C1",
+"pos": "adj",
+"ex": "He launched a virulent attack on his critics."
+},
+{
+"w": "vogue",
+"fr": "vogue, mode",
+"def": "A fashion or general popularity at a particular time",
+"syn": "fashion, trend, craze",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Minimalist design is very much in vogue."
+},
+{
+"w": "wayward",
+"fr": "rebelle, capricieux",
+"def": "Behaving badly and difficult to control",
+"syn": "unruly, disobedient, wilful",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The film tells the story of a wayward teenager."
+},
+{
+"w": "wean off",
+"fr": "sevrer, désaccoutumer",
+"def": "To make someone gradually stop depending on something",
+"syn": "break the habit, detach",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "The country must wean itself off fossil fuels."
+},
+{
+"w": "whittle down",
+"fr": "réduire progressivement",
+"def": "To gradually reduce the size or number of something",
+"syn": "reduce, cut down, pare down",
+"lvl": "C1",
+"pos": "phrasal verb",
+"ex": "We whittled the list down to three candidates."
+},
+{
+"w": "willingness",
+"fr": "bonne volonté, disposition",
+"def": "The quality of being ready and happy to do something",
+"syn": "readiness, eagerness, inclination",
+"lvl": "C1",
+"pos": "noun",
+"ex": "Both sides expressed a willingness to negotiate."
+},
+{
+"w": "wistful",
+"fr": "mélancolique, nostalgique",
+"def": "Sadly thinking about something you want or have lost",
+"syn": "nostalgic, longing, melancholy",
+"lvl": "C1",
+"pos": "adj",
+"ex": "She gave a wistful smile."
+},
+{
+"w": "woe",
+"fr": "malheur, souci",
+"def": "Great sadness; or problems and troubles",
+"syn": "misery, trouble, sorrow",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The country's economic woes continue."
+},
+{
+"w": "wry",
+"fr": "ironique, désabusé",
+"def": "Showing amusement that is slightly mocking or ironic",
+"syn": "ironic, dry, sardonic",
+"lvl": "C1",
+"pos": "adj",
+"ex": "He gave a wry smile at the news."
+},
+{
+"w": "zenith",
+"fr": "zénith, apogée",
+"def": "The time when something is most powerful or successful",
+"syn": "peak, height, pinnacle",
+"lvl": "C1",
+"pos": "noun",
+"ex": "The empire reached its zenith in the 16th century."
+},
+{
+"w": "ratify",
+"fr": "ratifier",
+"def": "To make an agreement official by formally approving it",
+"syn": "approve, endorse, sanction",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The treaty was ratified by all member states."
+},
+{
+"w": "reinstate",
+"fr": "réintégrer, rétablir",
+"def": "To return someone or something to a previous position",
+"syn": "restore, reappoint, bring back",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The dismissed workers were later reinstated."
+},
+{
+"w": "rejuvenate",
+"fr": "rajeunir, revitaliser",
+"def": "To make someone or something look or feel younger or fresher",
+"syn": "revitalise, refresh, renew",
+"lvl": "C1",
+"pos": "verb",
+"ex": "A week by the sea rejuvenated her."
+},
+{
+"w": "repatriate",
+"fr": "rapatrier",
+"def": "To send someone or something back to their own country",
+"syn": "send home, return, deport",
+"lvl": "C1",
+"pos": "verb",
+"ex": "The refugees were repatriated after the war."
+},
+{
+"w": "subversive",
+"fr": "subversif",
+"def": "Trying to weaken or destroy an established system or authority",
+"syn": "seditious, rebellious, dissident",
+"lvl": "C1",
+"pos": "adj",
+"ex": "The book was banned as subversive."
+},
+{
+"w": "tenable",
+"fr": "défendable, soutenable",
+"def": "Able to be defended or justified with reasoning",
+"syn": "defensible, justifiable, reasonable",
+"lvl": "C1",
+"pos": "adj",
+"ex": "His position is no longer tenable."
+},
+{
+"w": "unbridled",
+"fr": "débridé, effréné",
+"def": "Not controlled or limited",
+"syn": "unrestrained, uncontrolled, unchecked",
+"lvl": "C1",
+"pos": "adj",
+"ex": "She greeted the news with unbridled joy."
+}
+]

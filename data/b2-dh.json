@@ -1,0 +1,4025 @@
+[
+{
+"w": "dairy",
+"fr": "laitier",
+"def": "Made from milk, or relating to milk production",
+"syn": "milk-based",
+"lvl": "B2",
+"pos": "adj",
+"ex": "She avoids dairy products like cheese and butter."
+},
+{
+"w": "dawn",
+"fr": "aube, aurore",
+"def": "The time of day when light first appears",
+"syn": "daybreak, sunrise, first light",
+"lvl": "B2",
+"pos": "noun",
+"ex": "We left the camp at dawn."
+},
+{
+"w": "deadly",
+"fr": "mortel",
+"def": "Able to cause death",
+"syn": "lethal, fatal, mortal",
+"lvl": "B2",
+"pos": "adj",
+"ex": "The disease can be deadly if left untreated."
+},
+{
+"w": "dealer",
+"fr": "marchand, revendeur",
+"def": "A person or company that buys and sells particular goods",
+"syn": "trader, merchant, seller",
+"lvl": "B2",
+"pos": "noun",
+"ex": "He bought the car from a local dealer."
+},
+{
+"w": "debt",
+"fr": "dette",
+"def": "Money that you owe to someone",
+"syn": "liability, arrears",
+"lvl": "B2",
+"pos": "noun",
+"ex": "They are struggling to pay off their debts."
+},
+{
+"w": "debate",
+"fr": "débat",
+"def": "A serious discussion in which people express different opinions",
+"syn": "discussion, argument, dispute",
+"lvl": "B2",
+"pos": "noun",
+"ex": "There is a lively debate about the new law."
+},
+{
+"w": "decay",
+"fr": "pourrir, se décomposer",
+"def": "To be slowly destroyed by natural processes",
+"syn": "rot, decompose, deteriorate",
+"lvl": "B2",
+"pos": "verb",
+"ex": "Sugar can cause your teeth to decay."
+},
+{
+"w": "deceive",
+"fr": "tromper",
+"def": "To make someone believe something that is not true",
+"syn": "mislead, trick, fool",
+"lvl": "B2",
+"pos": "verb",
+"ex": "He deceived his customers about the quality of the goods."
+},
+{
+"w": "decent",
+"fr": "correct, convenable",
+"def": "Of an acceptable or good enough standard",
+"syn": "adequate, reasonable, respectable",
+"lvl": "B2",
+"pos": "adj",
+"ex": "She earns a decent salary."
+},
+{
+"w": "decisive",
+"fr": "décisif, résolu",
+"def": "Able to make choices quickly and confidently",
+"syn": "resolute, firm, determined",
+"lvl": "B2",
+"pos": "adj",
+"ex": "A good leader must be decisive in a crisis."
+},
+{
+"w": "declare",
+"fr": "déclarer",
+"def": "To announce something officially or firmly",
+"syn": "announce, proclaim, state",
+"lvl": "B2",
+"pos": "verb",
+"ex": "The government declared a state of emergency."
+},
+{
+"w": "decline",
+"fr": "baisse, déclin",
+"def": "A gradual decrease in amount, quality or importance",
+"syn": "decrease, fall, drop",
+"lvl": "B2",
+"pos": "noun",
+"ex": "There has been a sharp decline in sales."
+},
+{
+"w": "dedicate",
+"fr": "consacrer, dédier",
+"def": "To give all your time or energy to something",
+"syn": "devote, commit",
+"lvl": "B2",
+"pos": "verb",
+"ex": "She dedicated her life to helping the poor."
+},
+{
+"w": "dedicated",
+"fr": "dévoué, passionné",
+"def": "Working hard because you care about something",
+"syn": "committed, devoted, loyal",
+"lvl": "B2",
+"pos": "adj",
+"ex": "Our dedicated staff work long hours."
+},
+{
+"w": "deduct",
+"fr": "déduire, retenir",
+"def": "To take an amount away from a total",
+"syn": "subtract, take off, withhold",
+"lvl": "B2",
+"pos": "verb",
+"ex": "Tax is deducted from your salary every month."
+},
+{
+"w": "defeat",
+"fr": "vaincre, battre",
+"def": "To win against someone in a fight or competition",
+"syn": "beat, conquer, overcome",
+"lvl": "B2",
+"pos": "verb",
+"ex": "They defeated the champions three goals to one."
+},
+{
+"w": "defect",
+"fr": "défaut",
+"def": "A fault or problem in something",
+"syn": "flaw, fault, imperfection",
+"lvl": "B2",
+"pos": "noun",
+"ex": "The cars were recalled because of a safety defect."
+},
+{
+"w": "defence",
+"fr": "défense",
+"def": "Protection against attack or criticism",
+"syn": "protection, safeguard, resistance",
+"lvl": "B2",
+"pos": "noun",
+"ex": "Exercise strengthens the body's defences against illness."
+},
+{
+"w": "defensive",
+"fr": "sur la défensive",
+"def": "Reacting as if being criticised or attacked",
+"syn": "protective, touchy, sensitive",
+"lvl": "B2",
+"pos": "adj",
+"ex": "He gets very defensive when you mention his work."
+},
+{
+"w": "define",
+"fr": "définir",
+"def": "To explain exactly the meaning or nature of something",
+"syn": "explain, describe, specify",
+"lvl": "B2",
+"pos": "verb",
+"ex": "It is hard to define what happiness is."
+},
+{
+"w": "definite",
+"fr": "précis, certain",
+"def": "Fixed, certain or clear",
+"syn": "certain, clear, fixed",
+"lvl": "B2",
+"pos": "adj",
+"ex": "We need a definite answer by Friday."
+},
+{
+"w": "deliberate",
+"fr": "délibéré, intentionnel",
+"def": "Done on purpose, not by accident",
+"syn": "intentional, planned, conscious",
+"lvl": "B2",
+"pos": "adj",
+"ex": "It was a deliberate attempt to mislead the public."
+},
+{
+"w": "delicate",
+"fr": "délicat, fragile",
+"def": "Easily damaged or needing careful handling",
+"syn": "fragile, sensitive, fine",
+"lvl": "B2",
+"pos": "adj",
+"ex": "This is a delicate situation, so be careful."
+},
+{
+"w": "delight",
+"fr": "joie, ravissement",
+"def": "A feeling of great pleasure",
+"syn": "joy, pleasure, happiness",
+"lvl": "B2",
+"pos": "noun",
+"ex": "The children screamed with delight."
+},
+{
+"w": "demand",
+"fr": "exiger",
+"def": "To ask for something firmly, as if you have a right",
+"syn": "insist on, require, claim",
+"lvl": "B2",
+"pos": "verb",
+"ex": "The workers are demanding better pay."
+},
+{
+"w": "demanding",
+"fr": "exigeant",
+"def": "Needing a lot of time, effort or skill",
+"syn": "challenging, tough, exacting",
+"lvl": "B2",
+"pos": "adj",
+"ex": "Nursing is a very demanding job."
+},
+{
+"w": "democracy",
+"fr": "démocratie",
+"def": "A system of government in which people choose their leaders",
+"syn": "self-government, republic",
+"lvl": "B2",
+"pos": "noun",
+"ex": "Free elections are essential in a democracy."
+},
+{
+"w": "demolish",
+"fr": "démolir",
+"def": "To completely destroy a building",
+"syn": "knock down, tear down, destroy",
+"lvl": "B2",
+"pos": "verb",
+"ex": "The old factory was demolished last year."
+},
+{
+"w": "demonstrate",
+"fr": "démontrer, manifester",
+"def": "To show clearly that something is true",
+"syn": "prove, show, illustrate",
+"lvl": "B2",
+"pos": "verb",
+"ex": "The study demonstrates the benefits of exercise."
+},
+{
+"w": "denial",
+"fr": "déni, démenti",
+"def": "A statement that something is not true",
+"syn": "refusal, rejection, contradiction",
+"lvl": "B2",
+"pos": "noun",
+"ex": "The minister issued a firm denial of the rumours."
+},
+{
+"w": "dense",
+"fr": "dense, épais",
+"def": "Thick or closely packed together",
+"syn": "thick, compact, crowded",
+"lvl": "B2",
+"pos": "adj",
+"ex": "They got lost in the dense forest."
+},
+{
+"w": "deny",
+"fr": "nier",
+"def": "To say that something is not true",
+"syn": "refute, contradict, reject",
+"lvl": "B2",
+"pos": "verb",
+"ex": "He denied stealing the money."
+},
+{
+"w": "depart",
+"fr": "partir",
+"def": "To leave, especially to start a journey",
+"syn": "leave, set off, go",
+"lvl": "B2",
+"pos": "verb",
+"ex": "The train departs from platform four."
+},
+{
+"w": "departure",
+"fr": "départ",
+"def": "The act of leaving a place",
+"syn": "leaving, exit, going",
+"lvl": "B2",
+"pos": "noun",
+"ex": "Please arrive two hours before departure."
+},
+{
+"w": "dependent",
+"fr": "dépendant",
+"def": "Needing someone or something for support",
+"syn": "reliant, relying, conditional",
+"lvl": "B2",
+"pos": "adj",
+"ex": "The region is heavily dependent on tourism."
+},
+{
+"w": "depict",
+"fr": "représenter, dépeindre",
+"def": "To show or describe something in art or words",
+"syn": "portray, represent, illustrate",
+"lvl": "B2",
+"pos": "verb",
+"ex": "The painting depicts a busy market scene."
+},
+{
+"w": "deposit",
+"fr": "acompte, caution",
+"def": "A first payment made to secure something",
+"syn": "down payment, advance, security",
+"lvl": "B2",
+"pos": "noun",
+"ex": "We paid a deposit to reserve the flat."
+},
+{
+"w": "depressed",
+"fr": "déprimé",
+"def": "Very unhappy and without hope",
+"syn": "miserable, low, down",
+"lvl": "B2",
+"pos": "adj",
+"ex": "He felt depressed after losing his job."
+},
+{
+"w": "depression",
+"fr": "dépression",
+"def": "A mental illness causing long periods of sadness",
+"syn": "despair, melancholy, gloom",
+"lvl": "B2",
+"pos": "noun",
+"ex": "She was treated for depression last year."
+},
+{
+"w": "deprive",
+"fr": "priver",
+"def": "To take something necessary away from someone",
+"syn": "strip, rob, deny",
+"lvl": "B2",
+"pos": "verb",
+"ex": "Many children are deprived of a proper education."
+},
+{
+"w": "derive",
+"fr": "tirer, provenir",
+"def": "To get something from a particular source",
+"syn": "obtain, draw, gain",
+"lvl": "B2",
+"pos": "verb",
+"ex": "She derives great pleasure from gardening."
+},
+{
+"w": "descend",
+"fr": "descendre",
+"def": "To move or go down",
+"syn": "go down, drop, fall",
+"lvl": "B2",
+"pos": "verb",
+"ex": "The plane began to descend towards the airport."
+},
+{
+"w": "deserve",
+"fr": "mériter",
+"def": "To have earned something because of your actions",
+"syn": "merit, earn, warrant",
+"lvl": "B2",
+"pos": "verb",
+"ex": "After all that work, you deserve a holiday."
+},
+{
+"w": "desirable",
+"fr": "souhaitable",
+"def": "Worth having or wanted by many people",
+"syn": "attractive, advantageous, sought-after",
+"lvl": "B2",
+"pos": "adj",
+"ex": "Experience is desirable but not essential."
+},
+{
+"w": "desire",
+"fr": "désir, envie",
+"def": "A strong feeling of wanting something",
+"syn": "wish, longing, craving",
+"lvl": "B2",
+"pos": "noun",
+"ex": "He had no desire to return home."
+},
+{
+"w": "desperate",
+"fr": "désespéré",
+"def": "Feeling there is little hope and ready to try anything",
+"syn": "hopeless, frantic, despairing",
+"lvl": "B2",
+"pos": "adj",
+"ex": "They were desperate to find their missing dog."
+},
+{
+"w": "despair",
+"fr": "désespoir",
+"def": "The feeling of having lost all hope",
+"syn": "hopelessness, desperation, misery",
+"lvl": "B2",
+"pos": "noun",
+"ex": "She cried out in despair."
+},
+{
+"w": "destiny",
+"fr": "destin",
+"def": "What will happen to someone in the future",
+"syn": "fate, fortune, future",
+"lvl": "B2",
+"pos": "noun",
+"ex": "He believed it was his destiny to become a doctor."
+},
+{
+"w": "destruction",
+"fr": "destruction",
+"def": "The act of damaging something so badly it no longer exists",
+"syn": "devastation, ruin, demolition",
+"lvl": "B2",
+"pos": "noun",
+"ex": "The storm caused widespread destruction."
+},
+{
+"w": "destructive",
+"fr": "destructeur",
+"def": "Causing serious damage",
+"syn": "damaging, harmful, devastating",
+"lvl": "B2",
+"pos": "adj",
+"ex": "Jealousy can be a very destructive emotion."
+},
+{
+"w": "detached",
+"fr": "individuel, détaché",
+"def": "Not joined to another building",
+"syn": "separate, standalone, freestanding",
+"lvl": "B2",
+"pos": "adj",
+"ex": "They live in a large detached house."
+},
+{
+"w": "detect",
+"fr": "détecter",
+"def": "To notice or discover something hard to see",
+"syn": "discover, notice, identify",
+"lvl": "B2",
+"pos": "verb",
+"ex": "The test can detect the virus early."
+},
+{
+"w": "detective",
+"fr": "inspecteur, détective",
+"def": "A person whose job is to investigate crimes",
+"syn": "investigator, inspector",
+"lvl": "B2",
+"pos": "noun",
+"ex": "The detective questioned all the witnesses."
+},
+{
+"w": "determination",
+"fr": "détermination",
+"def": "The quality of continuing to try despite difficulties",
+"syn": "resolve, willpower, persistence",
+"lvl": "B2",
+"pos": "noun",
+"ex": "Her determination helped her win the race."
+},
+{
+"w": "determine",
+"fr": "déterminer",
+"def": "To discover the facts or decide something",
+"syn": "establish, decide, ascertain",
+"lvl": "B2",
+"pos": "verb",
+"ex": "Police are trying to determine the cause of the fire."
+},
+{
+"w": "devastate",
+"fr": "dévaster",
+"def": "To destroy or badly damage something",
+"syn": "destroy, ruin, wreck",
+"lvl": "B2",
+"pos": "verb",
+"ex": "The earthquake devastated the city."
+},
+{
+"w": "devastating",
+"fr": "dévastateur",
+"def": "Causing great damage or shock",
+"syn": "destructive, crushing, shattering",
+"lvl": "B2",
+"pos": "adj",
+"ex": "The news had a devastating effect on the family."
+},
+{
+"w": "device",
+"fr": "appareil, dispositif",
+"def": "A piece of equipment made for a particular purpose",
+"syn": "gadget, tool, instrument",
+"lvl": "B2",
+"pos": "noun",
+"ex": "Please switch off all electronic devices."
+},
+{
+"w": "devise",
+"fr": "concevoir, élaborer",
+"def": "To invent a plan or method",
+"syn": "invent, design, create",
+"lvl": "B2",
+"pos": "verb",
+"ex": "They devised a new system for sorting mail."
+},
+{
+"w": "devote",
+"fr": "consacrer",
+"def": "To give time or energy to something",
+"syn": "dedicate, commit, give",
+"lvl": "B2",
+"pos": "verb",
+"ex": "He devotes his weekends to his family."
+},
+{
+"w": "devoted",
+"fr": "dévoué",
+"def": "Loving or loyal to someone or something",
+"syn": "loyal, faithful, dedicated",
+"lvl": "B2",
+"pos": "adj",
+"ex": "She is a devoted mother of three."
+},
+{
+"w": "diagnose",
+"fr": "diagnostiquer",
+"def": "To identify an illness or problem",
+"syn": "identify, detect, determine",
+"lvl": "B2",
+"pos": "verb",
+"ex": "He was diagnosed with diabetes last year."
+},
+{
+"w": "diagnosis",
+"fr": "diagnostic",
+"def": "The identification of an illness or problem",
+"syn": "identification, analysis",
+"lvl": "B2",
+"pos": "noun",
+"ex": "An early diagnosis can save lives."
+},
+{
+"w": "dialect",
+"fr": "dialecte",
+"def": "A form of a language spoken in one region",
+"syn": "regional language, vernacular, patois",
+"lvl": "B2",
+"pos": "noun",
+"ex": "They speak a local dialect of Italian."
+},
+{
+"w": "differ",
+"fr": "différer",
+"def": "To be not the same as something else",
+"syn": "vary, contrast, diverge",
+"lvl": "B2",
+"pos": "verb",
+"ex": "Prices differ from one shop to another."
+},
+{
+"w": "dignity",
+"fr": "dignité",
+"def": "A calm, serious manner that earns respect",
+"syn": "self-respect, pride, honour",
+"lvl": "B2",
+"pos": "noun",
+"ex": "She accepted her defeat with dignity."
+},
+{
+"w": "dilemma",
+"fr": "dilemme",
+"def": "A situation where you must make a difficult choice",
+"syn": "predicament, quandary, problem",
+"lvl": "B2",
+"pos": "noun",
+"ex": "I'm in a dilemma about which job to accept."
+},
+{
+"w": "dimension",
+"fr": "dimension",
+"def": "A measurement such as length, width or height",
+"syn": "measurement, size, aspect",
+"lvl": "B2",
+"pos": "noun",
+"ex": "What are the dimensions of the room?"
+},
+{
+"w": "diminish",
+"fr": "diminuer",
+"def": "To become or make smaller or less important",
+"syn": "decrease, reduce, lessen",
+"lvl": "B2",
+"pos": "verb",
+"ex": "His enthusiasm diminished over time."
+},
+{
+"w": "dip",
+"fr": "tremper",
+"def": "To put something briefly into a liquid",
+"syn": "dunk, immerse, plunge",
+"lvl": "B2",
+"pos": "verb",
+"ex": "Dip the bread in the soup."
+},
+{
+"w": "diplomat",
+"fr": "diplomate",
+"def": "An official who represents their country abroad",
+"syn": "ambassador, envoy, consul",
+"lvl": "B2",
+"pos": "noun",
+"ex": "She worked as a diplomat in Tokyo."
+},
+{
+"w": "diplomatic",
+"fr": "diplomatique",
+"def": "Dealing with people politely and without upsetting them",
+"syn": "tactful, discreet, polite",
+"lvl": "B2",
+"pos": "adj",
+"ex": "Try to be diplomatic when you refuse."
+},
+{
+"w": "disability",
+"fr": "handicap",
+"def": "A physical or mental condition that limits activities",
+"syn": "impairment, handicap, condition",
+"lvl": "B2",
+"pos": "noun",
+"ex": "The building is accessible to people with disabilities."
+},
+{
+"w": "disabled",
+"fr": "handicapé",
+"def": "Having a physical or mental condition that limits activities",
+"syn": "handicapped, impaired",
+"lvl": "B2",
+"pos": "adj",
+"ex": "There are parking spaces reserved for disabled drivers."
+},
+{
+"w": "disagreement",
+"fr": "désaccord",
+"def": "A situation in which people have different opinions",
+"syn": "dispute, argument, conflict",
+"lvl": "B2",
+"pos": "noun",
+"ex": "There was a disagreement over the bill."
+},
+{
+"w": "disapprove",
+"fr": "désapprouver",
+"def": "To think something is bad or wrong",
+"syn": "object, frown on, condemn",
+"lvl": "B2",
+"pos": "verb",
+"ex": "Her parents disapprove of her boyfriend."
+},
+{
+"w": "disastrous",
+"fr": "désastreux",
+"def": "Extremely bad or unsuccessful",
+"syn": "catastrophic, terrible, calamitous",
+"lvl": "B2",
+"pos": "adj",
+"ex": "The decision had disastrous consequences."
+},
+{
+"w": "discard",
+"fr": "jeter, se débarrasser de",
+"def": "To throw something away because you no longer want it",
+"syn": "throw away, dispose of, dump",
+"lvl": "B2",
+"pos": "verb",
+"ex": "Discard any food that has gone mouldy."
+},
+{
+"w": "discipline",
+"fr": "discipline",
+"def": "Training people to obey rules and control behaviour",
+"syn": "control, order, self-control",
+"lvl": "B2",
+"pos": "noun",
+"ex": "The school is known for its strict discipline."
+},
+{
+"w": "disclose",
+"fr": "révéler, divulguer",
+"def": "To make information known publicly",
+"syn": "reveal, divulge, release",
+"lvl": "B2",
+"pos": "verb",
+"ex": "The company refused to disclose its profits."
+},
+{
+"w": "discourage",
+"fr": "décourager",
+"def": "To make someone less confident or less willing to do something",
+"syn": "deter, dishearten, dissuade",
+"lvl": "B2",
+"pos": "verb",
+"ex": "Don't let one failure discourage you."
+},
+{
+"w": "discrimination",
+"fr": "discrimination",
+"def": "Unfair treatment of people because of who they are",
+"syn": "prejudice, bias, inequality",
+"lvl": "B2",
+"pos": "noun",
+"ex": "Discrimination based on age is illegal."
+},
+{
+"w": "disguise",
+"fr": "déguisement",
+"def": "Clothes or changes that hide who you really are",
+"syn": "costume, camouflage, mask",
+"lvl": "B2",
+"pos": "noun",
+"ex": "He escaped in disguise."
+},
+{
+"w": "disgust",
+"fr": "dégoût",
+"def": "A strong feeling of dislike or disapproval",
+"syn": "revulsion, distaste, repugnance",
+"lvl": "B2",
+"pos": "noun",
+"ex": "She looked at the mess in disgust."
+},
+{
+"w": "dismiss",
+"fr": "rejeter, licencier",
+"def": "To refuse to consider an idea seriously",
+"syn": "reject, disregard, brush aside",
+"lvl": "B2",
+"pos": "verb",
+"ex": "He dismissed the idea as nonsense."
+},
+{
+"w": "disorder",
+"fr": "trouble, désordre",
+"def": "An illness or condition affecting the mind or body",
+"syn": "condition, illness, ailment",
+"lvl": "B2",
+"pos": "noun",
+"ex": "She suffers from an eating disorder."
+},
+{
+"w": "dispose of",
+"fr": "se débarrasser de",
+"def": "To get rid of something",
+"syn": "throw away, discard, get rid of",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "How should we dispose of old batteries?"
+},
+{
+"w": "dispute",
+"fr": "différend, conflit",
+"def": "A serious disagreement between people or groups",
+"syn": "conflict, quarrel, disagreement",
+"lvl": "B2",
+"pos": "noun",
+"ex": "The pay dispute lasted for months."
+},
+{
+"w": "disrupt",
+"fr": "perturber",
+"def": "To stop something from continuing normally",
+"syn": "interrupt, disturb, upset",
+"lvl": "B2",
+"pos": "verb",
+"ex": "The strike disrupted train services across the country."
+},
+{
+"w": "dissolve",
+"fr": "dissoudre, se dissoudre",
+"def": "To mix with a liquid and become part of it",
+"syn": "melt, liquefy, disintegrate",
+"lvl": "B2",
+"pos": "verb",
+"ex": "Stir until the sugar dissolves."
+},
+{
+"w": "distant",
+"fr": "lointain, éloigné",
+"def": "Far away in space or time",
+"syn": "far, remote, faraway",
+"lvl": "B2",
+"pos": "adj",
+"ex": "We could hear distant thunder."
+},
+{
+"w": "distinct",
+"fr": "distinct, net",
+"def": "Clearly different or separate",
+"syn": "separate, different, clear",
+"lvl": "B2",
+"pos": "adj",
+"ex": "There are two distinct types of the disease."
+},
+{
+"w": "distinction",
+"fr": "distinction",
+"def": "A clear difference between similar things",
+"syn": "difference, contrast, separation",
+"lvl": "B2",
+"pos": "noun",
+"ex": "We must make a distinction between facts and opinions."
+},
+{
+"w": "distinctive",
+"fr": "caractéristique, distinctif",
+"def": "Having a quality that makes something easy to recognise",
+"syn": "characteristic, unique, recognisable",
+"lvl": "B2",
+"pos": "adj",
+"ex": "She has a very distinctive voice."
+},
+{
+"w": "distinguish",
+"fr": "distinguer",
+"def": "To see or understand the difference between things",
+"syn": "differentiate, tell apart, discern",
+"lvl": "B2",
+"pos": "verb",
+"ex": "He can't distinguish between red and green."
+},
+{
+"w": "distort",
+"fr": "déformer",
+"def": "To change something so it is no longer accurate",
+"syn": "twist, misrepresent, alter",
+"lvl": "B2",
+"pos": "verb",
+"ex": "The newspaper distorted the facts."
+},
+{
+"w": "distract",
+"fr": "distraire, déconcentrer",
+"def": "To take someone's attention away from something",
+"syn": "divert, sidetrack, disturb",
+"lvl": "B2",
+"pos": "verb",
+"ex": "Don't distract the driver."
+},
+{
+"w": "distress",
+"fr": "détresse",
+"def": "Great worry, pain or suffering",
+"syn": "anguish, suffering, anxiety",
+"lvl": "B2",
+"pos": "noun",
+"ex": "The animals were clearly in distress."
+},
+{
+"w": "distribute",
+"fr": "distribuer",
+"def": "To give or share things among many people",
+"syn": "hand out, share, allocate",
+"lvl": "B2",
+"pos": "verb",
+"ex": "Volunteers distributed food to the refugees."
+},
+{
+"w": "distribution",
+"fr": "distribution, répartition",
+"def": "The way something is shared or spread out",
+"syn": "allocation, delivery, spread",
+"lvl": "B2",
+"pos": "noun",
+"ex": "The distribution of wealth is very unequal."
+},
+{
+"w": "district",
+"fr": "quartier, district",
+"def": "An area of a town or country",
+"syn": "area, region, neighbourhood",
+"lvl": "B2",
+"pos": "noun",
+"ex": "They live in a quiet residential district."
+},
+{
+"w": "disturb",
+"fr": "déranger",
+"def": "To interrupt someone or make them worried",
+"syn": "bother, interrupt, trouble",
+"lvl": "B2",
+"pos": "verb",
+"ex": "Sorry to disturb you, but there's a phone call."
+},
+{
+"w": "disturbing",
+"fr": "troublant, inquiétant",
+"def": "Making you feel worried or upset",
+"syn": "worrying, upsetting, alarming",
+"lvl": "B2",
+"pos": "adj",
+"ex": "The report contains some disturbing images."
+},
+{
+"w": "dive",
+"fr": "plonger",
+"def": "To jump head first into water",
+"syn": "plunge, jump, leap",
+"lvl": "B2",
+"pos": "verb",
+"ex": "He dived into the pool."
+},
+{
+"w": "diverse",
+"fr": "varié, divers",
+"def": "Including many different types of people or things",
+"syn": "varied, mixed, assorted",
+"lvl": "B2",
+"pos": "adj",
+"ex": "London is a very diverse city."
+},
+{
+"w": "diversity",
+"fr": "diversité",
+"def": "The fact of including many different types",
+"syn": "variety, range, mix",
+"lvl": "B2",
+"pos": "noun",
+"ex": "The company values cultural diversity."
+},
+{
+"w": "divert",
+"fr": "détourner, dévier",
+"def": "To make something change direction",
+"syn": "redirect, reroute, deflect",
+"lvl": "B2",
+"pos": "verb",
+"ex": "Traffic was diverted because of the accident."
+},
+{
+"w": "dizzy",
+"fr": "pris de vertige",
+"def": "Feeling that everything is spinning and you might fall",
+"syn": "light-headed, giddy, faint",
+"lvl": "B2",
+"pos": "adj",
+"ex": "I felt dizzy when I stood up."
+},
+{
+"w": "domestic",
+"fr": "domestique, national",
+"def": "Relating to the home or to your own country",
+"syn": "household, national, internal",
+"lvl": "B2",
+"pos": "adj",
+"ex": "Domestic flights leave from Terminal 1."
+},
+{
+"w": "dominant",
+"fr": "dominant",
+"def": "More important, powerful or noticeable than others",
+"syn": "main, leading, prevailing",
+"lvl": "B2",
+"pos": "adj",
+"ex": "The company has a dominant position in the market."
+},
+{
+"w": "dominate",
+"fr": "dominer",
+"def": "To control or have power over something",
+"syn": "control, rule, govern",
+"lvl": "B2",
+"pos": "verb",
+"ex": "The team dominated the whole match."
+},
+{
+"w": "donate",
+"fr": "faire un don",
+"def": "To give money or goods to help others",
+"syn": "give, contribute, offer",
+"lvl": "B2",
+"pos": "verb",
+"ex": "She donated her old clothes to charity."
+},
+{
+"w": "donation",
+"fr": "don",
+"def": "Money or goods given to help an organisation",
+"syn": "gift, contribution, offering",
+"lvl": "B2",
+"pos": "noun",
+"ex": "The hospital relies on private donations."
+},
+{
+"w": "dose",
+"fr": "dose",
+"def": "A measured amount of medicine taken at one time",
+"syn": "amount, measure, quantity",
+"lvl": "B2",
+"pos": "noun",
+"ex": "Do not exceed the recommended dose."
+},
+{
+"w": "doubtful",
+"fr": "douteux, incertain",
+"def": "Not likely, or not sure",
+"syn": "uncertain, unlikely, dubious",
+"lvl": "B2",
+"pos": "adj",
+"ex": "It's doubtful that he'll come."
+},
+{
+"w": "downside",
+"fr": "inconvénient",
+"def": "The negative part of a situation",
+"syn": "drawback, disadvantage, con",
+"lvl": "B2",
+"pos": "noun",
+"ex": "The downside of the job is the long hours."
+},
+{
+"w": "draft",
+"fr": "brouillon",
+"def": "An early version of a piece of writing",
+"syn": "outline, sketch, version",
+"lvl": "B2",
+"pos": "noun",
+"ex": "I've finished the first draft of my essay."
+},
+{
+"w": "drag",
+"fr": "traîner",
+"def": "To pull something heavy along the ground",
+"syn": "pull, haul, tug",
+"lvl": "B2",
+"pos": "verb",
+"ex": "She dragged the suitcase up the stairs."
+},
+{
+"w": "drain",
+"fr": "égoutter, vider",
+"def": "To make liquid flow away from something",
+"syn": "empty, draw off, strain",
+"lvl": "B2",
+"pos": "verb",
+"ex": "Drain the pasta and add the sauce."
+},
+{
+"w": "dramatic",
+"fr": "spectaculaire",
+"def": "Sudden and very noticeable",
+"syn": "striking, sudden, significant",
+"lvl": "B2",
+"pos": "adj",
+"ex": "There has been a dramatic rise in prices."
+},
+{
+"w": "drastic",
+"fr": "radical, draconien",
+"def": "Severe and having a strong effect",
+"syn": "extreme, severe, radical",
+"lvl": "B2",
+"pos": "adj",
+"ex": "Drastic measures are needed to reduce pollution."
+},
+{
+"w": "draw up",
+"fr": "rédiger, établir",
+"def": "To prepare a written plan or document",
+"syn": "prepare, write, compose",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "The lawyer drew up a new contract."
+},
+{
+"w": "drawback",
+"fr": "inconvénient",
+"def": "A disadvantage or problem",
+"syn": "disadvantage, downside, snag",
+"lvl": "B2",
+"pos": "noun",
+"ex": "The main drawback is the cost."
+},
+{
+"w": "dread",
+"fr": "redouter",
+"def": "To feel very worried about something that will happen",
+"syn": "fear, be afraid of, be anxious about",
+"lvl": "B2",
+"pos": "verb",
+"ex": "I'm dreading my exam next week."
+},
+{
+"w": "drift",
+"fr": "dériver",
+"def": "To be carried slowly by wind or water",
+"syn": "float, wander, glide",
+"lvl": "B2",
+"pos": "verb",
+"ex": "The boat drifted out to sea."
+},
+{
+"w": "drill",
+"fr": "percer, forer",
+"def": "To make a hole using a special tool",
+"syn": "bore, pierce, perforate",
+"lvl": "B2",
+"pos": "verb",
+"ex": "He drilled a hole in the wall."
+},
+{
+"w": "drop out",
+"fr": "abandonner",
+"def": "To leave a school or activity before finishing",
+"syn": "quit, give up, withdraw",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "She dropped out of university after one year."
+},
+{
+"w": "drought",
+"fr": "sécheresse",
+"def": "A long period with little or no rain",
+"syn": "dry spell, aridity",
+"lvl": "B2",
+"pos": "noun",
+"ex": "The drought destroyed the crops."
+},
+{
+"w": "drown",
+"fr": "se noyer",
+"def": "To die under water because you cannot breathe",
+"syn": "go under, sink",
+"lvl": "B2",
+"pos": "verb",
+"ex": "He nearly drowned in the river."
+},
+{
+"w": "due to",
+"fr": "en raison de",
+"def": "Because of something",
+"syn": "because of, owing to, as a result of",
+"lvl": "B2",
+"pos": "prep",
+"ex": "The flight was cancelled due to bad weather."
+},
+{
+"w": "dull",
+"fr": "ennuyeux, terne",
+"def": "Not interesting or exciting",
+"syn": "boring, tedious, dreary",
+"lvl": "B2",
+"pos": "adj",
+"ex": "The lecture was really dull."
+},
+{
+"w": "dump",
+"fr": "déposer, jeter",
+"def": "To get rid of something in an unsuitable place",
+"syn": "discard, throw away, drop",
+"lvl": "B2",
+"pos": "verb",
+"ex": "Someone dumped rubbish by the river."
+},
+{
+"w": "durable",
+"fr": "résistant, durable",
+"def": "Able to last a long time without damage",
+"syn": "long-lasting, sturdy, tough",
+"lvl": "B2",
+"pos": "adj",
+"ex": "These boots are made of durable leather."
+},
+{
+"w": "duration",
+"fr": "durée",
+"def": "The length of time something lasts",
+"syn": "length, period, span",
+"lvl": "B2",
+"pos": "noun",
+"ex": "Phones must be off for the duration of the exam."
+},
+{
+"w": "dye",
+"fr": "teindre",
+"def": "To change the colour of something using a substance",
+"syn": "colour, tint, stain",
+"lvl": "B2",
+"pos": "verb",
+"ex": "She dyed her hair red."
+},
+{
+"w": "dynamic",
+"fr": "dynamique",
+"def": "Full of energy and new ideas",
+"syn": "energetic, lively, vigorous",
+"lvl": "B2",
+"pos": "adj",
+"ex": "We need a dynamic young manager."
+},
+{
+"w": "eager",
+"fr": "désireux, impatient",
+"def": "Wanting very much to do or have something",
+"syn": "keen, enthusiastic, impatient",
+"lvl": "B2",
+"pos": "adj",
+"ex": "The students were eager to learn."
+},
+{
+"w": "earnings",
+"fr": "revenus, gains",
+"def": "Money that you receive for work",
+"syn": "income, wages, salary",
+"lvl": "B2",
+"pos": "noun",
+"ex": "His annual earnings have doubled."
+},
+{
+"w": "ease",
+"fr": "facilité, aisance",
+"def": "Lack of difficulty",
+"syn": "simplicity, effortlessness, facility",
+"lvl": "B2",
+"pos": "noun",
+"ex": "She passed the test with ease."
+},
+{
+"w": "eccentric",
+"fr": "excentrique",
+"def": "Strange or unusual in behaviour",
+"syn": "odd, peculiar, quirky",
+"lvl": "B2",
+"pos": "adj",
+"ex": "Her eccentric aunt keeps twenty cats."
+},
+{
+"w": "echo",
+"fr": "écho",
+"def": "A sound heard again because it bounces off a surface",
+"syn": "reverberation, repetition",
+"lvl": "B2",
+"pos": "noun",
+"ex": "We heard the echo of our voices in the cave."
+},
+{
+"w": "economical",
+"fr": "économique, économe",
+"def": "Not using much money, fuel or resources",
+"syn": "thrifty, cheap, efficient",
+"lvl": "B2",
+"pos": "adj",
+"ex": "This car is very economical to run."
+},
+{
+"w": "edible",
+"fr": "comestible",
+"def": "Safe to eat",
+"syn": "eatable, safe to eat",
+"lvl": "B2",
+"pos": "adj",
+"ex": "Are these mushrooms edible?"
+},
+{
+"w": "edition",
+"fr": "édition",
+"def": "A particular version of a book, magazine or newspaper",
+"syn": "version, issue, printing",
+"lvl": "B2",
+"pos": "noun",
+"ex": "The new edition includes updated maps."
+},
+{
+"w": "effectively",
+"fr": "efficacement, en fait",
+"def": "In a way that produces the desired result",
+"syn": "efficiently, successfully, well",
+"lvl": "B2",
+"pos": "adv",
+"ex": "The medicine works effectively against pain."
+},
+{
+"w": "efficiency",
+"fr": "efficacité, rendement",
+"def": "Working well without wasting time or energy",
+"syn": "effectiveness, productivity",
+"lvl": "B2",
+"pos": "noun",
+"ex": "New machines have improved efficiency."
+},
+{
+"w": "elaborate",
+"fr": "élaboré, complexe",
+"def": "Containing many careful details",
+"syn": "complex, detailed, intricate",
+"lvl": "B2",
+"pos": "adj",
+"ex": "They made elaborate plans for the wedding."
+},
+{
+"w": "elderly",
+"fr": "âgé",
+"def": "Old, used politely about people",
+"syn": "old, aged, senior",
+"lvl": "B2",
+"pos": "adj",
+"ex": "She looks after her elderly parents."
+},
+{
+"w": "elect",
+"fr": "élire",
+"def": "To choose someone for a position by voting",
+"syn": "vote for, choose, select",
+"lvl": "B2",
+"pos": "verb",
+"ex": "She was elected mayor in 2020."
+},
+{
+"w": "election",
+"fr": "élection",
+"def": "An event in which people vote to choose leaders",
+"syn": "vote, ballot, poll",
+"lvl": "B2",
+"pos": "noun",
+"ex": "The general election will take place in May."
+},
+{
+"w": "elegant",
+"fr": "élégant",
+"def": "Graceful and stylish in appearance",
+"syn": "stylish, graceful, chic",
+"lvl": "B2",
+"pos": "adj",
+"ex": "She wore an elegant black dress."
+},
+{
+"w": "element",
+"fr": "élément",
+"def": "A basic part of something",
+"syn": "component, part, factor",
+"lvl": "B2",
+"pos": "noun",
+"ex": "Trust is an essential element of any relationship."
+},
+{
+"w": "eliminate",
+"fr": "éliminer",
+"def": "To remove or get rid of something completely",
+"syn": "remove, eradicate, get rid of",
+"lvl": "B2",
+"pos": "verb",
+"ex": "We must eliminate unnecessary costs."
+},
+{
+"w": "embarrass",
+"fr": "embarrasser, gêner",
+"def": "To make someone feel ashamed or uncomfortable",
+"syn": "humiliate, shame, fluster",
+"lvl": "B2",
+"pos": "verb",
+"ex": "His comments embarrassed her in front of everyone."
+},
+{
+"w": "embrace",
+"fr": "embrasser, adopter",
+"def": "To accept new ideas or changes enthusiastically",
+"syn": "adopt, welcome, accept",
+"lvl": "B2",
+"pos": "verb",
+"ex": "The company embraced new technology quickly."
+},
+{
+"w": "emerge",
+"fr": "émerger, apparaître",
+"def": "To appear or come out from somewhere",
+"syn": "appear, arise, come out",
+"lvl": "B2",
+"pos": "verb",
+"ex": "New evidence has emerged in the case."
+},
+{
+"w": "emission",
+"fr": "émission, rejet",
+"def": "Gas or other substance sent into the air",
+"syn": "discharge, release, exhaust",
+"lvl": "B2",
+"pos": "noun",
+"ex": "We must reduce carbon emissions."
+},
+{
+"w": "emphasis",
+"fr": "accent, insistance",
+"def": "Special importance given to something",
+"syn": "stress, importance, focus",
+"lvl": "B2",
+"pos": "noun",
+"ex": "The school puts great emphasis on sport."
+},
+{
+"w": "emphasize",
+"fr": "souligner",
+"def": "To show that something is especially important",
+"syn": "stress, highlight, underline",
+"lvl": "B2",
+"pos": "verb",
+"ex": "She emphasized the need for patience."
+},
+{
+"w": "empire",
+"fr": "empire",
+"def": "A group of countries ruled by one government or ruler",
+"syn": "kingdom, realm, domain",
+"lvl": "B2",
+"pos": "noun",
+"ex": "The Roman Empire lasted for centuries."
+},
+{
+"w": "enable",
+"fr": "permettre",
+"def": "To make it possible for someone to do something",
+"syn": "allow, permit, empower",
+"lvl": "B2",
+"pos": "verb",
+"ex": "The grant enabled her to study abroad."
+},
+{
+"w": "enclose",
+"fr": "joindre, entourer",
+"def": "To put something in an envelope with a letter",
+"syn": "include, attach, insert",
+"lvl": "B2",
+"pos": "verb",
+"ex": "Please enclose a copy of your CV."
+},
+{
+"w": "encounter",
+"fr": "rencontrer, se heurter à",
+"def": "To experience or meet something unexpected",
+"syn": "meet, face, come across",
+"lvl": "B2",
+"pos": "verb",
+"ex": "We encountered several problems during the project."
+},
+{
+"w": "endangered",
+"fr": "menacé, en voie de disparition",
+"def": "At risk of no longer existing",
+"syn": "threatened, at risk, vulnerable",
+"lvl": "B2",
+"pos": "adj",
+"ex": "The panda is an endangered species."
+},
+{
+"w": "endless",
+"fr": "interminable, infini",
+"def": "Seeming to have no end",
+"syn": "infinite, never-ending, constant",
+"lvl": "B2",
+"pos": "adj",
+"ex": "I'm tired of their endless complaints."
+},
+{
+"w": "endure",
+"fr": "endurer, supporter",
+"def": "To suffer something difficult for a long time",
+"syn": "bear, tolerate, withstand",
+"lvl": "B2",
+"pos": "verb",
+"ex": "She endured years of pain."
+},
+{
+"w": "enforce",
+"fr": "faire respecter, appliquer",
+"def": "To make sure people obey a law or rule",
+"syn": "impose, apply, implement",
+"lvl": "B2",
+"pos": "verb",
+"ex": "The police must enforce the speed limit."
+},
+{
+"w": "engage",
+"fr": "engager, impliquer",
+"def": "To attract and keep someone's interest",
+"syn": "involve, occupy, captivate",
+"lvl": "B2",
+"pos": "verb",
+"ex": "Good teachers know how to engage their students."
+},
+{
+"w": "enhance",
+"fr": "améliorer, rehausser",
+"def": "To improve the quality or value of something",
+"syn": "improve, boost, increase",
+"lvl": "B2",
+"pos": "verb",
+"ex": "The new lighting enhances the room."
+},
+{
+"w": "enlarge",
+"fr": "agrandir",
+"def": "To make something bigger",
+"syn": "expand, increase, extend",
+"lvl": "B2",
+"pos": "verb",
+"ex": "I'd like to enlarge this photo."
+},
+{
+"w": "enormous",
+"fr": "énorme",
+"def": "Extremely large",
+"syn": "huge, vast, immense",
+"lvl": "B2",
+"pos": "adj",
+"ex": "They live in an enormous house."
+},
+{
+"w": "enquiry",
+"fr": "demande de renseignements",
+"def": "A question asked to get information",
+"syn": "question, query, request",
+"lvl": "B2",
+"pos": "noun",
+"ex": "We received hundreds of enquiries about the job."
+},
+{
+"w": "enrich",
+"fr": "enrichir",
+"def": "To improve the quality of something by adding to it",
+"syn": "improve, enhance, develop",
+"lvl": "B2",
+"pos": "verb",
+"ex": "Travel enriches your understanding of the world."
+},
+{
+"w": "ensure",
+"fr": "assurer, garantir",
+"def": "To make certain that something happens",
+"syn": "guarantee, make sure, secure",
+"lvl": "B2",
+"pos": "verb",
+"ex": "Please ensure that all doors are locked."
+},
+{
+"w": "enterprise",
+"fr": "entreprise",
+"def": "A business or company",
+"syn": "business, company, firm",
+"lvl": "B2",
+"pos": "noun",
+"ex": "The government supports small enterprises."
+},
+{
+"w": "entertain",
+"fr": "divertir, recevoir",
+"def": "To keep people interested and amused",
+"syn": "amuse, delight, divert",
+"lvl": "B2",
+"pos": "verb",
+"ex": "The clown entertained the children for an hour."
+},
+{
+"w": "enthusiasm",
+"fr": "enthousiasme",
+"def": "A feeling of great interest and excitement",
+"syn": "eagerness, passion, keenness",
+"lvl": "B2",
+"pos": "noun",
+"ex": "He spoke about his project with real enthusiasm."
+},
+{
+"w": "entire",
+"fr": "entier",
+"def": "Whole or complete",
+"syn": "whole, complete, total",
+"lvl": "B2",
+"pos": "adj",
+"ex": "I spent the entire day cleaning."
+},
+{
+"w": "entitle",
+"fr": "donner droit à",
+"def": "To give someone the right to have or do something",
+"syn": "allow, permit, qualify",
+"lvl": "B2",
+"pos": "verb",
+"ex": "This ticket entitles you to free entry."
+},
+{
+"w": "envious",
+"fr": "envieux, jaloux",
+"def": "Wanting something that another person has",
+"syn": "jealous, resentful, covetous",
+"lvl": "B2",
+"pos": "adj",
+"ex": "I was envious of his success."
+},
+{
+"w": "envy",
+"fr": "envier",
+"def": "To wish you had what someone else has",
+"syn": "be jealous of, covet, resent",
+"lvl": "B2",
+"pos": "verb",
+"ex": "I envy people who can sleep anywhere."
+},
+{
+"w": "epidemic",
+"fr": "épidémie",
+"def": "A disease that spreads quickly among many people",
+"syn": "outbreak, plague, pandemic",
+"lvl": "B2",
+"pos": "noun",
+"ex": "A flu epidemic swept through the country."
+},
+{
+"w": "episode",
+"fr": "épisode",
+"def": "One part of a television or radio series",
+"syn": "instalment, part, chapter",
+"lvl": "B2",
+"pos": "noun",
+"ex": "I missed last night's episode."
+},
+{
+"w": "equality",
+"fr": "égalité",
+"def": "The state of having the same rights and opportunities",
+"syn": "fairness, equity, parity",
+"lvl": "B2",
+"pos": "noun",
+"ex": "They fought for racial equality."
+},
+{
+"w": "equip",
+"fr": "équiper",
+"def": "To provide the tools or things needed for a purpose",
+"syn": "supply, furnish, provide",
+"lvl": "B2",
+"pos": "verb",
+"ex": "The kitchen is equipped with modern appliances."
+},
+{
+"w": "equivalent",
+"fr": "équivalent",
+"def": "Having the same value, amount or meaning",
+"syn": "equal, comparable, corresponding",
+"lvl": "B2",
+"pos": "adj",
+"ex": "Ten euros is roughly equivalent to eleven dollars."
+},
+{
+"w": "era",
+"fr": "ère, époque",
+"def": "A period of history with particular features",
+"syn": "age, period, epoch",
+"lvl": "B2",
+"pos": "noun",
+"ex": "We live in the digital era."
+},
+{
+"w": "erase",
+"fr": "effacer",
+"def": "To remove writing, recordings or data completely",
+"syn": "delete, wipe out, rub out",
+"lvl": "B2",
+"pos": "verb",
+"ex": "I accidentally erased all my files."
+},
+{
+"w": "erupt",
+"fr": "entrer en éruption, éclater",
+"def": "To suddenly throw out smoke, fire and lava",
+"syn": "explode, burst, blow up",
+"lvl": "B2",
+"pos": "verb",
+"ex": "The volcano last erupted in 1980."
+},
+{
+"w": "escalate",
+"fr": "s'intensifier, s'aggraver",
+"def": "To become greater, worse or more serious",
+"syn": "intensify, increase, worsen",
+"lvl": "B2",
+"pos": "verb",
+"ex": "The argument quickly escalated into a fight."
+},
+{
+"w": "essence",
+"fr": "essence, fond",
+"def": "The most important basic quality of something",
+"syn": "core, heart, nature",
+"lvl": "B2",
+"pos": "noun",
+"ex": "Time is of the essence."
+},
+{
+"w": "essentially",
+"fr": "essentiellement, en gros",
+"def": "Used to describe the most basic nature of something",
+"syn": "basically, fundamentally, mainly",
+"lvl": "B2",
+"pos": "adv",
+"ex": "The two plans are essentially the same."
+},
+{
+"w": "establish",
+"fr": "établir, fonder",
+"def": "To start a company or organisation",
+"syn": "found, set up, create",
+"lvl": "B2",
+"pos": "verb",
+"ex": "The firm was established in 1850."
+},
+{
+"w": "estate",
+"fr": "domaine, propriété",
+"def": "A large area of land owned by one person or family",
+"syn": "property, land, grounds",
+"lvl": "B2",
+"pos": "noun",
+"ex": "They own a large estate in Scotland."
+},
+{
+"w": "estimate",
+"fr": "estimer",
+"def": "To guess a size, amount or cost approximately",
+"syn": "calculate, assess, approximate",
+"lvl": "B2",
+"pos": "verb",
+"ex": "The damage is estimated at two million pounds."
+},
+{
+"w": "eternal",
+"fr": "éternel",
+"def": "Lasting forever",
+"syn": "everlasting, endless, permanent",
+"lvl": "B2",
+"pos": "adj",
+"ex": "They swore eternal love."
+},
+{
+"w": "ethical",
+"fr": "éthique",
+"def": "Relating to what is morally right or wrong",
+"syn": "moral, principled, honest",
+"lvl": "B2",
+"pos": "adj",
+"ex": "Testing on animals raises ethical questions."
+},
+{
+"w": "ethnic",
+"fr": "ethnique",
+"def": "Relating to a group sharing a culture or origin",
+"syn": "cultural, racial, national",
+"lvl": "B2",
+"pos": "adj",
+"ex": "The city has many ethnic minorities."
+},
+{
+"w": "evacuate",
+"fr": "évacuer",
+"def": "To move people away from a dangerous place",
+"syn": "clear, remove, empty",
+"lvl": "B2",
+"pos": "verb",
+"ex": "Residents were evacuated before the flood."
+},
+{
+"w": "evaluate",
+"fr": "évaluer",
+"def": "To judge the quality or value of something",
+"syn": "assess, judge, appraise",
+"lvl": "B2",
+"pos": "verb",
+"ex": "We need to evaluate the results carefully."
+},
+{
+"w": "evident",
+"fr": "évident, manifeste",
+"def": "Clear and easy to see or understand",
+"syn": "obvious, clear, apparent",
+"lvl": "B2",
+"pos": "adj",
+"ex": "It was evident that she was nervous."
+},
+{
+"w": "evil",
+"fr": "mauvais, maléfique",
+"def": "Morally very bad and cruel",
+"syn": "wicked, cruel, sinister",
+"lvl": "B2",
+"pos": "adj",
+"ex": "The story is about an evil queen."
+},
+{
+"w": "evolution",
+"fr": "évolution",
+"def": "Gradual development over a long time",
+"syn": "development, progress, growth",
+"lvl": "B2",
+"pos": "noun",
+"ex": "Darwin wrote about the evolution of species."
+},
+{
+"w": "evolve",
+"fr": "évoluer",
+"def": "To develop gradually over time",
+"syn": "develop, progress, grow",
+"lvl": "B2",
+"pos": "verb",
+"ex": "The company has evolved into a global brand."
+},
+{
+"w": "exaggerate",
+"fr": "exagérer",
+"def": "To describe something as bigger or worse than it is",
+"syn": "overstate, inflate, magnify",
+"lvl": "B2",
+"pos": "verb",
+"ex": "Don't exaggerate, it wasn't that bad."
+},
+{
+"w": "exceed",
+"fr": "dépasser",
+"def": "To be more than a particular amount or limit",
+"syn": "surpass, go beyond, top",
+"lvl": "B2",
+"pos": "verb",
+"ex": "He was fined for exceeding the speed limit."
+},
+{
+"w": "exception",
+"fr": "exception",
+"def": "Something not included in a general rule",
+"syn": "exclusion, anomaly, special case",
+"lvl": "B2",
+"pos": "noun",
+"ex": "Everyone came, with the exception of Tom."
+},
+{
+"w": "exceptional",
+"fr": "exceptionnel",
+"def": "Much better than usual, or very unusual",
+"syn": "outstanding, remarkable, extraordinary",
+"lvl": "B2",
+"pos": "adj",
+"ex": "She is a student of exceptional ability."
+},
+{
+"w": "excess",
+"fr": "excès",
+"def": "An amount that is more than needed or allowed",
+"syn": "surplus, overload, glut",
+"lvl": "B2",
+"pos": "noun",
+"ex": "An excess of sugar is bad for you."
+},
+{
+"w": "excessive",
+"fr": "excessif",
+"def": "Much more than is necessary or reasonable",
+"syn": "extreme, undue, too much",
+"lvl": "B2",
+"pos": "adj",
+"ex": "Excessive drinking damages your health."
+},
+{
+"w": "exclude",
+"fr": "exclure",
+"def": "To prevent someone or something from being included",
+"syn": "leave out, omit, bar",
+"lvl": "B2",
+"pos": "verb",
+"ex": "The price excludes taxes."
+},
+{
+"w": "exclusive",
+"fr": "exclusif, haut de gamme",
+"def": "Expensive and available only to some people",
+"syn": "select, elite, luxurious",
+"lvl": "B2",
+"pos": "adj",
+"ex": "They stayed at an exclusive hotel."
+},
+{
+"w": "execute",
+"fr": "exécuter",
+"def": "To kill someone as a legal punishment",
+"syn": "put to death",
+"lvl": "B2",
+"pos": "verb",
+"ex": "The king was executed in 1649."
+},
+{
+"w": "executive",
+"fr": "cadre, dirigeant",
+"def": "A senior manager in a company",
+"syn": "manager, director, administrator",
+"lvl": "B2",
+"pos": "noun",
+"ex": "She is a senior executive at a bank."
+},
+{
+"w": "exhaust",
+"fr": "épuiser",
+"def": "To make someone extremely tired",
+"syn": "tire out, wear out, drain",
+"lvl": "B2",
+"pos": "verb",
+"ex": "The long walk exhausted the children."
+},
+{
+"w": "exhibit",
+"fr": "exposer",
+"def": "To show something publicly, for example in a museum",
+"syn": "display, show, present",
+"lvl": "B2",
+"pos": "verb",
+"ex": "Her paintings are exhibited in Paris."
+},
+{
+"w": "exotic",
+"fr": "exotique",
+"def": "Unusual and exciting because from a faraway country",
+"syn": "foreign, unusual, tropical",
+"lvl": "B2",
+"pos": "adj",
+"ex": "They sell exotic fruits from Asia."
+},
+{
+"w": "expand",
+"fr": "développer, s'étendre",
+"def": "To become or make larger",
+"syn": "grow, enlarge, extend",
+"lvl": "B2",
+"pos": "verb",
+"ex": "The company plans to expand into Europe."
+},
+{
+"w": "expansion",
+"fr": "expansion, développement",
+"def": "An increase in size, number or importance",
+"syn": "growth, enlargement, development",
+"lvl": "B2",
+"pos": "noun",
+"ex": "The rapid expansion of the city caused problems."
+},
+{
+"w": "expedition",
+"fr": "expédition",
+"def": "An organised journey for a special purpose",
+"syn": "journey, voyage, mission",
+"lvl": "B2",
+"pos": "noun",
+"ex": "They joined an expedition to the Arctic."
+},
+{
+"w": "expertise",
+"fr": "expertise, compétence",
+"def": "Special skill or knowledge in a particular area",
+"syn": "skill, know-how, proficiency",
+"lvl": "B2",
+"pos": "noun",
+"ex": "We need someone with technical expertise."
+},
+{
+"w": "expire",
+"fr": "expirer, périmer",
+"def": "To stop being valid after a fixed time",
+"syn": "run out, lapse, end",
+"lvl": "B2",
+"pos": "verb",
+"ex": "My passport expires next month."
+},
+{
+"w": "explicit",
+"fr": "explicite",
+"def": "Clear and exact, leaving no doubt",
+"syn": "clear, direct, precise",
+"lvl": "B2",
+"pos": "adj",
+"ex": "He gave explicit instructions not to touch it."
+},
+{
+"w": "exploit",
+"fr": "exploiter",
+"def": "To use someone unfairly for your own advantage",
+"syn": "take advantage of, abuse, misuse",
+"lvl": "B2",
+"pos": "verb",
+"ex": "The workers were exploited by their bosses."
+},
+{
+"w": "explosion",
+"fr": "explosion",
+"def": "A sudden loud burst caused by something blowing up",
+"syn": "blast, bang, detonation",
+"lvl": "B2",
+"pos": "noun",
+"ex": "The explosion was heard for miles."
+},
+{
+"w": "expose",
+"fr": "exposer, révéler",
+"def": "To reveal something hidden or dishonest",
+"syn": "reveal, uncover, unmask",
+"lvl": "B2",
+"pos": "verb",
+"ex": "The journalist exposed the scandal."
+},
+{
+"w": "exposure",
+"fr": "exposition",
+"def": "The state of being affected by something harmful",
+"syn": "contact, subjection, vulnerability",
+"lvl": "B2",
+"pos": "noun",
+"ex": "Exposure to the sun can damage your skin."
+},
+{
+"w": "extend",
+"fr": "prolonger, agrandir",
+"def": "To make something longer or larger",
+"syn": "lengthen, prolong, expand",
+"lvl": "B2",
+"pos": "verb",
+"ex": "They extended the deadline by a week."
+},
+{
+"w": "extensive",
+"fr": "vaste, considérable",
+"def": "Covering a large area or including a lot",
+"syn": "wide, broad, comprehensive",
+"lvl": "B2",
+"pos": "adj",
+"ex": "The fire caused extensive damage."
+},
+{
+"w": "extent",
+"fr": "étendue, mesure",
+"def": "The size or degree of something",
+"syn": "degree, scale, scope",
+"lvl": "B2",
+"pos": "noun",
+"ex": "I agree with you to some extent."
+},
+{
+"w": "external",
+"fr": "externe, extérieur",
+"def": "Coming from or on the outside",
+"syn": "outside, outer, exterior",
+"lvl": "B2",
+"pos": "adj",
+"ex": "The company hired an external consultant."
+},
+{
+"w": "extinct",
+"fr": "disparu, éteint",
+"def": "No longer existing as a species",
+"syn": "vanished, died out, lost",
+"lvl": "B2",
+"pos": "adj",
+"ex": "Dinosaurs became extinct millions of years ago."
+},
+{
+"w": "extract",
+"fr": "extraire",
+"def": "To remove or take something out",
+"syn": "remove, pull out, withdraw",
+"lvl": "B2",
+"pos": "verb",
+"ex": "The dentist extracted two of my teeth."
+},
+{
+"w": "fabric",
+"fr": "tissu",
+"def": "Cloth used for making clothes and furniture",
+"syn": "cloth, material, textile",
+"lvl": "B2",
+"pos": "noun",
+"ex": "This fabric is soft and easy to wash."
+},
+{
+"w": "fabulous",
+"fr": "fabuleux, formidable",
+"def": "Extremely good or impressive",
+"syn": "wonderful, fantastic, marvellous",
+"lvl": "B2",
+"pos": "adj",
+"ex": "We had a fabulous time at the party."
+},
+{
+"w": "facility",
+"fr": "équipement, installation",
+"def": "A building or service provided for a purpose",
+"syn": "amenity, resource, installation",
+"lvl": "B2",
+"pos": "noun",
+"ex": "The hotel has excellent sports facilities."
+},
+{
+"w": "factor",
+"fr": "facteur",
+"def": "One of the things that influences a result",
+"syn": "element, cause, aspect",
+"lvl": "B2",
+"pos": "noun",
+"ex": "Price is an important factor in our decision."
+},
+{
+"w": "fade",
+"fr": "s'estomper, pâlir",
+"def": "To gradually become less bright or strong",
+"syn": "dim, disappear, weaken",
+"lvl": "B2",
+"pos": "verb",
+"ex": "The colours faded in the sun."
+},
+{
+"w": "faint",
+"fr": "s'évanouir",
+"def": "To suddenly become unconscious for a short time",
+"syn": "pass out, collapse, black out",
+"lvl": "B2",
+"pos": "verb",
+"ex": "She fainted from the heat."
+},
+{
+"w": "faith",
+"fr": "foi, confiance",
+"def": "Strong trust or belief in someone or something",
+"syn": "trust, confidence, belief",
+"lvl": "B2",
+"pos": "noun",
+"ex": "I have great faith in her abilities."
+},
+{
+"w": "faithful",
+"fr": "fidèle",
+"def": "Loyal and staying with someone or something",
+"syn": "loyal, devoted, true",
+"lvl": "B2",
+"pos": "adj",
+"ex": "He was a faithful friend for forty years."
+},
+{
+"w": "fake",
+"fr": "faux",
+"def": "Not real but made to look real",
+"syn": "false, counterfeit, imitation",
+"lvl": "B2",
+"pos": "adj",
+"ex": "The police found fake banknotes."
+},
+{
+"w": "fame",
+"fr": "célébrité, renommée",
+"def": "The state of being known by many people",
+"syn": "celebrity, renown, stardom",
+"lvl": "B2",
+"pos": "noun",
+"ex": "She rose to fame after her first film."
+},
+{
+"w": "famine",
+"fr": "famine",
+"def": "A serious lack of food affecting many people",
+"syn": "starvation, hunger, food shortage",
+"lvl": "B2",
+"pos": "noun",
+"ex": "Millions died in the famine."
+},
+{
+"w": "fancy",
+"fr": "avoir envie de",
+"def": "To want to have or do something",
+"syn": "feel like, want, desire",
+"lvl": "B2",
+"pos": "verb",
+"ex": "Do you fancy going to the cinema tonight?"
+},
+{
+"w": "fare",
+"fr": "prix du billet, tarif",
+"def": "The money you pay to travel by public transport",
+"syn": "ticket price, charge, fee",
+"lvl": "B2",
+"pos": "noun",
+"ex": "Bus fares have gone up again."
+},
+{
+"w": "fascinate",
+"fr": "fasciner",
+"def": "To interest someone very much",
+"syn": "captivate, enthral, intrigue",
+"lvl": "B2",
+"pos": "verb",
+"ex": "Space has always fascinated me."
+},
+{
+"w": "fatal",
+"fr": "mortel, fatal",
+"def": "Causing death",
+"syn": "deadly, lethal, mortal",
+"lvl": "B2",
+"pos": "adj",
+"ex": "He was involved in a fatal accident."
+},
+{
+"w": "fate",
+"fr": "destin, sort",
+"def": "A power believed to control what happens",
+"syn": "destiny, fortune, luck",
+"lvl": "B2",
+"pos": "noun",
+"ex": "Fate brought them together again."
+},
+{
+"w": "fatigue",
+"fr": "fatigue",
+"def": "Extreme tiredness",
+"syn": "exhaustion, weariness, tiredness",
+"lvl": "B2",
+"pos": "noun",
+"ex": "The drivers were suffering from fatigue."
+},
+{
+"w": "faulty",
+"fr": "défectueux",
+"def": "Not working correctly",
+"syn": "defective, broken, flawed",
+"lvl": "B2",
+"pos": "adj",
+"ex": "The fire was caused by faulty wiring."
+},
+{
+"w": "feasible",
+"fr": "faisable, réalisable",
+"def": "Possible and reasonable to do",
+"syn": "possible, practical, viable",
+"lvl": "B2",
+"pos": "adj",
+"ex": "Is it feasible to finish by Monday?"
+},
+{
+"w": "feat",
+"fr": "exploit, prouesse",
+"def": "An impressive achievement needing skill or strength",
+"syn": "achievement, accomplishment, exploit",
+"lvl": "B2",
+"pos": "noun",
+"ex": "Climbing Everest is an amazing feat."
+},
+{
+"w": "federal",
+"fr": "fédéral",
+"def": "Relating to the central government of a union of states",
+"syn": "national, central",
+"lvl": "B2",
+"pos": "adj",
+"ex": "Federal laws apply in every state."
+},
+{
+"w": "fee",
+"fr": "frais, honoraires",
+"def": "Money paid for a professional service",
+"syn": "charge, cost, payment",
+"lvl": "B2",
+"pos": "noun",
+"ex": "University fees have risen sharply."
+},
+{
+"w": "fertile",
+"fr": "fertile",
+"def": "Able to produce good crops or babies",
+"syn": "fruitful, productive, rich",
+"lvl": "B2",
+"pos": "adj",
+"ex": "The valley has very fertile soil."
+},
+{
+"w": "fierce",
+"fr": "féroce, acharné",
+"def": "Very strong, violent or aggressive",
+"syn": "intense, ferocious, aggressive",
+"lvl": "B2",
+"pos": "adj",
+"ex": "There is fierce competition for jobs."
+},
+{
+"w": "figure out",
+"fr": "comprendre, trouver",
+"def": "To understand or solve something after thinking",
+"syn": "work out, solve, understand",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "I can't figure out how this works."
+},
+{
+"w": "firm",
+"fr": "ferme, solide",
+"def": "Not soft; fixed and not easily moved",
+"syn": "solid, steady, secure",
+"lvl": "B2",
+"pos": "adj",
+"ex": "She needs a firm mattress."
+},
+{
+"w": "flavour",
+"fr": "saveur, goût",
+"def": "The particular taste of food or drink",
+"syn": "taste, savour, tang",
+"lvl": "B2",
+"pos": "noun",
+"ex": "This ice cream comes in ten flavours."
+},
+{
+"w": "flaw",
+"fr": "défaut, faille",
+"def": "A mistake or weakness in something",
+"syn": "defect, fault, weakness",
+"lvl": "B2",
+"pos": "noun",
+"ex": "There is a serious flaw in your argument."
+},
+{
+"w": "flee",
+"fr": "fuir, s'enfuir",
+"def": "To escape quickly from danger",
+"syn": "escape, run away, bolt",
+"lvl": "B2",
+"pos": "verb",
+"ex": "Thousands fled the war."
+},
+{
+"w": "fleet",
+"fr": "flotte",
+"def": "A group of ships or vehicles under one control",
+"syn": "armada, convoy, navy",
+"lvl": "B2",
+"pos": "noun",
+"ex": "The company has a fleet of delivery vans."
+},
+{
+"w": "flexibility",
+"fr": "flexibilité, souplesse",
+"def": "The ability to change or adapt easily",
+"syn": "adaptability, versatility, elasticity",
+"lvl": "B2",
+"pos": "noun",
+"ex": "The job offers great flexibility."
+},
+{
+"w": "flourish",
+"fr": "prospérer, s'épanouir",
+"def": "To grow or develop successfully",
+"syn": "thrive, prosper, bloom",
+"lvl": "B2",
+"pos": "verb",
+"ex": "Her business flourished after the move."
+},
+{
+"w": "fluent",
+"fr": "qui parle couramment",
+"def": "Able to speak a language easily and well",
+"syn": "articulate, proficient, eloquent",
+"lvl": "B2",
+"pos": "adj",
+"ex": "She is fluent in three languages."
+},
+{
+"w": "fold",
+"fr": "plier",
+"def": "To bend paper or cloth so one part covers another",
+"syn": "bend, crease, double over",
+"lvl": "B2",
+"pos": "verb",
+"ex": "Fold the letter and put it in the envelope."
+},
+{
+"w": "forbid",
+"fr": "interdire",
+"def": "To order someone not to do something",
+"syn": "prohibit, ban, outlaw",
+"lvl": "B2",
+"pos": "verb",
+"ex": "Smoking is forbidden inside the building."
+},
+{
+"w": "forecast",
+"fr": "prévision",
+"def": "A statement about what will probably happen",
+"syn": "prediction, prognosis, outlook",
+"lvl": "B2",
+"pos": "noun",
+"ex": "The weather forecast says it will rain."
+},
+{
+"w": "foresee",
+"fr": "prévoir",
+"def": "To know that something will happen before it does",
+"syn": "predict, anticipate, expect",
+"lvl": "B2",
+"pos": "verb",
+"ex": "Nobody could have foreseen the crisis."
+},
+{
+"w": "forgive",
+"fr": "pardonner",
+"def": "To stop being angry with someone who did something wrong",
+"syn": "pardon, excuse, overlook",
+"lvl": "B2",
+"pos": "verb",
+"ex": "She never forgave him for lying."
+},
+{
+"w": "format",
+"fr": "format",
+"def": "The way something is arranged or presented",
+"syn": "layout, structure, design",
+"lvl": "B2",
+"pos": "noun",
+"ex": "The exam has a new format this year."
+},
+{
+"w": "former",
+"fr": "ancien, ex-",
+"def": "Having been something in the past",
+"syn": "previous, ex-, earlier",
+"lvl": "B2",
+"pos": "adj",
+"ex": "The former president gave a speech."
+},
+{
+"w": "formula",
+"fr": "formule",
+"def": "A fixed method or rule for doing something",
+"syn": "method, recipe, equation",
+"lvl": "B2",
+"pos": "noun",
+"ex": "There is no magic formula for success."
+},
+{
+"w": "fortunate",
+"fr": "chanceux",
+"def": "Lucky",
+"syn": "lucky, blessed, favoured",
+"lvl": "B2",
+"pos": "adj",
+"ex": "We were fortunate to find a hotel room."
+},
+{
+"w": "fortune",
+"fr": "fortune",
+"def": "A very large amount of money",
+"syn": "wealth, riches, treasure",
+"lvl": "B2",
+"pos": "noun",
+"ex": "He made a fortune selling software."
+},
+{
+"w": "foster",
+"fr": "encourager, favoriser",
+"def": "To encourage the development of something",
+"syn": "encourage, promote, nurture",
+"lvl": "B2",
+"pos": "verb",
+"ex": "The club fosters a sense of community."
+},
+{
+"w": "found",
+"fr": "fonder",
+"def": "To start an organisation or institution",
+"syn": "establish, set up, create",
+"lvl": "B2",
+"pos": "verb",
+"ex": "The school was founded in 1902."
+},
+{
+"w": "foundation",
+"fr": "fondation, fondement",
+"def": "An idea or fact on which something is based",
+"syn": "basis, base, groundwork",
+"lvl": "B2",
+"pos": "noun",
+"ex": "Trust is the foundation of a good marriage."
+},
+{
+"w": "fragile",
+"fr": "fragile",
+"def": "Easily broken or damaged",
+"syn": "delicate, breakable, weak",
+"lvl": "B2",
+"pos": "adj",
+"ex": "Be careful, the vase is very fragile."
+},
+{
+"w": "fragment",
+"fr": "fragment",
+"def": "A small piece broken off something",
+"syn": "piece, bit, shard",
+"lvl": "B2",
+"pos": "noun",
+"ex": "Fragments of glass were all over the floor."
+},
+{
+"w": "framework",
+"fr": "cadre, structure",
+"def": "A system of rules or ideas used to decide things",
+"syn": "structure, system, frame",
+"lvl": "B2",
+"pos": "noun",
+"ex": "We need a legal framework for this."
+},
+{
+"w": "fraud",
+"fr": "fraude",
+"def": "The crime of deceiving people to get money",
+"syn": "deception, scam, swindle",
+"lvl": "B2",
+"pos": "noun",
+"ex": "He was arrested for tax fraud."
+},
+{
+"w": "frequency",
+"fr": "fréquence",
+"def": "How often something happens",
+"syn": "rate, regularity, incidence",
+"lvl": "B2",
+"pos": "noun",
+"ex": "Accidents have increased in frequency."
+},
+{
+"w": "frighten",
+"fr": "effrayer, faire peur",
+"def": "To make someone afraid",
+"syn": "scare, alarm, terrify",
+"lvl": "B2",
+"pos": "verb",
+"ex": "The noise frightened the horses."
+},
+{
+"w": "frontier",
+"fr": "frontière",
+"def": "The border between two countries",
+"syn": "border, boundary, limit",
+"lvl": "B2",
+"pos": "noun",
+"ex": "They crossed the frontier at night."
+},
+{
+"w": "frown",
+"fr": "froncer les sourcils",
+"def": "To pull your eyebrows together when angry or worried",
+"syn": "scowl, glower, grimace",
+"lvl": "B2",
+"pos": "verb",
+"ex": "He frowned when he saw the bill."
+},
+{
+"w": "frustration",
+"fr": "frustration",
+"def": "The feeling of being annoyed because you cannot succeed",
+"syn": "annoyance, irritation, exasperation",
+"lvl": "B2",
+"pos": "noun",
+"ex": "She screamed in frustration."
+},
+{
+"w": "fuel",
+"fr": "carburant, combustible",
+"def": "A substance burned to produce heat or power",
+"syn": "petrol, gas, energy source",
+"lvl": "B2",
+"pos": "noun",
+"ex": "The plane ran out of fuel."
+},
+{
+"w": "fulfil",
+"fr": "réaliser, remplir",
+"def": "To achieve something you wanted or promised",
+"syn": "achieve, accomplish, realise",
+"lvl": "B2",
+"pos": "verb",
+"ex": "She fulfilled her dream of becoming a pilot."
+},
+{
+"w": "function",
+"fr": "fonction",
+"def": "The purpose or natural role of something",
+"syn": "purpose, role, use",
+"lvl": "B2",
+"pos": "noun",
+"ex": "What is the function of this button?"
+},
+{
+"w": "fund",
+"fr": "financer",
+"def": "To provide money for something",
+"syn": "finance, sponsor, pay for",
+"lvl": "B2",
+"pos": "verb",
+"ex": "The project is funded by the government."
+},
+{
+"w": "fundamental",
+"fr": "fondamental",
+"def": "Forming the basic and most important part",
+"syn": "basic, essential, core",
+"lvl": "B2",
+"pos": "adj",
+"ex": "There are fundamental differences between the two systems."
+},
+{
+"w": "funeral",
+"fr": "enterrement, obsèques",
+"def": "A ceremony held after someone dies",
+"syn": "burial, memorial service",
+"lvl": "B2",
+"pos": "noun",
+"ex": "Hundreds of people attended the funeral."
+},
+{
+"w": "furious",
+"fr": "furieux",
+"def": "Extremely angry",
+"syn": "enraged, livid, irate",
+"lvl": "B2",
+"pos": "adj",
+"ex": "Dad was furious when he saw the car."
+},
+{
+"w": "furthermore",
+"fr": "de plus, en outre",
+"def": "Used to add more information to an argument",
+"syn": "moreover, in addition, besides",
+"lvl": "B2",
+"pos": "adv",
+"ex": "The plan is cheap; furthermore, it is quick."
+},
+{
+"w": "fuss",
+"fr": "histoires, agitation",
+"def": "Unnecessary excitement or worry about something unimportant",
+"syn": "commotion, bother, ado",
+"lvl": "B2",
+"pos": "noun",
+"ex": "What's all the fuss about?"
+},
+{
+"w": "gain",
+"fr": "gagner, acquérir",
+"def": "To get something useful or wanted",
+"syn": "obtain, acquire, earn",
+"lvl": "B2",
+"pos": "verb",
+"ex": "She gained valuable experience abroad."
+},
+{
+"w": "gamble",
+"fr": "parier, jouer",
+"def": "To risk money on the result of a game or race",
+"syn": "bet, wager, take a chance",
+"lvl": "B2",
+"pos": "verb",
+"ex": "He gambled away all his savings."
+},
+{
+"w": "gaze",
+"fr": "regarder fixement",
+"def": "To look at something for a long time",
+"syn": "stare, gape, look",
+"lvl": "B2",
+"pos": "verb",
+"ex": "She gazed out of the window."
+},
+{
+"w": "gender",
+"fr": "genre, sexe",
+"def": "The state of being male or female",
+"syn": "sex",
+"lvl": "B2",
+"pos": "noun",
+"ex": "Jobs should be open to all, regardless of gender."
+},
+{
+"w": "gene",
+"fr": "gène",
+"def": "A part of a cell passed from parent to child",
+"syn": "DNA unit, hereditary factor",
+"lvl": "B2",
+"pos": "noun",
+"ex": "Eye colour is determined by genes."
+},
+{
+"w": "generate",
+"fr": "générer, produire",
+"def": "To produce or create something",
+"syn": "produce, create, cause",
+"lvl": "B2",
+"pos": "verb",
+"ex": "Wind turbines generate electricity."
+},
+{
+"w": "generosity",
+"fr": "générosité",
+"def": "Willingness to give money, help or time freely",
+"syn": "kindness, charity, liberality",
+"lvl": "B2",
+"pos": "noun",
+"ex": "Thank you for your generosity."
+},
+{
+"w": "genetic",
+"fr": "génétique",
+"def": "Relating to genes or heredity",
+"syn": "hereditary, inherited, genomic",
+"lvl": "B2",
+"pos": "adj",
+"ex": "The disease is caused by a genetic defect."
+},
+{
+"w": "genius",
+"fr": "génie",
+"def": "A person with exceptional intelligence or talent",
+"syn": "mastermind, prodigy, brain",
+"lvl": "B2",
+"pos": "noun",
+"ex": "Einstein was a genius."
+},
+{
+"w": "genre",
+"fr": "genre",
+"def": "A style or category of art, music or writing",
+"syn": "category, type, style",
+"lvl": "B2",
+"pos": "noun",
+"ex": "Science fiction is my favourite genre."
+},
+{
+"w": "genuine",
+"fr": "authentique, sincère",
+"def": "Real and exactly what it appears to be",
+"syn": "real, authentic, sincere",
+"lvl": "B2",
+"pos": "adj",
+"ex": "Is this a genuine diamond?"
+},
+{
+"w": "gesture",
+"fr": "geste",
+"def": "A movement of the hands or head to express something",
+"syn": "sign, signal, motion",
+"lvl": "B2",
+"pos": "noun",
+"ex": "He made a rude gesture at the driver."
+},
+{
+"w": "get across",
+"fr": "faire comprendre",
+"def": "To make people understand an idea",
+"syn": "communicate, convey, put across",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "It's hard to get my point across in English."
+},
+{
+"w": "get along",
+"fr": "bien s'entendre",
+"def": "To have a friendly relationship with someone",
+"syn": "get on, be friendly, agree",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "I get along well with my colleagues."
+},
+{
+"w": "get away with",
+"fr": "s'en tirer impunément",
+"def": "To avoid punishment for something wrong you did",
+"syn": "escape punishment",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "He cheated and got away with it."
+},
+{
+"w": "get by",
+"fr": "se débrouiller",
+"def": "To manage to live with limited money or knowledge",
+"syn": "manage, cope, survive",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "I can get by in Spanish."
+},
+{
+"w": "get over",
+"fr": "se remettre de",
+"def": "To recover from an illness or a sad experience",
+"syn": "recover from, overcome, bounce back",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "It took her months to get over the break-up."
+},
+{
+"w": "give away",
+"fr": "donner, révéler",
+"def": "To give something to someone without asking for money",
+"syn": "donate, hand out, reveal",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "They are giving away free samples."
+},
+{
+"w": "give in",
+"fr": "céder",
+"def": "To finally agree to something after refusing",
+"syn": "yield, surrender, give way",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "The government refused to give in to their demands."
+},
+{
+"w": "glance",
+"fr": "jeter un coup d'œil",
+"def": "To look at something quickly",
+"syn": "glimpse, peek, look",
+"lvl": "B2",
+"pos": "verb",
+"ex": "She glanced at her watch."
+},
+{
+"w": "glimpse",
+"fr": "aperçu, coup d'œil",
+"def": "A brief look at something",
+"syn": "glance, peek, sight",
+"lvl": "B2",
+"pos": "noun",
+"ex": "We caught a glimpse of the queen."
+},
+{
+"w": "gloomy",
+"fr": "sombre, morose",
+"def": "Dark, or feeling sad and without hope",
+"syn": "dark, dismal, depressing",
+"lvl": "B2",
+"pos": "adj",
+"ex": "The economic outlook is gloomy."
+},
+{
+"w": "glory",
+"fr": "gloire",
+"def": "Great fame and admiration from achievements",
+"syn": "fame, honour, prestige",
+"lvl": "B2",
+"pos": "noun",
+"ex": "The team returned home in glory."
+},
+{
+"w": "glow",
+"fr": "briller, rougeoyer",
+"def": "To give out a soft, steady light",
+"syn": "shine, gleam, radiate",
+"lvl": "B2",
+"pos": "verb",
+"ex": "The fire glowed in the darkness."
+},
+{
+"w": "govern",
+"fr": "gouverner",
+"def": "To officially control a country or organisation",
+"syn": "rule, run, lead",
+"lvl": "B2",
+"pos": "verb",
+"ex": "The country is governed by a coalition."
+},
+{
+"w": "grab",
+"fr": "saisir, attraper",
+"def": "To take hold of something suddenly and roughly",
+"syn": "seize, snatch, grasp",
+"lvl": "B2",
+"pos": "verb",
+"ex": "He grabbed my arm."
+},
+{
+"w": "grace",
+"fr": "grâce, élégance",
+"def": "Smooth and elegant way of moving",
+"syn": "elegance, poise, gracefulness",
+"lvl": "B2",
+"pos": "noun",
+"ex": "She danced with great grace."
+},
+{
+"w": "gradual",
+"fr": "progressif, graduel",
+"def": "Happening slowly over a long period",
+"syn": "slow, progressive, steady",
+"lvl": "B2",
+"pos": "adj",
+"ex": "There has been a gradual improvement in his health."
+},
+{
+"w": "graduate",
+"fr": "obtenir son diplôme",
+"def": "To complete a university or school course successfully",
+"syn": "qualify, pass, complete",
+"lvl": "B2",
+"pos": "verb",
+"ex": "She graduated in law from Oxford."
+},
+{
+"w": "grant",
+"fr": "subvention, bourse",
+"def": "Money given by a government or organisation for a purpose",
+"syn": "subsidy, scholarship, award",
+"lvl": "B2",
+"pos": "noun",
+"ex": "She received a grant to study abroad."
+},
+{
+"w": "graphic",
+"fr": "cru, explicite",
+"def": "Showing unpleasant details very clearly",
+"syn": "vivid, explicit, detailed",
+"lvl": "B2",
+"pos": "adj",
+"ex": "The film contains graphic violence."
+},
+{
+"w": "grasp",
+"fr": "saisir, comprendre",
+"def": "To understand something, especially something difficult",
+"syn": "understand, comprehend, get",
+"lvl": "B2",
+"pos": "verb",
+"ex": "He quickly grasped the main idea."
+},
+{
+"w": "gratitude",
+"fr": "gratitude, reconnaissance",
+"def": "The feeling of being thankful",
+"syn": "thankfulness, appreciation, thanks",
+"lvl": "B2",
+"pos": "noun",
+"ex": "I'd like to express my gratitude to everyone."
+},
+{
+"w": "grave",
+"fr": "tombe",
+"def": "A place in the ground where a dead body is buried",
+"syn": "tomb, burial place",
+"lvl": "B2",
+"pos": "noun",
+"ex": "They put flowers on her grave."
+},
+{
+"w": "gravity",
+"fr": "pesanteur, gravité",
+"def": "The force that pulls objects towards the earth",
+"syn": "gravitation, attraction",
+"lvl": "B2",
+"pos": "noun",
+"ex": "Gravity makes things fall to the ground."
+},
+{
+"w": "greed",
+"fr": "cupidité, avidité",
+"def": "A strong wish to have more than you need",
+"syn": "avarice, selfishness, materialism",
+"lvl": "B2",
+"pos": "noun",
+"ex": "The crisis was caused by greed."
+},
+{
+"w": "greedy",
+"fr": "avide, gourmand",
+"def": "Wanting more food or money than you need",
+"syn": "selfish, grasping, avaricious",
+"lvl": "B2",
+"pos": "adj",
+"ex": "Don't be greedy, leave some for others."
+},
+{
+"w": "grief",
+"fr": "chagrin, deuil",
+"def": "Deep sadness, especially after someone dies",
+"syn": "sorrow, sadness, mourning",
+"lvl": "B2",
+"pos": "noun",
+"ex": "She was overcome with grief."
+},
+{
+"w": "grieve",
+"fr": "pleurer, être en deuil",
+"def": "To feel great sadness because someone has died",
+"syn": "mourn, lament, sorrow",
+"lvl": "B2",
+"pos": "verb",
+"ex": "He is still grieving for his wife."
+},
+{
+"w": "grim",
+"fr": "sinistre, sombre",
+"def": "Very serious, worrying or unpleasant",
+"syn": "bleak, gloomy, harsh",
+"lvl": "B2",
+"pos": "adj",
+"ex": "The news is grim."
+},
+{
+"w": "grip",
+"fr": "prise, emprise",
+"def": "A firm hold on something",
+"syn": "hold, grasp, clasp",
+"lvl": "B2",
+"pos": "noun",
+"ex": "Keep a firm grip on the rope."
+},
+{
+"w": "gross",
+"fr": "brut",
+"def": "Total, before tax or costs are taken away",
+"syn": "total, whole, before tax",
+"lvl": "B2",
+"pos": "adj",
+"ex": "His gross salary is fifty thousand euros."
+},
+{
+"w": "grumble",
+"fr": "râler, ronchonner",
+"def": "To complain in an annoyed way",
+"syn": "complain, moan, whinge",
+"lvl": "B2",
+"pos": "verb",
+"ex": "He's always grumbling about his job."
+},
+{
+"w": "guarantee",
+"fr": "garantir",
+"def": "To promise that something will happen or work",
+"syn": "promise, ensure, assure",
+"lvl": "B2",
+"pos": "verb",
+"ex": "We guarantee delivery within 24 hours."
+},
+{
+"w": "guidance",
+"fr": "conseils, orientation",
+"def": "Help or advice about what to do",
+"syn": "advice, direction, counselling",
+"lvl": "B2",
+"pos": "noun",
+"ex": "Students receive guidance on choosing a career."
+},
+{
+"w": "guideline",
+"fr": "directive, ligne directrice",
+"def": "Official advice about how to do something",
+"syn": "rule, recommendation, instruction",
+"lvl": "B2",
+"pos": "noun",
+"ex": "Follow the safety guidelines carefully."
+},
+{
+"w": "guilt",
+"fr": "culpabilité",
+"def": "The feeling of having done something wrong",
+"syn": "remorse, shame, regret",
+"lvl": "B2",
+"pos": "noun",
+"ex": "She felt guilt for not visiting her mother."
+},
+{
+"w": "gut",
+"fr": "instinct, intestin",
+"def": "A strong feeling based on instinct, not reason",
+"syn": "instinct, intuition, hunch",
+"lvl": "B2",
+"pos": "noun",
+"ex": "My gut tells me he's lying."
+},
+{
+"w": "habitat",
+"fr": "habitat",
+"def": "The natural home of an animal or plant",
+"syn": "environment, home, territory",
+"lvl": "B2",
+"pos": "noun",
+"ex": "Pollution is destroying the bird's natural habitat."
+},
+{
+"w": "halt",
+"fr": "arrêt",
+"def": "A stop or pause",
+"syn": "stop, standstill, pause",
+"lvl": "B2",
+"pos": "noun",
+"ex": "The train came to a sudden halt."
+},
+{
+"w": "handful",
+"fr": "poignée",
+"def": "A small number of people or things",
+"syn": "few, small number, scattering",
+"lvl": "B2",
+"pos": "noun",
+"ex": "Only a handful of people came."
+},
+{
+"w": "handle",
+"fr": "gérer, traiter",
+"def": "To deal with a situation or problem",
+"syn": "manage, deal with, cope with",
+"lvl": "B2",
+"pos": "verb",
+"ex": "She handled the crisis very well."
+},
+{
+"w": "hand over",
+"fr": "remettre, céder",
+"def": "To give something or someone to another person",
+"syn": "give, pass, surrender",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "He handed over the keys to the new owner."
+},
+{
+"w": "hang on",
+"fr": "attendre, patienter",
+"def": "To wait for a short time",
+"syn": "wait, hold on",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "Hang on a minute, I'm nearly ready."
+},
+{
+"w": "harassment",
+"fr": "harcèlement",
+"def": "Repeated behaviour that annoys, threatens or upsets someone",
+"syn": "bullying, persecution, intimidation",
+"lvl": "B2",
+"pos": "noun",
+"ex": "She complained of harassment at work."
+},
+{
+"w": "hardship",
+"fr": "épreuve, difficultés",
+"def": "A situation of suffering, often from lack of money",
+"syn": "difficulty, adversity, poverty",
+"lvl": "B2",
+"pos": "noun",
+"ex": "The war brought great hardship."
+},
+{
+"w": "harm",
+"fr": "mal, tort",
+"def": "Physical or mental damage or injury",
+"syn": "damage, injury, hurt",
+"lvl": "B2",
+"pos": "noun",
+"ex": "A little rest won't do you any harm."
+},
+{
+"w": "harmful",
+"fr": "nocif, nuisible",
+"def": "Causing damage or injury",
+"syn": "damaging, dangerous, detrimental",
+"lvl": "B2",
+"pos": "adj",
+"ex": "Smoking is harmful to your health."
+},
+{
+"w": "harmless",
+"fr": "inoffensif",
+"def": "Not able or likely to cause damage",
+"syn": "safe, innocent, gentle",
+"lvl": "B2",
+"pos": "adj",
+"ex": "The snake is harmless."
+},
+{
+"w": "harmony",
+"fr": "harmonie",
+"def": "A peaceful state of agreement",
+"syn": "accord, peace, unity",
+"lvl": "B2",
+"pos": "noun",
+"ex": "The two communities live in harmony."
+},
+{
+"w": "harsh",
+"fr": "dur, rude, sévère",
+"def": "Unpleasant, unkind or too severe",
+"syn": "severe, cruel, tough",
+"lvl": "B2",
+"pos": "adj",
+"ex": "The punishment was too harsh."
+},
+{
+"w": "harvest",
+"fr": "récolte, moisson",
+"def": "The time or activity of gathering crops",
+"syn": "crop, yield, gathering",
+"lvl": "B2",
+"pos": "noun",
+"ex": "Farmers expect a good harvest this year."
+},
+{
+"w": "haste",
+"fr": "hâte, précipitation",
+"def": "Excessive speed when doing something",
+"syn": "hurry, rush, speed",
+"lvl": "B2",
+"pos": "noun",
+"ex": "In her haste, she forgot her keys."
+},
+{
+"w": "hasty",
+"fr": "hâtif, précipité",
+"def": "Done too quickly, without enough thought",
+"syn": "rushed, hurried, rash",
+"lvl": "B2",
+"pos": "adj",
+"ex": "Let's not make a hasty decision."
+},
+{
+"w": "hatred",
+"fr": "haine",
+"def": "An extremely strong feeling of dislike",
+"syn": "hate, loathing, hostility",
+"lvl": "B2",
+"pos": "noun",
+"ex": "His eyes were full of hatred."
+},
+{
+"w": "haunt",
+"fr": "hanter",
+"def": "To keep coming back to someone's mind unpleasantly",
+"syn": "torment, trouble, obsess",
+"lvl": "B2",
+"pos": "verb",
+"ex": "The memory of the accident still haunts him."
+},
+{
+"w": "hazard",
+"fr": "danger, risque",
+"def": "Something that could be dangerous",
+"syn": "danger, risk, threat",
+"lvl": "B2",
+"pos": "noun",
+"ex": "Wet floors are a safety hazard."
+},
+{
+"w": "hazardous",
+"fr": "dangereux",
+"def": "Risky and possibly causing harm",
+"syn": "dangerous, risky, unsafe",
+"lvl": "B2",
+"pos": "adj",
+"ex": "They dispose of hazardous waste safely."
+},
+{
+"w": "head for",
+"fr": "se diriger vers",
+"def": "To go or move towards a place",
+"syn": "make for, go towards, aim for",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "We headed for the beach after lunch."
+},
+{
+"w": "heal",
+"fr": "guérir, cicatriser",
+"def": "To become healthy again after an injury",
+"syn": "cure, recover, mend",
+"lvl": "B2",
+"pos": "verb",
+"ex": "The wound healed quickly."
+},
+{
+"w": "heap",
+"fr": "tas, pile",
+"def": "An untidy pile of things",
+"syn": "pile, stack, mound",
+"lvl": "B2",
+"pos": "noun",
+"ex": "There was a heap of clothes on the floor."
+},
+{
+"w": "heated",
+"fr": "animé, passionné",
+"def": "Full of anger and strong feelings",
+"syn": "angry, passionate, fierce",
+"lvl": "B2",
+"pos": "adj",
+"ex": "They had a heated argument about politics."
+},
+{
+"w": "hectic",
+"fr": "trépidant, mouvementé",
+"def": "Very busy and full of activity",
+"syn": "busy, frantic, chaotic",
+"lvl": "B2",
+"pos": "adj",
+"ex": "I've had a hectic week at work."
+},
+{
+"w": "heir",
+"fr": "héritier",
+"def": "A person who will receive property after someone dies",
+"syn": "successor, inheritor, beneficiary",
+"lvl": "B2",
+"pos": "noun",
+"ex": "He is the heir to a large fortune."
+},
+{
+"w": "hence",
+"fr": "d'où, par conséquent",
+"def": "For this reason",
+"syn": "therefore, thus, consequently",
+"lvl": "B2",
+"pos": "adv",
+"ex": "The road was icy, hence the accident."
+},
+{
+"w": "heritage",
+"fr": "patrimoine, héritage",
+"def": "Traditions, buildings and culture passed down through history",
+"syn": "tradition, legacy, inheritance",
+"lvl": "B2",
+"pos": "noun",
+"ex": "The castle is part of our national heritage."
+},
+{
+"w": "hesitant",
+"fr": "hésitant",
+"def": "Uncertain or slow to act or speak",
+"syn": "unsure, reluctant, uncertain",
+"lvl": "B2",
+"pos": "adj",
+"ex": "She was hesitant to accept the offer."
+},
+{
+"w": "hesitation",
+"fr": "hésitation",
+"def": "The act of pausing because you are unsure",
+"syn": "doubt, reluctance, uncertainty",
+"lvl": "B2",
+"pos": "noun",
+"ex": "He agreed without hesitation."
+},
+{
+"w": "hierarchy",
+"fr": "hiérarchie",
+"def": "A system where people are ranked by importance",
+"syn": "ranking, pecking order, chain of command",
+"lvl": "B2",
+"pos": "noun",
+"ex": "She rose quickly through the company hierarchy."
+},
+{
+"w": "highlight",
+"fr": "souligner, mettre en évidence",
+"def": "To draw attention to something important",
+"syn": "emphasize, stress, underline",
+"lvl": "B2",
+"pos": "verb",
+"ex": "The report highlights the need for reform."
+},
+{
+"w": "hint",
+"fr": "allusion, indice",
+"def": "Something said indirectly to suggest an idea",
+"syn": "clue, suggestion, tip",
+"lvl": "B2",
+"pos": "noun",
+"ex": "She dropped a hint about her birthday present."
+},
+{
+"w": "hire",
+"fr": "embaucher, louer",
+"def": "To employ someone or pay to use something",
+"syn": "employ, recruit, rent",
+"lvl": "B2",
+"pos": "verb",
+"ex": "We hired a car for the weekend."
+},
+{
+"w": "hold back",
+"fr": "retenir, freiner",
+"def": "To stop someone or something from progressing",
+"syn": "restrain, hinder, restrict",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "Fear of failure is holding him back."
+},
+{
+"w": "hold up",
+"fr": "retarder",
+"def": "To delay someone or something",
+"syn": "delay, slow down, detain",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "Sorry I'm late, I was held up in traffic."
+},
+{
+"w": "hollow",
+"fr": "creux",
+"def": "Having an empty space inside",
+"syn": "empty, vacant, unfilled",
+"lvl": "B2",
+"pos": "adj",
+"ex": "The tree trunk was hollow."
+},
+{
+"w": "homeless",
+"fr": "sans-abri, SDF",
+"def": "Having nowhere to live",
+"syn": "without shelter, on the streets",
+"lvl": "B2",
+"pos": "adj",
+"ex": "The charity helps homeless people."
+},
+{
+"w": "honour",
+"fr": "honneur",
+"def": "Great respect or a privilege",
+"syn": "respect, privilege, distinction",
+"lvl": "B2",
+"pos": "noun",
+"ex": "It's an honour to meet you."
+},
+{
+"w": "hook",
+"fr": "crochet, hameçon",
+"def": "A curved piece of metal used for hanging or catching",
+"syn": "peg, hanger, clasp",
+"lvl": "B2",
+"pos": "noun",
+"ex": "Hang your coat on the hook."
+},
+{
+"w": "horizon",
+"fr": "horizon",
+"def": "The line where the earth or sea seems to meet the sky",
+"syn": "skyline, vista",
+"lvl": "B2",
+"pos": "noun",
+"ex": "The sun sank below the horizon."
+},
+{
+"w": "horror",
+"fr": "horreur",
+"def": "A strong feeling of shock and fear",
+"syn": "terror, dread, fright",
+"lvl": "B2",
+"pos": "noun",
+"ex": "She watched in horror as the car crashed."
+},
+{
+"w": "hospitality",
+"fr": "hospitalité, accueil",
+"def": "Friendly and generous treatment of guests",
+"syn": "welcome, friendliness, generosity",
+"lvl": "B2",
+"pos": "noun",
+"ex": "Thank you for your kind hospitality."
+},
+{
+"w": "host",
+"fr": "accueillir, organiser",
+"def": "To organise an event and provide the place",
+"syn": "hold, organise, stage",
+"lvl": "B2",
+"pos": "verb",
+"ex": "Paris hosted the Olympic Games in 2024."
+},
+{
+"w": "hostage",
+"fr": "otage",
+"def": "A person held prisoner to force others to act",
+"syn": "captive, prisoner",
+"lvl": "B2",
+"pos": "noun",
+"ex": "The hostages were released after three days."
+},
+{
+"w": "hostile",
+"fr": "hostile",
+"def": "Unfriendly and ready to argue or fight",
+"syn": "unfriendly, aggressive, antagonistic",
+"lvl": "B2",
+"pos": "adj",
+"ex": "The crowd was hostile towards the speaker."
+},
+{
+"w": "household",
+"fr": "foyer, ménage",
+"def": "All the people living together in one home",
+"syn": "family, home, family unit",
+"lvl": "B2",
+"pos": "noun",
+"ex": "Most households now have internet access."
+},
+{
+"w": "humble",
+"fr": "humble, modeste",
+"def": "Not proud; not thinking you are better than others",
+"syn": "modest, unassuming, meek",
+"lvl": "B2",
+"pos": "adj",
+"ex": "Despite his fame, he remained humble."
+},
+{
+"w": "humid",
+"fr": "humide, moite",
+"def": "Hot and wet, describing air or weather",
+"syn": "muggy, damp, sticky",
+"lvl": "B2",
+"pos": "adj",
+"ex": "The weather in Singapore is hot and humid."
+},
+{
+"w": "humiliate",
+"fr": "humilier",
+"def": "To make someone feel ashamed and stupid",
+"syn": "embarrass, shame, degrade",
+"lvl": "B2",
+"pos": "verb",
+"ex": "He humiliated her in front of her friends."
+},
+{
+"w": "hurricane",
+"fr": "ouragan",
+"def": "A violent storm with extremely strong winds",
+"syn": "cyclone, typhoon, storm",
+"lvl": "B2",
+"pos": "noun",
+"ex": "The hurricane destroyed hundreds of homes."
+},
+{
+"w": "daring",
+"fr": "audacieux, osé",
+"def": "Brave and willing to take risks",
+"syn": "bold, brave, adventurous",
+"lvl": "B2",
+"pos": "adj",
+"ex": "It was a daring rescue in the mountains."
+},
+{
+"w": "delegate",
+"fr": "déléguer",
+"def": "To give part of your work or power to someone else",
+"syn": "assign, entrust, hand over",
+"lvl": "B2",
+"pos": "verb",
+"ex": "A good manager knows how to delegate."
+},
+{
+"w": "deliberately",
+"fr": "exprès, délibérément",
+"def": "Intentionally, not by accident",
+"syn": "on purpose, intentionally, knowingly",
+"lvl": "B2",
+"pos": "adv",
+"ex": "He deliberately broke the window."
+},
+{
+"w": "deputy",
+"fr": "adjoint",
+"def": "The second most important person in an organisation",
+"syn": "assistant, second-in-command, substitute",
+"lvl": "B2",
+"pos": "noun",
+"ex": "The deputy head will run the school today."
+},
+{
+"w": "descent",
+"fr": "descente, origine",
+"def": "A movement downwards",
+"syn": "drop, fall, decline",
+"lvl": "B2",
+"pos": "noun",
+"ex": "The plane began its descent into Rome."
+},
+{
+"w": "deter",
+"fr": "dissuader",
+"def": "To make someone less likely to do something",
+"syn": "discourage, dissuade, prevent",
+"lvl": "B2",
+"pos": "verb",
+"ex": "Cameras are used to deter thieves."
+},
+{
+"w": "disposal",
+"fr": "élimination, disposition",
+"def": "The act of getting rid of something",
+"syn": "removal, discarding, elimination",
+"lvl": "B2",
+"pos": "noun",
+"ex": "The safe disposal of waste is essential."
+},
+{
+"w": "disruption",
+"fr": "perturbation",
+"def": "A problem that stops something continuing normally",
+"syn": "interruption, disturbance, upheaval",
+"lvl": "B2",
+"pos": "noun",
+"ex": "The strike caused major disruption to flights."
+},
+{
+"w": "distraction",
+"fr": "distraction",
+"def": "Something that takes your attention away",
+"syn": "interruption, diversion, disturbance",
+"lvl": "B2",
+"pos": "noun",
+"ex": "Phones are a constant distraction in class."
+},
+{
+"w": "disturbance",
+"fr": "trouble, dérangement",
+"def": "Something that interrupts or upsets a calm situation",
+"syn": "disruption, commotion, interruption",
+"lvl": "B2",
+"pos": "noun",
+"ex": "Police were called to a disturbance in the street."
+},
+{
+"w": "do without",
+"fr": "se passer de",
+"def": "To manage without having something",
+"syn": "manage without, forgo, go without",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "I can't do without my morning coffee."
+},
+{
+"w": "draw on",
+"fr": "puiser dans",
+"def": "To use knowledge or experience to help you",
+"syn": "use, rely on, make use of",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "She drew on her own experience to write the book."
+},
+{
+"w": "ecological",
+"fr": "écologique",
+"def": "Relating to the relationship between living things and nature",
+"syn": "environmental, green",
+"lvl": "B2",
+"pos": "adj",
+"ex": "The oil spill was an ecological disaster."
+},
+{
+"w": "engagement",
+"fr": "fiançailles",
+"def": "An agreement to get married",
+"syn": "betrothal, commitment",
+"lvl": "B2",
+"pos": "noun",
+"ex": "They announced their engagement last week."
+},
+{
+"w": "enrol",
+"fr": "s'inscrire",
+"def": "To officially join a course or school",
+"syn": "register, sign up, join",
+"lvl": "B2",
+"pos": "verb",
+"ex": "She enrolled on a French course."
+},
+{
+"w": "enthusiastic",
+"fr": "enthousiaste",
+"def": "Showing great excitement and interest",
+"syn": "eager, keen, passionate",
+"lvl": "B2",
+"pos": "adj",
+"ex": "The audience gave an enthusiastic response."
+},
+{
+"w": "ethic",
+"fr": "éthique, morale",
+"def": "A set of moral principles",
+"syn": "principle, value, morality",
+"lvl": "B2",
+"pos": "noun",
+"ex": "She has a strong work ethic."
+},
+{
+"w": "evaluation",
+"fr": "évaluation",
+"def": "The process of judging the value or quality of something",
+"syn": "assessment, appraisal, review",
+"lvl": "B2",
+"pos": "noun",
+"ex": "Each employee receives an annual evaluation."
+},
+{
+"w": "evidently",
+"fr": "de toute évidence",
+"def": "In a way that is clear to see",
+"syn": "clearly, obviously, apparently",
+"lvl": "B2",
+"pos": "adv",
+"ex": "She was evidently upset by the news."
+},
+{
+"w": "exile",
+"fr": "exil",
+"def": "Being forced to live away from your own country",
+"syn": "banishment, expulsion, deportation",
+"lvl": "B2",
+"pos": "noun",
+"ex": "The writer spent twenty years in exile."
+},
+{
+"w": "exploration",
+"fr": "exploration",
+"def": "Travelling through a place to learn about it",
+"syn": "investigation, discovery, survey",
+"lvl": "B2",
+"pos": "noun",
+"ex": "Space exploration is very expensive."
+},
+{
+"w": "explosive",
+"fr": "explosif",
+"def": "Able or likely to blow up",
+"syn": "volatile, unstable, dangerous",
+"lvl": "B2",
+"pos": "adj",
+"ex": "The bag contained explosive material."
+},
+{
+"w": "fall apart",
+"fr": "s'effondrer, tomber en morceaux",
+"def": "To break into pieces or stop working",
+"syn": "collapse, break down, disintegrate",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "My old shoes are falling apart."
+},
+{
+"w": "fall out",
+"fr": "se brouiller",
+"def": "To argue with someone and stop being friends",
+"syn": "quarrel, argue, break up",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "She fell out with her sister over money."
+},
+{
+"w": "fall through",
+"fr": "échouer, tomber à l'eau",
+"def": "To fail to happen as planned",
+"syn": "fail, collapse, come to nothing",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "The deal fell through at the last minute."
+},
+{
+"w": "fanatic",
+"fr": "fanatique, passionné",
+"def": "A person extremely enthusiastic about something",
+"syn": "enthusiast, fan, zealot",
+"lvl": "B2",
+"pos": "noun",
+"ex": "He's a football fanatic."
+},
+{
+"w": "feedback",
+"fr": "retour, commentaires",
+"def": "Comments on how well someone has done something",
+"syn": "response, comments, reaction",
+"lvl": "B2",
+"pos": "noun",
+"ex": "The teacher gave us useful feedback."
+},
+{
+"w": "finance",
+"fr": "financer",
+"def": "To provide money for a project or activity",
+"syn": "fund, pay for, sponsor",
+"lvl": "B2",
+"pos": "verb",
+"ex": "The bank agreed to finance the project."
+},
+{
+"w": "fit in",
+"fr": "s'intégrer",
+"def": "To feel accepted as part of a group",
+"syn": "belong, blend in, integrate",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "It took him a while to fit in at school."
+},
+{
+"w": "fluid",
+"fr": "fluide, liquide",
+"def": "A liquid",
+"syn": "liquid, solution",
+"lvl": "B2",
+"pos": "noun",
+"ex": "Drink plenty of fluids when you have a fever."
+},
+{
+"w": "fraction",
+"fr": "fraction, partie infime",
+"def": "A very small part or amount",
+"syn": "portion, part, fragment",
+"lvl": "B2",
+"pos": "noun",
+"ex": "It costs a fraction of the original price."
+},
+{
+"w": "frame",
+"fr": "cadre, monture",
+"def": "A border that holds a picture, window or glasses",
+"syn": "border, surround, mount",
+"lvl": "B2",
+"pos": "noun",
+"ex": "She put the photo in a silver frame."
+},
+{
+"w": "friction",
+"fr": "friction, tensions",
+"def": "Disagreement or tension between people",
+"syn": "conflict, tension, discord",
+"lvl": "B2",
+"pos": "noun",
+"ex": "There is friction between the two departments."
+},
+{
+"w": "go through",
+"fr": "traverser, subir",
+"def": "To experience a difficult situation",
+"syn": "experience, endure, undergo",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "She went through a difficult divorce."
+},
+{
+"w": "graceful",
+"fr": "gracieux",
+"def": "Moving in a smooth and attractive way",
+"syn": "elegant, fluid, smooth",
+"lvl": "B2",
+"pos": "adj",
+"ex": "The swan is a graceful bird."
+},
+{
+"w": "gradually",
+"fr": "progressivement, peu à peu",
+"def": "Slowly over a period of time",
+"syn": "slowly, steadily, little by little",
+"lvl": "B2",
+"pos": "adv",
+"ex": "The weather gradually improved."
+},
+{
+"w": "ground",
+"fr": "motif, raison",
+"def": "A reason for saying or doing something",
+"syn": "reason, basis, justification",
+"lvl": "B2",
+"pos": "noun",
+"ex": "He was dismissed on the grounds of misconduct."
+},
+{
+"w": "hostility",
+"fr": "hostilité",
+"def": "Unfriendly or aggressive behaviour",
+"syn": "aggression, animosity, antagonism",
+"lvl": "B2",
+"pos": "noun",
+"ex": "The new boss faced hostility from the staff."
+},
+{
+"w": "dental",
+"fr": "dentaire",
+"def": "Relating to teeth",
+"syn": "oral",
+"lvl": "B2",
+"pos": "adj",
+"ex": "Regular dental check-ups are important."
+},
+{
+"w": "detection",
+"fr": "détection, dépistage",
+"def": "The act of noticing or discovering something",
+"syn": "discovery, identification, spotting",
+"lvl": "B2",
+"pos": "noun",
+"ex": "Early detection of cancer improves survival rates."
+},
+{
+"w": "disposable",
+"fr": "jetable",
+"def": "Made to be thrown away after use",
+"syn": "throwaway, single-use",
+"lvl": "B2",
+"pos": "adj",
+"ex": "Avoid buying disposable plastic cups."
+},
+{
+"w": "divine",
+"fr": "divin",
+"def": "Relating to God or a god",
+"syn": "holy, sacred, godly",
+"lvl": "B2",
+"pos": "adj",
+"ex": "They believed the king had divine power."
+},
+{
+"w": "earn a living",
+"fr": "gagner sa vie",
+"def": "To make enough money to live on",
+"syn": "make a living, support oneself",
+"lvl": "B2",
+"pos": "expression",
+"ex": "He earns a living as a musician."
+},
+{
+"w": "emotional",
+"fr": "ému, émotif",
+"def": "Showing strong feelings, often by crying",
+"syn": "moved, tearful, sentimental",
+"lvl": "B2",
+"pos": "adj",
+"ex": "She got very emotional at the wedding."
+},
+{
+"w": "foul",
+"fr": "faute",
+"def": "An action in sport that breaks the rules",
+"syn": "infringement, violation, offence",
+"lvl": "B2",
+"pos": "noun",
+"ex": "The referee gave a foul against the defender."
+},
+{
+"w": "for the time being",
+"fr": "pour le moment",
+"def": "For now, but not permanently",
+"syn": "for now, temporarily, at present",
+"lvl": "B2",
+"pos": "expression",
+"ex": "You can stay here for the time being."
+},
+{
+"w": "go ahead",
+"fr": "avoir lieu, se faire",
+"def": "To happen as planned, or to start doing something",
+"syn": "proceed, happen, continue",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "The concert will go ahead despite the rain."
+},
+{
+"w": "hang out",
+"fr": "traîner, passer du temps",
+"def": "To spend time somewhere relaxing with friends",
+"syn": "spend time, socialise, chill",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "We used to hang out at the park."
+},
+{
+"w": "have a go",
+"fr": "essayer",
+"def": "To try to do something",
+"syn": "try, attempt, have a try",
+"lvl": "B2",
+"pos": "idiom",
+"ex": "Let me have a go at fixing it."
+},
+{
+"w": "get on with",
+"fr": "continuer, s'entendre avec",
+"def": "To continue doing something, especially work",
+"syn": "continue, proceed with, carry on",
+"lvl": "B2",
+"pos": "phrasal verb",
+"ex": "Stop chatting and get on with your work."
+},
+{
+"w": "exhausted",
+"fr": "épuisé",
+"def": "Extremely tired",
+"syn": "worn out, drained, shattered",
+"lvl": "B2",
+"pos": "adj",
+"ex": "I was exhausted after the long journey."
+}
+]
